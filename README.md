@@ -63,3 +63,4 @@ Somos o Grupo 3 da disciplina de Interação Humano-Computador, ministrada pelo 
     Este comando inicia um servidor web local para que você possa visualizar a documentação em seu navegador. Normalmente, a URL será `http://127.0.0.1:8000/`.
 
 
+    
