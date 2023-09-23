@@ -1,5 +1,4 @@
-site_name: My Docs
-site_name: CNPQ
+site_name: Plataforma Lattes
 theme:
   name: material
   features:
@@ -16,13 +15,13 @@ theme:
   palette:
     - scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline 
+        icon: material/lightbulb
         name: Switch to dark mode
-      primary: 
-      accent: blue 
+      primary: teal
+      accent: green
     - scheme: slate 
       toggle:
-        icon: material/toggle-switch
+        icon: material/lightbulb-outline
         name: Switch to light mode    
-      primary: indigo
+      primary: teal
       accent: blue

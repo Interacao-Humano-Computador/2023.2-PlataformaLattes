@@ -15,7 +15,7 @@ Além disso, esta página serve como um arquivo para as atas de nossas reuniões
   <tr>
      <td align="center"><a href="https://github.com/caioalvesbraga"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86745462?v=4" width="100px;" alt=""/><br /><sub><b>Caio Braga</b></sub></a><br />
     <td align="center"><a href="https://github.com/caio-lelis"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/99217281?v=4" width="100px;" alt=""/><br /><sub><b>Caio Lelis</b></sub></a><br />
-    <td align="center"><a href="https://github.com/FilhoDoan"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/100856019?v=4" width="100px;" alt=""/><br /><sub><b>Doan Filho</b></sub></a><br />
+    <td align="center"><a href="https://github.com/FilhoDoan"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/100856019?v=4" width="100px;" alt=""/><br /><sub><b>Doan Filho</b></sub></a><br/>
     <td align="center"><a href="https://github.com/gabrie1barbosa"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/105024303?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Barbosa</b></sub></a><br />
     <td align="center"><a href="https://github.com/GuilhermeBES"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/124632450?v=4" width="100px;" alt=""/><br /><sub><b>Guilherme Basilio</b></sub></a><br />
     <td align="center"><a href="https://github.com/JoelSRangel"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/98978800?v=4" width="100px;" alt=""/><br /><sub><b>Joel Soares</b></sub></a><br />
