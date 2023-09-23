@@ -1,4 +1,4 @@
-# Projeto 2023.2-Grupo03 
+# Projeto 2023.2-PlataformaLattes 
 
 ## Sobre Nós 
 
