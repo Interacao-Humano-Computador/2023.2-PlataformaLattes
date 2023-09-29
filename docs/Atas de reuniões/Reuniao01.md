@@ -40,6 +40,8 @@ Discutimos sobre o projeto e suas tarefas definindo-as aos membros e por fim con
 
 ## **Acesso da reunião**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oS2LwJZJHrs?si=-Rdrglcc7eVKnEZf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 #### Histórico de Versões
 
