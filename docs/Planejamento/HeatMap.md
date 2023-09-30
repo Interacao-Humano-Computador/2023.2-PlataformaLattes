@@ -2,9 +2,9 @@
 ## Heatmap
 O HeatMap mostra detalhadamente a disponibilidade do time para se reunir, considerando a disponibilidade de todos.Sendo um mapa de calor que indica a disponibilidade preenchido por todos os participantes 
 
-## **Imagem do Heatmap**
+## **Imagem**
 
-
+<img src = "https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/%233-HeatMap/docs/Planejamento/img/Grade%20de%20IHC.png" >
 
 ## **Resultados da Análise de Disponibilidade**
 
