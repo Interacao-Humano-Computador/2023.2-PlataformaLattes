@@ -2,7 +2,7 @@
 
 O design pode ser visto como um processo que envolve três atividades básicas: análise da situação atual, síntese de uma intervenção e avaliação da nova situação. A análise da situação atual implica em estudar e interpretar o contexto existente, identificando desafios e oportunidades. A síntese de uma intervenção envolve o planejamento e a execução de ações destinadas a resolver ou melhorar a situação. A avaliação da nova situação é a etapa final, na qual o designer verifica os resultados da intervenção, comparando a situação anterior com a situação atual pós-intervenção.
 
-<img src="docs/img/processoDesign/figura1" alt="Figura 1: O que é design">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/tree/#8->processo_de_design/docs/img/processoDesign/figura1" alt="Figura 1: O que é design">
 
 
 ## Processos de design de IHC
