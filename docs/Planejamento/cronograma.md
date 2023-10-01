@@ -31,6 +31,35 @@ A Tabela 1 mostra todas as Entregas com suas respectivas datas previstas.
     <p> <b>Tabela 1</b>: Cronograma Geral (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
+### Entrega 1
+A tabela 2 mostra as tarefas do planejamento feito para a entrega 1 do projeto.
 
+| Tarefa       | Data Início |   Previsto   | Atribuição |Revisor|
+|--------------|:-----------:|:------------:|------------|-------|
+| HeatMap | 05/09 | 11/09             |  [Doan Filho](https://github.com/FilhoDoan), [Caio Braga](http://github.com/caioalvesbraga) | [Caio Lelis](http://github.com/caio-lelis)|
+| Sites Avaliados | 05/09 | 14/09 | [Joel Soares](https://github.com/JoelSRangel), [Gabriel Barbosa](https://github.com/gabrie1barbosa) | [Miguel de Frias](https://github.com/migueldefrias) |
+| Site selecionado | 05/09     | 17/09   | [Doan Filho](https://github.com/FilhoDoan) |  [Miguel de Frias](https://github.com/migueldefrias)|
+| Gitpage | 05/09 | 19/09 | [Caio Braga](http://github.com/caioalvesbraga), [Doan Filho](https://github.com/FilhoDoan) e [Caio Lelis](http://github.com/caio-lelis) | [Caio Braga](http://github.com/caioalvesbraga) |
+| Ferramentas | 05/09 | 16/09 | [Doan Filho](https://github.com/FilhoDoan), [Miguel de Frias](https://github.com/migueldefrias) | [Miguel de Frias](https://github.com/migueldefrias) |
+| Processos de Design | 05/09 |  16/09    | [Caio Braga](http://github.com/caioalvesbraga), [Caio Lelis](http://github.com/caio-lelis) | [Miguel de Frias](https://github.com/migueldefrias) |
+| Termos de Uso | 05/09 | 16/09 | [Guilherme Basilio](https://github.com/GuilhermeBES), [Joel Soares](https://github.com/JoelSRangel) | [Guilherme Basilio](https://github.com/GuilhermeBES) |
+| Cronograma Planejado | 05/09  |18/09 | [Miguel de Frias](https://github.com/migueldefrias), [Guilherme Basilio](https://github.com/GuilhermeBES) | [Doan Filho](https://github.com/FilhoDoan) |
+| Cronograma Realizado | 05/09  |18/09 | [Miguel de Frias](https://github.com/migueldefrias), [Guilherme Basilio](https://github.com/GuilhermeBES) | [Doan Filho](https://github.com/FilhoDoan) |
+| Gravação da Apresentação | 18/09  |19/09  | Todos |Todos|
+| Postagem da Apresentação | 19/09| 19/09 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias)|
+
+<div style="text-align: center">
+    <p> <b>Tabela 2</b>: Tarefas realizadas na Entrega 1. (Fonte: Miguel de Frias, 2023).</p>
+</div>
+
+
+
+
+### Histórico de Versões
+
+| Versão | Data       |       Descrição      | Autor | Revisor |
+|:------:|:----------:|----------------------|-------|---------|
+| 1.0 | 18/09/2023 | Adicionando tópicos e estrutura base| [Miguel de Frias](https://github.com/migueldefrias) | [Doan Filho](https://github.com/FilhoDoan) |
+| 1.1 | 18/09/2023 | Planejamento das Entregas |  [Miguel de Frias](https://github.com/migueldefrias) | [Doan Filho](https://github.com/FilhoDoan) |
 
 </div>
