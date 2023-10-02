@@ -61,8 +61,8 @@ E como cursamos a disciplina de Interação Humano-Computador e Requisitos de So
 ## **Caesb**
 
 <div align="center">
-    <img src="" />
-    <p> Figura 3: Imagem Plataforma Lattes . Fonte: <a href="https://www.lattes.cnpq.br/">Lattes CNPq</a></p> 
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/%2312-Sites-Avaliados/docs/Planejamento/img/caesb.png" width = 170px />
+    <p> Figura 3: Imagem Caesb . Fonte: <a href="https://www.caesb.df.gov.br/">Caesb</a></p> 
 </div>
 
 ### **Sobre o Site**
@@ -80,7 +80,7 @@ E como cursamos a disciplina de Interação Humano-Computador e Requisitos de So
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/%232-EscolhaAplica%C3%A7%C3%A3o/docs/Planejamento/img/lattes-logo.png" width = 300px/>
-    <p> Figura 3: Imagem Plataforma Lattes . Fonte: <a href="https://www.lattes.cnpq.br/">Lattes CNPq</a></p> 
+    <p> Figura 4: Imagem Plataforma Lattes . Fonte: <a href="https://www.lattes.cnpq.br/">Lattes CNPq</a></p> 
 </div>
 
 <p>
@@ -106,7 +106,7 @@ Foi adotada uma avaliação com base nas heurísticas de [Nielsen](https://www.n
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/%232-EscolhaAplica%C3%A7%C3%A3o/docs/Planejamento/img/pequeri.png" style="width:30vw;"/>
-    <p> Figura 1: Imagem do site da prefeitura de Pequeri . Fonte: <a href="https://www.pequeri.mg.gov.br/site/">Prefeitura Pequeri</a></p> 
+    <p> Figura 4: Imagem do site da prefeitura de Pequeri . Fonte: <a href="https://www.pequeri.mg.gov.br/site/">Prefeitura Pequeri</a></p> 
 </div>
 
 ### Sobre o Site
