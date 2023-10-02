@@ -28,7 +28,7 @@
 
 [7] Github, Disponível em : <https://github.com> ,  Acesso 28 de Setembro de 2023
 
-#### Histórico de Versões
+## **Histórico de Versões**
 
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |:------:|:----------:|----------------------|----------------|--------------- |
