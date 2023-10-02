@@ -121,9 +121,10 @@ Foi adotada uma avaliação com base nas heurísticas de [Nielsen](https://www.n
 - *Consistência e padronização*: O site apresenta elementos que se apresentam de forma confusa ao usuário, influênciando negativamente a experiência dele.
 
 
+## **Histórico de Versões**
 
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 01/10/2023 | Versão inicial       | Doan Filho e Joel Soares  |     |
-| 1.1    | 01/10/2023 | Sites avaliados      | Doan Filho e Caio Braga  |       |
+| 1.0    | 01/10/2023 | Versão inicial       | Doan Filho e Joel Soares  | Miguel de Frias |
+| 1.1    | 01/10/2023 | Sites avaliados      | Doan Filho e Caio Braga  | Miguel de Frias |
 
