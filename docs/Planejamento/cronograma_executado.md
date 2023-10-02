@@ -34,7 +34,7 @@ A tabela 1 mostra as atividades realizadas para a entrega 1 do projeto.
 
 ### Bibliografia
 
-[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 01 de outubro de 2023.
+[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf>>. Acesso em 01 de outubro de 2023.
 
 
 ### Histórico de versão
