@@ -153,6 +153,24 @@ A tabela 7 mostra as tarefas do planejamento feito para a entrega 6.1 do projeto
     <p> <b>Tabela 7</b>: Tarefas realizadas na Entrega 6.1. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
+### Entrega 7
+A tabela 8 mostra as tarefas do planejamento feito para a entrega 7 do projeto.
+
+| Tarefa       | Data Início |   Previsto   | Atribuição | Revisor |
+|--------------|:-----------:|:------------:|------------|---------|
+| Protótipo de papel | 16/11 | 21/11 |  |  |
+| Relato dos resultados do Protótipo de Papel | 16/11 | 21/11 |  |  |
+| Planejamento da avaliação do protótipo de alta fidelidade | 16/11 | 21/11 | |  |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 16/11 | 21/11 | |  |
+| Atualizar GitPage | 16/11 | 21/11 |  |  |
+| Gravação da Apresentação | 21/11  | 21/11 | Todos |Todos|
+| Postagem da Apresentação | 21/11 | 21/11 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias)|
+| Cronograma Executado | 16/11 | 21/11 | [Miguel de Frias](https://github.com/migueldefrias) |  |
+| Correções da Entrega 6.1 | 16/11 | 19/11 | Todos | Todos |
+
+<div style="text-align: center">
+    <p> <b>Tabela 8</b>: Tarefas realizadas na Entrega 7. (Fonte: Miguel de Frias, 2023).</p>
+</div>
 
 
 ### Bibliografia
