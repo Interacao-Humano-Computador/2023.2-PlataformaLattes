@@ -2,7 +2,7 @@
 
 # Cronograma de planejamento detalhado
 
-## Introdução
+### Introdução
 
 <p align="justify">
 
@@ -70,6 +70,46 @@ A tabela 3 mostra as tarefas do planejamento feito para a entrega 2 do projeto.
 <div style="text-align: center">
     <p> <b>Tabela 3</b>: Tarefas realizadas na Entrega 2. (Fonte: Miguel de Frias, 2023).</p>
 </div>
+
+### Entrega 3
+A tabela 4 mostra as tarefas do planejamento feito para a entrega 3 do projeto.
+
+| Tarefa       | Data Início |   Previsto   | Atribuição | Revisor |
+|--------------|:-----------:|:------------:|------------|---------|
+| Princípios gerais do projeto | 18/10 | 22/10 |  |  |
+| Metas de usabilidade | 18/10 | 22/10 |  |  |
+| Guia de estilo | 18/10 | 22/10 |  |  |
+| Determinar as características da plataforma para o projeto | 18/10 | 22/10 | |  |
+| Atualizar GitPage | 18/10 | 22/10 |  |  |
+| Gravação da Apresentação | 22/10  | 22/10 | Todos |Todos|
+| Postagem da Apresentação | 22/10 | 22/10 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias)|
+| Cronograma Executado | 18/10 | 22/10 | [Miguel de Frias](https://github.com/migueldefrias) |  |
+| Correções da Entrega 2 | 17/10 | 20/10 | Todos | Todos |
+
+<div style="text-align: center">
+    <p> <b>Tabela 4</b>: Tarefas realizadas na Entrega 3. (Fonte: Miguel de Frias, 2023).</p>
+</div>
+
+### Entrega 4
+A tabela 5 mostra as tarefas do planejamento feito para a entrega 4 do projeto.
+
+| Tarefa       | Data Início |   Previsto   | Atribuição | Revisor |
+|--------------|:-----------:|:------------:|------------|---------|
+| Planejamento da avaliação do Story Board | 25/10 | 30/10 |  |  |
+| Planejamento do relato dos resultados da avaliação do Storyboard | 25/10 | 30/10 |  |  |
+| Planejamento da Avaliação da Análise de tarefas | 25/10 | 30/10 | |  |
+| Planejamento do relato da avaliação da análise de tarefas | 25/10 | 30/10 | |  |
+| Atualizar GitPage | 25/10 | 30/10 |  |  |
+| Gravação da Apresentação | 30/10  | 30/10 | Todos |Todos|
+| Postagem da Apresentação | 30/10 | 30/10 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias)|
+| Cronograma Executado | 25/10 | 30/10 | [Miguel de Frias](https://github.com/migueldefrias) |  |
+| Correções da Entrega 3 | 25/10 | 28/10 | Todos | Todos |
+
+<div style="text-align: center">
+    <p> <b>Tabela 5</b>: Tarefas realizadas na Entrega 4. (Fonte: Miguel de Frias, 2023).</p>
+</div>
+
+
 
 
 ### Bibliografia
