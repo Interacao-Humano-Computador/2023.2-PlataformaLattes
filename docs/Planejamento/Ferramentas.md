@@ -1,18 +1,18 @@
 # **Ferramentas**
 
 ## **Introdução**
-Para o andamento do projeto foram escolhidas ferramentas que vão dar auxilio na produção dos artefatos e que usamos no dia a dia como engenheiros de software para documentar, gravar , codificar e etc.  
+&emsp;&emsp;Para o andamento do projeto foram escolhidas ferramentas que vão dar auxilio na produção dos artefatos e que usamos no dia a dia como engenheiros de software para documentar, gravar , codificar e etc.  
 
 ## **Ferramentas** 
 |Logo| Ferramenta | Objetivo|
 |:---:|:---:|---|
-|<img src = "https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/%234-Ferramentas-do-Projeto/docs/Planejamento/img/mkdocs.png" width = 170px>|Mkdocs|Ferramenta usada para a criação do documento|
-|<img src = "https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/%234-Ferramentas-do-Projeto/docs/Planejamento/img/teams-logo.png" width = 150px>|Microsoft Teamns|Aplicativo usado para fazer as reuniões e realizar as gravações|
-|<img src = "https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/%234-Ferramentas-do-Projeto/docs/Planejamento/img/vscode.png" width = 100px>|Visual Studio Code |Aplicativo/ IDE usado para a codificação da documentação|
-|<img src = "https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/%234-Ferramentas-do-Projeto/docs/Planejamento/img/telegram.png" width = 150px >|Telegram |Aplicativo para a comunicação entre os participantes|
-|<img src = "https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/%234-Ferramentas-do-Projeto/docs/Planejamento/img/thispersona.png" width = 150px>|This person does not exist | Ferramenta para gerar pessoas ficticias|
-|<img src = "https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/%234-Ferramentas-do-Projeto/docs/Planejamento/img/youtube.png" width = 150px>|YouTube|Aplicativo para postar os vídeos|
-|<img src = https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/%234-Ferramentas-do-Projeto/docs/Planejamento/img/github.png width = 150px>|GitHub|Ferramenta para fazer o versionamento dos códigos|
+|<img src = "https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/mkdocs.png" width = 170px>|Mkdocs|Ferramenta usada para a criação do documento|
+|<img src = "https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/teams-logo.png" width = 150px>|Microsoft Teamns|Aplicativo usado para fazer as reuniões e realizar as gravações|
+|<img src = "https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/vscode.png" width = 100px>|Visual Studio Code |Aplicativo/ IDE usado para a codificação da documentação|
+|<img src = "https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/telegram.png" width = 150px >|Telegram |Aplicativo para a comunicação entre os participantes|
+|<img src = "https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/thispersona.png" width = 150px>|This person does not exist | Ferramenta para gerar pessoas ficticias|
+|<img src = "https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/youtube.png" width = 150px>|YouTube|Aplicativo para postar os vídeos|
+|<img src = https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/github.png width = 150px>|GitHub|Ferramenta para fazer o versionamento dos códigos|
 
 ## **Bibliografia**
 
@@ -31,6 +31,6 @@ Para o andamento do projeto foram escolhidas ferramentas que vão dar auxilio na
 #### Histórico de Versões
 
 | Versão | Data       | Descrição            | Autor          | Revisor        |
-|--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 29/09/2023 | Versão inicial       | Doan Filho     |                |
+|:------:|:----------:|----------------------|----------------|--------------- |
+| 1.0    | 29/09/2023 | Versão inicial       | [Doan Filho](https://github.com/FilhoDoan) | [Miguel Matos](https://github.com/migueldefrias)  |
 
