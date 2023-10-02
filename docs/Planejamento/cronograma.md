@@ -44,7 +44,7 @@ A tabela 2 mostra as tarefas do planejamento feito para a entrega 1 do projeto.
 | Processos de Design | 26/09 |  30/09 | [Caio Braga](http://github.com/caioalvesbraga), [Caio Lelis](http://github.com/caio-lelis) | [Miguel de Frias](https://github.com/migueldefrias) |
 | Termos de Uso | 26/09 | 30/09 | [Guilherme Basilio](https://github.com/GuilhermeBES), [Joel Soares](https://github.com/JoelSRangel) | [Guilherme Basilio](https://github.com/GuilhermeBES) |
 | Cronograma Planejado | 28/09  | 01/10 | [Miguel de Frias](https://github.com/migueldefrias), [Guilherme Basilio](https://github.com/GuilhermeBES) | [Doan Filho](https://github.com/FilhoDoan) |
-| Cronograma Realizado | 28/09  | 01/10 | [Miguel de Frias](https://github.com/migueldefrias), [Guilherme Basilio](https://github.com/GuilhermeBES) | [Doan Filho](https://github.com/FilhoDoan) |
+| Cronograma Executado | 28/09  | 01/10 | [Miguel de Frias](https://github.com/migueldefrias), [Guilherme Basilio](https://github.com/GuilhermeBES) | [Doan Filho](https://github.com/FilhoDoan) |
 | Gravação da Apresentação | 01/10  | 01/10  | Todos |Todos|
 | Postagem da Apresentação | 01/10 | 01/10 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias)|
 
@@ -65,6 +65,7 @@ A tabela 3 mostra as tarefas do planejamento feito para a entrega 2 do projeto.
 | Atualizar GitPage | 03/10 | 14/10 |  |  |
 | Gravação da Apresentação | 15/10  | 15/10 | Todos |Todos|
 | Postagem da Apresentação | 15/10 | 15/10 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias)|
+| Cronograma Executado | 03/10 | 14/10 | [Miguel de Frias](https://github.com/migueldefrias) |  |
 | Correções da Entrega 1 | 03/10 | 08/10 | Todos | Todos |
 
 <div style="text-align: center">
@@ -170,6 +171,24 @@ A tabela 8 mostra as tarefas do planejamento feito para a entrega 7 do projeto.
 
 <div style="text-align: center">
     <p> <b>Tabela 8</b>: Tarefas realizadas na Entrega 7. (Fonte: Miguel de Frias, 2023).</p>
+</div>
+
+### Entrega 8
+A tabela 9 mostra as tarefas do planejamento feito para a entrega 8 do projeto.
+
+| Tarefa       | Data Início |   Previsto   | Atribuição | Revisor |
+|--------------|:-----------:|:------------:|------------|---------|
+| Planejamento de verificação dos artefatos da entrega 7 | 23/11 | 26/11 |  |  |
+| Relato da verificação da Etapa 7 e ajustes nos artefatos | 23/11 | 26/11 |  |  |
+| Relato dos resultados da avaliação do protótipo de alta fidelidade | 23/11 | 26/11 | |  |
+| Atualizar GitPage | 23/11 | 26/11 |  |  |
+| Gravação da Apresentação | 21/11  | 21/11 | Todos |Todos|
+| Postagem da Apresentação | 21/11 | 21/11 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias)|
+| Cronograma Executado | 23/11 | 26/11 | [Miguel de Frias](https://github.com/migueldefrias) |  |
+| Correções da Entrega 7 | 23/11 | 25/11 | Todos | Todos |
+
+<div style="text-align: center">
+    <p> <b>Tabela 9</b>: Tarefas realizadas na Entrega 8. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 
