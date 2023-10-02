@@ -1,6 +1,6 @@
-# Cronograma Realizado
+# **Cronograma Realizado**
 
-### Introdução
+## **Introdução**
 
 <p align="justify">
   
@@ -8,13 +8,13 @@
 
 </p>
 
-### Entrega 1
+## **Entrega 1**
 A tabela 1 mostra as atividades realizadas para a entrega 1 do projeto.
 
 | Tarefa       | Entrega |  Revisão  | Atribuição |Revisor|
 |--------------|:-------:|:---------:|-------|-----|
 | HeatMap| 30/09 | 01/10 | Doan Filho e Caio Braga | Caio Lelis |
-| Sites Avaliados |  |  | Joel Soares e Gabriel Barbosa  | Miguel Matos   |
+| Sites Avaliados | 30/09 | 01/10 | Joel Soares e Gabriel Barbosa  | Miguel Matos   |
 | Site selecionado| 30/09 | 01/10 | Doan Filho e Miguel Matos |Caio Braga |
 | Gitpage | 23/09 | 01/10 | Caio Braga , Doan Filho e Caio Lelis | Caio Braga |
 | Ferramentas | 29/09 | 01/10 | Doan Filho e Miguel Matos  | Miguel Matos   |
@@ -29,12 +29,12 @@ A tabela 1 mostra as atividades realizadas para a entrega 1 do projeto.
 </div>
 
 
-### Bibliografia
+## **Bibliografia**
 
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf>>. Acesso em 01 de outubro de 2023.
 
 
-### Histórico de versão
+## **Histórico de versão**
 
 | Versão | Data       |       Descrição      | Autor | Revisor |
 |:------:|:----------:|----------------------|-------|---------|
