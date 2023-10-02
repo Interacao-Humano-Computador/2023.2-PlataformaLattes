@@ -1,4 +1,4 @@
-# Processos de Design
+# **Processos de Design**
 
 O design pode ser visto como um processo que envolve três atividades básicas:
 
@@ -22,7 +22,7 @@ Essas atividades formam um ciclo contínuo no processo de design, permitindo ao 
 </div>
 
 
-## Processos de design de IHC
+## **Processos de design de IHC**
 
 <p style="text-align: justify;">
 Os processos de design em Interação Humano-Computador (IHC) têm como foco principal atender às necessidades dos usuários e estão fundamentados em princípios centrais, tais como:
@@ -35,9 +35,9 @@ Os processos de design em Interação Humano-Computador (IHC) têm como foco pri
 - **Design interativo:** Quando problemas são identificados durante os experimentos com os usuários, eles devem ser corrigidos. Isso implica que as atividades do processo de design devem ser iterativas, ou seja, o ciclo de projeto, avaliação com medidas e reprojeto deve ser repetido quantas vezes forem necessárias para aprimorar a interação do usuário com o sistema.
 
 
-# Algumas das propostas existentes:
+## **Algumas das propostas existentes:**
 
-### Ciclo de vida simples
+### **Ciclo de vida simples**
 <p style="text-align: justify;">
 Com toda sua simplicidade, essa opção de processo de design é mais recomendada para designers mais experientes, tendo em vista que   não apresenta um detalhamento de etapas rigoroso e depende de poucas iterações no decorrer de seu desenvolvimento, ou seja, ele pode ser muito útil para designers que tenham mais experiência e intuição para trabalhar de maneira flexível, no entanto, para designers menos experientes se trata de uma proposta de processo de design bem desafiadora.
 
@@ -46,7 +46,8 @@ Com toda sua simplicidade, essa opção de processo de design é mais recomendad
     <p> Figura 2 - Ciclo de vida simples (Fonte: BARBOSA, Simone; DINIZ, Bruno; 2010) </p> 
 </div>
 </p>
-### Ciclo de vida em estrelas
+
+### **Ciclo de vida em estrelas**
 <p style="text-align: justify;">
 O ciclo de vida estrela (representado na Figura 3) guarda semelhanças com o ciclo de vida simples, mas se distingue por apresentar um nível maior de detalhamento e mais verificações entre as etapas. Enquanto o ciclo de vida simples é mais direto e requer poucas iterações, o ciclo de vida estrela se caracteriza por uma abordagem mais minuciosa, envolvendo maior monitoramento e análise ao longo do processo de design.
 </p>
@@ -55,7 +56,8 @@ O ciclo de vida estrela (representado na Figura 3) guarda semelhanças com o cic
     <p> Figura 3 - Ciclo de vida em estrelas (Fonte: BARBOSA, Simone; DINIZ, Bruno; 2010) </p> 
 </div>
 
-### Engenharia de usabilidade de Nielsen
+
+### **Engenharia de usabilidade de Nielsen**
 <p style="text-align: justify;">
 O ciclo de vida de Nilsen, proposto por Nielsen, descreve uma série de atividades essenciais que devem ocorrer ao longo do ciclo de vida de um produto. Estas atividades incluem:
 </p>
@@ -83,19 +85,20 @@ O ciclo de vida de Nilsen, proposto por Nielsen, descreve uma série de atividad
 <p style="text-align: justify;">
 Essas atividades visam garantir que o produto seja desenvolvido com foco nas necessidades dos usuários e que a usabilidade seja uma preocupação constante durante todo o processo de desenvolvimento.
 </p>
-### Engenharia de usabilidade de Mayhew
+
+### **Engenharia de usabilidade de Mayhew**
 
 O ciclo de vida proposto por Mayhew é um processo completo que abrange desde a análise inicial das necessidades dos usuários até a implementação do sistema e a coleta de feedback pós-uso. Ele é constituído por 3 fases essenciais:
 
-#### Análise de Requisitos
+#### **Análise de Requisitos**
 
 Nesta fase, são estabelecidas metas de usabilidade com base no perfil dos usuários, nas tarefas a serem realizadas, na plataforma tecnológica e nos princípios gerais de design. A análise cuidadosa desses requisitos orienta todo o processo de design.
 
-#### Design, Avaliação e Desenvolvimento
+#### **Design, Avaliação e Desenvolvimento**
 
 Durante esta etapa, ocorre a concepção da solução que atende aos requisitos identificados na análise. É crucial que a interface seja avaliada com os usuários durante o desenvolvimento para identificar e corrigir problemas de usabilidade, garantindo que a solução seja eficaz e amigável ao usuário.
 
-#### Instalação e Coleta de Feedback pós-uso
+#### **Instalação e Coleta de Feedback pós-uso**
 
 Após a implementação do sistema, é importante coletar as opiniões dos usuários após um período de uso real. Essas opiniões são valiosas para o correto entendimento das necessidades da interface e da interação.
 
@@ -104,19 +107,21 @@ Após a implementação do sistema, é importante coletar as opiniões dos usuá
     <p> Figura 4: Engenharia de usabilidade de Mayhew (Fonte: BARBOSA, Simone; DINIZ, Bruno; 2010) </p> 
 </div>
 
-## Processo de design escolhido pela equipe
+## **Processo de design escolhido pela equipe**
 <p style="text-align: justify;">
 Após analisar minuciosamente os modelos mencionados anteriormente, o grupo deliberou sobre suas vantagens e desvantagens a fim de chegar a um consenso quanto à seleção do processo mais adequado para o projeto. A conclusão a que chegamos foi que o Ciclo de Vida de Mayhew se destacou como a escolha mais acertada por diversas razões. Notavelmente, suas etapas são detalhadas e claramente definidas, minimizando a subjetividade presente em modelos de processo de design mais simples. Dado que o grupo possui pouca experiência na área de *Interação Humano-Computador (IHC)*, optar por um modelo mais robusto e minucioso pareceu mais apropriado para nossa situação, servindo-nos como um guia sólido.
 </p>
 
-### Bibliografia
+## **Bibliografia**
 
 > [1] Processos de Design de IHC Capítulo 4 – parte 1. Disponível em: http://thiagov.github.io/resources/ihc/aula4.pdf
 
 > [1] Slide de aula do professor João Queiroz. Disponível em: https://docente.ifrn.edu.br/joaoqueiroz/disciplinas/ihc-interacao-humano-computador/aulas/aula-5
 
 
+## **Histórico de Versões**
+
 | Versão | Data       | Descrição            | Autor | Revisor |
-|--------|------------|----------------------|-----------------------------------|--------------------------------------|
-| 1.0    | 29/09/2023 | Construção processo de design | [Caio Lelis](https://github.com/caio-lelis) | [Caio Braga](https://github.com/caioalvesbraga) |
-|1.1| 02/09/2023| Adição de processo de design escolhido | [Caio Lelis](https://github.com/caio-lelis)|[Caio Braga](https://github.com/caioalvesbraga) |
+|:------:|:----------:|----------------------|-------|---------|
+| 1.0 | 29/09/2023 | Construção processo de design | [Caio Lelis](https://github.com/caio-lelis) | [Caio Braga](https://github.com/caioalvesbraga) |
+| 1.1 | 02/09/2023| Adição de processo de design escolhido | [Caio Lelis](https://github.com/caio-lelis)|[Caio Braga](https://github.com/caioalvesbraga) |
