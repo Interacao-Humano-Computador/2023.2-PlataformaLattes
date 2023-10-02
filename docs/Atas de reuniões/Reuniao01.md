@@ -28,11 +28,11 @@ Reunião feita para escolher o site que iremos trabalhar ao longo da disciplina 
 |--------|------------|---------|---------------|
 | Criação do mkdocs | Doan Filho/ Caio Braga / Caio Lelis | Miguel Matos  |  22/09 - 23/09             |
 | Heatmap |  Doan / Caio Braga  | Caio Lelis | 22/09 - 26/09 |
-| Lista dos sites escolhidos |  Joel Soares / Gabriel Barbosa  |  Caio Braga  | 26/09 |
+| Lista dos sites escolhidos |  Joel Soares / Gabriel Barbosa  |  Caio Braga  | 26/09 - 02/10 |
 | Site escolhido | Doan Filho / Gabriel Barbosa |  Caio Lelis  | 22/09 - 26/09 |
-| Ferramentas de uso  | Doan Filho / Miguel Matos | Gabriel Barbosa  | 22/09 |
-| Cronograma de atividades |  Miguel Matos / Guilherme Basilio    | Doan Filho | 22/09 |  |  Todos    |  ---  | 22/09 |
-| Processo de Design | Doan Filho / Caio Braga / Caio Lelis| Joel Soares  |22/09 -  |
+| Ferramentas de uso  | Doan Filho / Miguel Matos | Gabriel Barbosa  | 22/09 - 02/10 |
+| Cronograma de atividades |  Miguel Matos / Guilherme Basilio    | Doan Filho | 22/09 - 02/10 |  |  Todos    |  ---  | 22/09 | 
+| Processo de Design | Doan Filho / Caio Braga / Caio Lelis| Joel Soares  |22/09 - 02/10 |
 
 ### **Conclusão da Reunião**
 
@@ -47,7 +47,7 @@ Discutimos sobre o projeto e suas tarefas definindo-as aos membros e por fim con
 
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 23/09/2023 | Versão inicial       | Doan Filho | |
+| 1.0    | 23/09/2023 | Versão inicial       | Doan Filho | Joel Soares |
 
 
 ---

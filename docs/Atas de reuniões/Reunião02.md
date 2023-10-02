@@ -32,7 +32,7 @@ Reunião para acompanhar o progresso do grupo em relação ao projeto
 
 ### **Conclusão da Reunião**
 
-Reunião para ver de perto como anda o processo do projeto
+Reunião para ver de perto como anda o processo do projeto. Foram discutidos detalhes das atividades e observado o estado de cada integrante em relação a entrega, concluindo que o andamento da equipe estava satisfatório.
 
 
 ## **Acesso da reunião**
@@ -42,5 +42,5 @@ Reunião para ver de perto como anda o processo do projeto
 
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 28/09/2023 | Versão inicial       | Doan Filho     |                |
+| 1.0    | 28/09/2023 | Versão inicial       | Doan Filho     |   Joel Soares    |
 
