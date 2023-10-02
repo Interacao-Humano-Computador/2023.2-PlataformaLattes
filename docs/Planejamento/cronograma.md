@@ -191,6 +191,44 @@ A tabela 9 mostra as tarefas do planejamento feito para a entrega 8 do projeto.
     <p> <b>Tabela 9</b>: Tarefas realizadas na Entrega 8. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
+### Entrega 6.2
+A tabela 10 mostra as tarefas do planejamento feito para a entrega 6.2 do projeto.
+
+| Tarefa       | Data Início |   Previsto   | Atribuição | Revisor |
+|--------------|:-----------:|:------------:|------------|---------|
+| Verificação e Relato artefatos etapa 1 | 28/11 | 29/11 |  |  |
+| Verificação e Relato artefatos etapa 2 | 28/11 | 29/11 |  |  |
+| Verificação e Relato artefatos etapa 3 | 28/11 | 29/11 | |  |
+| Verificação e Relato artefatos etapa 4 | 28/11 | 29/11 |  |  |
+| Verificação e Relato artefatos etapa 5 | 28/11 | 29/11 |  |  |
+| Verificação e Relato artefatos etapa 7 | 28/11 | 29/11 | |  |
+| Atualizar GitPage | 28/11 | 29/11 |  |  |
+| Gravação da Apresentação | 29/11  | 29/11 | Todos |Todos|
+| Postagem da Apresentação | 29/11 | 29/11 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias)|
+| Cronograma Executado | 28/11 | 29/11 | [Miguel de Frias](https://github.com/migueldefrias) |  |
+| Correções da Entrega 8 | 28/11 | 29/11 | Todos | Todos |
+
+<div style="text-align: center">
+    <p> <b>Tabela 10</b>: Tarefas realizadas na Entrega 6.2. (Fonte: Miguel de Frias, 2023).</p>
+</div>
+
+### Entrega 9/Final
+A tabela 11 mostra as tarefas do planejamento feito para a entrega 9 do projeto.
+
+| Tarefa       | Data Início |   Previsto   | Atribuição | Revisor |
+|--------------|:-----------:|:------------:|------------|---------|
+| Planejamento de verificação dos artefatos da Etapa 8 | 30/11 | 05/12 |  |  |
+| Relato da verificação da Etapa 8 e ajustes nos artefatos | 30/11 | 05/12 |  |  |
+| Atualizar GitPage | 30/11 | 05/12 |  |  |
+| Gravação da Apresentação | 05/12  | 05/12 | Todos |Todos|
+| Postagem da Apresentação | 05/12 | 05/12 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias)|
+| Cronograma Executado | 30/11 | 05/12 | [Miguel de Frias](https://github.com/migueldefrias) |  |
+| Correções da Entrega 6.2 | 30/11 | 03/12 | Todos | Todos |
+
+<div style="text-align: center">
+    <p> <b>Tabela 11</b>: Tarefas realizadas na Entrega 9/Final. (Fonte: Miguel de Frias, 2023).</p>
+</div>
+
 
 ### Bibliografia
 
