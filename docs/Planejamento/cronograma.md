@@ -1,8 +1,8 @@
 
 
-# Cronograma de planejamento detalhado
+# **Cronograma de planejamento detalhado**
 
-### Introdução
+## **Introdução**
 
 <p align="justify">
 
@@ -10,7 +10,7 @@
 
 </p>
 
-## Cronograma Geral
+## **Cronograma Geral**
 
 A Tabela 1 mostra todas as Entregas com suas respectivas datas previstas.
 
@@ -38,7 +38,7 @@ A Tabela 1 mostra todas as Entregas com suas respectivas datas previstas.
     <p> <b>Tabela 1</b>: Cronograma Geral (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
-### Entrega 1
+## **Entrega 1**
 A tabela 2 mostra as tarefas do planejamento feito para a entrega 1 do projeto.
 
 | Tarefa       | Data Início |   Previsto   | Atribuição |Revisor|
@@ -59,7 +59,7 @@ A tabela 2 mostra as tarefas do planejamento feito para a entrega 1 do projeto.
     <p> <b>Tabela 2</b>: Tarefas realizadas na Entrega 1. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
-### Entrega 2
+## **Entrega 2**
 A tabela 3 mostra as tarefas do planejamento feito para a entrega 2 do projeto.
 
 | Tarefa       | Data Início |   Previsto   | Atribuição | Revisor |
@@ -80,7 +80,7 @@ A tabela 3 mostra as tarefas do planejamento feito para a entrega 2 do projeto.
     <p> <b>Tabela 3</b>: Tarefas realizadas na Entrega 2. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
-### Entrega 3
+## **Entrega 3**
 A tabela 4 mostra as tarefas do planejamento feito para a entrega 3 do projeto.
 
 | Tarefa       | Data Início |   Previsto   | Atribuição | Revisor |
@@ -99,7 +99,7 @@ A tabela 4 mostra as tarefas do planejamento feito para a entrega 3 do projeto.
     <p> <b>Tabela 4</b>: Tarefas realizadas na Entrega 3. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
-### Entrega 4
+## **Entrega 4**
 A tabela 5 mostra as tarefas do planejamento feito para a entrega 4 do projeto.
 
 | Tarefa       | Data Início |   Previsto   | Atribuição | Revisor |
@@ -118,7 +118,7 @@ A tabela 5 mostra as tarefas do planejamento feito para a entrega 4 do projeto.
     <p> <b>Tabela 5</b>: Tarefas realizadas na Entrega 4. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
-### Entrega 5
+## **Entrega 5**
 A tabela 6 mostra as tarefas do planejamento feito para a entrega 5 do projeto.
 
 | Tarefa       | Data Início |   Previsto   | Atribuição | Revisor |
@@ -137,7 +137,7 @@ A tabela 6 mostra as tarefas do planejamento feito para a entrega 5 do projeto.
     <p> <b>Tabela 6</b>: Tarefas realizadas na Entrega 5. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
-### Entrega 6.1
+## **Entrega 6.1**
 A tabela 7 mostra as tarefas do planejamento feito para a entrega 6.1 do projeto.
 
 | Tarefa       | Data Início |   Previsto   | Atribuição | Revisor |
@@ -162,7 +162,7 @@ A tabela 7 mostra as tarefas do planejamento feito para a entrega 6.1 do projeto
     <p> <b>Tabela 7</b>: Tarefas realizadas na Entrega 6.1. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
-### Entrega 7
+## **Entrega 7**
 A tabela 8 mostra as tarefas do planejamento feito para a entrega 7 do projeto.
 
 | Tarefa       | Data Início |   Previsto   | Atribuição | Revisor |
@@ -181,7 +181,7 @@ A tabela 8 mostra as tarefas do planejamento feito para a entrega 7 do projeto.
     <p> <b>Tabela 8</b>: Tarefas realizadas na Entrega 7. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
-### Entrega 8
+## **Entrega 8**
 A tabela 9 mostra as tarefas do planejamento feito para a entrega 8 do projeto.
 
 | Tarefa       | Data Início |   Previsto   | Atribuição | Revisor |
@@ -199,7 +199,7 @@ A tabela 9 mostra as tarefas do planejamento feito para a entrega 8 do projeto.
     <p> <b>Tabela 9</b>: Tarefas realizadas na Entrega 8. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
-### Entrega 6.2
+## **Entrega 6.2**
 A tabela 10 mostra as tarefas do planejamento feito para a entrega 6.2 do projeto.
 
 | Tarefa       | Data Início |   Previsto   | Atribuição | Revisor |
@@ -220,7 +220,7 @@ A tabela 10 mostra as tarefas do planejamento feito para a entrega 6.2 do projet
     <p> <b>Tabela 10</b>: Tarefas realizadas na Entrega 6.2. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
-### Entrega 9/Final
+## **Entrega 9/Final**
 A tabela 11 mostra as tarefas do planejamento feito para a entrega 9 do projeto.
 
 | Tarefa       | Data Início |   Previsto   | Atribuição | Revisor |
@@ -238,12 +238,12 @@ A tabela 11 mostra as tarefas do planejamento feito para a entrega 9 do projeto.
 </div>
 
 
-### Bibliografia
+## **Bibliografia**
 
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 28 de setembro de 2023.
 
 
-### Histórico de Versões
+## **Histórico de Versões**
 
 | Versão | Data       |       Descrição      | Autor | Revisor |
 |:------:|:----------:|----------------------|-------|---------|
