@@ -34,7 +34,7 @@ A tabela 1 mostra as atividades realizadas para a entrega 1 do projeto.
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf>>. Acesso em 01 de outubro de 2023.
 
 
-## **Histórico de versão**
+## **Histórico de Versões**
 
 | Versão | Data       |       Descrição      | Autor | Revisor |
 |:------:|:----------:|----------------------|-------|---------|
