@@ -109,7 +109,24 @@ A tabela 5 mostra as tarefas do planejamento feito para a entrega 4 do projeto.
     <p> <b>Tabela 5</b>: Tarefas realizadas na Entrega 4. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
+### Entrega 5
+A tabela 6 mostra as tarefas do planejamento feito para a entrega 5 do projeto.
 
+| Tarefa       | Data Início |   Previsto   | Atribuição | Revisor |
+|--------------|:-----------:|:------------:|------------|---------|
+| Relato dos resultados do Storyboard | 01/11 | 07/11 |  |  |
+| Relato dos resultados da Análise de tarefas | 01/11 | 07/11 |  |  |
+| Planejamento da avaliação do protótipo de papel | 01/11 | 07/11 | |  |
+| Planejamento do relato de resultados da avaliação do protótipo de papel | 01/11 | 07/11 | |  |
+| Atualizar GitPage | 01/11 | 07/11 |  |  |
+| Gravação da Apresentação | 07/11  | 07/11 | Todos |Todos|
+| Postagem da Apresentação | 07/11 | 07/11 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias)|
+| Cronograma Executado | 01/11 | 07/11 | [Miguel de Frias](https://github.com/migueldefrias) |  |
+| Correções da Entrega 4 | 01/11 | 07/11 | Todos | Todos |
+
+<div style="text-align: center">
+    <p> <b>Tabela 6</b>: Tarefas realizadas na Entrega 5. (Fonte: Miguel de Frias, 2023).</p>
+</div>
 
 
 ### Bibliografia
