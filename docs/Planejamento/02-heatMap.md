@@ -1,5 +1,5 @@
 
-# HeatMap
+# **HeatMap**
 O HeatMap mostra detalhadamente a disponibilidade do time para se reunir, considerando a disponibilidade de todos. Sendo um indicativo da disponibilidade da equipe para os eventos em grupo preenchido por todos os participantes. 
 <br><br>
 
@@ -10,7 +10,7 @@ O HeatMap mostra detalhadamente a disponibilidade do time para se reunir, consid
 
 <br>
 
-#### **Resultados da Análise de Disponibilidade**
+## **Resultados da Análise de Disponibilidade**
 
 - **Terça-feira**: 21:00 - 22:00
 - **Quinta-feira**: 21:00 - 22:00
@@ -27,8 +27,8 @@ Teremos reuniões para revisão e planejamento, sendo elas:
 
 
 
-### **Histórico de Versões**
+## **Histórico de Versões**
 
 | Versão | Data       | Descrição            | Autor | Revisor |
-|--------|------------|----------------------|-----------------------------------|--------------------------------------|
-| 1.0    | 30/09/2023 | versão inicial| Doan Filho | Caio Braga |
+|:--------:|:------------:|:----------------------:|:-----------------------------------:|--------------------------------------|
+| 1.0    | 30/09/2023 | Versão inicial| Doan Filho | Caio Braga |
