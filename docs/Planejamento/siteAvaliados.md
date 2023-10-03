@@ -14,7 +14,7 @@ Para trazer um site com as restrições aplicadas da disciplina de Interação H
 ## **Alistamento Militar**
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/%2312-Sites-Avaliados/docs/Planejamento/img/alistamento.jpg" width = 170/>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/alistamento.jpg" width = 170/>
     <p> Figura 2: Imagem Alistamento Militar . Fonte: 
         <a href="https://www.alistamento.eb.mil.br/">Alistamento Militar Online</a>
     </p> 
@@ -37,7 +37,7 @@ O site do [Alistamento Militar Online](https://alistamento.eb.mil.br/) é uma pl
 ## **BRB-Mobilidade**
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/%2312-Sites-Avaliados/docs/Planejamento/img/BRB-mobilidade.png" width = 200px/>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/BRB-mobilidade.png" width = 200px/>
     <p> Figura 3 BRB-Mobilidade. Fonte: <a href="https://brbnovo.brb.com.br/mobilidade/">BRB-Mobilidade</a></p> 
 </div>
 
@@ -61,7 +61,7 @@ E como cursamos a disciplina de Interação Humano-Computador e Requisitos de So
 ## **Caesb**
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/%2312-Sites-Avaliados/docs/Planejamento/img/caesb.png" width = 170px />
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/caesb.png" width = 170px />
     <p> Figura 3: Imagem Caesb . Fonte: <a href="https://www.caesb.df.gov.br/">Caesb</a></p> 
 </div>
 
@@ -79,7 +79,7 @@ E como cursamos a disciplina de Interação Humano-Computador e Requisitos de So
 ## **Plataforma Lattes**
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/%232-EscolhaAplica%C3%A7%C3%A3o/docs/Planejamento/img/lattes-logo.png" width = 300px/>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/lattes-logo.png" width = 300px/>
     <p> Figura 4: Imagem Plataforma Lattes . Fonte: <a href="https://www.lattes.cnpq.br/">Lattes CNPq</a></p> 
 </div>
 
@@ -105,7 +105,7 @@ Foi adotada uma avaliação com base nas heurísticas de [Nielsen](https://www.n
 ## **Prefeitura de Pequeri**
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/%232-EscolhaAplica%C3%A7%C3%A3o/docs/Planejamento/img/pequeri.png" style="width:30vw;"/>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/pequeri.png" style="width:30vw;"/>
     <p> Figura 4: Imagem do site da prefeitura de Pequeri . Fonte: <a href="https://www.pequeri.mg.gov.br/site/">Prefeitura Pequeri</a></p> 
 </div>
 
