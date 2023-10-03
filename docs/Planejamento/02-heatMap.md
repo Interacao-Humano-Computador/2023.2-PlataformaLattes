@@ -4,7 +4,7 @@ O HeatMap mostra detalhadamente a disponibilidade do time para se reunir, consid
 <br><br>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/%233-HeatMap/docs/Planejamento/img/Grade%20de%20IHC.png" style="width:60vw"/>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/heatMap.png" style="width:60vw"/>
     <p> Figura 1 - Heatmap do Grupo 3. Fonte: Autores </p> 
 </div>
 
