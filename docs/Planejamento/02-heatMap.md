@@ -1,16 +1,16 @@
 
-# HeatMap
+# **HeatMap**
 O HeatMap mostra detalhadamente a disponibilidade do time para se reunir, considerando a disponibilidade de todos. Sendo um indicativo da disponibilidade da equipe para os eventos em grupo preenchido por todos os participantes. 
 <br><br>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/%233-HeatMap/docs/Planejamento/img/Grade%20de%20IHC.png" style="width:60vw"/>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/heatMap.png" style="width:60vw"/>
     <p> Figura 1 - Heatmap do Grupo 3. Fonte: Autores </p> 
 </div>
 
 <br>
 
-#### **Resultados da Análise de Disponibilidade**
+## **Resultados da Análise de Disponibilidade**
 
 - **Terça-feira**: 21:00 - 22:00
 - **Quinta-feira**: 21:00 - 22:00
@@ -27,8 +27,8 @@ Teremos reuniões para revisão e planejamento, sendo elas:
 
 
 
-### **Histórico de Versões**
+## **Histórico de Versões**
 
 | Versão | Data       | Descrição            | Autor | Revisor |
-|--------|------------|----------------------|-----------------------------------|--------------------------------------|
-| 1.0    | 30/09/2023 | versão inicial| Doan Filho | Caio Braga |
+|:--------:|:------------:|:----------------------:|:-----------------------------------:|--------------------------------------|
+| 1.0    | 30/09/2023 | Versão inicial| Doan Filho | Caio Braga |
