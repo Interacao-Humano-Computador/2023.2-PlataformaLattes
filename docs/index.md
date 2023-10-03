@@ -1,14 +1,7 @@
-# Página inicial
-## Sobre Nós
+# **Página inicial**
+## **Sobre Nós**
 
 Somos o Grupo 3 da disciplina de Interação-Humano-Computador, ministrada pelo Professor André Barros. Este espaço serve como um repositório central para todos os artefatos desenvolvidos por nossa equipe ao longo da matéria. Aqui, você encontrará uma variedade de recursos, desde documentação técnica até atas de nossas reuniões de desenvolvimento.
-
-## Objetivo da Página
-
-O principal objetivo desta página é fornecer uma documentação abrangente e organizada de todos os artefatos que estamos desenvolvendo. Isso inclui, mas não se limita a, especificações de requisitos, diagramas, planos de teste e relatórios de progresso.
-
-Além disso, esta página serve como um arquivo para as atas de nossas reuniões de desenvolvimento. Essas atas fornecem um registro detalhado dos progressos realizados em nossas reuniões, decisões tomadas e ações futuras planejadas.
-
 
 ### **Equipe**
 <table>
@@ -22,8 +15,15 @@ Além disso, esta página serve como um arquivo para as atas de nossas reuniões
     <td align="center"><a href="https://github.com/migueldefrias"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89036493?v=4" width="100px;" alt=""/><br /><sub><b>Miguel Matos</b></sub></a><br />
 </table>
 
+## **Objetivo da Página**
 
-#### Histórico de Versões
+O principal objetivo desta página é fornecer uma documentação abrangente e organizada de todos os artefatos que estamos desenvolvendo. Isso inclui, mas não se limita a, especificações de requisitos, diagramas, planos de teste e relatórios de progresso.
+
+Além disso, esta página serve como um arquivo para as atas de nossas reuniões de desenvolvimento. Essas atas fornecem um registro detalhado dos progressos realizados em nossas reuniões, decisões tomadas e ações futuras planejadas.
+
+
+
+## **Histórico de Versões**
 
 | Versão | Data       | Descrição            | Autor          | Revisor          |
 |--------|------------|----------------------|----------------|----------------|

@@ -38,7 +38,7 @@ Reunião para ver de perto como anda o processo do projeto. Foram discutidos det
 ## **Acesso da reunião**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jqy9R8mqXY0?si=a9EXVRPrIt6XNEc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-#### Histórico de Versões
+## **Histórico de Versões**
 
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |--------|------------|----------------------|----------------|--------------- |
