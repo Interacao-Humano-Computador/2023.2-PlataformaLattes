@@ -1,5 +1,5 @@
 
-## Heatmap
+# HeatMap
 O HeatMap mostra detalhadamente a disponibilidade do time para se reunir, considerando a disponibilidade de todos. Sendo um indicativo da disponibilidade da equipe para os eventos em grupo preenchido por todos os participantes. 
 <br><br>
 
