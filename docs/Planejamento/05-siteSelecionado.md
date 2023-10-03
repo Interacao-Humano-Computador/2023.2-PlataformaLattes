@@ -4,6 +4,14 @@
 ## **Introdução**
 Após alguns debates ao longo do inicio do projeto, tivemos uma escolha em consenso com o grupo fazendo uma análise de alguns pontos a serem destacados.  
 
+## **CNPq - Plataforma Lattes**
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/lattes-logo.png" width = 300px/>
+    <p> Figura 1: Imagem Plataforma Lattes . Fonte: <a href="https://www.lattes.cnpq.br/">Lattes CNPq</a></p> 
+</div>
+
+
 ## **Critérios para a selecão**
 
 - Sites não repetidos na disciplina Interação Humano-Computador 
@@ -32,6 +40,8 @@ Inicialmente, debatemos sobre a escolha e a principal opção era o site da **Ca
 | Versão | Data       | Descrição            | Autor          | Revisor          |
 |--------|------------|----------------------|----------------|------------------|
 | 1.0    | 30/09/2023 | Versão inicial       | Doan Filho     |    Caio Braga           |
+| 1.0    | 02/10/2023 | Ajustes e organização      | Joel Sares     |    Gabriel      |
+
 
 
 
