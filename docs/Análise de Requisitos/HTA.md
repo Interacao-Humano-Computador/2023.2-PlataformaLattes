@@ -22,10 +22,9 @@ Esta análise pode ser implementada em formato de tabela, ou por um diagrama con
 
 
 <div align="center">
-    <img src="https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/blob/main/docs/An%C3%A1lise%20de%20requisitos/assets/elementos_hta.png"/>
-    <p> Figura 1: Elementos de um HTA (Fonte: BARBOSA, Simone; DINIZ, Bruno; 2010) </p> 
+    <img src="https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/blob/%2300-analise-tarefas/docs/An%C3%A1lise%20de%20requisitos/assets/buscar_curriculo.jpg" style="width:20vw"/>
+    <p> Figura 1 - Resultado do Questionário - Faixa etária. Fonte: Autores </p> 
 </div>
-
 
 ## Análise de Tarefas
 
