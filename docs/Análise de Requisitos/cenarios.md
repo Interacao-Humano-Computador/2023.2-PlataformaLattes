@@ -8,15 +8,13 @@ Cenários em Interação Humano-Computador (IHC) são histórias que descrevem s
 
 ## **Metodologia**
 
-Para criar os cenários do projeto, foi usado como base o [perfil de usuário](https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/blob/main/docs/An%C3%A1lise%20de%20Requisitos/08-perfil-de-usuario.md) e as [personas](https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/blob/main/docs/Planejamento/09-personas.md) elaboradas previamente. Ao descrever os cenários, foi utilizado o modelo de texto estruturado, que possui elementos do tipo título, objetivo(s), contexto(s), recurso(s), ator(es) e episódio(s) (pode conter restrições ou exceções).
+Para criar os cenários do projeto, foi usado como base o [perfil de usuário](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise%20de%20Requisitos/08-perfil-de-usuario/) e as [personas](https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/blob/main/docs/Planejamento/09-personas.md) elaboradas previamente. Ao descrever os cenários, foi utilizado o modelo de texto estruturado, que possui elementos do tipo título, objetivo(s), contexto(s), recurso(s), ator(es) e episódio(s) (pode conter restrições ou exceções).
 
 
 ## **Cenários**
 
 
-### Atualizar currículo
-
-<div style="text-align: center">
+### **Atualizar currículo**
 
 |    Elemento  |  Descrição   |
 | :----------: | :----------: |
@@ -28,12 +26,11 @@ Para criar os cenários do projeto, foi usado como base o [perfil de usuário](h
 | Episódio  | 1. O usuário acessa o site <br> 2. Navega no menu de acesso direto <br> 3. Clica em atualizar currículo <br> 4. Preenche os campos |
 
 <p> Tabela 1: Cenário 1 (Fonte: BARBOSA, Gabriel. 2023).</p>
-</div>
 
 
-###  Buscar por Pesquisadores 
 
-<div style="text-align: center">
+###  **Buscar por Pesquisadores** 
+style="text-align: center">
 
 |    Elemento  |  Descrição   |
 | :----------: | :----------: |
@@ -47,12 +44,11 @@ Para criar os cenários do projeto, foi usado como base o [perfil de usuário](h
 | Exceção    |  Ajustar os filtros e preferências para encontrar o currículo do pesquisador ideal |
 
 <p> Tabela 2: Cenário 2 (Fonte: BARBOSA, Gabriel. 2023).</p>
-</div>
+
 
 
 ### **Pesquisar Instituições de Ensino**
 
-<div style="text-align: center">
 
 |    Elemento  |  Descrição   |
 | :----------: | :----------: |
@@ -66,13 +62,12 @@ Para criar os cenários do projeto, foi usado como base o [perfil de usuário](h
 | Exceção    |  Alternar entre os filtros: <br> - Pelo nome e/ou sigla <br> - Pelo CNPJ |
 
 <p> Tabela 3: Cenário 3 (Fonte: BARBOSA, Gabriel. 2023).</p>
-</div>
 
 
-###  Encontrar pesquisas e artigos
+
+###  **Encontrar pesquisas e artigos**
 
 
-<div style="text-align: center">
 
 |    Elemento  |  Descrição   |
 | :----------: | :----------: |
@@ -86,12 +81,11 @@ Para criar os cenários do projeto, foi usado como base o [perfil de usuário](h
 | Exceção    |  Ajustar os filtros e fazer a pesquisa avançada novamente |
 
 <p> Tabela 4: Cenário 4 (Fonte: BARBOSA, Gabriel. 2023).</p>
-</div>
 
 
-### Acessar uma Bases de Dados específica
 
-<div style="text-align: center">
+### **Acessar uma Bases de Dados específica**
+
 
 |    Elemento  |  Descrição   |
 | :----------: | :----------: |
@@ -106,8 +100,6 @@ Para criar os cenários do projeto, foi usado como base o [perfil de usuário](h
 
 
 <p> Tabela 5: Cenário 5 (Fonte: BARBOSA, Gabriel. 2023).</p>
-</div>
-
 
 
 ## **Bibliografia**
@@ -118,5 +110,5 @@ Para criar os cenários do projeto, foi usado como base o [perfil de usuário](h
 ## **Histórico de versão**
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| :-: | :-: | :-: | :-: | :-:|
-| 1.0 | 16/10/2023 | Criação do documento | Gabriel Barbosa | |
+| --- | --- |--- | ---|---|
+| 1.0 | 16/10/2023 | Criação do documento | Gabriel Barbosa |Doan Filho|
