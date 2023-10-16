@@ -61,7 +61,7 @@ Figura 2: Diagrama da análise hierárquica de tarefas para o objetivo "Buscar c
 
 | Versão | Data       |       Descrição      | Autor | Revisor |
 |:------:|:----------:|----------------------|-------|---------|
-| 1.0    | 16/10/2023 | Criação Análise de tarefas | Caio Lelis| - |
+| 1.0    | 16/10/2023 | Criação Análise HTA | Caio Lelis| - |
 
 
 
