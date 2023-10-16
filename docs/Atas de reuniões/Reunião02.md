@@ -22,14 +22,6 @@ Reunião para acompanhar o progresso do grupo em relação ao projeto
 ### **Tarefas Realizadas na Reunião**
 - Revisão de acompanhamento de progressão 
 
-
-### **Tarefas atribuidas** 
-| Tarefa | Atribuição | Revisor | Início  -  Fim|
-|--------|------------|---------|---------------|
-|---     |---|---|---|
-|---     |---|---|---|
-|---     |---|---|---|
-
 ### **Conclusão da Reunião**
 
 Reunião para ver de perto como anda o processo do projeto. Foram discutidos detalhes das atividades e observado o estado de cada integrante em relação a entrega, concluindo que o andamento da equipe estava satisfatório.
