@@ -95,7 +95,7 @@ Após realizar as pesquisas citadas, o grupo definiu o seguinte perfil de usuár
 | Experiência | Novatos|
 | Atitudes | Tecnófilo |
 | Escolaridade | Ensino superior incompleto |
-| Residência | Brasília |
+| Residência | Brasil |
 | Tarefas primárias | Busca por currículo e pesquisa|
 
 ## **Bibliografia**

@@ -13,6 +13,18 @@ Os benefícios das Personas são diversos. Elas ajudam a concentrar as decisões
 Após adquirir e organizar informações na fase de elicitação de requisitos e coleta de dados, são criadas personas fictícias, porém representativas. Cada persona é uma personificação dos dados e das características dos usuários daquele contexto. As personas são detalhadas com informações demográficas, comportamentais, metas, desafios e outras características relevantes. Esses detalhes humanizam a persona, tornando-a mais real e fácil de entender.
 
 
+## **Perfis**
+
+| Características |  Descrição  |
+| :-----:  | :-----: |
+| Idade  | Entre 18 e 25 anos (Jovens) |
+| Experiência | Novatos|
+| Atitudes | Tecnófilo |
+| Escolaridade | Ensino superior incompleto |
+| Residência | Brasil |
+| Tarefas primárias | Busca por currículo e pesquisa|
+
+
 ## **Tabela de personas**
 
 Para conseguir as imagens, foi utilizado o site [This person does not exist](https://this-person-does-not-exist.com/en) baseado em inteligência artificial.
@@ -23,7 +35,7 @@ Para conseguir as imagens, foi utilizado o site [This person does not exist](htt
 | :----: | :---------------------: |
 |  Nome  |   Maria Dale   |
 |  Foto  |   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/img/Persona1.png" width = 100px><p>Imagem:  persona 1 |
-| Descrição | Maria Dale, 26 anos, Estudante de pós-graduação e assistente de pesquisa, reside em São Paulo |
+| Descrição | Maria Dale, 25 anos, Estudante de pós-graduação e assistente de pesquisa, reside em São Paulo |
 | Tipo| Persona primária |
 | Informações | Maria concluiu seu Ensino Médio com distinção e prosseguiu sua educação, obtendo um diploma de Graduação em Ciências Sociais. Atualmente, ela está no segundo ano de seu Mestrado em Antropologia, pesquisando sobre as mudanças culturais nas comunidades indígenas do Brasil. Como estudante de pós-graduação, Maria é uma discente apaixonada e comprometida. Ela também trabalha como assistente de pesquisa em seu departamento universitário e dá aulas de apoio a alunos de graduação, demonstrando sua versatilidade no mundo acadêmico. |
 | Habilidades | Ela sabe como integrar e manter seus dados de pesquisador do CNPq atualizados em seu perfil Lattes, garantindo consistência entre as plataformas |
@@ -75,4 +87,5 @@ Tabela 3: Terceira persona. (SOARES, Joel 2023)
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-:|
-| 1.0 | 16/10/2023 | Criação do documento | Joel Soares | |
+| 1.0 | 16/10/2023 | Criação do documento | Joel Soares |Doan Filho |
+| 1.0 | 16/10/2023 | Ajeitando Documento | Joel Soares |Doan Filho |
