@@ -22,7 +22,7 @@ Após adquirir e organizar informações na fase de elicitação de requisitos e
 | Atitudes | Tecnófilo |
 | Escolaridade | Ensino superior incompleto |
 | Residência | Brasil |
-| Tarefas primárias | Busca por currículo e pesquisa|
+| Tarefas primárias | Busca por currículo e pesquisa |
 
 
 ## **Tabela de personas**
@@ -39,7 +39,7 @@ Para conseguir as imagens, foi utilizado o site [This person does not exist](htt
 | Tipo| Persona primária |
 | Informações | Maria concluiu seu Ensino Médio com distinção e prosseguiu sua educação, obtendo um diploma de Graduação em Ciências Sociais. Atualmente, ela está no segundo ano de seu Mestrado em Antropologia, pesquisando sobre as mudanças culturais nas comunidades indígenas do Brasil. Como estudante de pós-graduação, Maria é uma discente apaixonada e comprometida. Ela também trabalha como assistente de pesquisa em seu departamento universitário e dá aulas de apoio a alunos de graduação, demonstrando sua versatilidade no mundo acadêmico. |
 | Habilidades | Ela sabe como integrar e manter seus dados de pesquisador do CNPq atualizados em seu perfil Lattes, garantindo consistência entre as plataformas |
-| Expectativas | Maria planeja manter um perfil acadêmico bem organizado, atualizado com suas publicações, projetos e atividades de ensino, facilitando sua visibilidade na comunidade acadêmica e colaborações com outros pesquisadores.|
+| Expectativas | Maria planeja manter um perfil acadêmico bem organizado, atualizado com suas publicações, projetos e atividades de ensino, facilitando sua visibilidade na comunidade acadêmica e colaborações com outros pesquisadores. |
 
 Tabela 1: Primeira persona. (SOARES, Joel 2023)
 
@@ -87,5 +87,5 @@ Tabela 3: Terceira persona. (SOARES, Joel 2023)
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-:|
-| 1.0 | 16/10/2023 | Criação do documento | Joel Soares |Doan Filho |
-| 1.0 | 16/10/2023 | Ajeitando Documento | Joel Soares |Doan Filho |
+| 1.0 | 16/10/2023 | Criação do documento | Joel Soares | Doan Filho |
+| 1.0 | 16/10/2023 | Ajeitando Documento | Joel Soares e Guilherme Basilio | Doan Filho |
