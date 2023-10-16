@@ -6,7 +6,11 @@
 
 <p align="justify">
 
-&emsp;&emsp;Este documento é referente ao cronograma que será seguido pela equipe no semestre 2023.2 na disciplina de Interação Humano Computador, ministrada pelo professor André Barros de Sales, com a finalidade de estudar a Plataforma Lattes. Este cronograma possui um objetivo inicial de organizar todas as tarefas que deverão ser realizadas no decorrer do semestre e também destacar os principais tópicos a serem abordados, as tarefas necessárias e a devida alocação de tempo para cada entrega do projeto.
+<p align="justify">
+
+&emsp;&emsp;Este documento é referente ao cronograma que será seguido pela equipe no semestre 2023.2 na disciplina de Interação Humano Computador, ministrada pelo professor André Barros de Sales, com a finalidade de estudar a plataforma Lattes. Este documento possui um objetivo inicial de organizar todas as tarefas que deverão ser realizadas no decorrer do semestre e também destacar os principais tópicos a serem abordados, as tarefas necessárias e a devida alocação de tempo para cada entrega do projeto.
+
+</p>
 
 </p>
 
@@ -27,13 +31,6 @@ A Tabela 1 mostra todas as Entregas com suas respectivas datas previstas.
 |6.2| Verificação dos Artefatos 2 | Verificação dos artefatos| 29/11 | 30/11 |
 | 9 | Entrega Final | Entrega final | 06/12 | 07 a 19/12 |
 
-
-
-
-
-
-
-
 <div style="text-align: center">
     <p> <b>Tabela 1</b>: Cronograma Geral (Fonte: Miguel de Frias, 2023).</p>
 </div>
@@ -41,22 +38,22 @@ A Tabela 1 mostra todas as Entregas com suas respectivas datas previstas.
 ## **Entrega 1**
 A tabela 2 mostra as tarefas do planejamento feito para a entrega 1 do projeto.
 
-| Tarefa       | Data Início |   Previsto   | Atribuição |Revisor|
-|--------------|:-----------:|:------------:|------------|-------|
-| HeatMap | 23/09 | 24/09 |  Doan Filho e  Caio Braga |  Caio Lelis|
-| Sites Avaliados | 26/09 | 31/09 | Joel Soares e  Gabriel Barbosa | Miguel de Frias |
-| Site selecionado | 26/09  | 31/09   | Doan Filho |  Miguel de Frias|
-| Gitpage | 26/09 | 30/09 | Caio Braga e  Doan Filho e Caio Lelis | Caio Braga |
-| Ferramentas | 26/09 | 30/09 | Doan Filho e  Miguel de Frias | Miguel de Frias |
-| Processos de Design | 26/09 |  30/09 |Caio Braga e  Caio Lelis | Miguel de Frias |
-| Termos de Uso | 26/09 | 30/09 | Guilherme Basilio e  Joel Soares | Guilherme Basilio |
-| Cronograma Planejado | 28/09  | 01/10 | Miguel de Frias e  Guilherme Basilio | Doan Filho |
-| Cronograma Executado | 28/09  | 01/10 | Miguel de Frias e  Guilherme Basilio | Doan Filho |
-| Gravação da Apresentação | 01/10  | 01/10  | Todos |Todos|
-| Postagem da Apresentação | 01/10 | 01/10 | Joel Soares | Miguel de Frias|
+| Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
+|--------|----------------------------|--------------------|-------------|--------|
+| HeatMap | Início: 23/09 <br>Fim: 24/09 | Início: 24/09 <br> Fim: 25/09 |  Doan Filho e  Caio Braga |  Caio Lelis|
+| Sites Avaliados | Início: 26/09 <br> Fim: 31/09 | Início: 31/09 <br> Fim: 02/10| Joel Soares e  Gabriel Barbosa | Miguel de Frias |
+| Site selecionado | Início: 26/09 <br> Fim: 31/09  | Início: 31/09 <br> Fim: 02/10  | Doan Filho |  Miguel de Frias|
+| Gitpage | Início: 26/09 <br> Fim: 30/09 | Início: 30/09 <br> Fim: 02/10 | Caio Braga e  Doan Filho e Caio Lelis | Caio Braga |
+| Ferramentas | Início: 26/09 <br> Fim: 30/09 | Início: 30/09 <br> Fim: 02/10 | Doan Filho e  Miguel de Frias | Miguel de Frias |
+| Processos de Design | Início: 26/09 <br> Fim: 30/09 |  Início: 30/09 <br> Fim: 02/10 |Caio Braga e  Caio Lelis | Miguel de Frias |
+| Termos de Uso | Início: 26/09 <br> Fim: 30/09 | Início: 30/09 <br> Fim: 02/10 | Guilherme Basilio e  Joel Soares | Guilherme Basilio |
+| Cronograma Planejado | Início: 26/09 <br> Fim: 30/09 | Início: 30/09 <br> Fim: 02/10 | Miguel de Frias e  Guilherme Basilio | Doan Filho |
+| Cronograma Executado | Início: 26/09 <br> Fim: 30/09  | Início: 30/09 <br> Fim: 02/10 | Miguel de Frias e  Guilherme Basilio | Doan Filho |
+| Gravação da Apresentação | Início: 01/10 <br>  Fim: 01/10 | Início: 01/10 <br> Fim: 01/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias|
+| Postagem da Apresentação | Início: 01/10 <br>  Fim: 01/10 | Início: 01/10 <br>  Fim: 01/10 | Joel Soares | Miguel de Frias|
 
 <div style="text-align: center">
-    <p> <b>Tabela 2</b>: Tarefas realizadas na Entrega 1. (Fonte: Miguel de Frias, 2023).</p>
+    <p> <b>Tabela 2</b>: Tarefas planejadas na Entrega 1. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 ## **Entrega 2**
