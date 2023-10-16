@@ -95,7 +95,6 @@ Após realizar as pesquisas citadas, o grupo definiu o seguinte perfil de usuár
 | Experiência | Novatos|
 | Atitudes | Tecnófilo |
 | Escolaridade | Ensino superior incompleto |
-| Situação  | Acadêmicos (discentes e doscentes) de diversas áreas (como ciências Humanas, Sociais aplicadas, da Saúde, Exatas, etc)|
 | Residência | Brasília |
 | Tarefas primárias | Busca por currículo e pesquisa|
 
