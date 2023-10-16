@@ -101,6 +101,7 @@ Foi adotada uma avaliação com base nas heurísticas de [Nielsen](https://www.n
 - *Visibilidade do estado do sistema*: O site possui não possui feedbacks significativos sobre o que está acontecendo para o usuário comum.
 - *Reconhecimento em vez de memorização*: O site não colabora em facilitar o reconhecimento do usuário deixando-0o confuso, pricipalmente no menu de ajuda e documentação.
 + *Consistência e padronização*: Algumas ações e informações no site podem deixar o usuário confuso. A quantidade de texto é grande e, em alguns casos, levam ao mesmo objetivo
++ [Link para avaliação](https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/blob/main/docs/Planejamento/avaliacoes/avaliacao-lattes.pdf)
 
 ## **Prefeitura de Pequeri**
 
@@ -119,6 +120,7 @@ Foi adotada uma avaliação com base nas heurísticas de [Nielsen](https://www.n
 - *Projeto estético*: O site apresenta grandes imagens que são colocadas erroneamente em algumas posições ou tamanhos, tornando a leitura do site mais difícil.
 - *Ajuda e documentação*: O site não apresenta uma documentação de alta qualidade capaz de auxiliar o usuário a usar a aplicação.
 - *Consistência e padronização*: O site apresenta elementos que se apresentam de forma confusa ao usuário, influênciando negativamente a experiência dele.
+- [Link para avaliação](https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/blob/main/docs/Planejamento/avaliacoes/avaliacao-prefeitura.pdf)
 
 
 ## **Histórico de Versões**
