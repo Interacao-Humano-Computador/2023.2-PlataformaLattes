@@ -76,7 +76,7 @@ Pergunta feita para coletar a avaliação do usuário de acordo com o acesso a p
 </div>
 
 #### **Vinculo com a instituição de ensino**
-Pergunta feita para aferir qual o vinculo do usuário com a sua respectiva unidade de ensino quando respondeu o formulário
+Pergunta feita para aferir qual o vinculo do usuário e o seu uso durante o vinculo correspondente com a sua respectiva unidade de ensino quando respondeu o formulário.
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/QueVinculo.png" style="width:60vw"/>
