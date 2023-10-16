@@ -38,7 +38,7 @@ Ajuste de atribuição de tarefas
 
 
 ### **Conclusão da Reunião**
-Reunião para alinhar as tarefas á atribuidas e refinar as tarefas que faltam
+Reunião para alinhar as tarefas atribuidas e refinar as tarefas que faltam
 
 
 ## **Acesso da reunião**
@@ -51,5 +51,5 @@ Reunião para alinhar as tarefas á atribuidas e refinar as tarefas que faltam
 
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 16/10/2023 | Versão inicial       | Doan Filho     | |
+| 1.0    | 16/10/2023 | Versão inicial       | Doan Filho     | Joel Soares |
 
