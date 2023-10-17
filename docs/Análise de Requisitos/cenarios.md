@@ -104,7 +104,7 @@ style="text-align: center">
 
 ## **Bibliografia**
 
-> CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>. Acesso em: 07/05/2023.
+> CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>. Acesso em: 16/10/2023.
 
 
 ## **Histórico de versão**
