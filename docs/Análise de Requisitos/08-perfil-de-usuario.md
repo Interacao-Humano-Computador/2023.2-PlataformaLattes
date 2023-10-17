@@ -11,6 +11,27 @@ O questionário foi mediado pela ferramenta [Google Forms] trazendo perguntas so
 
 ---
 
+
+## **Mapeamento do Painel Lattes**
+
+<div align="center">
+    <img src="https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/img/totalcurriculos.png" style="width:60vw"/>
+    <p> Figura 1 - Painel Lattes - Total de Curriculos cadastrados. Fonte: Autores </p> 
+</div>
+
+<div align="center">
+    <img src="https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/img/painelfem.png" style="width:60vw"/>
+    <p> Figura 2 - Painel Lattes - mapeamento por sexo: feminino. Fonte: Autores </p> 
+</div>
+
+<div align="center">
+    <img src="https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/img/painelmasc.png" style="width:60vw"/>
+    <p> Figura 3 - Painel Lattes - mapeamento por sexo: masculino. Fonte: Autores </p> 
+</div>
+
+
+
+
 ## **Resultado do Questionário**
 Aqui temos o resultado das respostas que foram submetidas aos usuários,o formulário ficou no ar de 13/10 a 16/10 em grupos de WhatsApp de estudantes universitários obtendo a  participação de 12 pessoas. 
 
