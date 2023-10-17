@@ -1,6 +1,6 @@
 
 
-# **Cronograma de planejamento detalhado**
+# **Cronogramas**
 
 ## **Introdução**
 
@@ -36,6 +36,9 @@ A Tabela 1 mostra todas as Entregas com suas respectivas datas previstas.
 </div>
 
 ## **Entrega 1**
+
+### **Planejado**
+
 A tabela 2 mostra as tarefas do planejamento feito para a entrega 1 do projeto.
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
@@ -56,7 +59,35 @@ A tabela 2 mostra as tarefas do planejamento feito para a entrega 1 do projeto.
     <p> <b>Tabela 2</b>: Tarefas planejadas na Entrega 1. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
+
+### **Executado**
+
+A tabela 3 mostra as atividades realizadas para a entrega 1 do projeto.
+
+| Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
+|--------|----------------------------|--------------------|-------------|--------|
+| HeatMap| Início: 30/09 <br> Fim: 01/10 | Início: 01/10 <br> Fim: 02/10 | Doan Filho e Caio Braga | Caio Lelis |
+| Sites Avaliados | Início: 30/09 <br> Fim: 01/10 | Início: 01/10 <br> Fim: 02/10 | Joel Soares e Gabriel Barbosa  | Miguel Matos   |
+| Site selecionado| Início: 30/09 <br> Fim: 01/10 | Início: 01/10 <br> Fim: 02/10 | Doan Filho e Miguel Matos |Caio Braga |
+| Gitpage | Início: 23/09 <br> Fim: 01/10 | Início: 01/10 <br> Fim: 02/10 | Caio Braga , Doan Filho e Caio Lelis | Caio Braga |
+| Ferramentas | Início: 30/09 <br> Fim: 01/10 | Início: 01/10 <br> Fim: 02/10 | Doan Filho e Miguel Matos  | Miguel Matos   |
+| Processos de Design | Início: 30/09 <br> Fim: 01/10 | Início: 01/10 <br> Fim: 02/10 | Caio Braga e Caio Lelis | Miguel Matos |
+| Termos de Uso | Início: 30/09 <br> Fim: 01/10 | Início: 01/10 <br> Fim: 02/10 | Guilherme Basilio e  Joel Soares | Doan Filho | 
+| Cronograma Planejado |Início: 30/09 <br> Fim: 01/10 | Início: 01/10 <br> Fim: 02/10 |Doan Filho e Miguel Matos   | Miguel Matos e Doan Filho  | 
+| Cronograma Realizado | Início: 30/09 <br> Fim: 01/10 | Início: 01/10 <br> Fim: 02/10 |Doan Filho e Miguel Matos   | Miguel Matos e Doan Filho |
+| Gravação da Apresentação | Início: 02/10 <br> Fim: 02/10 | Início: 02/10 <br> Fim: 02/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias|
+| Postagem da Apresentação | Início: 02/10 <br> Fim: 02/10 | Início: 02/10 <br> Fim: 02/10 | Joel Soares e  Miguel Matos   | Doan Filho e Joel Soares|
+
+<div style="text-align: center">
+    <p> <b>Tabela 3</b>: Tarefas realizadas na Entrega 1. (Fonte: Miguel de Frias, 2023).</p>
+</div>
+
+
+
 ## **Entrega 2**
+
+### **Planejado**
+
 A tabela 4 mostra as tarefas do planejamento feito para a entrega 2 do projeto.
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
@@ -78,6 +109,9 @@ A tabela 4 mostra as tarefas do planejamento feito para a entrega 2 do projeto.
 </div>
 
 ## **Entrega 3**
+
+### **Planejado**
+
 A tabela 6 mostra as tarefas do planejamento feito para a entrega 3 do projeto.
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
@@ -97,6 +131,9 @@ A tabela 6 mostra as tarefas do planejamento feito para a entrega 3 do projeto.
 </div>
 
 ## **Entrega 4**
+
+### **Planejado**
+
 A tabela 8 mostra as tarefas do planejamento feito para a entrega 4 do projeto.
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
@@ -116,6 +153,9 @@ A tabela 8 mostra as tarefas do planejamento feito para a entrega 4 do projeto.
 </div>
 
 ## **Entrega 5**
+
+### **Planejado**
+
 A tabela 6 mostra as tarefas do planejamento feito para a entrega 5 do projeto.
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
@@ -135,6 +175,9 @@ A tabela 6 mostra as tarefas do planejamento feito para a entrega 5 do projeto.
 </div>
 
 ## **Entrega 6.1**
+
+### **Planejado**
+
 A tabela 12 mostra as tarefas do planejamento feito para a entrega 6.1 do projeto.
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
@@ -160,6 +203,9 @@ A tabela 12 mostra as tarefas do planejamento feito para a entrega 6.1 do projet
 </div>
 
 ## **Entrega 7**
+
+### **Planejado**
+
 A tabela 14 mostra as tarefas do planejamento feito para a entrega 7 do projeto.
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
@@ -179,6 +225,9 @@ A tabela 14 mostra as tarefas do planejamento feito para a entrega 7 do projeto.
 </div>
 
 ## **Entrega 8**
+
+### **Planejado**
+
 A tabela 16 mostra as tarefas do planejamento feito para a entrega 8 do projeto.
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
@@ -197,6 +246,9 @@ A tabela 16 mostra as tarefas do planejamento feito para a entrega 8 do projeto.
 </div>
 
 ## **Entrega 6.2**
+
+### **Planejado**
+
 A tabela 18 mostra as tarefas do planejamento feito para a entrega 6.2 do projeto.
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
@@ -218,6 +270,9 @@ A tabela 18 mostra as tarefas do planejamento feito para a entrega 6.2 do projet
 </div>
 
 ## **Entrega 9/Final**
+
+### **Planejado**
+
 A tabela 11 mostra as tarefas do planejamento feito para a entrega 9 do projeto.
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
