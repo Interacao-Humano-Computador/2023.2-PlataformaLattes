@@ -46,8 +46,8 @@ Esta análise pode ser implementada em formato de tabela, ou por um diagrama con
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/elementos_hta.png" style="width:60vw"/>
-    <p> Figura 1 - Elementos HTA - Faixa etária. Fonte: Autores </p> 
+    <img src="" style="width:60vw"/>
+    <p> Figura 3 - Especificações do CTT. Fonte: Autores </p> 
 </div>
 
 ## Análise de Tarefas
@@ -116,10 +116,49 @@ delas	é	iniciada,	a	outra	é	desabilitada
 realizadas	em	qualquer	ordem	ou	ao	mesmo	tempo
 
 
+
+
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/heatMap.png" style="width:20vw"/>
-    <p> Figura 1 - Heatmap do Grupo 3. Fonte: Autores </p> 
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/CTTRelacoes.png.png" style="width:40vw"/>
+    <p> Figura 3 - Especificações do CTT. Fonte: Autores </p> 
 </div>
+
+### *Motivação da escolha*
+
+Optamos por empregar este método na análise das seguintes ações: "Cadastrar currículo," "Atualizar currículo," e "Buscar currículo." A razão para essa escolha reside no fato de que todas essas atividades requerem interações entre o usuário e o sistema. A abordagem da "Árvore de Tarefas Concorrentes" tem a capacidade de estruturar essas interações de forma hierárquica e, simultaneamente, estabelecer uma ordem cronológica para elas. Isso resulta em uma apresentação mais clara e organizada das tarefas.
+
+
+### *Análise de Tarefa CTT 1: Cadastrar currículo*
+
+A tarefa "Cadastrar currículo" consiste basicamente em inserir as informações do usuário no sistema para que essas informações sejam salvas e disponibilizadas na plataforma. Na figura 4 está a análise detalhada representada em diagrama.
+
+
+<div align="center">
+    <img src=" https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/CTTCadastrarCurriculo.png" style="width:40vw"/>
+    <p> Figura 4 - Análise da Tarefa de "Cadastrar currículo". Fonte: Autores </p> 
+</div>
+
+### *Análise de Tarefa CTT 2: Atualizar currículo*
+
+A tarefa "Atualizar currículo" consiste basicamente em editar as informações do usuário já cadastradas anteriormente no sistema. Na figura 5 está a análise detalhada representada em diagrama.
+
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/CTTAtualizarCurriculo.png" style="width:40vw"/>
+    <p> Figura 5 - Análise da Tarefa de "Atualizar currículo". Fonte: Autores </p> 
+</div>
+
+
+### *Análise de Tarefa CTT 3: Buscar currículo*
+
+A tarefa "Buscar currículo" consiste basicamente em buscar as informações de um usuário já cadastrado anteriormente no sistema. Na figura 6 está a análise detalhada representada em diagrama.
+
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/CTTBuscarCurriculo.png" style="width:40vw"/>
+    <p> Figura 6 - Análise da Tarefa de "Buscar currículo". Fonte: Autores </p> 
+</div>
+
 
 
 ## **Bibliografia**
