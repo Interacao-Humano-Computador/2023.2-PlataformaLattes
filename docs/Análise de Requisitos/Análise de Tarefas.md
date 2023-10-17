@@ -58,10 +58,20 @@ Para a resolução das análises de tarefas hierárquicas foi selecionado a aç�
 
 Nessa tarefa o usuário tem o objetivo de buscar currículo conforme dados selecionados para busca.
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/tabela_busca_curriculo.png">
-    <p> Figura 2: Tabela da análise hierárquica de tarefas para o objetivo "Buscar currículo" (Fonte: Caio Lucas) </p> 
-</div>
+
+| Objetivos/Operações | Problemas/Recomendações |
+|--------------------|------------------------|
+| 0.0 Buscar currículo | **Input:** Acesso à opção "Buscar currículo" na tela inicial do site <br> **Feedback:** Tela de busca com informações e campos em branco <br> **Plano:** Definir como a busca por currículo pode ser aprimorada |
+| 1.0 Busca Normal  | plano: definir tipo de busca  |
+| 2.0 Busca avançada  | plano: definir tipo de busca  |
+| 1.1 Busca nome | plano: buscar curriculo pelo nome  |
+| 1.2 Busca assunto | plano: buscar curriculo pelo nome  |
+| 2.1 Construir consulta   |              |
+| 2.2 Aplicar filtros   |    |
+| 1.3 Aplicar filtros/referências  |   |
+
+Tabela 1: Tabela da análise hierárquica de tarefas para o objetivo "Buscar currículo" (Fonte: Caio Lucas)
+
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/buscar_curriculo.jpg">
