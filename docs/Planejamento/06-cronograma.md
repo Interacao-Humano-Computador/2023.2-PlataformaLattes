@@ -309,7 +309,7 @@ A tabela 11 mostra as tarefas do planejamento feito para a entrega 9 do projeto.
 | Cronograma Executado | Início: 30/11 <br> Fim: 05/12 | Início: 05/12 <br> Fim: 06/12 | Miguel de Frias | Caio Braga  |
 | Correções da Entrega 6.2 | Início: 30/11 <br> Fim: 05/12 | Início: 05/12 <br> Fim: 06/12 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
 <div style="text-align: center">
-    <p> <b>Tabela 11</b>: Tarefas realizadas na Entrega 9/Final. (Fonte: Miguel Matos, 2023).</p>
+    <p> <b>Tabela 11</b>: Tarefas realizadas na Entrega 9/Final. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 
@@ -325,3 +325,5 @@ A tabela 11 mostra as tarefas do planejamento feito para a entrega 9 do projeto.
 | 1.0 | 18/09/2023 | Adicionando tópicos e estrutura base| Miguel de Frias | Doan Filho |
 | 1.1 | 18/09/2023 | Planejamento das Entregas |  Miguel de Frias | Doan Filho |
 | 1.2| 01/10/2023 | Adicionando atribuições de participantes |  Doan Filho |Caio Braga |
+| 1.3| 01/10/2023 | Adição do Executado da entrega 1 | Miguel de Frias | Doan Filho |
+| 2.0| 16/10/2023 | Adição do Executado da entrega 2 | Miguel de Frias | Doan Filho |
