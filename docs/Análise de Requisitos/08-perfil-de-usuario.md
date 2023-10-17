@@ -15,21 +15,21 @@ O questionário foi mediado pela ferramenta [Google Forms] trazendo perguntas so
 ## **Mapeamento do Painel Lattes**
 
 <div align="center">
-    <img src="https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/img/totalcurriculos.png" style="width:60vw"/>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/totalcurriculos.png" style="width:60vw"/>
     <p> Figura 1 - Painel Lattes - Total de Curriculos cadastrados. Fonte: Autores </p> 
 </div>
 
 <div align="center">
-    <img src="https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/img/painelfem.png" style="width:60vw"/>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/painelfem.png" style="width:60vw"/>
     <p> Figura 2 - Painel Lattes - mapeamento por sexo: feminino. Fonte: Autores </p> 
 </div>
 
 <div align="center">
-    <img src="https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/img/painelmasc.png" style="width:60vw"/>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/painelmasc.png" style="width:60vw"/>
     <p> Figura 3 - Painel Lattes - mapeamento por sexo: masculino. Fonte: Autores </p> 
 </div>
 
-
+Datando pelos graficos a seguir, notamos que temos umas diversidades de idades que usam a plataforma, assim deixando mais abrangente a lista de perfil de pessoas que podemos encontrar que utilizam o cnpq lattes
 
 
 ## **Resultado do Questionário**
@@ -112,7 +112,7 @@ Após realizar as pesquisas citadas, o grupo definiu o seguinte perfil de usuár
 
 | Características |  Descrição  |
 | :-----:  | :-----: |
-| Idade  | Entre 18 e 25 anos (Jovens) |
+| Idade  | Entre 18 a 65 anos (Jovens/Idosos) |
 | Experiência | Novatos|
 | Atitudes | Tecnófilo |
 | Escolaridade | Ensino superior incompleto |
