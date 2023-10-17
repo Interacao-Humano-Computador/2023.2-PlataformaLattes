@@ -12,16 +12,13 @@ Os resultados das análises individuais foram consolidados em uma tabela abrange
 
 ## **Tabelas de Requisitos**
 
-
 &emsp;&emsp;As tabelas abaixo apresentam os requisitos de software identificados durante a introspecção da plataforma Lattes. Cada requisito recebeu uma identificação específica no formato 'IPC' seguido por um número, e foi detalhadamente descrito. Além disso, cada requisito foi categorizado como um dos seguintes:
-
 
 RF: Requisitos Funcionais - Refere-se ao comportamento ou funcionalidade que o software deve exibir para atender às necessidades dos usuários.
 
 RNF: Requisitos Não-Funcionais - Refere-se a atributos que o software deve possuir, como desempenho, segurança e usabilidade, sem descrever diretamente o comportamento do software.
 
 IPCx: Requisito nºx elicitado pela introspecção.
-
 
 | ID | Funcionalidade                                       | Código  | 
 | :---:  | -------------------------------------------------- | :---: |
