@@ -67,16 +67,16 @@ A tabela 3 mostra as atividades realizadas para a entrega 1 do projeto.
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
 |--------|----------------------------|--------------------|-------------|--------|
 | HeatMap| Início: 30/09 <br> Fim: 01/10 | Início: 01/10 <br> Fim: 02/10 | Doan Filho e Caio Braga | Caio Lelis |
-| Sites Avaliados | Início: 30/09 <br> Fim: 01/10 | Início: 01/10 <br> Fim: 02/10 | Joel Soares e Gabriel Barbosa  | Miguel Matos   |
-| Site selecionado| Início: 30/09 <br> Fim: 01/10 | Início: 01/10 <br> Fim: 02/10 | Doan Filho e Miguel Matos |Caio Braga |
+| Sites Avaliados | Início: 30/09 <br> Fim: 01/10 | Início: 01/10 <br> Fim: 02/10 | Joel Soares e Gabriel Barbosa  | Miguel de Frias  |
+| Site selecionado| Início: 30/09 <br> Fim: 01/10 | Início: 01/10 <br> Fim: 02/10 | Doan Filho e Miguel de Frias |Caio Braga |
 | Gitpage | Início: 23/09 <br> Fim: 01/10 | Início: 01/10 <br> Fim: 02/10 | Caio Braga , Doan Filho e Caio Lelis | Caio Braga |
-| Ferramentas | Início: 30/09 <br> Fim: 01/10 | Início: 01/10 <br> Fim: 02/10 | Doan Filho e Miguel Matos  | Miguel Matos   |
-| Processos de Design | Início: 30/09 <br> Fim: 01/10 | Início: 01/10 <br> Fim: 02/10 | Caio Braga e Caio Lelis | Miguel Matos |
+| Ferramentas | Início: 30/09 <br> Fim: 01/10 | Início: 01/10 <br> Fim: 02/10 | Doan Filho e Miguel de Frias  | Miguel de Frias   |
+| Processos de Design | Início: 30/09 <br> Fim: 01/10 | Início: 01/10 <br> Fim: 02/10 | Caio Braga e Caio Lelis | Miguel de Frias |
 | Termos de Uso | Início: 30/09 <br> Fim: 01/10 | Início: 01/10 <br> Fim: 02/10 | Guilherme Basilio e  Joel Soares | Doan Filho | 
-| Cronograma Planejado |Início: 30/09 <br> Fim: 01/10 | Início: 01/10 <br> Fim: 02/10 |Doan Filho e Miguel Matos   | Miguel Matos e Doan Filho  | 
-| Cronograma Realizado | Início: 30/09 <br> Fim: 01/10 | Início: 01/10 <br> Fim: 02/10 |Doan Filho e Miguel Matos   | Miguel Matos e Doan Filho |
+| Cronograma Planejado |Início: 30/09 <br> Fim: 01/10 | Início: 01/10 <br> Fim: 02/10 |Doan Filho e Miguel de Frias   | Miguel de Frias e Doan Filho  | 
+| Cronograma Realizado | Início: 30/09 <br> Fim: 01/10 | Início: 01/10 <br> Fim: 02/10 |Doan Filho e Miguel de Frias   | Miguel de Frias e Doan Filho |
 | Gravação da Apresentação | Início: 02/10 <br> Fim: 02/10 | Início: 02/10 <br> Fim: 02/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias|
-| Postagem da Apresentação | Início: 02/10 <br> Fim: 02/10 | Início: 02/10 <br> Fim: 02/10 | Joel Soares e  Miguel Matos   | Doan Filho e Joel Soares|
+| Postagem da Apresentação | Início: 02/10 <br> Fim: 02/10 | Início: 02/10 <br> Fim: 02/10 | Joel Soares  | Doan Filho e Joel Soares|
 
 <div style="text-align: center">
     <p> <b>Tabela 3</b>: Tarefas realizadas na Entrega 1. (Fonte: Miguel de Frias, 2023).</p>
@@ -95,17 +95,41 @@ A tabela 4 mostra as tarefas do planejamento feito para a entrega 2 do projeto.
 | Perfil do Usuário | Início: 03/10 <br> Fim: 14/10| Início: 14/10 <br> Fim: 14/10 | Caio Braga e Gabriel Barbosa  | Doan Filho |
 | Personas | Início: 03/10 <br> Fim: 14/10| Início: 14/10 <br> Fim: 14/10 | Guilherme Basilio e Joel Soares | Caio Braga  |
 | Análise de tarefas do usuário | Início: 03/10 <br> Fim: 14/10| Início: 14/10 <br> Fim: 14/10 | Caio Lelis e Doan Filho | Guilherme Basilio |
-| Aspectos éticos de pesquisa envolvendo pessoas | Início: 03/10 <br> Fim: 14/10| Início: 14/10 <br> Fim: 14/10 | Caio Braga e Miguel Matos | Caio Lelis |
-| Criação do cenário | Início: 03/10 <br> Fim: 14/10| Início: 14/10 <br> Fim: 14/10 |Caio Lelis e Caio Braga  | Miguel Matos  |
+| Aspectos éticos de pesquisa envolvendo pessoas | Início: 03/10 <br> Fim: 14/10| Início: 14/10 <br> Fim: 14/10 | Caio Braga e Miguel de Frias | Caio Lelis |
+| Levantar Requisitos do Usuário |Início: 03/10 <br> Fim: 14/10| Início: 14/10 <br> Fim: 14/10 | Miguel de Frias e Guilherme Basilio | Doan Filho |
+| Criação do cenário | Início: 03/10 <br> Fim: 14/10| Início: 14/10 <br> Fim: 14/10 |Caio Lelis e Caio Braga  | Miguel de Frias  |
 | Atualizar GitPage | Início: 03/10 <br> Fim: 14/10| Início: 14/10 <br> Fim: 14/10 | Doan Filho e Gabriel Barbosa | Doan Filho |
 | Gravação da Apresentação | Início: 15/10 <br> Fim: 15/10| Início: 15/10 <br> Fim: 15/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias|
-| Postagem da Apresentação | Início: 15/10 <br> Fim: 15/10| Início: 15/10 <br> Fim: 15/10 | Joel Soares | Miguel Matos|
+| Postagem da Apresentação | Início: 15/10 <br> Fim: 15/10| Início: 15/10 <br> Fim: 15/10 | Joel Soares | Miguel de Frias|
 | Cronograma Executado | Início: 03/10 <br> Fim: 14/10 | Início: 14/10 <br> Fim: 14/10 | Miguel de Frias | Doan Filho |
 | Correções da Entrega 1 | Início: 03/10 <br> Fim: 08/10 | Início: 08/10 <br> Fim: 14/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias|
 
 
 <div style="text-align: center">
     <p> <b>Tabela 4</b>: Tarefas planejadas na Entrega 2. (Fonte: Miguel de Frias, 2023).</p>
+</div>
+
+
+### **Executado**
+
+A tabela 5 mostra as atividades realizadas para a entrega 1 do projeto.
+
+| Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
+|--------|----------------------------|--------------------|-------------|--------|
+| Perfil do Usuário | Início: 03/10 <br> Fim: 15/10 | Início: 15/10 <br> Fim: 16/10 | Caio Braga, Gabriel Barbosa e Joel Soares | Doan Filho |
+| Personas | Início: 03/10 <br> Fim: 15/10 | Início: 15/10 <br> Fim: 16/10 | Guilherme Basilio e Joel Soares | Miguel de Frias |
+| Análise de tarefas do usuário | Início: 03/10 <br> Fim: 15/10 | Início: 15/10 <br> Fim: 16/10 | Caio Lelis e Doan Filho | Caio Braga |
+| Aspectos éticos de pesquisa envolvendo pessoas | Início: 03/10 <br> Fim: 15/10 | Início: 15/10 <br> Fim: 16/10 | Caio Braga | Caio Lelis |
+| Criação do cenário | Início: 03/10 <br> Fim: 15/10 | Início: 15/10 <br> Fim: 16/10 | Doan Filho e Gabriel Barbosa | Caio Lelis  |
+| Levantar Requisitos do Usuário | Início: 03/10 <br> Fim: 15/10 | Início: 15/10 <br> Fim: 16/10 | Miguel de Frias e Guilherme Basilio | Miguel de Frias |
+| Atualizar GitPage | Início: 03/10 <br> Fim: 15/10 | Início: 15/10 <br> Fim: 16/10 | Doan Filho e Gabriel Barbosa | Doan Filho |
+| Gravação da Apresentação | Início: 16/10 <br> Fim: 16/10| Início: 16/10 <br> Fim: 16/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias|
+| Postagem da Apresentação | Início: 16/10 <br> Fim: 16/10| Início: 16/10 <br> Fim: 16/10 | Doan Filho | Miguel de Frias|
+| Cronograma Executado | Início: 03/10 <br> Fim: 15/10 | Início: 15/10 <br> Fim: 16/10 | Miguel de Frias | Doan Filho |
+| Correções da Entrega 1 | Início: 03/10 <br> Fim: 15/10 | Início: 15/10 <br> Fim: 16/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias|
+
+<div style="text-align: center">
+    <p> <b>Tabela 5</b>: Tarefas realizadas na Entrega 2. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 ## **Entrega 3**
@@ -119,7 +143,7 @@ A tabela 6 mostra as tarefas do planejamento feito para a entrega 3 do projeto.
 | Princípios gerais do projeto | Início: 18/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 23/10 | Doan Filho e Guilherme Basilio | Caio Lelis |
 | Metas de usabilidade | Início: 18/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 23/10 | Gabriel Barbosa e Joel Soares | Doan Filho |
 | Guia de estilo |Início: 18/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 23/10 | Caio Braga e Caio Lelis | Joel Soares |
-| Determinar as características da plataforma para o projeto | Início: 18/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 23/10 | Joel Soares e Miguel Matos | Caio Braga  |
+| Determinar as características da plataforma para o projeto | Início: 18/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 23/10 | Joel Soares e Miguel de Frias | Caio Braga  |
 | Atualizar GitPage | Início: 18/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 23/10 | Caio Braga e Caio Lelis | Doan Filho |
 | Gravação da Apresentação | Início: 22/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 22/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias|
 | Postagem da Apresentação | Início: 22/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 22/10 | Joel Soares | Miguel de Frias|
@@ -138,7 +162,7 @@ A tabela 8 mostra as tarefas do planejamento feito para a entrega 4 do projeto.
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
 |--------|----------------------------|--------------------|-------------|--------|
-| Planejamento da avaliação <br> do Story Board | Início: 25/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 31/10 | Miguel Matos e Doan Filho | Caio Lelis |
+| Planejamento da avaliação <br> do Story Board | Início: 25/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 31/10 | Miguel de Frias e Doan Filho | Caio Lelis |
 | Planejamento do relato dos <br>resultados da avaliação do Storyboard | Início: 25/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 31/10 | Caio Braga e Joel Soares  |Guilherme Basilio  |
 | Planejamento da Avaliação <br> da Análise de tarefas | Início: 25/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 31/10 | Gabriel Barbosa e Guilherme Basilio  | Joel Soares |
 | Planejamento do relato da <br> avaliação da análise <br> de tarefas | Início: 25/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 31/10 | Caio Lelis e Doan Filho | Gabriel Barbosa |
@@ -161,9 +185,9 @@ A tabela 6 mostra as tarefas do planejamento feito para a entrega 5 do projeto.
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
 |--------|----------------------------|--------------------|-------------|--------|
 | Relato dos resultados do Storyboard | Início: 01/11 <br> Fim: 07//11 | Início: 07/11 <br> Fim: 08/11 | Doan Filho e Caio Lelis | Guilherme Basilio |
-| Relato dos resultados da Análise de tarefas | Início: 01/11 <br> Fim: 07//11 | Início: 07/11 <br> Fim: 08/11 | Miguel Matos e Joel Soares | Caio Braga |
+| Relato dos resultados da Análise de tarefas | Início: 01/11 <br> Fim: 07//11 | Início: 07/11 <br> Fim: 08/11 | Miguel de Frias e Joel Soares | Caio Braga |
 | Planejamento da avaliação do protótipo de papel | Início: 01/11 <br> Fim: 07//11 | Início: 07/11 <br> Fim: 08/11 | Gabriel Barbosa e Guilherme Basilio | Caio Lelis  |
-| Planejamento do relato de resultados da avaliação do protótipo de papel | Início: 01/11 <br> Fim: 07//11 | Início: 07/11 <br> Fim: 08/11 | Doan Filho e Miguel Matos| Gabiel Barbosa |
+| Planejamento do relato de resultados da avaliação do protótipo de papel | Início: 01/11 <br> Fim: 07//11 | Início: 07/11 <br> Fim: 08/11 | Doan Filho e Miguel de Frias| Gabiel Barbosa |
 | Atualizar GitPage | Início: 01/11 <br> Fim: 07//11 | Início: 07/11 <br> Fim: 08/11 | Caio Braga e Caio Lelis | Doan Filho  |
 | Gravação da Apresentação |Início: 07/11 <br> Fim: 07//11 | Início: 07/11 <br> Fim: 07/11 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
 | Postagem da Apresentação | Início: 07/11 <br> Fim: 07//11 | Início: 07/11 <br> Fim: 07/11 | Joel Soares | Miguel de Frias|
@@ -185,14 +209,14 @@ A tabela 12 mostra as tarefas do planejamento feito para a entrega 6.1 do projet
 | Verificação e Relato artefatos etapa 1 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 | Caio lelis e Guilherme Basilio  |Doan Filho  |
 | Verificação e Relato artefatos etapa 2 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 | Caio Braga e Joel Soares | Caio Lelis  |
 | Verificação e Relato artefatos etapa 3 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 | Doan Filho e Gabriel Barbosa | Caio Braga |
-| Verificação e Relato artefatos etapa 4 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 |  Miguel Matos e Caio lelis   | Joel Soares  |
+| Verificação e Relato artefatos etapa 4 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 |  Miguel de Frias e Caio lelis   | Joel Soares  |
 | Verificação e Relato artefatos etapa 5 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 |Guilherme Basilio e Caio Braga  | Gabriel Barbosa |
-| Ajustes artefatos etapa 1 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 | Doan Filho e Miguel Matos | Guilherme Basilio |
+| Ajustes artefatos etapa 1 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 | Doan Filho e Miguel de Frias | Guilherme Basilio |
 | Ajustes artefatos etapa 2 |Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 |Gabriel Barbosa e Guilherme Basilio | Doan Filho |
 | Ajustes artefatos etapa 3 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 |Joel Soares e Caio Braga | Caio Lelis |
-| Ajustes artefatos etapa 4 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 | Caio Braga e Doan Filho | Miguel Matos |
+| Ajustes artefatos etapa 4 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 | Caio Braga e Doan Filho | Miguel de Frias |
 | Ajustes artefatos etapa 5 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 |Caio Lelis e Joel Soares | Doan Filho |
-| Atualizar GitPage | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 |Doan Filho e Guilherme Basilio|Miguel Matos  |
+| Atualizar GitPage | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 |Doan Filho e Guilherme Basilio|Miguel de Frias  |
 | Gravação da Apresentação | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 |  Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
 | Postagem da Apresentação | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 | Joel Soares | Miguel de Frias|
 | Cronograma Executado | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 | Miguel de Frias | Doan FIlho |
@@ -211,7 +235,7 @@ A tabela 14 mostra as tarefas do planejamento feito para a entrega 7 do projeto.
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
 |--------|----------------------------|--------------------|-------------|--------|
 | Protótipo de papel | Início: 16/11 <br> Fim: 21/11 | Início: 21/11 <br> Fim: 22/11 | Caio Braga e Gabriel Barbosa | Doan Filho |
-| Relato dos resultados do Protótipo de Papel | Início: 16/11 <br> Fim: 21/11 | Início: 21/11 <br> Fim: 22/11 | Doan Filho e Miguel Matos  | Caio Braga |
+| Relato dos resultados do Protótipo de Papel | Início: 16/11 <br> Fim: 21/11 | Início: 21/11 <br> Fim: 22/11 | Doan Filho e Miguel de Frias  | Caio Braga |
 | Planejamento da avaliação do protótipo de alta fidelidade | Início: 16/11 <br> Fim: 21/11 | Início: 21/11 <br> Fim: 22/11 | Guilherme Basilio | Joel Soares  |
 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 16/11 <br> Fim: 21/11 | Início: 21/11 <br> Fim: 22/11 | Joel Soares | Caio Braga |
 | Atualizar GitPage | Início: 16/11 <br> Fim: 21/11 | Início: 21/11 <br> Fim: 22/11 | Caio Braga e Caio Lelis | Doan Filho  |
@@ -232,7 +256,7 @@ A tabela 16 mostra as tarefas do planejamento feito para a entrega 8 do projeto.
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
 |--------|----------------------------|--------------------|-------------|--------|
-| Planejamento de verificação dos artefatos da entrega 7 | Início: 23/11 <br> Fim: 26/11 | Início: 26/11 <br> Fim: 27/11| Doan Filho e Miguel Matos | Caio Braga |
+| Planejamento de verificação dos artefatos da entrega 7 | Início: 23/11 <br> Fim: 26/11 | Início: 26/11 <br> Fim: 27/11| Doan Filho e Miguel de Frias | Caio Braga |
 | Relato da verificação da Etapa 7 e ajustes nos artefatos | Início: 23/11 <br> Fim: 26/11| Início: 26/11 <br> Fim: 27/11 | Caio Braga | Guilherme Basilio  |
 | Relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 23/11 <br> Fim: 26/11| Início: 26/11 <br> Fim: 27/11| Caio Lelis | Joel Soares  |
 | Atualizar GitPage | Início: 23/11 <br> Fim: 26/11 | Início: 26/11 <br> Fim: 27/11| Caio Braga e Caio Lelis | Doan Filho  |
@@ -253,15 +277,15 @@ A tabela 18 mostra as tarefas do planejamento feito para a entrega 6.2 do projet
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
 |--------|----------------------------|--------------------|-------------|--------|
-| Verificação e Relato <br> artefatos etapa 1 | Início: 28/11 <br> Fim: 29/11 | Início: 29/11 <br> Fim: 29/11 | Caio Braga e Caio Lelis | Miguel Matos |
+| Verificação e Relato <br> artefatos etapa 1 | Início: 28/11 <br> Fim: 29/11 | Início: 29/11 <br> Fim: 29/11 | Caio Braga e Caio Lelis | Miguel de Frias |
 | Verificação e Relato <br> artefatos etapa 2 | Início: 28/11 <br> Fim: 29/11 | Início: 29/11 <br> Fim: 29/11 | Doan Filho e Gabriel Barbosa | Joel Soares |
 | Verificação e Relato<br>  artefatos etapa 3 | Início: 28/11 <br> Fim: 29/11 | Início: 29/11 <br> Fim: 29/11 | Guilherme Basilio e Joel Soares| Gabriel Barbosa |
-| Verificação e Relato <br> artefatos etapa 4 | Início: 28/11 <br> Fim: 29/11 | Início: 29/11 <br> Fim: 29/11 | Miguel Matos e Caio Braga | Guilherme Basilio |
+| Verificação e Relato <br> artefatos etapa 4 | Início: 28/11 <br> Fim: 29/11 | Início: 29/11 <br> Fim: 29/11 | Miguel de Frias e Caio Braga | Guilherme Basilio |
 | Verificação e Relato<br> artefatos etapa 5 | Início: 28/11 <br> Fim: 29/11 | Início: 29/11 <br> Fim: 29/11 | Caio Lelis e Doan Filho | Caio Braga |
 | Verificação e Relato<br>  artefatos etapa 7 | Início: 28/11 <br> Fim: 29/11 | Início: 29/11 <br> Fim: 29/11 | Gabriel Barbosa e Guilherme Basilio| Caio Lelis |
-| Atualizar GitPage | Início: 28/11 <br> Fim: 29/11 | Início: 29/11 <br> Fim: 29/11 | Joel Soares e Miguel Matos | Doan Filho |
+| Atualizar GitPage | Início: 28/11 <br> Fim: 29/11 | Início: 29/11 <br> Fim: 29/11 | Joel Soares e Miguel de Frias | Doan Filho |
 | Gravação da Apresentação | Início: 29/11 <br> Fim: 29/11 | Início: 29/11 <br> Fim: 29/11 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
-| Postagem da Apresentação | Início: 29/11 <br> Fim: 29/11 | Início: 29/11 <br> Fim: 29/11 | Joel Soares | Miguel de Matos|
+| Postagem da Apresentação | Início: 29/11 <br> Fim: 29/11 | Início: 29/11 <br> Fim: 29/11 | Joel Soares | Miguel de de Frias|
 | Cronograma Executado | Início: 28/11 <br> Fim: 29/11 | Início: 29/11 <br> Fim: 29/11 | Miguel Matos | Doan Filho |
 | Correções da Entrega 8 | Início: 28/11 <br> Fim: 29/11 | Início: 29/11 <br> Fim: 29/11 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
 
@@ -277,15 +301,15 @@ A tabela 11 mostra as tarefas do planejamento feito para a entrega 9 do projeto.
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
 |--------|----------------------------|--------------------|-------------|--------|
-| Planejamento de verificação dos artefatos da Etapa 8 | Início: 30/11 <br> Fim: 05/12 | Início: 05/12 <br> Fim: 06/12 | Gabriel Barbosa e Miguel Matos | Caio Braga |
+| Planejamento de verificação dos artefatos da Etapa 8 | Início: 30/11 <br> Fim: 05/12 | Início: 05/12 <br> Fim: 06/12 | Gabriel Barbosa e Miguel de Frias | Caio Braga |
 | Relato da verificação da Etapa 8 e ajustes nos artefatos | Início: 30/11 <br> Fim: 05/12 | Início: 05/12 <br> Fim: 06/12 | Doan Filho | Caio Lelis  |
 | Atualizar GitPage | Início: 30/11 <br> Fim: 05/12 | Início: 05/12 <br> Fim: 06/12 | Caio Braga e Caio Lelis | Doan FIlho  |
 | Gravação da Apresentação | Início: 05/12 <br> Fim: 05/12 | Início: 05/12 <br> Fim: 05/12 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
-| Postagem da Apresentação | Início: 05/12 <br> Fim: 05/12 | Início: 05/12 <br> Fim: 05/12| Joel Soares | Miguel Matos|
-| Cronograma Executado | Início: 30/11 <br> Fim: 05/12 | Início: 05/12 <br> Fim: 06/12 | Miguel Matos | Caio Braga  |
+| Postagem da Apresentação | Início: 05/12 <br> Fim: 05/12 | Início: 05/12 <br> Fim: 05/12| Joel Soares | Miguel de Frias|
+| Cronograma Executado | Início: 30/11 <br> Fim: 05/12 | Início: 05/12 <br> Fim: 06/12 | Miguel de Frias | Caio Braga  |
 | Correções da Entrega 6.2 | Início: 30/11 <br> Fim: 05/12 | Início: 05/12 <br> Fim: 06/12 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
 <div style="text-align: center">
-    <p> <b>Tabela 11</b>: Tarefas realizadas na Entrega 9/Final. (Fonte: Miguel Matos, 2023).</p>
+    <p> <b>Tabela 11</b>: Tarefas realizadas na Entrega 9/Final. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 
@@ -298,6 +322,8 @@ A tabela 11 mostra as tarefas do planejamento feito para a entrega 9 do projeto.
 
 | Versão | Data       |       Descrição      | Autor | Revisor |
 |:------:|:----------:|----------------------|-------|---------|
-| 1.0 | 18/09/2023 | Adicionando tópicos e estrutura base| Miguel Matos | Doan Filho |
-| 1.1 | 18/09/2023 | Planejamento das Entregas |  Miguel Matos | Doan Filho |
+| 1.0 | 18/09/2023 | Adicionando tópicos e estrutura base| Miguel de Frias | Doan Filho |
+| 1.1 | 18/09/2023 | Planejamento das Entregas |  Miguel de Frias | Doan Filho |
 | 1.2| 01/10/2023 | Adicionando atribuições de participantes |  Doan Filho |Caio Braga |
+| 1.3| 01/10/2023 | Adição do Executado da entrega 1 | Miguel de Frias | Doan Filho |
+| 2.0| 16/10/2023 | Adição do Executado da entrega 2 | Miguel de Frias | Doan Filho |
