@@ -78,6 +78,49 @@ Tabela 1: Tabela da análise hierárquica de tarefas para o objetivo "Buscar cur
     <p> Figura 3: Diagrama da análise hierárquica de tarefas para o objetivo "Buscar currículo" (Fonte: Caio Lucas) </p> 
 </div>
     
+<br>
+
+## **Árvore de Tarefas Concorrentes**
+
+A ConcurTask Tree, abreviada como CTT, é uma técnica utilizada no campo da Interação Humano-Computador (IHC) para modelar e analisar tarefas que os usuários realizam em sistemas computacionais. Essa abordagem é particularmente útil para entender como os usuários interagem com sistemas complexos e identificar possíveis problemas de usabilidade.
+
+### **Nomenclaturas utilizadas**
+
+A nomenclatura dos diagramas separa-se, basicamente, em dois conceitos importantes para efetuar corretamente a leitura do diagrama: *especificação de tarefas* e *especificação de relações entre tarefas*
+
+#### *Especificação de Tarefas*
+
+Existem 4 tipo de tarefas
+
+- Tarefa do usuário: são tarefas realizadas fora do sistema
+- Tarefa do sistema: são processamentos que o sistema faz sem interagir com o usuário
+- Tarefa interativas: são tarefas que acontecem através da interação entre o sistema e o usuário
+- Tarefa abstratas: São a representação da composição de tarefas que dá auxilio a decomposição
+
+#### *Especificação de relações entre tarefas*
+
+Segundo Barbosa e Diniz (2021), existem 8 tipos de relações entre tarefas no diagrama CTT, contudo, no trabalho nos limitamos a utilizar apenas 4 tipos de relações, que são:
+
+• *Ativação*:	T1	>>	T2	significa	que	a	segunda	tarefa	(T2)	só	pode	iniciar	
+após	a	primeira	tarefa	(T1)	terminar
+
+• *Ativação	com	passagem	de	informação*:	T1	[	]	>>	T2	especifica	que,	
+além	de	T2	só	poder	ser	iniciada	após	T1,	a	informação	produzida	
+por	T1	é	passada	para	T2
+
+• *Escolha (tarefas	alternativas)*:	T1	[	]	T2	especifica	duas	tarefas	que	
+estejam	habilitadas	num	momento,	mas	que,	uma	vez	que	uma	
+delas	é	iniciada,	a	outra	é	desabilitada
+
+• *Tarefas	concorrentes*:	T1	|||	T2	especifica	que	as	tarefas	podem	ser	
+realizadas	em	qualquer	ordem	ou	ao	mesmo	tempo
+
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/heatMap.png" style="width:20vw"/>
+    <p> Figura 1 - Heatmap do Grupo 3. Fonte: Autores </p> 
+</div>
+
 
 ## **Bibliografia**
 
