@@ -42,12 +42,9 @@ A análise hierárquica de tarefas possui os seguintes elementos:
 
 Esta análise pode ser implementada em formato de tabela, ou por um diagrama conforme a notação a seguir:
 
-
-
-
 <div align="center">
-    <img src="" style="width:60vw"/>
-    <p> Figura 3 - Especificações do CTT. Fonte: Autores </p> 
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/elementos_hta.png" style="width:60vw"/>
+    <p> Figura 1 - Elementos HTA - Faixa etária. Fonte: Autores </p> 
 </div>
 
 ## Análise de Tarefas
