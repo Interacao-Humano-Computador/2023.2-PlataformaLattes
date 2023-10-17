@@ -64,8 +64,8 @@ Nessa tarefa o usuário tem o objetivo de buscar currículo conforme dados selec
 | 0.0 Buscar currículo | **Input:** Acesso à opção "Buscar currículo" na tela inicial do site <br> **Feedback:** Tela de busca com informações e campos em branco <br> **Plano:** Definir como a busca por currículo pode ser aprimorada |
 | 1.0 Busca Normal  | plano: definir tipo de busca  |
 | 2.0 Busca avançada  | plano: definir tipo de busca  |
-| 1.1 Busca nome | plano: buscar curriculo pelo nome  |
-| 1.2 Busca assunto | plano: buscar curriculo pelo nome  |
+| 1.1 Busca nome |   |
+| 1.2 Busca assunto |   |
 | 2.1 Construir consulta   |              |
 | 2.2 Aplicar filtros   |    |
 | 1.3 Aplicar filtros/referências  |   |
