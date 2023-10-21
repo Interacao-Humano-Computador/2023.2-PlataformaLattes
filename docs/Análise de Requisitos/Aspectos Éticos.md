@@ -14,7 +14,9 @@ A ética é o estudo dos princípios morais que orientam o comportamento humano,
 
 ## **Termo de consentimento para entrevista com Usuários**
 
-Eu, [SEU NOME], concordo em participar de uma entrevista a ser conduzida por [NOME DO PESQUISADOR] para fins de pesquisa sobre o uso do site Lattes CNPq para a matéria de Interação Humano Computador. Eu entendo que a entrevista será realizada com o propósito de coletar informações sobre minha experiência, opiniões e percepções em relação ao tópico da pesquisa. 
+[Termo de consentimento](https://unbbr-my.sharepoint.com/:w:/g/personal/211061645_aluno_unb_br/EUZaSOp-u5VBs1zdaqRbHbgBzHhy-r2WnmNvWRohQTtfBg?e=gRm35H)
+
+Concordo em participar de uma entrevista a ser conduzida por [NOME DO PESQUISADOR] para fins de pesquisa sobre o uso do site Lattes CNPq para a matéria de Interação Humano Computador. Eu entendo que a entrevista será realizada com o propósito de coletar informações sobre minha experiência, opiniões e percepções em relação ao tópico da pesquisa. 
 
 **PROCEDIMENTOS**:
 
@@ -63,4 +65,4 @@ Agradecemos sua disposição em ajudar para esta pesquisa acadêmica. Seu apoio 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- |--- | ---|---|
-| 1.0 | 21/10/2023 | Criação do documento | Guilherme Basilio | Doan Filho |
+| 1.0 | 21/10/2023 | Criação do documento | Guilherme Basilio | Doan Filho | 21/10/2023 |
