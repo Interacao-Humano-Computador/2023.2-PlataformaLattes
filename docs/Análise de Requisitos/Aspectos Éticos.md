@@ -48,8 +48,6 @@ Nome do Participante: ___________________
 
 Assinatura do Participante: _________________
 
-Data: __ /__ /___
-
 Agradecemos sua disposição em ajudar para esta pesquisa acadêmica. Seu apoio é essêncial para o sucesso desta pesquisa.
 
 <div align="center">
