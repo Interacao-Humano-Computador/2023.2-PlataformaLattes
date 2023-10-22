@@ -25,7 +25,7 @@ Teremos reuniões para revisão e planejamento, sendo elas:
 - Reuniões de Planejamento (Planning) serão às quintas das 21:00 até 22:00
 - Dailys serão assincronas 
 
-
+[**Metodologia**](http://127.0.0.1:8000/Planejamento/metodologia/) detalhada. 
 
 ## **Histórico de Versões**
 
