@@ -12,17 +12,21 @@ Os benefícios das Personas são diversos. Elas ajudam a concentrar as decisões
 
 Após adquirir e organizar informações na fase de elicitação de requisitos e coleta de dados, são criadas personas fictícias, porém representativas. Cada persona é uma personificação dos dados e das características dos usuários daquele contexto. As personas são detalhadas com informações demográficas, comportamentais, metas, desafios e outras características relevantes. Esses detalhes humanizam a persona, tornando-a mais real e fácil de entender.
 
+De acordo com Courage e Baxter (2005), ao criar personas, é essencial ser criterioso na escolha do número de personas a serem desenvolvidas. Eles destacam a importância de que as personas sejam facilmente memoráveis, o que pode ser alcançado por meio da restrição do elenco de personas. Se houver um grande número de personas que representem diferentes grupos de usuários, há o risco de que elas se confundam na mente dos designers e desenvolvedores, diminuindo assim a eficácia dessa técnica. No entanto, é fundamental que o elenco de personas cubra os principais grupos de usuários, a fim de contribuir para o desenvolvimento de um produto que atenda a todas as necessidades. Optar por ter apenas uma persona pode resultar na exclusão de informações valiosas de usuários finais que não se encaixam no mesmo grupo. Portanto, é comum recomendar que o elenco de personas inclua três personas primárias (Courage & Baxter, 2005).
+
+Assim, para esse projeto, foram então seguidas as recomendações. Foram criadas três personas primárias mais uma anti-persona.
 
 ## **Perfis**
 
 | Características |  Descrição  |
 | :-----:  | :-----: |
-| Idade  | Entre 18 e 25 anos (Jovens) |
-| Experiência | Novatos|
+| Idade  | Entre 18 a 65 anos (Jovens/Idosos) |
+| Experiência | Novatos e Veteranos|
 | Atitudes | Tecnófilo |
 | Escolaridade | Ensino superior incompleto |
 | Residência | Brasil |
 | Tarefas primárias | Busca por currículo e pesquisa |
+| Descrição de Hardware | Windows, macOS, Linux, Android|
 
 
 ## **Tabela de personas**
@@ -67,11 +71,26 @@ Tabela 2: Segunda persona. (SOARES, Joel 2023)
 | Descrição | Renato Abreu, 65 anos, Aposentado, reside em Florianópolis-SC|
 | Tipo | Persona primária |
 | Informações |  Ao longo de sua carreira como engenheiro civil, Renato trabalhou em uma variedade de projetos de construção e desenvolvimento de infraestrutura em toda a região. Ele ocupou cargos de alta responsabilidade e acumulou vasta experiência em gestão de projetos. |
-| Habilidades | Renato tem um conhecimento básico sobre a plataforma Lattes, principalmente devido à sua exposição ao mundo acadêmico durante sua carreira profissional e ao interesse em pesquisa e desenvolvimento na engenharia civil.
-Ele entende que o Lattes é uma plataforma usada por acadêmicos e pesquisadores para apresentar suas realizações e projetos de pesquisa. |
+| Habilidades | Renato tem um conhecimento básico sobre a plataforma Lattes, principalmente devido à sua exposição ao mundo acadêmico durante sua carreira profissional e ao interesse em pesquisa e desenvolvimento na engenharia civil. Ele entende que o Lattes é uma plataforma usada por acadêmicos e pesquisadores para apresentar suas realizações e projetos de pesquisa. |
 | Expectativas | Renato está interessado em usar a plataforma Lattes para manter-se atualizado sobre os avanços e as pesquisas em sua área de engenharia civil, mesmo após sua aposentadoria. |
 
 Tabela 3: Terceira persona. (SOARES, Joel 2023)
+
++ **Eduardo Aragão**
+
+|    |    |
+| :----: | :---------------------: |
+|  Nome  | Eduardo Aragão |
+|  Foto  | <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/img/Persona4.png" width = 100px"> |
+| Descrição | Eduardo Aragão, 12 anos, estudante em unidade pública, reside em Guará-DF|
+| Tipo | Anti-Persona |
+| Informações | Eduardo Aragão é um menino de 12 anos que mora na região de Guará, no Distrito Federal. Ele está no início da adolescência e atualmente cursa o ensino fundamental. Eduardo é uma anti persona no contexto da plataforma Lattes, pois, devido à sua idade e estágio de educação, não tem motivo nem necessidade de usar a plataforma. |
+| Habilidades | Eduardo está em fase de aprendizado acadêmico básico, e suas habilidades estão principalmente focadas em matérias como matemática, língua portuguesa, ciências e outras disciplinas do ensino fundamental. |
+| Expectativas | Eduardo não tem expectativas relacionadas à plataforma Lattes, pois seu foco principal está em seu desenvolvimento acadêmico de nível fundamental. |
+
+Tabela 4: Quarta persona. (SOARES, Joel 2023)
+
+
 
 ## **Bibliografia**
 
@@ -85,7 +104,9 @@ Tabela 3: Terceira persona. (SOARES, Joel 2023)
 
 ## **Histórico de versão**
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| :-: | :-: | :-: | :-: | :-:|
-| 1.0 | 16/10/2023 | Criação do documento | Joel Soares | Doan Filho |
-| 1.0 | 16/10/2023 | Ajeitando Documento | Joel Soares e Guilherme Basilio | Doan Filho |
+
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Criação dos documentos e adição das imagens |  Joel Soares   |   16/10/2023   | Doan Filho  |       16/10/2023      |
+|  1.1   | Mudanças e ajustes no Documento |  Joel Soares e Guilherme Basilio   |   16/10/2023   | Doan Filho  |       16/10/2023      |
+|  1.2   | Justificativa da quantidade de personas + anti-persona |  Joel Soares  |   22/10/2023   |   |       --/--/2023      |
