@@ -1,4 +1,6 @@
-# **introdução**
+# **Metas de Usabilidade**
+
+## **introdução**
 
 Este documento tem como propósito estabelecer os critérios de usabilidade, que desempenham um papel fundamental na determinação dos aspectos que devem ser priorizados no processo de design. Além disso, ele descreve o processo de avaliação que ocorrerá durante o desenvolvimento do projeto e define quais padrões são considerados aceitáveis ou inaceitáveis.
 
@@ -52,3 +54,4 @@ Definida como o sistema auxilia o usuário a realizar as suas tarefas.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- |--- | ---|---|
 | 1.0 | 21/10/2023 | Criação do documento e introdução | Guilherme Basilio | Miguel de Frias |  |
+| 1.1 | 22/10/2023 | Adicionando título ao artefato | Guilherme Basilio | Miguel de Frias |  |
