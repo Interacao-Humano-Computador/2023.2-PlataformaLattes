@@ -125,8 +125,6 @@ Foi adotada uma avaliação com base nas heurísticas de [Nielsen](https://www.n
 
 ## **Histórico de Versões**
 
-| Versão | Data       | Descrição            | Autor          | Revisor        |
-|--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 01/10/2023 | Versão inicial       | Doan Filho, Joel Soares e Gabriel Barbosa  | Miguel de Frias |
-| 1.1    | 01/10/2023 | Sites avaliados      | Doan Filho, Caio Braga e Gabriel Barbosa | Miguel de Frias |
-
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   |Versão Inicial |   Doan Filho, Joel Soares e Gabriel Barbosa   |   01/10/2023   | Caio Braga   |       02/10/2023      |
