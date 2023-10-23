@@ -63,6 +63,6 @@ Agradecemos sua disposição em ajudar para esta pesquisa acadêmica. Seu apoio 
 
 ## **Histórico de versão**
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| --- | --- |--- | ---|---|
-| 1.0 | 21/10/2023 | Criação do documento | Guilherme Basilio | Doan Filho | 21/10/2023 |
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+| 1.0    | Criação de aspectos éticos  | Guilherme Basilio  | 21/10/2023 | Doan Filho  | 22/10/2023 |

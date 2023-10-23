@@ -46,6 +46,6 @@ OBSx: Requisito nºx elicitado pela introspecção.
 
 ## **Histórico de Versões**
 
-| Versão | Data       | Descrição            | Autor          | Revisor        |
-|--------|:----------:|----------------------|----------------|--------------- |
-| 1.0  | 16/10/2023 | Criando o artefato | Guilherme Basilio, Miguel de Frias | Doan Filho |
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+| 1.0    | Criação de Observação | Guiçherme Basilio e Miguel de Farias | 16/10/2023 | Doan Filho  | 16/10/2023 |

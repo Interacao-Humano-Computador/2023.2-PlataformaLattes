@@ -30,7 +30,6 @@
 
 ## **Histórico de Versões**
 
-| Versão | Data       | Descrição            | Autor          | Revisor        |
-|:------:|:----------:|----------------------|----------------|--------------- |
-| 1.0    | 29/09/2023 | Versão inicial       | [Doan Filho](https://github.com/FilhoDoan) | [Miguel Matos](https://github.com/migueldefrias)  |
-
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   |Versão Inicial |   Doan Filho  |   29/09/2023   | Miguel Matos  |       02/10/2023      |
