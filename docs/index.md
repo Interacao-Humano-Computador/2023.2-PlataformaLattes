@@ -25,6 +25,6 @@ Além disso, esta página serve como um arquivo para as atas de nossas reuniões
 
 ## **Histórico de Versões**
 
-| Versão | Data       | Descrição            | Autor          | Revisor          |
-|--------|------------|----------------------|----------------|----------------|
-| 1.0    | 23/09/2023 | Versão inicial       | [Doan Filho](https://github.com/FilhoDoan)  | [Caio Braga](https://github.com/caioalvesbraga)  |
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+| 1.0    | Versão Inicial  | Doan Filho | 21/09/2023 | Caio Braga  | 23/09/2023 |

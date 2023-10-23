@@ -126,7 +126,6 @@ Após realizar as pesquisas citadas, o grupo definiu o seguinte perfil de usuár
 
 ## **Histórico de versão**
 
-| Versão | Data       |       Descrição      | Autor | Revisor |
-|:------:|:----------:|----------------------|-------|---------|
-| 1.0 | 16/10/2023 | Criação dos documentos e adição das imagens| Joel Soares | Doan Filho|
-| 1.0 | 16/10/2023 | Mudanças e ajustes no Documento|Doan Filho | Joel Soares|
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+| 1.0    | Criação de perfil de usuário  | Joel Soares | 16/10/2023 | Doan Filho  | 16/10/2023 |

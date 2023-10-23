@@ -109,6 +109,6 @@ style="text-align: center">
 
 ## **Histórico de versão**
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| --- | --- |--- | ---|---|
-| 1.0 | 16/10/2023 | Criação do documento | Gabriel Barbosa |Doan Filho|
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+| 1.0    | Criação de cenários  | Gabriel Barbosa | 16/10/2023 | Doan Filho  | 16/10/2023 |

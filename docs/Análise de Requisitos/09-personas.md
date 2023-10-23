@@ -89,3 +89,11 @@ Tabela 3: Terceira persona. (SOARES, Joel 2023)
 | :-: | :-: | :-: | :-: | :-:|
 | 1.0 | 16/10/2023 | Criação do documento | Joel Soares | Doan Filho |
 | 1.0 | 16/10/2023 | Ajeitando Documento | Joel Soares e Guilherme Basilio | Doan Filho |
+
+
+
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+| 1.0    | Criação de personas   | Joel Soares| 16/10/2023 | Doan Filho  | 16/10/2023 |
+| 1.1    | Criação HTA  | Caio lelis e Joel Soares | 16/10/2023 | Guilherme Basilio  | 16/10/2023 |
+| 1.2    | Criação CTT  | Caio Braga | 16/10/2023 | Gabriel   | 16/10/2023 |
