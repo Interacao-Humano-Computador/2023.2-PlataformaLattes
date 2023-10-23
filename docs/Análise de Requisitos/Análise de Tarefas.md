@@ -77,6 +77,22 @@ Tabela 1: Tabela da análise hierárquica de tarefas para o objetivo "Buscar cur
     
 <br>
 
+## Buscar instituição
+
+Nessa tarefa o usuário tem o objetivo de buscar uma instituição conforme dados selecionados para busca.
+
+
+| Objetivos/Operações | Problemas/Recomendações |
+|--------------------|------------------------|
+| 0.0 Buscar instituição | **Input:** Acesso à opção "Buscar instituição" na tela inicial do site <br> **Feedback:** Tela de Diretório de instituições <br> **Plano:** Definir como a busca por instituição pode ser aprimorada |
+| 1.0 Página inicial  | plano: apresentar a página "Diretório de Instituições" para o usuário  |
+| 2.0 Busca  | plano: definir tipo de busca  |
+| 2.1 Busca pelo nome e/ou sigla | plano: instituição pelo nome e/ou sigla cadastrado  |
+| 2.2 Busca CNPJ | plano: buscar instituição pelo CNPJ |
+| 3.0 Demonstação dos resultados   | plano: Demonstrar uma lista de resultados para o usuário, aonde poderá selecionar a instituição que desejar para obter mais informações             |
+
+Tabela 2: Tabela da análise hierárquica de tarefas para o objetivo "Buscar currículo" (Fonte: Caio Lucas)
+
 ## **Árvore de Tarefas Concorrentes**
 
 A ConcurTask Tree, abreviada como CTT, é uma técnica utilizada no campo da Interação Humano-Computador (IHC) para modelar e analisar tarefas que os usuários realizam em sistemas computacionais. Essa abordagem é particularmente útil para entender como os usuários interagem com sistemas complexos e identificar possíveis problemas de usabilidade.
@@ -156,6 +172,17 @@ A tarefa "Buscar currículo" consiste basicamente em buscar as informações de 
     <p> Figura 6 - Análise da Tarefa de "Buscar currículo". Fonte: Autores </p> 
 </div>
 
+### *Análise de Tarefa CTT 4: Buscar instituição*
+
+A tarefa "Buscar instituição" consiste basicamente em buscar as informações de uma instituição já cadastrada anteriormente no sistema. Na figura 7 está a análise detalhada representada em diagrama.
+
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/buscar_instituicao.png" style="width:40vw"/>
+    <p> Figura 7 - Análise da Tarefa de "Buscar instituição". Fonte: SOARES, Joel </p> 
+</div>
+
+
 
 
 ## **Bibliografia**
@@ -163,10 +190,10 @@ A tarefa "Buscar currículo" consiste basicamente em buscar as informações de 
 > [1] Barbosa, Simone Diniz Junqueira Interação humano-computador / Simone Diniz Junqueira Barbosa, Bruno Santana da Silva. – Rio de Janeiro: Elsevier, 2010. Disponível em:  https://www.amazon.com.br/Intera%C3%A7%C3%A3o-Humano-Computador-Simone-Junqueira-Barbosa/dp/8535234187 
 
 
-## Histórico de Versões
 
-| Versão | Data       |       Descrição      | Autor | Revisor |
-|:------:|:----------:|----------------------|-------|---------|
-| 1.0    | 16/10/2023 | Criação Análise de tarefas | Caio Lelis| Caio Braga |
-| 1.1    | 16/10/2023 | Adição HTA | Caio Lelis e Joel | Guilherme |
-| 1.2    | 16/10/2023 | Adição do CTT | Caio Braga | Gabriel |
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Criação Análise de tarefas |   Caio Lelis   |   16/10/2023   | Caio Braga  |       16/10/2023      |
+|  1.1   | Adição HTA |   Caio Lelis e Joel   |   16/10/2023   | Guilherme  |       16/10/2023      |
+|  1.2   | Adição do CTT |   Caio Braga   |   16/10/2023   |  Gabriel  |       16/10/2023      |
+|  1.3   | Adicionando HTA e CTT de "Buscar Instituição" |   Joel Soares   |   22/10/2023   |    |       --/--/2023      |
