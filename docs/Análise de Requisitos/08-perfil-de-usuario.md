@@ -113,11 +113,12 @@ Após realizar as pesquisas citadas, o grupo definiu o seguinte perfil de usuár
 | Características |  Descrição  |
 | :-----:  | :-----: |
 | Idade  | Entre 18 a 65 anos (Jovens/Idosos) |
-| Experiência | Novatos|
+| Experiência | Novatos e Veteranos|
 | Atitudes | Tecnófilo |
 | Escolaridade | Ensino superior incompleto |
 | Residência | Brasil |
 | Tarefas primárias | Busca por currículo e pesquisa|
+| Descrição de Hardware | Windows, macOS, Linux, Android|
 
 ## **Bibliografia**
 
@@ -128,4 +129,6 @@ Após realizar as pesquisas citadas, o grupo definiu o seguinte perfil de usuár
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-| 1.0    | Criação de perfil de usuário  | Joel Soares | 16/10/2023 | Doan Filho  | 16/10/2023 |
+|  1.0   | Criação dos documentos e adição das imagens |  Joel Soares   |   16/10/2023   | Doan Filho  |       16/10/2023      |
+|  1.1   | Mudanças e ajustes no Documento |  Doan Filho   |   16/10/2023   | Joel Soares  |       16/10/2023      |
+|  1.2   | Adicionando descrição de Hardware |  Joel Soares   |   22/10/2023   ||       --/--/2023      |
