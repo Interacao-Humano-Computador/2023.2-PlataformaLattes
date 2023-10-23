@@ -44,9 +44,9 @@ IPCx: Requisito nºx elicitado pela introspecção.
 </div>
 
 ## **Bibliografia**
-
-- SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 16 de outubro de 2023.
-- 1library. Engenharia de Requisitos. Disponívem em: <<https://1library.org/article/an%C3%A1lise-de-documentos-t%C3%A9cnicas-para-elicita%C3%A7%C3%A3o-de-requisitos.qor9dxjq>>. Acesso em: 16 de outubro 2023.
+> [1] "Nome do site", Disponivel em: [link ddo site], acesso em 04 de Outubro de 2023
+> [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 16 de outubro de 2023.
+> [2] 1library. Engenharia de Requisitos. Disponívem em: <<https://1library.org/article/an%C3%A1lise-de-documentos-t%C3%A9cnicas-para-elicita%C3%A7%C3%A3o-de-requisitos.qor9dxjq>>. Acesso em: 16 de outubro 2023.
 
 
 ## **Histórico de Versões**

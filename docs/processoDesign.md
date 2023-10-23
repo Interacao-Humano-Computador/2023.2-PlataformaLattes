@@ -114,9 +114,9 @@ Após analisar minuciosamente os modelos mencionados anteriormente, o grupo deli
 
 ## **Bibliografia**
 
-> [1] Processos de Design de IHC Capítulo 4 – parte 1. Disponível em: http://thiagov.github.io/resources/ihc/aula4.pdf
+> [1] Processos de Design de IHC Capítulo 4 – parte 1. Disponível em: http://thiagov.github.io/resources/ihc/aula4.pdf - acesso em: 02 de outubro de 2023.
 
-> [2] Slide de aula do professor João Queiroz. Disponível em: https://docente.ifrn.edu.br/joaoqueiroz/disciplinas/ihc-interacao-humano-computador/aulas/aula-5
+> [2] Slide de aula do professor João Queiroz. Disponível em: https://docente.ifrn.edu.br/joaoqueiroz/disciplinas/ihc-interacao-humano-computador/aulas/aula-5 - acesso em: 02 de outubro de 2023.
 
 
 ## **Histórico de Versões**
