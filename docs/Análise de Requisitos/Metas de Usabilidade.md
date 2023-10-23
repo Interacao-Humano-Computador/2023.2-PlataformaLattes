@@ -4,7 +4,7 @@
 
 Este documento tem como propósito estabelecer os critérios de usabilidade, que desempenham um papel fundamental na determinação dos aspectos que devem ser priorizados no processo de design. Além disso, ele descreve o processo de avaliação que ocorrerá durante o desenvolvimento do projeto e define quais padrões são considerados aceitáveis ou inaceitáveis.
 
-Para alcançar esses padrões de usabilidade, são definidas as Metas de Usabilidade. Essas metas são os pilares que permitem atingir as características de qualidade previamente mencionadas. Neste projeto, focaremos nas seguintes metas: Aprendizado, Eficiência, Eficácia, Memorização, Segurança, Utilidade. Cada uma dessas metas desempenha um papel vital na busca por sistemas que sejam intuitivos, eficazes e agradáveis para os usuários.
+Para alcançar esses padrões de usabilidade, são definidas as Metas de Usabilidade. Essas metas são os pilares que permitem atingir as características de qualidade previamente mencionadas. Neste projeto, focaremos nas seguintes metas: Aprendizado, Eficiência, Eficácia, Memorização, Segurança, Utilidade que são as metas de usabilidade definidas pelo pesquisador Nielsen. Cada uma dessas metas desempenha um papel vital na busca por sistemas que sejam intuitivos, eficazes e agradáveis para os usuários. 
 
 ## **Metodologia**
 
@@ -44,7 +44,9 @@ Definida qual a eficácia do sistema em ajudar o usuário a executar suas tarefa
 
 #### No sistema
 
-O sistema atualmente não se apresenta eficiente em relação a algumas funcionalidades. Embora os usuários sejam capazes de concluir as principais atividades relacionadas ao registro de informações acadêmicas e profissionais, existem oportunidades para simplificar ainda mais o processo. Por exemplo, otimizar o preenchimento de campos e reduzir a quantidade de etapas necessárias para realizar tarefas comuns pode melhorar significativamente a eficiência e a fluidez da experiência do usuário. Portanto, há espaço para aprimoramentos neste aspecto.
+O sistema atualmente não se apresenta eficiente em relação a algumas funcionalidades. Embora os usuários sejam capazes de concluir as principais atividades relacionadas ao registro de informações acadêmicas e profissionais, existem oportunidades para simplificar ainda mais o processo. Por exemplo, otimizar o preenchimento de campos e reduzir a quantidade de etapas necessárias para realizar tarefas comuns pode melhorar significativamente a eficiência e a fluidez da experiência do usuário como podemos notar na figura 1.
+
+<font size="2"><p style="text-align: center">Figura 1: Meta de usabilidade Eficiência </p></font>
 
 ### **3. Segurança**
 
@@ -52,7 +54,37 @@ Definida como o sistema consegue manter o usuário seguro, evitando situações 
 
 #### No sistema
 
-O sistema Lattes CNPQ já incorpora algumas precauções de segurança, como a criptografia de dados e a autenticação por nome de usuário e senha. Uma medida adicional de segurança recomendada é a implementação da autenticação de dois fatores para todos os usuários, adicionando uma camada extra de proteção contra possíveis ataques. Além disso, é fundamental que o sistema exija que os usuários criem senhas robustas e exclusivas. Vale ressaltar que a página de login carece de uma boa responsividade, o que pode afetar a experiência do usuário em dispositivos móveis ou com telas menores. Portanto, é importante aprimorar a capacidade de resposta da página de login.
+O sistema Lattes CNPQ já incorpora algumas precauções de segurança, como a criptografia de dados e a autenticação por nome de usuário e senha. Uma medida adicional de segurança recomendada é a implementação da autenticação de dois fatores para todos os usuários, adicionando uma camada extra de proteção contra possíveis ataques. Além disso, é fundamental que o sistema exija que os usuários criem senhas robustas e exclusivas. Vale ressaltar que a página de login carece de uma boa responsividade, o que pode afetar a experiência do usuário em dispositivos móveis ou com telas menores.
+
+### **4. Utilidade**
+
+A utilidade de um sistema refere-se à sua capacidade de fornecer as funcionalidades adequadas, ou seja, se o sistema disponibiliza as ferramentas necessárias para que o usuário execute uma tarefa de forma eficaz.
+
+#### No sistema
+
+O site disponibiliza as ferramentas essenciais para que o usuário alcance com sucesso o seu objetivo final.
+
+### **5. Facilidade de aprendizado**
+
+A facilidade de aprendizado se relaciona com o tempo e esforço necessários para que o usuário adquira a habilidade de utilizar o sistema com um nível aceitável de competência e desempenho. Isso se torna especialmente relevante quando novas tecnologias de informação e comunicação são incorporadas ao cotidiano dos usuários, tornando o processo de aprendizado mais eficiente durante a realização de suas atividades.
+
+### No sistema
+
+Algumas das funcionalidades presentes no site se encontram um tanto quanto escondidas ou pouco evidentes, sendo mascaradas por elementos visuais que não são particularmente intuitivos ou atrativos. Isso pode dificultar a capacidade do usuário de encontrar o que procura, como ilustrado na Figura 2.
+
+<font size="2"><p style="text-align: center">Figura 2: Meta de usabilidade Facilidade de aprendizado</p></font>
+
+### **6. Facilidade de Recordação**
+
+A facilidade de recordação se refere à quantidade de esforço mental que um usuário precisa fazer para lembrar como usar a interface de um sistema interativo depois de tê-lo aprendido uma vez. Quando uma aplicação é facilmente memorável, os usuários conseguem evitar erros ao interagir com partes do sistema que já utilizaram anteriormente. Isso significa que eles podem recordar de forma simples e eficaz como usar o sistema, o que contribui para uma experiência mais livre de erros.
+
+### No sistema
+
+A utilização do sistema de fácil memorização, ou seja, após aprender a utilizar o sistema e se realizar as tarefas que se deseja, fica fácil mesmo após um período de inatividade recuperar os conhecimentos que se tinha antes sobre o site e lembrar o caminho para realizar as tarefas.
+
+### **Conclusão**
+
+Como já mencionado, as metas principais que foram identificadas para melhorar são Eficiência, Utilidade, Segurança e Aprendizagem. Para abordar essas áreas que precisam de ajustes, é crucial adotar uma abordagem cuidadosa e dedicada, com o objetivo de reestruturá-las e aprimorá-las ao longo da nossa análise detalhada.
 
 ## **Bibliografia**
 
@@ -64,6 +96,7 @@ O sistema Lattes CNPQ já incorpora algumas precauções de segurança, como a c
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- |--- | ---|---|
-| 1.0 | 21/10/2023 | Criação do documento e introdução | Guilherme Basilio | Miguel de Frias |  |
-| 1.1 | 22/10/2023 | Adicionando título ao artefato | Guilherme Basilio | Miguel de Frias |  |
-| 1.2 | 22/10/2023 | Adicionando eficácia, eficiência e segurança | Guilherme Basilio | Miguel de Frias |  |
+| 1.0 | 21/10/2023 | Criação do documento e introdução | Guilherme Basilio | Miguel de Frias | 23/10/2023 |
+| 1.1 | 22/10/2023 | Adicionando título ao artefato | Guilherme Basilio | Miguel de Frias | 23/10/2023 |
+| 1.2 | 22/10/2023 | Adicionando eficácia, eficiência e segurança | Guilherme Basilio | Miguel de Frias | 23/10/2023 |
+| 1.3 | 23/10/2023 | Adicionando utilidade, aprendizado e memorização | Guilherme Basilio | Miguel de Frias |  |
