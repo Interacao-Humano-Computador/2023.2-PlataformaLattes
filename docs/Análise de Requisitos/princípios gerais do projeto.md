@@ -60,13 +60,13 @@ Garantir que as informações e ações sejam visíveis para os usuários é ess
 É essencial projetar levando em consideração a ocorrência de erros. Isso significa que o sistema deve ser à prova de falhas e permitir que os usuários se recuperem facilmente de erros. Mensagens de erro devem ser claras e informativas, indicando o que deu errado e sugerindo soluções quando possível. Além disso, operações irreversíveis devem ser evitadas, e os usuários devem ser capazes de desfazer ações facilmente, reduzindo a ansiedade e o medo de cometer erros.
 </p>
 
-## Conteúdo Relevante e expressão adequada
+## **Conteúdo Relevante e expressão adequada**
 
 <p align="justify">
 As interfaces devem fornecer informações relevantes e claras, evitando sobrecarregar os usuários com informações desnecessárias. Além disso, a legibilidade do texto e o uso adequado de cores são destacados como importantes para a compreensão do conteúdo.
 </p>
 
-## Correspondência com as expectativas do usuário
+## **Correspondência com as expectativas do usuário**
 
 <p align="justify">
 O princípio de "Correspondência com as Expectativas dos Usuários" enfatiza a importância de projetar sistemas de forma a coincidir com as expectativas naturais dos usuários. Isso significa garantir que os usuários possam facilmente entender como suas intenções se traduzem em ações dentro do sistema, como suas ações afetam o sistema e como o sistema reflete seu estado real
