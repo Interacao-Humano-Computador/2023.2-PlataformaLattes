@@ -50,7 +50,7 @@ O sistema atualmente não se apresenta eficiente em relação a algumas funciona
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/Eficiencia.png" style="width:60vw"/>
 </div>
 
-<font size="2"><p style="text-align: center">Figura 1: Meta de usabilidade Eficiência </p></font>
+<font size="2"><p style="text-align: center">Figura 1: Meta de usabilidade Eficiência (fonte: [Lattes CNPQ](https://lattes.cnpq.br))</p></font>
 
 ### **3. Segurança**
 
@@ -80,7 +80,7 @@ Algumas das funcionalidades presentes no site se encontram um tanto quanto escon
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/Aprendizado.png" style="width:60vw"/>
 </div>
 
-<font size="2"><p style="text-align: center">Figura 2: Meta de usabilidade Facilidade de aprendizado</p></font>
+<font size="2"><p style="text-align: center">Figura 2: Meta de usabilidade Facilidade de aprendizado (fonte: [Lattes CNPQ](https://lattes.cnpq.br))</p></font>
 
 ### **6. Facilidade de Recordação**
 
