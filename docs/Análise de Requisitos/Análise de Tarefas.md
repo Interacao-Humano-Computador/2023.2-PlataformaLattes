@@ -91,9 +91,9 @@ Nessa tarefa o usuário tem o objetivo de buscar uma instituição conforme dado
 | 2.2 Busca CNPJ | plano: buscar instituição pelo CNPJ |
 | 3.0 Demonstação dos resultados   | plano: Demonstrar uma lista de resultados para o usuário, aonde poderá selecionar a instituição que desejar para obter mais informações             |
 
-Tabela 2: Tabela da análise hierárquica de tarefas para o objetivo "Buscar currículo" (Fonte: Caio Lucas)
+Tabela 2: Tabela da análise hierárquica de tarefas para o objetivo "Buscar instituição" (Fonte: Caio Lucas)
 
-## Depositar pesquisa
+## Depositar dados de pesquisa
 
 Nessa tarefa o usuário tem o objetivo de depositar uma pesquisa.
 
@@ -108,7 +108,23 @@ Nessa tarefa o usuário tem o objetivo de depositar uma pesquisa.
 | 4.0 Anexos | Permitir ao usuário anexar arquivos à pesquisa, como artigos, resumos, apresentações, etc |
 | 5.0 Avaliação | Solicitar ao usuário que avalie a relevância da pesquisa |
 
-Tabela 3: Tabela da análise hierárquica de tarefas para o objetivo "Buscar currículo" (Fonte: Caio Lucas) 
+Tabela 3: Tabela da análise hierárquica de tarefas para o objetivo "Depositar dados de pesquisa" (Fonte: Guilherme Basilio) 
+
+## Buscar dados de pesquisa
+
+Nessa tarefa o usuário tem o objetivo de buscar dados de pesquisa conforme dados selecionados para busca.
+
+
+| Objetivos/Operações | Problemas/Recomendações |
+|--------------------|------------------------|
+| 0.0 Buscar instituição | **Input:** Acesso à opção "Buscar dados de pesquisa" na tela inicial do site <br> **Feedback:** Tela de consulta de pesquisas <br> **Plano:** Definir como a busca por dados de pesquisa pode seer melhorada |
+| 1.0 Página inicial  | plano: apresentar a página "Consulta de pesquisas" para o usuário  |
+| 2.0 Busca  | plano: definir tipo de busca |
+| 2.1 Busca pelo nome/palavra-chave | plano:  buscar a pesquisa pelo nome ou palavra-chave |
+| 2.2 Busca pelo autor | plano: buscar pesquisa pelo autor |
+| 3.0 Demonstação dos resultados   | plano: Demonstrar uma lista de resultados para o usuário, aonde poderá selecionar os dados de pesquisa para obter mais informações sobre a mesma  |
+
+Tabela 4: Tabela da análise hierárquica de tarefas para o objetivo "Buscar dados de pesquisa" (Fonte: Miguel de Frias)
 
 ## **Árvore de Tarefas Concorrentes**
 
@@ -209,6 +225,15 @@ A tarefa "Depositar pesquisa" consiste basicamente em depositar uma pesquisa no 
     <p> Figura 8 - Análise da Tarefa de "Depositar pesquisa". Fonte: BASILIO, Guilherme </p> 
 </div>
 
+## *Análise de Tarefa CTT 5: Buscar pesquisa*
+
+A tarefa "Consiste pesquisa" consiste basicamente em buscar uma pesquisa depositada no sistema. Na figura 9 está a análise detalhada representada em diagrama.
+
+<div align="center">
+    <img src="" style="width:40vw"/>
+    <p> Figura 9 - Análise da Tarefa de "Buscar pesquisa". Fonte: de Frias, Miguel </p> 
+</div>
+
 ## **Bibliografia**
 
 > [1] Barbosa, Simone Diniz Junqueira Interação humano-computador / Simone Diniz Junqueira Barbosa, Bruno Santana da Silva. – Rio de Janeiro: Elsevier, 2010. Disponível em:  https://www.amazon.com.br/Intera%C3%A7%C3%A3o-Humano-Computador-Simone-Junqueira-Barbosa/dp/8535234187 
@@ -221,4 +246,5 @@ A tarefa "Depositar pesquisa" consiste basicamente em depositar uma pesquisa no 
 |  1.1   | Adição HTA |   Caio Lelis e Joel   |   16/10/2023   | Guilherme  |       16/10/2023      |
 |  1.2   | Adição do CTT |   Caio Braga   |   16/10/2023   |  Gabriel  |       16/10/2023      |
 |  1.3   | Adicionando HTA e CTT de "Buscar Instituição" |   Joel Soares   |   22/10/2023   |    |      --/--/2023      |
-|  1.3   | Adicionando HTA e CTT de "Depositar Pesquisa" |   Guilherme Basilio  |   23/10/2023   |    |      --/--/2023      |
+|  1.4   | Adicionando HTA e CTT de "Depositar Pesquisa" |   Guilherme Basilio  |   23/10/2023   |    |      --/--/2023      |
+|  1.5   | Adicionando HTA e CTT de "Buscar Pesquisa" |   Miguel de Frias |   23/10/2023   |    |      --/--/2023      |
