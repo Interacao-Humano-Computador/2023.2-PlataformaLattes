@@ -109,4 +109,4 @@ Tabela 4: Quarta persona. (SOARES, Joel 2023)
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação dos documentos e adição das imagens |  Joel Soares   |   16/10/2023   | Doan Filho  |       16/10/2023      |
 |  1.1   | Mudanças e ajustes no Documento |  Joel Soares e Guilherme Basilio   |   16/10/2023   | Doan Filho  |       16/10/2023      |
-|  1.2   | Justificativa da quantidade de personas + anti-persona |  Joel Soares  |   22/10/2023   |   |       --/--/2023      |
+|  1.2   | Justificativa da quantidade de personas + anti-persona |  Joel Soares  |   22/10/2023   | Doan Filho  |       23/10/2023      |

@@ -131,4 +131,4 @@ Após realizar as pesquisas citadas, o grupo definiu o seguinte perfil de usuár
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação dos documentos e adição das imagens |  Joel Soares   |   16/10/2023   | Doan Filho  |       16/10/2023      |
 |  1.1   | Mudanças e ajustes no Documento |  Doan Filho   |   16/10/2023   | Joel Soares  |       16/10/2023      |
-|  1.2   | Adicionando descrição de Hardware |  Joel Soares   |   22/10/2023   ||       --/--/2023      |
+|  1.2   | Adicionando descrição de Hardware |  Joel Soares   |   22/10/2023   |Doan Filho|       23/10/2023      |
