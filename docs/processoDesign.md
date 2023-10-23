@@ -114,16 +114,16 @@ Após analisar minuciosamente os modelos mencionados anteriormente, o grupo deli
 
 ## **Bibliografia**
 
-> [1] Processos de Design de IHC Capítulo 4 – parte 1. Disponível em: http://thiagov.github.io/resources/ihc/aula4.pdf
+> [1] Processos de Design de IHC Capítulo 4 – parte 1. Disponível em: http://thiagov.github.io/resources/ihc/aula4.pdf - acesso em: 02 de outubro de 2023.
 
-> [2] Slide de aula do professor João Queiroz. Disponível em: https://docente.ifrn.edu.br/joaoqueiroz/disciplinas/ihc-interacao-humano-computador/aulas/aula-5
+> [2] Slide de aula do professor João Queiroz. Disponível em: https://docente.ifrn.edu.br/joaoqueiroz/disciplinas/ihc-interacao-humano-computador/aulas/aula-5 - acesso em: 02 de outubro de 2023.
 
 
 ## **Histórico de Versões**
 
-| Versão | Data       | Descrição            | Autor | Revisor |
-|:------:|:----------:|----------------------|-------|---------|
-| 1.0 | 29/09/2023 | Construção processo de design | [Caio Lelis](https://github.com/caio-lelis) | [Caio Braga](https://github.com/caioalvesbraga) |
-| 1.1 | 02/09/2023| Adição de processo de design escolhido | [Caio Lelis](https://github.com/caio-lelis)|[Caio Braga](https://github.com/caioalvesbraga) |
 
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+| 1.0    | Construção processo de design  |Caio lelis | 29/09/2023 | Caio Braga  | 02/10/2023 |
+| 1.1    | Adição de processo de design escolhido  | Caio lelis | 02/10/2023 | Miguel | 02/10/2023 |
 

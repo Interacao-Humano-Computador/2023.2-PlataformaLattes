@@ -44,10 +44,7 @@ Discutimos sobre o projeto e suas tarefas definindo-as aos membros e por fim con
 
 
 ## **Histórico de Versões**
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Versão Inicial |   Doan Filho  |   23/09/2023   | Joel Soares  |  24/10/2023  |
 
-| Versão | Data       | Descrição            | Autor          | Revisor        |
-|--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 23/09/2023 | Versão inicial       | Doan Filho | Joel Soares |
-
-
----

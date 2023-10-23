@@ -49,7 +49,6 @@ Reunião para alinhar as tarefas atribuidas e refinar as tarefas que faltam
 
 ## **Histórico de Versões**
 
-| Versão | Data       | Descrição            | Autor          | Revisor        |
-|--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 16/10/2023 | Versão inicial       | Doan Filho     | Joel Soares |
-
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Versão Inicial|   Doan Filho  |   16/09/2023   | Caio Braga  |  16/10/2023  |

@@ -32,7 +32,6 @@ Reunião para ver de perto como anda o processo do projeto. Foram discutidos det
 
 ## **Histórico de Versões**
 
-| Versão | Data       | Descrição            | Autor          | Revisor        |
-|--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 28/09/2023 | Versão inicial       | Doan Filho     |   Joel Soares    |
-
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Versão Inicial|   Doan Filho  |   28/09/2023   | Caio Braga  |  29/10/2023  |
