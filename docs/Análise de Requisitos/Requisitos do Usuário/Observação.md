@@ -40,12 +40,11 @@ OBSx: Requisito nºx elicitado pela introspecção.
 | OBS15   | Deve apresentar uma interface que facilita a prevenção de erros | RNF |
 
 ## **Bibliografia**
-
-- SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 16 de outubro de 2023.
-- 1library. Engenharia de Requisitos. Disponívem em: <<https://1library.org/article/an%C3%A1lise-de-documentos-t%C3%A9cnicas-para-elicita%C3%A7%C3%A3o-de-requisitos.qor9dxjq>>. Acesso em: 16 de outubro 2023.
+> [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 16 de outubro de 2023.
+> [2] 1library. Engenharia de Requisitos. Disponívem em: <<https://1library.org/article/an%C3%A1lise-de-documentos-t%C3%A9cnicas-para-elicita%C3%A7%C3%A3o-de-requisitos.qor9dxjq>>. Acesso em: 16 de outubro de 2023.
 
 ## **Histórico de Versões**
 
-| Versão | Data       | Descrição            | Autor          | Revisor        |
-|--------|:----------:|----------------------|----------------|--------------- |
-| 1.0  | 16/10/2023 | Criando o artefato | Guilherme Basilio, Miguel de Frias | Doan Filho |
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+| 1.0    | Criação de Observação | Guiçherme Basilio e Miguel de Farias | 16/10/2023 | Doan Filho  | 16/10/2023 |

@@ -33,16 +33,14 @@ Inicialmente, debatemos sobre a escolha e a principal opção era o site da **Ca
 
 ## **Bibliografia** 
 
-[1] Plataforma Lattes, Disponível em: <https://www.lattes.cnpq.br/>, Acesso em 30 de Setembro de 2023
+> [1] Plataforma Lattes, Disponível em: <https://www.lattes.cnpq.br/>, Acesso em 30 de Setembro de 2023
 
 ## **Histórico de Versões**
 
-| Versão | Data       | Descrição            | Autor          | Revisor          |
-|--------|------------|----------------------|----------------|------------------|
-| 1.0    | 30/09/2023 | Versão inicial       | Doan Filho     |    Caio Braga           |
-| 1.0    | 02/10/2023 | Ajustes e organização      | Joel Sares     |    Gabriel      |
-
-
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Versão inicial |  Doan Filho   |   30/09/2023   | Caio Braga  |       02/10/2023      |
+|  1.1   | Versão inicial |  Joel Soares  |   02/10/2023   | Gabriel Barbosa |    02/10/2023     |
 
 
 

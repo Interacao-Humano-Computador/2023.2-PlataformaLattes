@@ -16,21 +16,20 @@
 
 ## **Bibliografia**
 
-[1] Mkdcos, Disponível em:<https://www.mkdocs.org/>, Acesso 28 de Setembro de 2023
+>[1] Mkdcos, Disponível em:<https://www.mkdocs.org/>, Acesso 28 de Setembro de 2023
 
-[2] Microsoft Teamns, Disponível em :<https://www.microsoft.com/pt-br/microsoft-teams/log-in>, Acesso 28 de Setembro de 2023
+> [2] Microsoft Teamns, Disponível em :<https://www.microsoft.com/pt-br/microsoft-teams/log-in>, Acesso 28 de Setembro de 2023
 
-[3] Visual Studio Code, Disponível em: <https://code.visualstudio.com/docs> ,  Acesso 28 de Setembro de 2023
+> [3] Visual Studio Code, Disponível em: <https://code.visualstudio.com/docs> ,  Acesso 28 de Setembro de 2023
 
-[4] This Person Does not Exist, Disponível em: <https://this-person-does-not-exist.com/en>,  Acesso 28 de Setembro de 2023 
+> [4] This Person Does not Exist, Disponível em: <https://this-person-does-not-exist.com/en>,  Acesso 28 de Setembro de 2023 
 
-[5] YouTube, Disponível em: <https://youtube.com>,  Acesso 28 de Setembro de 2023 
+> [5] YouTube, Disponível em: <https://youtube.com>,  Acesso 28 de Setembro de 2023 
 
-[7] Github, Disponível em : <https://github.com> ,  Acesso 28 de Setembro de 2023
+> [6] Github, Disponível em : <https://github.com> ,  Acesso 28 de Setembro de 2023
 
 ## **Histórico de Versões**
 
-| Versão | Data       | Descrição            | Autor          | Revisor        |
-|:------:|:----------:|----------------------|----------------|--------------- |
-| 1.0    | 29/09/2023 | Versão inicial       | [Doan Filho](https://github.com/FilhoDoan) | [Miguel Matos](https://github.com/migueldefrias)  |
-
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   |Versão Inicial |   Doan Filho  |   29/09/2023   | Miguel Matos  |       02/10/2023      |

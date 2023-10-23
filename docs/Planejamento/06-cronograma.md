@@ -9,6 +9,10 @@
 <p align="justify">
 
 &emsp;&emsp;Este documento é referente ao cronograma que será seguido pela equipe no semestre 2023.2 na disciplina de Interação Humano Computador, ministrada pelo professor André Barros de Sales, com a finalidade de estudar a plataforma Lattes. Este documento possui um objetivo inicial de organizar todas as tarefas que deverão ser realizadas no decorrer do semestre e também destacar os principais tópicos a serem abordados, as tarefas necessárias e a devida alocação de tempo para cada entrega do projeto.
+| Versão | Data       | Descrição            | Autor          | Revisor          |
+|--------|------------|----------------------|----------------|------------------|
+| 1.0    | 30/09/2023 | Versão inicial       | Doan Filho     |    Caio Braga           |
+| 1.0    | 02/10/2023 | Ajustes e organização      | Joel Sares     |    Gabriel      |
 
 </p>
 
@@ -315,15 +319,16 @@ A tabela 11 mostra as tarefas do planejamento feito para a entrega 9 do projeto.
 
 ## **Bibliografia**
 
-[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 28 de setembro de 2023.
+>[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 28 de setembro de 2023.
 
 
 ## **Histórico de Versões**
 
-| Versão | Data       |       Descrição      | Autor | Revisor |
-|:------:|:----------:|----------------------|-------|---------|
-| 1.0 | 18/09/2023 | Adicionando tópicos e estrutura base| Miguel de Frias | Doan Filho |
-| 1.1 | 18/09/2023 | Planejamento das Entregas |  Miguel de Frias | Doan Filho |
-| 1.2| 01/10/2023 | Adicionando atribuições de participantes |  Doan Filho |Caio Braga |
-| 1.3| 01/10/2023 | Adição do Executado da entrega 1 | Miguel de Frias | Doan Filho |
-| 2.0| 16/10/2023 | Adição do Executado da entrega 2 | Miguel de Frias | Doan Filho |
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Planejamento das Entregas |  Miguel Matos   |   18/09/2023   | Doa Filho  |   02/10/2023     |
+|  1.1   | Adição de atribuições e executado entrega 01  |  Miguel Matos |   01/10/2023   | Doan Filho | 02/10/2023      |
+|  1.2   | Adição de executado entrega 02  |  Miguel Matos |   15/10/2023   | Doan Filho |  16/10/2023     |
+
+
+
