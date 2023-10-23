@@ -93,6 +93,23 @@ Nessa tarefa o usuário tem o objetivo de buscar uma instituição conforme dado
 
 Tabela 2: Tabela da análise hierárquica de tarefas para o objetivo "Buscar currículo" (Fonte: Caio Lucas)
 
+## Depositar pesquisa
+
+Nessa tarefa o usuário tem o objetivo de depositar uma pesquisa.
+
+| Objetivos/Operações | Problemas/Recomendações |
+|--------------------|------------------------|
+| 0.0 Depositar pesquisa | **Input:** Acesso à opção "Depositar pesquisa" na tela inicial do site <br> **Feedback:** Tela de depósito de pesquisa com informações e campo em branco <br> **Plano:** Definir como o depósito de pesquisa pode ser aprimorado |
+| 1.0 Página inicial | plano: apresentar a página de cadastro de pesquisa para o usuário |
+| 2.0 Dados da pesquisa | plano: Coletar informações relevantes sobre a pesquisa a ser cadastrada |
+| 2.1 Título da pesquisa | plano: Solicitar ao usuário que insira o título da pesquisa |
+| 2.2 Resumo da pesquisa | plano: Solicitar ao usuário que insira um resumo conciso da pesquisa |
+| 3.0 Duração da pesquisa| plano: Solicitar ao usuário que especifique o período de realização da pesquisa |
+| 4.0 Anexos | Permitir ao usuário anexar arquivos à pesquisa, como artigos, resumos, apresentações, etc |
+| 5.0 Avaliação | Solicitar ao usuário que avalie a relevância da pesquisa |
+
+Tabela 3: Tabela da análise hierárquica de tarefas para o objetivo "Buscar currículo" (Fonte: Caio Lucas) 
+
 ## **Árvore de Tarefas Concorrentes**
 
 A ConcurTask Tree, abreviada como CTT, é uma técnica utilizada no campo da Interação Humano-Computador (IHC) para modelar e analisar tarefas que os usuários realizam em sistemas computacionais. Essa abordagem é particularmente útil para entender como os usuários interagem com sistemas complexos e identificar possíveis problemas de usabilidade.
@@ -182,18 +199,26 @@ A tarefa "Buscar instituição" consiste basicamente em buscar as informações 
     <p> Figura 7 - Análise da Tarefa de "Buscar instituição". Fonte: SOARES, Joel </p> 
 </div>
 
+### *Análise de Tarefa CTT 5: Depositar pesquisa*
+
+A tarefa "Depositar pesquisa" consiste basicamente em depositar uma pesquisa no sistema. Na figura 8 está a análise detalhada representada em diagrama.
 
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/CCTDepositarPesquisa.PNG" style="width:40vw"/>
+    <p> Figura 8 - Análise da Tarefa de "Depositar pesquisa". Fonte: BASILIO, Guilherme </p> 
+</div>
 
 ## **Bibliografia**
 
 > [1] Barbosa, Simone Diniz Junqueira Interação humano-computador / Simone Diniz Junqueira Barbosa, Bruno Santana da Silva. – Rio de Janeiro: Elsevier, 2010. Disponível em:  https://www.amazon.com.br/Intera%C3%A7%C3%A3o-Humano-Computador-Simone-Junqueira-Barbosa/dp/8535234187 
 
-
+## **Histórico de versão**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação Análise de tarefas |   Caio Lelis   |   16/10/2023   | Caio Braga  |       16/10/2023      |
 |  1.1   | Adição HTA |   Caio Lelis e Joel   |   16/10/2023   | Guilherme  |       16/10/2023      |
 |  1.2   | Adição do CTT |   Caio Braga   |   16/10/2023   |  Gabriel  |       16/10/2023      |
-|  1.3   | Adicionando HTA e CTT de "Buscar Instituição" |   Joel Soares   |   22/10/2023   |    |       --/--/2023      |
+|  1.3   | Adicionando HTA e CTT de "Buscar Instituição" |   Joel Soares   |   22/10/2023   |    |      --/--/2023      |
+|  1.3   | Adicionando HTA e CTT de "Depositar Pesquisa" |   Guilherme Basilio  |   23/10/2023   |    |      --/--/2023      |
