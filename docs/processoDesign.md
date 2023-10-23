@@ -125,3 +125,5 @@ Após analisar minuciosamente os modelos mencionados anteriormente, o grupo deli
 |:------:|:----------:|----------------------|-------|---------|
 | 1.0 | 29/09/2023 | Construção processo de design | [Caio Lelis](https://github.com/caio-lelis) | [Caio Braga](https://github.com/caioalvesbraga) |
 | 1.1 | 02/09/2023| Adição de processo de design escolhido | [Caio Lelis](https://github.com/caio-lelis)|[Caio Braga](https://github.com/caioalvesbraga) |
+
+

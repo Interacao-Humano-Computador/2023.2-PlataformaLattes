@@ -46,6 +46,10 @@ Definida qual a eficácia do sistema em ajudar o usuário a executar suas tarefa
 
 O sistema atualmente não se apresenta eficiente em relação a algumas funcionalidades. Embora os usuários sejam capazes de concluir as principais atividades relacionadas ao registro de informações acadêmicas e profissionais, existem oportunidades para simplificar ainda mais o processo. Por exemplo, otimizar o preenchimento de campos e reduzir a quantidade de etapas necessárias para realizar tarefas comuns pode melhorar significativamente a eficiência e a fluidez da experiência do usuário como podemos notar na figura 1.
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/Eficiencia.png" style="width:60vw"/>
+</div>
+
 <font size="2"><p style="text-align: center">Figura 1: Meta de usabilidade Eficiência </p></font>
 
 ### **3. Segurança**
@@ -72,6 +76,10 @@ A facilidade de aprendizado se relaciona com o tempo e esforço necessários par
 
 Algumas das funcionalidades presentes no site se encontram um tanto quanto escondidas ou pouco evidentes, sendo mascaradas por elementos visuais que não são particularmente intuitivos ou atrativos. Isso pode dificultar a capacidade do usuário de encontrar o que procura, como ilustrado na Figura 2.
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/Aprendizado.png" style="width:60vw"/>
+</div>
+
 <font size="2"><p style="text-align: center">Figura 2: Meta de usabilidade Facilidade de aprendizado</p></font>
 
 ### **6. Facilidade de Recordação**
@@ -94,9 +102,9 @@ Como já mencionado, as metas principais que foram identificadas para melhorar s
 
 ## **Histórico de versão**
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| --- | --- |--- | ---|---|
-| 1.0 | 21/10/2023 | Criação do documento e introdução | Guilherme Basilio | Miguel de Frias | 23/10/2023 |
-| 1.1 | 22/10/2023 | Adicionando título ao artefato | Guilherme Basilio | Miguel de Frias | 23/10/2023 |
-| 1.2 | 22/10/2023 | Adicionando eficácia, eficiência e segurança | Guilherme Basilio | Miguel de Frias | 23/10/2023 |
-| 1.3 | 23/10/2023 | Adicionando utilidade, aprendizado e memorização | Guilherme Basilio | Miguel de Frias |  |
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   |Criação do documento e introdução |  Guilherme Basilio   |    21/10/202   | Miguel de Frias  |      23/10/2023      |
+|  1.1   |Adicionando título ao artefato |  Guilherme Basilio   |    22/10/202   | Miguel de Frias  |      23/10/2023      |
+|  1.2   | Adicionando eficácia, eficiência e segurança |  Guilherme Basilio   |    22/10/202   | Miguel de Frias  |      23/10/2023      |
+|  1.3   | Adicionando utilidade, aprendizado e memorização |  Guilherme Basilio   |    23/10/202   |Joel Soares  |      23/10/2023      |
