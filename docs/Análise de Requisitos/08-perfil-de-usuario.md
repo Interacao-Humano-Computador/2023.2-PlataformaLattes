@@ -121,7 +121,7 @@ Após realizar as pesquisas citadas, o grupo definiu o seguinte perfil de usuár
 
 ## **Bibliografia**
 
-[1] Painel Lattes. Disponível em: <https://painel-lattes.cnpq.br/#/pages/dashboard>. Acesso em: 16 out. 2023.
+> [1]Painel Lattes. Disponível em: <https://painel-lattes.cnpq.br/#/pages/dashboard>. Acesso em: 16 de outubro de 2023.
 
 
 ## **Histórico de versão**

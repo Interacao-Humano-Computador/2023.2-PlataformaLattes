@@ -75,13 +75,13 @@ Tabela 3: Terceira persona. (SOARES, Joel 2023)
 
 ## **Bibliografia**
 
-- This Person Doest Not Exist. Acesso em: 04/10/2023. Disponível em: https://this-person-does-not-exist.com/en
+> [1] This Person Doest Not Exist. Acesso em: 04/10/2023. Disponível em: https://this-person-does-not-exist.com/en. Acesso em: 04/10/2023.
 
-- Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+> [2] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em 4 de outubro de 2023
 
-- About Face 3: The Essentials of Interaction Design, Third Edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692763/mod_resource/content/1/About_Face_3__The_Essentials_of_Interaction_Design.pdf. Acessado em 4 de outro de 2023
+> [3] About Face 3: The Essentials of Interaction Design, Third Edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692763/mod_resource/content/1/About_Face_3__The_Essentials_of_Interaction_Design.pdf. Acessado em 4 de outubro de 2023
 
-- Personas. Disponível em: https://www.usability.gov/how-to-and-tools/methods/personas.html; Acesso em: 04/10/2023. 
+> [4] Personas. Disponível em: https://www.usability.gov/how-to-and-tools/methods/personas.html; Acesso em: 04/10/2023. 
 
 ## **Histórico de versão**
 

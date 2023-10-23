@@ -33,7 +33,7 @@ Inicialmente, debatemos sobre a escolha e a principal opção era o site da **Ca
 
 ## **Bibliografia** 
 
-[1] Plataforma Lattes, Disponível em: <https://www.lattes.cnpq.br/>, Acesso em 30 de Setembro de 2023
+> [1] Plataforma Lattes, Disponível em: <https://www.lattes.cnpq.br/>, Acesso em 30 de Setembro de 2023
 
 ## **Histórico de Versões**
 
