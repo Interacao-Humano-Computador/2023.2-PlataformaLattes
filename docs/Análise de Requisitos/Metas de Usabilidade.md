@@ -72,7 +72,7 @@ O site disponibiliza as ferramentas essenciais para que o usuário alcance com s
 
 A facilidade de aprendizado se relaciona com o tempo e esforço necessários para que o usuário adquira a habilidade de utilizar o sistema com um nível aceitável de competência e desempenho. Isso se torna especialmente relevante quando novas tecnologias de informação e comunicação são incorporadas ao cotidiano dos usuários, tornando o processo de aprendizado mais eficiente durante a realização de suas atividades.
 
-### No sistema
+### **No sistema**
 
 Algumas das funcionalidades presentes no site se encontram um tanto quanto escondidas ou pouco evidentes, sendo mascaradas por elementos visuais que não são particularmente intuitivos ou atrativos. Isso pode dificultar a capacidade do usuário de encontrar o que procura, como ilustrado na Figura 2.
 
@@ -86,7 +86,7 @@ Algumas das funcionalidades presentes no site se encontram um tanto quanto escon
 
 A facilidade de recordação se refere à quantidade de esforço mental que um usuário precisa fazer para lembrar como usar a interface de um sistema interativo depois de tê-lo aprendido uma vez. Quando uma aplicação é facilmente memorável, os usuários conseguem evitar erros ao interagir com partes do sistema que já utilizaram anteriormente. Isso significa que eles podem recordar de forma simples e eficaz como usar o sistema, o que contribui para uma experiência mais livre de erros.
 
-### No sistema
+### **No sistema**
 
 A utilização do sistema de fácil memorização, ou seja, após aprender a utilizar o sistema e se realizar as tarefas que se deseja, fica fácil mesmo após um período de inatividade recuperar os conhecimentos que se tinha antes sobre o site e lembrar o caminho para realizar as tarefas.
 

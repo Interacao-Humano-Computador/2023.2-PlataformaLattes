@@ -14,6 +14,7 @@
 |<img src = "https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/youtube.png" width = 150px>|YouTube|Aplicativo para postar os vídeos|
 |<img src = https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/github.png width = 150px>|GitHub|Ferramenta para fazer o versionamento dos códigos|
 
+
 ## **Bibliografia**
 
 >[1] Mkdcos, Disponível em:<https://www.mkdocs.org/>, Acesso 28 de Setembro de 2023
