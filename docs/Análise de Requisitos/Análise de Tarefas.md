@@ -163,10 +163,10 @@ A tarefa "Buscar currículo" consiste basicamente em buscar as informações de 
 > [1] Barbosa, Simone Diniz Junqueira Interação humano-computador / Simone Diniz Junqueira Barbosa, Bruno Santana da Silva. – Rio de Janeiro: Elsevier, 2010. Disponível em:  https://www.amazon.com.br/Intera%C3%A7%C3%A3o-Humano-Computador-Simone-Junqueira-Barbosa/dp/8535234187 
 
 
-## Histórico de Versões
+## **Histórico de Versões**
 
-| Versão | Data       |       Descrição      | Autor | Revisor |
-|:------:|:----------:|----------------------|-------|---------|
-| 1.0    | 16/10/2023 | Criação Análise de tarefas | Caio Lelis| Caio Braga |
-| 1.1    | 16/10/2023 | Adição HTA | Caio Lelis e Joel | Guilherme |
-| 1.2    | 16/10/2023 | Adição do CTT | Caio Braga | Gabriel |
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+| 1.0    | Criação análise de tarefas  | Caio lelis | 16/10/2023 | Caio Braga   | 16/10/2023 |
+| 1.1    | Criação HTA  | Caio lelis e Joel Soares | 16/10/2023 | Guilherme Basilio  | 16/10/2023 |
+| 1.2    | Criação CTT  | Caio Braga | 16/10/2023 | Gabriel   | 16/10/2023 |
