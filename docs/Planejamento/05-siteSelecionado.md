@@ -14,10 +14,18 @@ Após alguns debates ao longo do inicio do projeto, tivemos uma escolha em conse
 
 ## **Critérios para a selecão**
 
-- Sites não repetidos na disciplina Interação Humano-Computador 
-- Aspectos e princípios que fogem à disciplina
-- Sites que pertencessem ao governo ou à comunidade de software livre 
-- Problemas de usabilidade 
++ Sites não repetidos na disciplina Interação Humano-Computador 
++ Aspectos e princípios que fogem à disciplina
++ Sites que pertencessem ao governo ou à comunidade de software livre 
+
+Além disso, foi possível encontrar pontos que deveriam ser melhorados pois possuem problemas de usabilidade, de acordo com a [avaliação](https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/blob/main/docs/Planejamento/04-siteAvaliados.md) realizada sobre o site.
+
++ O **desemepnho** do site deixa a interação com o usuário lenta e monótona, contribuindo para uma baixa eficiência de uso.
++ O **design da interface** contribui para um baixo entendimento do usuário para com o que está acontecendo na tela.
++ Deveria possuir mais **acessibilidade**, para atender diversos grupos de usuários.
+* Falta de **padronização**, deixando o usuário confuso.
+* A **usabilidade** é afetada, pois o site não facilita o reconhecimento do usuário nas suas interações.
+
 
 ## **Motivos de escolha** 
 A Plataforma Lattes é amplamente utilizada por docentes, discentes e pesquisadores de intutuições privadas e públicas, incluindo o uso para consulta de currículos, grupos de pesquisa e sistema de informações.
@@ -41,9 +49,7 @@ Inicialmente, debatemos sobre a escolha e a principal opção era o site da **Ca
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão inicial |  Doan Filho   |   30/09/2023   | Caio Braga  |       02/10/2023      |
 |  1.1   | Versão inicial |  Joel Soares  |   02/10/2023   | Gabriel Barbosa |    02/10/2023     |
-
-
-
+|  1.2   | Adição de novos critérios | Gabriel Barbosa | 23/10/2023 |           |           |
 
 
 
