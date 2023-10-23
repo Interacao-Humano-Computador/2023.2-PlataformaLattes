@@ -8,13 +8,16 @@ Definir princípios gerais de projeto desempenha um papel essencial no desenvolv
 
 ## **Princípios Gerais definidos/seguidos pelo grupo 3:**
 
-- Simplicidade nas Estruturas das Tarefas;
-- Equilíbrio entre Controle e Liberdade do Usuário;
+- Antecipação;
+- Correspondência com as expectativas do usuário;
 - Consistência e Padronização;
+- Conteúdo Relevante e expressão adequada;
+- Equilíbrio entre Controle e Liberdade do Usuário;
+- Projeto para Erros;
 - Promoção da Eficiência do Usuário;
-- Antecipação ;
-- Visibilidade e Reconhecimento; 
-- Projeto para Erros.
+- Simplicidade nas Estruturas das Tarefas;
+- Visibilidade e Reconhecimento.
+
 
 #### **Já apresentados anteriormente, aqui uma breve descrição sobre os princípios:**
 
@@ -55,6 +58,18 @@ Garantir que as informações e ações sejam visíveis para os usuários é ess
 
 <p align="justify">
 É essencial projetar levando em consideração a ocorrência de erros. Isso significa que o sistema deve ser à prova de falhas e permitir que os usuários se recuperem facilmente de erros. Mensagens de erro devem ser claras e informativas, indicando o que deu errado e sugerindo soluções quando possível. Além disso, operações irreversíveis devem ser evitadas, e os usuários devem ser capazes de desfazer ações facilmente, reduzindo a ansiedade e o medo de cometer erros.
+</p>
+
+## Conteúdo Relevante e expressão adequada
+
+<p align="justify">
+As interfaces devem fornecer informações relevantes e claras, evitando sobrecarregar os usuários com informações desnecessárias. Além disso, a legibilidade do texto e o uso adequado de cores são destacados como importantes para a compreensão do conteúdo.
+</p>
+
+## Correspondência com as expectativas do usuário
+
+<p align="justify">
+O princípio de "Correspondência com as Expectativas dos Usuários" enfatiza a importância de projetar sistemas de forma a coincidir com as expectativas naturais dos usuários. Isso significa garantir que os usuários possam facilmente entender como suas intenções se traduzem em ações dentro do sistema, como suas ações afetam o sistema e como o sistema reflete seu estado real
 </p>
 
 <p align="justify">
