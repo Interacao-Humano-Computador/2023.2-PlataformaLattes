@@ -52,7 +52,7 @@ Tabela 1: Primeira persona. (SOARES, Joel 2023)
 |    |    |
 | :----: | :---------------------: |
 |  Nome  | Leonardo Moura  |
-|  Foto  |   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/img/Persona2.png" width = 100px"><p>Imagem:  persona 2|
+|  Foto  |   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/img/Persona2.png" width = 100px><p>Imagem:  persona 2 |
 | Descrição | Leonardo moura, 18 anos, Estudante de ensino médio,  reside na cidade de Belo Horizonte, Minas Gerais, Brasil. |
 | Tipo | Persona primária |
 | Informações | Leonardo é um jovem digitalmente nativo, com grandes interessem em ciências e pesquisa. Ele é membro ativo do clube de ciências da escola e participa de competições de ciências regionais. Além disso, ele já participou de projetos de pesquisa escolares e demonstrou paixão por investigar tópicos científicos|
@@ -67,7 +67,7 @@ Tabela 2: Segunda persona. (SOARES, Joel 2023)
 |    |    |
 | :----: | :---------------------: |
 |  Nome  | Renato Abreu  |
-|  Foto  |   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/img/Persona3.png" width = 100px"><p>Imagem:  persona 3|
+|  Foto  |   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/img/Persona3.png" width = 100px><p>Imagem:  persona3 |
 | Descrição | Renato Abreu, 65 anos, Aposentado, reside em Florianópolis-SC|
 | Tipo | Persona primária |
 | Informações |  Ao longo de sua carreira como engenheiro civil, Renato trabalhou em uma variedade de projetos de construção e desenvolvimento de infraestrutura em toda a região. Ele ocupou cargos de alta responsabilidade e acumulou vasta experiência em gestão de projetos. |
@@ -81,7 +81,7 @@ Tabela 3: Terceira persona. (SOARES, Joel 2023)
 |    |    |
 | :----: | :---------------------: |
 |  Nome  | Eduardo Aragão |
-|  Foto  | <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/img/Persona4.png" width = 100px"> |
+|  Foto  |   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/img/Persona4.png" width = 100px><p>Imagem:  persona 4 |
 | Descrição | Eduardo Aragão, 12 anos, estudante em unidade pública, reside em Guará-DF|
 | Tipo | Anti-Persona |
 | Informações | Eduardo Aragão é um menino de 12 anos que mora na região de Guará, no Distrito Federal. Ele está no início da adolescência e atualmente cursa o ensino fundamental. Eduardo é uma anti persona no contexto da plataforma Lattes, pois, devido à sua idade e estágio de educação, não tem motivo nem necessidade de usar a plataforma. |
