@@ -45,18 +45,48 @@ A plataforma cnpq lattes tem seu principal acesso através de computadores e cel
 ---
 ## **Elementos de interação**
 ### **Estilos de interação**
+As interações do usuário com o sistema são divididas em três partes:
+- Curriculo: cadastro, atualização e busca
+- Pesquisa: busca , deposito
+- Instituição: busca, atualização  e cadastro 
+
+sendo essa interação feita através de caixas de textos, botões, hiperlinks e textos. 
+(colocar imagens colocar imagem se possivel)
+
 ### **Seleção de um estilo**
+Considerando uma escolha de estilo voltada para cada tipo de elemento da interface, a seleção pode ser feita visando o contexto e uso de cada item selecionado, com o foco para cadastramento e busca por curriculos, pesquisas e instituições
+
 ### **Aceleradores(Teclas de atalho)**
+
 ---
 ## **Elementos de ação**
+os elementos e ações que o usuário pode executar de acordo com sua necessidade 
 ### **Preenchimento dos campos**
+O usuário pode preencher os campos de cadastro,busca e atualização  de acordo com as diretrizes estabelecidas, sendo inseridas manualmente sendo esses caixas de textos e barras de pesquisa. 
+(colocar imagem se possivel)
 ### **Seleção**
+Na parte de seleção temos alguns aspectos a serem selecionados como, curriculo, pesquisa e instituição,ajustar fonte, selecionar twitter , rss e contraste, assim levando o usuário a uma parte especifica de acordo com sua necessidade,
+
 ### **Ativação**
+Aqui temos o uso de botões ícones e principalmente hiperkinks sendo eles como: 
+- Buscar currículo
+- Atualizar currículo
+- Cadastrar currículo
+- Buscar instituição
+- Atualizar instituição
+- Cadastrar institui~çao 
+- Acessar o portal do dirétorio
+- Acessar painel lattes 
+- Buscar dados de pesquisa
+- Despositar dados de pesquisa 
+
 ---
 ## **Vocabulário e padrões**
 ### **Terminologia**
 ### **Tipos de tela**
 ### **Sequências de diálogos**
+
+## **Proposta de intervenção**
 
 ## **Histórico de versão**
 
