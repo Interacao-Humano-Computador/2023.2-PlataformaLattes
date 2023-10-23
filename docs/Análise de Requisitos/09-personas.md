@@ -81,7 +81,7 @@ Tabela 3: Terceira persona. (SOARES, Joel 2023)
 
 - About Face 3: The Essentials of Interaction Design, Third Edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692763/mod_resource/content/1/About_Face_3__The_Essentials_of_Interaction_Design.pdf. Acessado em 4 de outro de 2023
 
-- Personas. Acesso em: 04/10/2023. Disponível em: https://www.usability.gov/how-to-and-tools/methods/personas.html
+- Personas. Disponível em: https://www.usability.gov/how-to-and-tools/methods/personas.html; Acesso em: 04/10/2023. 
 
 ## **Histórico de versão**
 
