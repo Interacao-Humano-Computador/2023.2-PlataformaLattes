@@ -6,17 +6,11 @@
 
 <p align="justify">
 
-<p align="justify">
 
 &emsp;&emsp;Este documento é referente ao cronograma que será seguido pela equipe no semestre 2023.2 na disciplina de Interação Humano Computador, ministrada pelo professor André Barros de Sales, com a finalidade de estudar a plataforma Lattes. Este documento possui um objetivo inicial de organizar todas as tarefas que deverão ser realizadas no decorrer do semestre e também destacar os principais tópicos a serem abordados, as tarefas necessárias e a devida alocação de tempo para cada entrega do projeto.
-| Versão | Data       | Descrição            | Autor          | Revisor          |
-|--------|------------|----------------------|----------------|------------------|
-| 1.0    | 30/09/2023 | Versão inicial       | Doan Filho     |    Caio Braga           |
-| 1.0    | 02/10/2023 | Ajustes e organização      | Joel Sares     |    Gabriel      |
 
 </p>
 
-</p>
 
 ## **Cronograma Geral**
 
@@ -149,7 +143,7 @@ A tabela 6 mostra as tarefas do planejamento feito para a entrega 2 do projeto.
 | Princípios gerais do projeto | Início: 18/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 23/10 | Caio Lelis e Gabriel Barbosa | Miguel de Frias |
 | Metas de usabilidade | Início: 18/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 23/10 | Guilherme Basilio e Joel Soares | Caio Lelis |
 | Guia de estilo |Início: 18/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 23/10 | Caio Braga e Doan Filho | Joel Soares |
-| Determinar as características da plataforma para o projeto | Início: 18/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 23/10 |  | Miguel de Frias|
+| Determinar as características da plataforma para o projeto | Início: 18/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 23/10 | Gabriel Barbosa | Miguel de Frias|
 | Atualizar GitPage | Início: 18/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 23/10 | Caio Braga e Caio Lelis | Doan Filho |
 | Gravação da Apresentação | Início: 22/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 22/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias|
 | Postagem da Apresentação | Início: 22/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 22/10 | Joel Soares | Miguel de Frias|
@@ -169,7 +163,7 @@ A tabela 7 mostra as atividades realizadas para a entrega 3 do projeto.
 | Princípios gerais do projeto | Início: 18/10 <br> Fim: 23/10 | Início: 23/10 <br> Fim: 23/10 | Caio Lelis e Gabriel Barbosa | Miguel de Frias |
 | Metas de usabilidade | Início: 18/10 <br> Fim: 23/10 | Início: 23/10 <br> Fim: 23/10 | Guilherme Basilio e Joel Soares | Caio Lelis |
 | Guia de estilo |Início: 18/10 <br> Fim: 23/10 | Início: 22/10 <br> Fim: 23/10 | Caio Braga e Doan Filho | Joel Soares |
-| Determinar as características da plataforma para o projeto | Início: 18/10 <br> Fim: 23/10 | Início: 23/10 <br> Fim: 23/10 |  | Miguel de Frias|
+| Determinar as características da plataforma para o projeto | Início: 18/10 <br> Fim: 23/10 | Início: 23/10 <br> Fim: 23/10 | Gabriel Barbosa | Miguel de Frias|
 | Atualizar GitPage | Início: 18/10 <br> Fim: 23/10 | Início: 23/10 <br> Fim: 23/10 | Caio Braga e Caio Lelis | Doan Filho |
 | Gravação da Apresentação | Início: 23/10 <br> Fim: 23/10 | Início: 23/10 <br> Fim: 23/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias|
 | Postagem da Apresentação | Início: 23/10 <br> Fim: 23/10 | Início: 23/10 <br> Fim: 23/10 | Joel Soares | Miguel de Frias|
@@ -177,7 +171,7 @@ A tabela 7 mostra as atividades realizadas para a entrega 3 do projeto.
 | Correções da Entrega 2 | Início: 18/10 <br> Fim: 23/10 | Início: 23/10 <br> Fim: 23/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias|
 
 <div style="text-align: center">
-    <p> <b>Tabela 7</b>: Tarefas planejadas na Entrega 3. (Fonte: Miguel de Frias, 2023).</p>
+    <p> <b>Tabela 7</b>: Tarefas realizadas na Entrega 3. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 
