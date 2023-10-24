@@ -33,8 +33,10 @@ A Plataforma Lattes fornece acesso através de computadores e dispositivos móve
 ---
 
 ## **Elementos de interface**
+
 ---
 ## **Elementos de interação**
+
 ### **Estilos de interação**
 As interações do usuário com o sistema são divididas em três partes:
 - Curriculo: cadastro, atualização e busca
