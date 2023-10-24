@@ -208,7 +208,7 @@ A tarefa "Buscar instituição" consiste basicamente em buscar as informações 
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/buscar_instituicao.png" style="width:40vw"/>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/buscar_Instituicao.png" style="width:40vw"/>
     <p> Figura 7 - Análise da Tarefa de "Buscar instituição". Fonte: SOARES, Joel </p> 
 </div>
 
