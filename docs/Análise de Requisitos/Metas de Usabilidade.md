@@ -14,17 +14,17 @@ Para avaliar a usabilidade, serão realizadas simulações do comportamento espe
 
 ## **Definição das metas de usabilidade**
 
-Eficácia: Relaciona-se com a capacidade do produto em desempenhar efetivamente as funções esperadas, ou seja, se ele é eficaz em cumprir o propósito para o qual foi projetado.
+*Eficácia*: Relaciona-se com a capacidade do produto em desempenhar efetivamente as funções esperadas, ou seja, se ele é eficaz em cumprir o propósito para o qual foi projetado.
 
-Eficiência: Refere-se a como o sistema auxilia o usuário a realizar suas atividades desejadas de forma econômica, minimizando o número de etapas necessárias para alcançar um objetivo.
+*Eficiência*: Refere-se a como o sistema auxilia o usuário a realizar suas atividades desejadas de forma econômica, minimizando o número de etapas necessárias para alcançar um objetivo.
 
-Segurança: Envolve a proteção do usuário contra situações perigosas e a prevenção de erros graves. O sistema deve oferecer mecanismos para que o usuário possa recuperar-se de erros ou desfazê-los, caso ocorram.
+*Segurança*: Envolve a proteção do usuário contra situações perigosas e a prevenção de erros graves. O sistema deve oferecer mecanismos para que o usuário possa recuperar-se de erros ou desfazê-los, caso ocorram.
 
-Utilidade: Está relacionada às medidas e funcionalidades disponibilizadas ao usuário para realizar as tarefas desejadas de maneira eficaz e satisfatória.
+*Utilidade*: Está relacionada às medidas e funcionalidades disponibilizadas ao usuário para realizar as tarefas desejadas de maneira eficaz e satisfatória.
 
-Aprendizado: Diz respeito à facilidade com que o usuário pode aprender a utilizar o sistema. O objetivo é permitir que o usuário aprenda a usar o sistema rapidamente e se torne competente na realização das tarefas.
+*Aprendizado*: Diz respeito à facilidade com que o usuário pode aprender a utilizar o sistema. O objetivo é permitir que o usuário aprenda a usar o sistema rapidamente e se torne competente na realização das tarefas.
 
-Memorização: Refere-se à capacidade do usuário de relembrar como usar o sistema após já ter aprendido. Isso é especialmente importante quando se trata de sistemas que não são utilizados com frequência, garantindo que o usuário retenha o conhecimento sobre o uso do sistema ao longo do tempo.
+*Memorização*: Refere-se à capacidade do usuário de relembrar como usar o sistema após já ter aprendido. Isso é especialmente importante quando se trata de sistemas que não são utilizados com frequência, garantindo que o usuário retenha o conhecimento sobre o uso do sistema ao longo do tempo.
 
 ## **Metas a serem alcançadas em nosso projeto**
 
@@ -34,15 +34,15 @@ Aqui estão listadas as metas de usabilidade e como o site [Lattes CNPQ](https:/
 
 Definida o quão bom o sistema faz o que se espera que ele faça.
 
-#### No sistema
+#### *No sistema*
 
 No geral, o sistema apresenta uma eficácia parcial. Ele permite que o usuário realize com sucesso as principais atividades relacionadas ao registro de informações acadêmicas e profissionais em seu currículo Lattes.
 
 ### **2. Eficiência**
 
-Definida qual a eficácia do sistema em ajudar o usuário a executar suas tarefas de forma eficaz.
+Definida qual a eficiência do sistema em ajudar o usuário a executar suas tarefas de forma eficaz.
 
-#### No sistema
+#### *No sistema*
 
 O sistema atualmente não se apresenta eficiente em relação a algumas funcionalidades. Embora os usuários sejam capazes de concluir as principais atividades relacionadas ao registro de informações, existem oportunidades para simplificar ainda mais o processo. Por exemplo, otimizar o preenchimento de campos e reduzir a quantidade de etapas necessárias para realizar tarefas comuns pode melhorar significativamente a eficiência e a fluidez da experiência do usuário como podemos notar na figura 1.
 
@@ -56,7 +56,7 @@ O sistema atualmente não se apresenta eficiente em relação a algumas funciona
 
 Definida como o sistema consegue manter o usuário seguro, evitando situações perigosas e desfavoráveis.
 
-#### No sistema
+#### *No sistema*
 
 O sistema Lattes CNPQ já incorpora algumas precauções de segurança, como a criptografia de dados e a autenticação por nome de usuário e senha. Uma medida adicional de segurança recomendada é a criação de senhas robustas e exclusivas. Vale ressaltar que a página de login frequentemente sai do ar e carece de uma boa responsividade, o que pode afetar a experiência do usuário em dispositivos móveis ou com telas menores.
 
@@ -64,7 +64,7 @@ O sistema Lattes CNPQ já incorpora algumas precauções de segurança, como a c
 
 Definida como a capacidade do sistema de prover valor e benefícios ao usuário, atendendo eficazmente às suas necessidades e objetivos.
 
-#### No sistema
+#### *No sistema*
 
 O site disponibiliza as ferramentas essenciais para que o usuário alcance com sucesso o seu objetivo final.
 
@@ -72,7 +72,7 @@ O site disponibiliza as ferramentas essenciais para que o usuário alcance com s
 
 Definida como a rapidez com que os usuários podem compreender e utilizar o sistema de forma intuitiva, exigindo um esforço mínimo para dominar suas funcionalidades.
 
-### **No sistema**
+### *No sistema*
 
 Algumas das funcionalidades presentes no site se encontram um tanto quanto escondidas ou pouco evidentes, sendo mascaradas por elementos visuais que não são particularmente intuitivos ou atrativos. Isso pode dificultar a capacidade do usuário de encontrar o que procura, como ilustrado na Figura 2.
 
@@ -86,7 +86,7 @@ Algumas das funcionalidades presentes no site se encontram um tanto quanto escon
 
 Definida como a capacidade do sistema de permitir que os usuários se lembrem de como usá-lo mesmo após períodos de não utilização, mantendo a eficiência ao longo do tempo.
 
-### **No sistema**
+### *No sistema*
 
 A utilização do sistema de fácil memorização, ou seja, após aprender a utilizar o sistema e se realizar as tarefas que se deseja, fica fácil mesmo após um período de inatividade recuperar os conhecimentos que se tinha antes sobre o site e lembrar o caminho para realizar as tarefas.
 
