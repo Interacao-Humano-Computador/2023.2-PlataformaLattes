@@ -50,6 +50,7 @@ sendo essa interação feita através de caixas de textos, botões, hiperlinks e
 Considerando uma escolha de estilo voltada para cada tipo de elemento da interface, a seleção pode ser feita visando o contexto e uso de cada item selecionado, com o foco para cadastramento e busca por curriculos, pesquisas e instituições
 
 ### **Aceleradores(Teclas de atalho)**
+Não foram encontradas aceleradoes na plataforma
 
 ---
 ## **Elementos de ação**
@@ -76,8 +77,11 @@ Aqui temos o uso de botões ícones e principalmente hiperkinks sendo eles como:
 ---
 ## **Vocabulário e padrões**
 ### **Terminologia**
+A plataforma usa alguns termos associados a universidade, porém a grande maioria é de forma comum para o entendimento do público como um todo, sendo usada na parte inicial da plataforma no canto direito na parte de escolhas. 
 ### **Tipos de tela**
+As telas mudam bastante de acordo com o uso do site, diferenciando  de acordo com a ferramenta usada, trazendo uma interface totalmente diferenciada. 
 ### **Sequências de diálogos**
+As sequências de diálogos não se diferenciam muito entre as telas, seguindo um padrão de instrução para o usuário
 
 ## **Proposta de intervenção**
 
