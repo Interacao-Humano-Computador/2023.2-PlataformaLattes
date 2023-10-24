@@ -25,7 +25,7 @@ O grupo decidiu fazer o uso de dois métodos para a análise de tarefas, sendo e
 - Análise Hierárquica de Tarefas (HTA);
 - ConcurTask Tree (CTT).
 
-## HTA - Análise Hierárquica de Tarefa
+## **HTA - Análise Hierárquica de Tarefa**
 A metodologia consiste em quebrar as tarefas em sub-tarefas, e estas por sua vez em sub-sub-tarefas e assim por diante.
 
 A análise hierárquica de tarefas possui os seguintes elementos:
@@ -47,11 +47,8 @@ Esta análise pode ser implementada em formato de tabela, ou por um diagrama con
     <p> Figura 1 - Elementos HTA - Faixa etária. Fonte: Autores </p> 
 </div>
 
-## Análise de Tarefas
 
-Para a resolução das análises de tarefas hierárquicas foi selecionado a ação de Buscar currículo presente no site
-
-## Buscar currículo
+### **Buscar currículo**
 
 Nessa tarefa o usuário tem o objetivo de buscar currículo conforme dados selecionados para busca.
 
@@ -77,7 +74,7 @@ Tabela 1: Tabela da análise hierárquica de tarefas para o objetivo "Buscar cur
     
 <br>
 
-## Buscar instituição
+### **Buscar instituição**
 
 Nessa tarefa o usuário tem o objetivo de buscar uma instituição conforme dados selecionados para busca.
 
@@ -93,7 +90,7 @@ Nessa tarefa o usuário tem o objetivo de buscar uma instituição conforme dado
 
 Tabela 2: Tabela da análise hierárquica de tarefas para o objetivo "Buscar instituição" (Fonte: Caio Lucas)
 
-## Depositar dados de pesquisa
+### **Depositar dados de pesquisa**
 
 Nessa tarefa o usuário tem o objetivo de depositar uma pesquisa.
 
@@ -110,7 +107,7 @@ Nessa tarefa o usuário tem o objetivo de depositar uma pesquisa.
 
 Tabela 3: Tabela da análise hierárquica de tarefas para o objetivo "Depositar dados de pesquisa" (Fonte: Guilherme Basilio) 
 
-## Buscar dados de pesquisa
+### **Buscar dados de pesquisa**
 
 Nessa tarefa o usuário tem o objetivo de buscar dados de pesquisa conforme dados selecionados para busca.
 
@@ -238,13 +235,13 @@ A tarefa "Consiste pesquisa" consiste basicamente em buscar uma pesquisa deposit
 
 > [1] Barbosa, Simone Diniz Junqueira Interação humano-computador / Simone Diniz Junqueira Barbosa, Bruno Santana da Silva. – Rio de Janeiro: Elsevier, 2010. Disponível em:  https://www.amazon.com.br/Intera%C3%A7%C3%A3o-Humano-Computador-Simone-Junqueira-Barbosa/dp/8535234187 
 
-## **Histórico de versão**
+## **Histórico de Versões**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação Análise de tarefas |   Caio Lelis   |   16/10/2023   | Caio Braga  |       16/10/2023      |
 |  1.1   | Adição HTA |   Caio Lelis e Joel   |   16/10/2023   | Guilherme  |       16/10/2023      |
 |  1.2   | Adição do CTT |   Caio Braga   |   16/10/2023   |  Gabriel  |       16/10/2023      |
-|  1.3   | Adicionando HTA e CTT de "Buscar Instituição" |   Joel Soares   |   22/10/2023   |    |      --/--/2023      |
-|  1.4   | Adicionando HTA e CTT de "Depositar Pesquisa" |   Guilherme Basilio  |   23/10/2023   |    |      --/--/2023      |
-|  1.5   | Adicionando HTA e CTT de "Buscar Pesquisa" |   Miguel de Frias |   23/10/2023   |    |      --/--/2023      |
+|  1.3   | Adicionando HTA e CTT de "Buscar Instituição" |   Joel Soares   |   22/10/2023   |  Miguel de Frias e Guilherme Basilio  |   23/10/2023      |
+|  1.4   | Adicionando HTA e CTT de "Depositar Pesquisa" |   Guilherme Basilio  |   23/10/2023   |  Miguel de Frias e Guilherme Basilio  |  23/10/2023      |
+|  1.5   | Adicionando HTA e CTT de "Buscar Pesquisa" |   Miguel de Frias |   23/10/2023   |  Miguel de Frias e Guilherme Basilio  |  23/10/2023      |
