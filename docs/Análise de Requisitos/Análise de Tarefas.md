@@ -25,7 +25,7 @@ O grupo decidiu fazer o uso de dois métodos para a análise de tarefas, sendo e
 - Análise Hierárquica de Tarefas (HTA);
 - ConcurTask Tree (CTT).
 
-## HTA - Análise Hierárquica de Tarefa
+## **HTA - Análise Hierárquica de Tarefa**
 A metodologia consiste em quebrar as tarefas em sub-tarefas, e estas por sua vez em sub-sub-tarefas e assim por diante.
 
 A análise hierárquica de tarefas possui os seguintes elementos:
@@ -47,11 +47,11 @@ Esta análise pode ser implementada em formato de tabela, ou por um diagrama con
     <p> Figura 1 - Elementos HTA - Faixa etária. Fonte: Autores </p> 
 </div>
 
-## Análise de Tarefas
+## **Análise de Tarefas**
 
 Para a resolução das análises de tarefas hierárquicas foi selecionado a ação de Buscar currículo presente no site
 
-## Buscar currículo
+## **Buscar currículo**
 
 Nessa tarefa o usuário tem o objetivo de buscar currículo conforme dados selecionados para busca.
 
@@ -160,7 +160,7 @@ A tarefa "Buscar currículo" consiste basicamente em buscar as informações de 
 
 ## **Bibliografia**
 
-> [1] Barbosa, Simone Diniz Junqueira Interação humano-computador / Simone Diniz Junqueira Barbosa, Bruno Santana da Silva. – Rio de Janeiro: Elsevier, 2010. Disponível em:  https://www.amazon.com.br/Intera%C3%A7%C3%A3o-Humano-Computador-Simone-Junqueira-Barbosa/dp/8535234187 
+> [1] Barbosa, Simone Diniz Junqueira Interação humano-computador / Simone Diniz Junqueira Barbosa, Bruno Santana da Silva. – Rio de Janeiro: Elsevier, 2010. Disponível em:  https://www.amazon.com.br/Intera%C3%A7%C3%A3o-Humano-Computador-Simone-Junqueira-Barbosa/dp/8535234187 . Acesso em 16 de outubro de 2023.
 
 
 ## **Histórico de Versões**

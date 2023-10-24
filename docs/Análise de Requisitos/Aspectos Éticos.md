@@ -59,7 +59,7 @@ Agradecemos sua disposição em ajudar para esta pesquisa acadêmica. Seu apoio 
 
 ## **Bibliografia**
 
-> [1] BARBOSA, Simone; SILVA, Bruno. Interação humano-computador. Elsevier Brasil, 2010. Disponível em:  https://www.amazon.com.br/Intera%C3%A7%C3%A3o-Humano-Computador-Simone-Junqueira-Barbosa/dp/8535234187 >>
+> [1] BARBOSA, Simone; SILVA, Bruno. Interação humano-computador. Elsevier Brasil, 2010. Disponível em:  https://www.amazon.com.br/Intera%C3%A7%C3%A3o-Humano-Computador-Simone-Junqueira-Barbosa/dp/8535234187 >> Acesso em 21 de outubro de 2023.
 
 ## **Histórico de versão**
 

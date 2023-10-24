@@ -14,19 +14,20 @@
 |<img src = "https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/youtube.png" width = 150px>|YouTube|Aplicativo para postar os vídeos|
 |<img src = https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/github.png width = 150px>|GitHub|Ferramenta para fazer o versionamento dos códigos|
 
+
 ## **Bibliografia**
 
-[1] Mkdcos, Disponível em:<https://www.mkdocs.org/>, Acesso 28 de Setembro de 2023
+>[1] Mkdcos, Disponível em:<https://www.mkdocs.org/>, Acesso 28 de Setembro de 2023
 
-[2] Microsoft Teamns, Disponível em :<https://www.microsoft.com/pt-br/microsoft-teams/log-in>, Acesso 28 de Setembro de 2023
+> [2] Microsoft Teamns, Disponível em :<https://www.microsoft.com/pt-br/microsoft-teams/log-in>, Acesso 28 de Setembro de 2023
 
-[3] Visual Studio Code, Disponível em: <https://code.visualstudio.com/docs> ,  Acesso 28 de Setembro de 2023
+> [3] Visual Studio Code, Disponível em: <https://code.visualstudio.com/docs> ,  Acesso 28 de Setembro de 2023
 
-[4] This Person Does not Exist, Disponível em: <https://this-person-does-not-exist.com/en>,  Acesso 28 de Setembro de 2023 
+> [4] This Person Does not Exist, Disponível em: <https://this-person-does-not-exist.com/en>,  Acesso 28 de Setembro de 2023 
 
-[5] YouTube, Disponível em: <https://youtube.com>,  Acesso 28 de Setembro de 2023 
+> [5] YouTube, Disponível em: <https://youtube.com>,  Acesso 28 de Setembro de 2023 
 
-[7] Github, Disponível em : <https://github.com> ,  Acesso 28 de Setembro de 2023
+> [6] Github, Disponível em : <https://github.com> ,  Acesso 28 de Setembro de 2023
 
 ## **Histórico de Versões**
 

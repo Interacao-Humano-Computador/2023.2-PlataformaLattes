@@ -319,7 +319,7 @@ A tabela 11 mostra as tarefas do planejamento feito para a entrega 9 do projeto.
 
 ## **Bibliografia**
 
-[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 28 de setembro de 2023.
+>[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 28 de setembro de 2023.
 
 
 ## **Histórico de Versões**
