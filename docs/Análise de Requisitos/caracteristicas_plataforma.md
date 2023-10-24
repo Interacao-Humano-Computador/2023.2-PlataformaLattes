@@ -2,13 +2,13 @@
 
 ## **Introdução**
 
-Durante uma análise de Interação Humano-Computador, é necessário destacar aspectos relevantes para que o estudo da experiência e interface do 
+&emsp;&emsp;Durante uma análise de Interação Humano-Computador, é necessário destacar aspectos relevantes para que o estudo da experiência e interface do 
 usuário seja completo. O intuito deste artefato é explicitar as características da plataforma e os principais caminhos executados pelo usuário, além disso, 
 deve-se analisar os aspectos do site que limitam e/ou incomodam o usuário, sendo esses tratados aqui como limites e possibilidades. 
 
 ## **Tecnologias**
 
-O sistema da PLataforma lattes é um ambiente fundamental para a comunidade acadêmica, pois permite o registro e compartilhamento de currículos, facilitando a avaliação e 
+&emsp;&emsp;O sistema da PLataforma lattes é um ambiente fundamental para a comunidade acadêmica, pois permite o registro e compartilhamento de currículos, facilitando a avaliação e 
 gestão de atividades científicas e tecnológicas, além de contribuir para a promoção da transparência e colaboração no meio acadêmico. O [site](https://www.lattes.cnpq.br/) pode ser acessado por qualquer dispositivo
 com acesso a internet, cobrindo a maior parte dos sistemas operacionas e navegadores modernos, tais como:
 
@@ -24,7 +24,7 @@ Além disso, ao inspencionar os elementos do site, foi possível perceber o uso 
 
 ## **Características da plataforma**
 
-## **Limites e Entraves** 
+### **Limites e Entraves** 
 
 Os principais limites e entraves encontrados foram:
 
@@ -41,7 +41,7 @@ Os principais limites e entraves encontrados foram:
 + Alguns ícones não possuem cores
 
 
-## **Possibilidades**
+### **Possibilidades**
 
 Dentre as principais funcionalidades do projeto, estão:
 
@@ -60,6 +60,8 @@ Dentre as principais funcionalidades do projeto, estão:
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
+## **Histórico de Versões**
+
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-| 1.0    | Criação do documento | Gabriel Barbosa | 23/10/2023 |   |  |
+| 1.0    | Criação do documento | Gabriel Barbosa | 23/10/2023 | Miguel de Frias | 23/10/2023 |
