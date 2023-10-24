@@ -49,7 +49,7 @@ Inicialmente, debatemos sobre a escolha e a principal opção era o site da **Ca
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão inicial |  Doan Filho   |   30/09/2023   | Caio Braga  |       02/10/2023      |
 |  1.1   | Versão inicial |  Joel Soares  |   02/10/2023   | Gabriel Barbosa |    02/10/2023     |
-|  1.2   | Adição de novos critérios | Gabriel Barbosa | 23/10/2023 |           |           |
+|  1.2   | Adição de novos critérios | Gabriel Barbosa | 23/10/2023 |   Miguel de Frias    |    23/10/2023    |
 
 
 
