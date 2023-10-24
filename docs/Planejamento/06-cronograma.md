@@ -1,5 +1,4 @@
 
-
 # **Cronogramas**
 
 ## **Introdução**
@@ -110,7 +109,7 @@ A tabela 4 mostra as tarefas do planejamento feito para a entrega 2 do projeto.
 
 ### **Executado**
 
-A tabela 5 mostra as atividades realizadas para a entrega 1 do projeto.
+A tabela 5 mostra as atividades realizadas para a entrega 2 do projeto.
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
 |--------|----------------------------|--------------------|-------------|--------|
@@ -203,7 +202,7 @@ A tabela 8 mostra as tarefas do planejamento feito para a entrega 4 do projeto.
 
 ### **Planejado**
 
-A tabela 6 mostra as tarefas do planejamento feito para a entrega 5 do projeto.
+A tabela 10 mostra as tarefas do planejamento feito para a entrega 5 do projeto.
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
 |--------|----------------------------|--------------------|-------------|--------|
@@ -345,10 +344,10 @@ A tabela 11 mostra as tarefas do planejamento feito para a entrega 9 do projeto.
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Planejamento das Entregas |  Miguel Matos   |   18/09/2023   | Doa Filho  |   02/10/2023     |
-|  1.1   | Adição de atribuições e executado entrega 01  |  Miguel Matos |   01/10/2023   | Doan Filho | 02/10/2023      |
-|  2.0   | Adição do executado entrega 02  |  Miguel Matos |   15/10/2023   | Doan Filho |  16/10/2023   |
-|  3.0   | Adição do executado entrega 3  |  Miguel Matos |   23/10/2023   | Doan Filho |  23/10/2023   |
+|  1.0   | Planejamento das Entregas |  Miguel de Frias  |   18/09/2023   | Doa Filho  |   02/10/2023     |
+|  1.1   | Adição de atribuições e executado entrega 01  |  Miguel de Frias |   01/10/2023   | Doan Filho | 02/10/2023      |
+|  2.0   | Adição do executado entrega 02  |  Miguel de Frias |   15/10/2023   | Doan Filho |  16/10/2023   |
+|  3.0   | Adição do executado entrega 3  |  Miguel de Frias |   23/10/2023   | Doan Filho |  23/10/2023   |
 
 
 
