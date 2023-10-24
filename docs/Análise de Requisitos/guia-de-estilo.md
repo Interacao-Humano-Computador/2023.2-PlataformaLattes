@@ -24,15 +24,19 @@ Este guia de estilo é uma fonte de orientação que pode ser usada ao longo de 
 
 ### **Como manter o guia**
 Para fins de manutenção e com a necessidade de correção ou alteração no guia de estilo, é essencial que ele seja atualizado de forma a permanecer em conformidade com as decisões tomadas no projeto de Interação Humano-Computador. É importante incluir a data de atualização no guia de estilo para manter um registro claro das mudanças. Dessa forma, o guia de estilo permanece como a fonte primária de estilização da aplicação, garantindo a consistência visual e de interação em todo o sistema, o que é fundamental para proporcionar a melhor experiência do usuário e evitar problemas de usabilidade e acessibilidade.
----
+
 ## **Resultados de análise**
 
 ### **Descrição do ambiente de trabalho do usuário**
 A Plataforma Lattes fornece acesso através de computadores e dispositivos móveis (como tablets e celulares), sendo o uso ideal por meio dos computadores, isto é, desktops ou notebooks. Assim, é de extrema importância levar em consideração as características específicas desses dispositivos durante o processo de design e desenvolvimento da interface do sistema, de modo a assegurar que ela proporcione uma experiência satisfatória e eficaz para aqueles que a acessam por meio deles. Isso requer ajustar a interface para se adequar a diferentes tamanhos de tela, escolher elementos visuais apropriados e incorporar funcionalidades que sejam intuitivas e de fácil acesso para os usuários.
 
----
 
 ## **Elementos de interface**
+
+Na figura abaixo são apresentadas: as dimensões espaciais e os grids, as janelas, a tipografia e as cores presentes na Plataforma Lattes.
+
+<figure markdown><p style="text-align: center">Figura 1 - Elementos da Interface.</p>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCDEe9EI2Kb5a4QxFG686yP%2FGuia-de-estilo-atual%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DQdzwTiVkHS2JNLga-1" allowfullscreen></iframe> <figcaption> Fonte: Caio Braga e Doan Filho, 2023 </figcaption></figure>
 
 ---
 ## **Elementos de interação**
