@@ -44,7 +44,7 @@ As interações do usuário com o sistema são divididas em três partes:
 - Instituição: busca, atualização  e cadastro 
 
 sendo essa interação feita através de caixas de textos, botões, hiperlinks e textos. 
-(colocar imagens colocar imagem se possivel)
+
 
 ### **Seleção de um estilo**
 Considerando uma escolha de estilo voltada para cada tipo de elemento da interface, a seleção pode ser feita visando o contexto e uso de cada item selecionado, com o foco para cadastramento e busca por curriculos, pesquisas e instituições
@@ -57,7 +57,7 @@ Não foram encontradas aceleradoes na plataforma
 os elementos e ações que o usuário pode executar de acordo com sua necessidade 
 ### **Preenchimento dos campos**
 O usuário pode preencher os campos de cadastro,busca e atualização  de acordo com as diretrizes estabelecidas, sendo inseridas manualmente sendo esses caixas de textos e barras de pesquisa. 
-(colocar imagem se possivel)
+
 ### **Seleção**
 Na parte de seleção temos alguns aspectos a serem selecionados como, curriculo, pesquisa e instituição,ajustar fonte, selecionar twitter , rss e contraste, assim levando o usuário a uma parte especifica de acordo com sua necessidade,
 
@@ -83,10 +83,31 @@ As telas mudam bastante de acordo com o uso do site, diferenciando  de acordo co
 ### **Sequências de diálogos**
 As sequências de diálogos não se diferenciam muito entre as telas, seguindo um padrão de instrução para o usuário
 
+---
+
 ## **Proposta de intervenção**
+A proposta de intervenção foram proposta de acordo com os [principios](http://127.0.0.1:8000/An%C3%A1lise%20de%20Requisitos/princ%C3%ADpios%20gerais%20do%20projeto/) e [metas de usabilidade](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise%20de%20Requisitos/Metas%20de%20Usabilidade/) propostas pelo grupo, sendo eles usados como ferramenta para auxiliar nas melhorias requeridas a plataforma lattes 
+
+### **Metas de usabilidade**
+Com embasamento na metas de usabilidade elicitados pelo grupo como : Eficácia, Eficiência, Segurança, Utilidade, Aprendizado e Memorização trouxemos algumas partes que podem ser melhoradas dentre elas: 
+
+- Clareza nos componentes. -> Aprendizado. 
+- Responsividade em dispositivos com menor resolução -> Utilidade. 
+- Interface padronizadas -> Eficiência.
+
+### **Princípios Gerais**
+Usando a relação com os princípios gerais elicitados pelo grupo, podemos considerar alguns aspectos para o auxilio das melhorias como:
+
+- Correspondência com as expectativas do usuário -> Trazendo uma interface padronizada podemos obter a satisfação do cliente ao usar a plataforma, assim atendendo as expectativas do usuário alvo da plataforma.
+- Consistência e Padronização -> Fazendo a padronização da interface traremos consistência e um padrão.
+- Promoção da Eficiência do Usuário -> Com a interface padronizada podemos trazer uma melhor experiência do usuário e consequentimente aumenta a eficiência do usuário em relação ao uso da plataforma. 
+
+### **Proposta no figma**
 
 
-## Bibliografia
+
+
+## **Bibliografia**
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021.
 
@@ -95,4 +116,5 @@ As sequências de diálogos não se diferenciam muito entre as telas, seguindo u
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-| 1.0    | Criando guia de estilo | Doan Filho | 23/10/2023 |   |  |
+| 1.0    | Criando guia de estilo | Doan Filho | 23/10/2023 | Caio Braga  | 23/10/23 |
+| 1.1    | Criando guia de estilo | Caio Braga | 23/10/2023 | Doan Filho  | 23/10/23 |
