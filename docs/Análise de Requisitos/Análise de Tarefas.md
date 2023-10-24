@@ -230,7 +230,7 @@ A tarefa "Depositar pesquisa" consiste basicamente em depositar uma pesquisa no 
 A tarefa "Consiste pesquisa" consiste basicamente em buscar uma pesquisa depositada no sistema. Na figura 9 está a análise detalhada representada em diagrama.
 
 <div align="center">
-    <img src="" style="width:40vw"/>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/CTTBuscarPesquisa.png" style="width:40vw"/>
     <p> Figura 9 - Análise da Tarefa de "Buscar pesquisa". Fonte: de Frias, Miguel </p> 
 </div>
 
