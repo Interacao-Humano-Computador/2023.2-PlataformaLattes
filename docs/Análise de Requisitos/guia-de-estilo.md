@@ -23,7 +23,9 @@ Este guia de estilo foi criado para servir como uma referência útil tanto para
 Este guia de estilo é uma fonte de orientação que pode ser usada ao longo de todo o projeto de Interação Humano-Computador, abrangendo desde a criação até a manutenção. As diretrizes e boas práticas oferecidas no guia são úteis para ajudar na tomada de decisões de design, assegurando que a interface do usuário atenda às necessidades dos usuários e promova uma interação eficaz e satisfatória com o sistema, ao longo de todo o ciclo de vida do projeto.
 
 ### **Como manter o guia**
+
 Para fins de manutenção e com a necessidade de correção ou alteração no guia de estilo, é essencial que ele seja atualizado de forma a permanecer em conformidade com as decisões tomadas no projeto de Interação Humano-Computador. É importante incluir a data de atualização no guia de estilo para manter um registro claro das mudanças. Dessa forma, o guia de estilo permanece como a fonte primária de estilização da aplicação, garantindo a consistência visual e de interação em todo o sistema, o que é fundamental para proporcionar a melhor experiência do usuário e evitar problemas de usabilidade e acessibilidade.
+
 ---
 ## **Resultados de análise**
 
@@ -103,7 +105,7 @@ Usando a relação com os princípios gerais elicitados pelo grupo, podemos cons
 - Promoção da Eficiência do Usuário -> Com a interface padronizada podemos trazer uma melhor experiência do usuário e consequentimente aumenta a eficiência do usuário em relação ao uso da plataforma. 
 
 ### **Proposta no figma**
-
+Criamos um quadro no figma para demonstrar de forma mais detalhada a nossa proposta de intervenção como citado na figura abaixo, fizemos essa proposta com o objetivo de melhorar a experiência e interação com a plataforma lattes, trazendo as as diretrizes vistas na disciplina como [principios](http://127.0.0.1:8000/An%C3%A1lise%20de%20Requisitos/princ%C3%ADpios%20gerais%20do%20projeto/) e [metas de usabilidade](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise%20de%20Requisitos/Metas%20de%20Usabilidade/).
 
 
 
