@@ -37,7 +37,7 @@ Reunião para alinhar as tarefas para entrega 03
 
 ## **Acesso da reunião**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ijXnNHKzvLg?si=sJvGjYe4YuMhkh3K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="630" height="315" src="https://www.youtube.com/embed/ijXnNHKzvLg?si=sJvGjYe4YuMhkh3K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **Histórico de Versões**
 

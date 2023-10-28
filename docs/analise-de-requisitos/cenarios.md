@@ -25,12 +25,12 @@ Para criar os cenários do projeto, foi usado como base o [perfil de usuário](h
 | Ator(es)  | Maria Dale  |
 | Episódio  | 1. O usuário acessa o site <br> 2. Navega no menu de acesso direto <br> 3. Clica em atualizar currículo <br> 4. Preenche os campos |
 
-<p> Tabela 1: Cenário 1 (Fonte: BARBOSA, Gabriel. 2023).</p>
+<p style="text-align: center"> Tabela 1: Cenário 1 (Fonte: BARBOSA, Gabriel. 2023).</p>
 
 
 
 ###  **Buscar por Pesquisadores** 
-style="text-align: center">
+
 
 |    Elemento  |  Descrição   |
 | :----------: | :----------: |
@@ -43,7 +43,7 @@ style="text-align: center">
 | Restrição  |   Não conseguir encontrar currículos relevantes |
 | Exceção    |  Ajustar os filtros e preferências para encontrar o currículo do pesquisador ideal |
 
-<p> Tabela 2: Cenário 2 (Fonte: BARBOSA, Gabriel. 2023).</p>
+<p style="text-align: center"> Tabela 2: Cenário 2 (Fonte: BARBOSA, Gabriel. 2023).</p>
 
 
 
@@ -61,7 +61,7 @@ style="text-align: center">
 | Restrição  |   Não conseguir encontrar o objeto de busca |
 | Exceção    |  Alternar entre os filtros: <br> - Pelo nome e/ou sigla <br> - Pelo CNPJ |
 
-<p> Tabela 3: Cenário 3 (Fonte: BARBOSA, Gabriel. 2023).</p>
+<p style="text-align: center"> Tabela 3: Cenário 3 (Fonte: BARBOSA, Gabriel. 2023).</p>
 
 
 
@@ -80,7 +80,7 @@ style="text-align: center">
 | Restrição  |   Não conseguir encontrar a pesquisa/artigo de interesse |
 | Exceção    |  Ajustar os filtros e fazer a pesquisa avançada novamente |
 
-<p> Tabela 4: Cenário 4 (Fonte: BARBOSA, Gabriel. 2023).</p>
+<p style="text-align: center"> Tabela 4: Cenário 4 (Fonte: BARBOSA, Gabriel. 2023).</p>
 
 
 
@@ -99,7 +99,7 @@ style="text-align: center">
 | Exceção    |  Ajustar os filtros e fazer a pesquisa avançada na base de dados novamente |
 
 
-<p> Tabela 5: Cenário 5 (Fonte: BARBOSA, Gabriel. 2023).</p>
+<p style="text-align: center"> Tabela 5: Cenário 5 (Fonte: BARBOSA, Gabriel. 2023).</p>
 
 
 ## **Bibliografia**

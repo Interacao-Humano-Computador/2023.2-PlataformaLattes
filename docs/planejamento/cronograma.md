@@ -4,19 +4,22 @@
 
 ## **Introdução**
 
-<p align="justify">
 
 <p align="justify">
 
-&emsp;&emsp;Este documento é referente ao cronograma que será seguido pela equipe no semestre 2023.2 na disciplina de Interação Humano Computador, ministrada pelo professor André Barros de Sales, com a finalidade de estudar a plataforma Lattes. Este documento possui um objetivo inicial de organizar todas as tarefas que deverão ser realizadas no decorrer do semestre e também destacar os principais tópicos a serem abordados, as tarefas necessárias e a devida alocação de tempo para cada entrega do projeto.
+&emsp;&emsp;Este documento refere-se ao cronograma que será seguido pela equipe do semestre 2023.2 na disciplina de Interação Humano Computador, ministrada pelo professor André Barros de Sales, com a finalidade de estudar a plataforma Lattes. Este documento possui um objetivo inicial de organizar todas as tarefas que deverão ser realizadas no decorrer do semestre e também destacar os principais tópicos a serem abordados, as tarefas necessárias e a devida alocação de tempo para cada entrega do projeto.
+</p>
+
+<center>
+
 | Versão | Data       | Descrição            | Autor          | Revisor          |
 |--------|------------|----------------------|----------------|------------------|
-| 1.0    | 30/09/2023 | Versão inicial       | Doan Filho     |    Caio Braga           |
-| 1.0    | 02/10/2023 | Ajustes e organização      | Joel Sares     |    Gabriel      |
+| 1.0    | 30/09/2023 | Versão inicial       | Doan Filho     |    Caio Braga    |
+| 1.0    | 02/10/2023 | Ajustes e organização| Joel Sares     |    Gabriel       |
 
-</p>
+</center>
 
-</p>
+
 
 ## **Cronograma Geral**
 

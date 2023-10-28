@@ -5,9 +5,9 @@ Usando as linguagens de marcação Markdown e HTML na qual estamos utilizando ao
 
 ## **Componentes**
 
-Aqui teremos alguns componentes e seus acompanhamentos que serão padronizados pela a equipe
+Teremos alguns componentes e seus acompanhamentos que serão padronizados pela equipe.
 
-### **Tópicos: títulos e Subtítulos**.
+### Tópicos: Títulos e Subtítulos.
 
 Os **títulos** do projeto definem o nome do documento no mkdocs, assim sendo importante definir nomes significativo para os arquivos criados
 
@@ -20,7 +20,7 @@ Os **subtitulos** são definidos para informar os tópicos do documento sendo de
 
 ### **Legendas de Figuras/Tabelas/Etc**
 
-Colocar logo abaixo (saltando uma linha no markdown), a seguinte estrutura:
+As legendas seguirão a seguinte estrutura:
 
 <div style="text-align: center">
     <p> <b> Tabela X ou Figura X </b> : Descrição breve. (Fonte: Fulano de Tal, 2023).</p>
@@ -30,7 +30,7 @@ Colocar logo abaixo (saltando uma linha no markdown), a seguinte estrutura:
 
 ### **Histórico de versão: estrutura, versionamento, autores, revisores e datas.**
 
-Trazendo informações sobre o versionamento do documento possuindo informações sobre: Versão, data que foi versionado, descrição, autor, revisor e data de revisao
+Fornece informações sobre o versionamento do documento como a versão, a data que foi versionado, a descrição, o autor, o revisor e a data de revisão.
 
 
 - Estrutura:
@@ -42,7 +42,7 @@ Trazendo informações sobre o versionamento do documento possuindo informaçõe
 ---
 
 ### **Referência Bibliográfica: estrutura, citação, citação de autor, data e link**
-Usada para trazer embasamento ao texto escrito, assim trazendo detalhamento da fonte na qual surgiu sua inspiração para escrever um determinado texto
+Usada para trazer embasamento ao texto escrito, trazendo assim um detalhamento da fonte na qual surgiu a inspiração para escrever um determinado texto.
 
 Estrutura:
 
@@ -50,29 +50,28 @@ Estrutura:
 
 ---
 ### **Bibliografia: estrutura, nome site, data e link**
-Usado para apoio da documentação, contendo link para ferramentas, sites usados e etc
+Usado para apoio da documentação, contendo link para ferramentas, sites utilizados, etc
 
 > [1] "Nome do site", Disponivel em: [link ddo site], acesso em 04 de Outubro de 2023
 
 ---
 ### **Imagens: tag, link referênciado, padrão, legendas**.
-As imagens contidas nesse documento são para melhorar visualmente ideias e trazer uma interpretação visual sobre um certo assunto.Usando a tag em html de img, trazemos o link dá imagem que deve está no repositório do github
+As imagens contidas nesse documento são para esclarecer visualmente algumas ideias abordadas e trazer uma interpretação visual sobre um dado assunto. Usando a tag em html de img, trazemos o link dá imagem que deve estar no repositório do GitHub.
 
 Estrutura:
 
-<img src = "link da imagem" width = tamanhopx>
+```<img src = "link da imagem" width = tamanhopx>'```
  
 ---
 
 ### **Cronograma: tabelas**
-O cronograma traz detalhadamente todo o planejamento e execução do grupo
+O cronograma traz detalhadamente todo o planejamento e execução do grupo:
 
 
 | Tarefa | Período de Desenvolvimento | Atribuição | Período de Revisão | Revisor|
 |--------|:--------------------------:|------------|:------------------:|--------|
 | tarefa | Início: dd/mm <br> Fim: dd/mm | pessoa01 | Início: dd/mm <br> Fim: dd/mm| pessoa02 |
 
-sendo o mesmo cronograma para o planejado e executado 
 
 
 ### **Estrutura do projetos: nome do arquivo, estrutura.**
@@ -80,8 +79,9 @@ Aqui temos a estruturação do arquivo que iremos trabalhar:
 
 Estrutura:
 
-- Cada pasta representa uma parte da entrega da disciplina
-- pasta "img"-> guarda imagens referentes as entregas
+- Cada pasta representa uma parte da entrega da disciplina, e deve ser escrita com letra minúscula e sem acentuação (Ex: planejamento/)
+- Caso haja espaço entre palavras, use hífen como separação (Ex: analise-de-requisitos/)
+- A pasta "assets" guarda as imagens referentes às entregas
 
 ---
 ### **Guias Github**
@@ -90,10 +90,9 @@ Aqui teremos alguns guias e padronizações da nossa ferramenta de versionamento
 
 ---
 
-### **Issues:estrutura**
-Issues são feitas para designar tarefas feitas em reuniões para o github, servindo de guia para a resolução de tarefas e questões 
+### **Issues: estrutura**
+Issues são feitas para designar tarefas feitas em reuniões para o github, servindo de guia para a resolução de tarefas e questões. A estrutura seguirá o seguinte modelo: 
 
-Estrutura:
 #### Descrição 
 - Atributos do projeto
 
@@ -103,30 +102,25 @@ Estrutura:
 
 ---
 ### **Pull Request: estrutura, quando fazer, como fazer.** 
-As pull request servem para solicitar a junção da branch criada com a principal,também usado para mecanismo de revisão de código pelo revisar. Sendo feito pelo revisor logo após a suposta revisão 
+As pull request servem para solicitar a junção da branch criada com a principal (main), também usado como mecanismo de revisão de código, sendo feito pelo revisor atribuído àquela determinada tarefa. Os pull requests seguirão o seguinte modelo: 
 
-Estrutura:
-#### **Descrição**
-- branch do pull request, autor e revisor
+```
+## Descrição
+- Relate o que foi alterado em tópicos
 
+### Número da Issue: defina aqui a issue da branch a ser merjada com a main.
+
+```
 ---
 
 ### **Padronização de commit: estrutura, padrões, mensagem.**
-A padronização de commit é importante para a identificação de commit's feitos durante o processo no projeto
+A padronização de commit é importante para a identificação de commit's feitos durante o processo de desenvolimento do projeto. Os commits seguirão o seguinte modelo:
 
-Estrutura: git commit -m "docs: Mensagem"
+- **docs:** para novas alterações na documentação
+- **fix:** para correções de erros na documentação
+- **refactor:** para correções que não corrigem erros, nem adicionam nada novo, apenas melhoram a estrutura do código
 
 --- 
-
-### **Markdown e Html**
-Aqui teremos guias para o uso das linguagens de marcação
-
----
-
-### **Markdown: guia, principais conceitos.** 
-Markdown é a linguagem de marcação mais usada no documento
-
-[Guia markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
 
 ## **Referencias Bibliograficas**
@@ -141,7 +135,7 @@ Markdown é a linguagem de marcação mais usada no documento
 
 ## **Histórico de Versões**
 
-|
-| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
-|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-| 1.0    | Criando guia de contribuição | Doan Filho | 22/10/2023 |  Caio Braga |  |
+
+| Versão |   Descrição         |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+| 1.0    | Criando guia de contribuição | Doan Filho | 22/10/2023 |  Caio Braga  |      28/10/2023       |
