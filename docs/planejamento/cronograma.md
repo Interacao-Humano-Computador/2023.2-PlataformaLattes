@@ -1,12 +1,11 @@
 
-
 # **Cronogramas**
 
 ## **Introdução**
 
 
-<p align="justify">
 
+<<<<<<< HEAD:docs/planejamento/cronograma.md
 &emsp;&emsp;Este documento refere-se ao cronograma que será seguido pela equipe do semestre 2023.2 na disciplina de Interação Humano Computador, ministrada pelo professor André Barros de Sales, com a finalidade de estudar a plataforma Lattes. Este documento possui um objetivo inicial de organizar todas as tarefas que deverão ser realizadas no decorrer do semestre e também destacar os principais tópicos a serem abordados, as tarefas necessárias e a devida alocação de tempo para cada entrega do projeto.
 </p>
 
@@ -18,6 +17,7 @@
 | 1.0    | 02/10/2023 | Ajustes e organização| Joel Sares     |    Gabriel       |
 
 </center>
+
 
 
 
@@ -119,7 +119,7 @@ A tabela 4 mostra as tarefas do planejamento feito para a entrega 2 do projeto.
 
 ### **Executado**
 
-A tabela 5 mostra as atividades realizadas para a entrega 1 do projeto.
+A tabela 5 mostra as atividades realizadas para a entrega 2 do projeto.
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
 |--------|----------------------------|--------------------|-------------|--------|
@@ -139,18 +139,20 @@ A tabela 5 mostra as atividades realizadas para a entrega 1 do projeto.
     <p> <b>Tabela 5</b>: Tarefas realizadas na Entrega 2. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
+
+
 ## **Entrega 3**
 
 ### **Planejado**
 
-A tabela 6 mostra as tarefas do planejamento feito para a entrega 3 do projeto.
+A tabela 6 mostra as tarefas do planejamento feito para a entrega 2 do projeto.
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
 |--------|----------------------------|--------------------|-------------|--------|
-| Princípios gerais do projeto | Início: 18/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 23/10 | Doan Filho e Guilherme Basilio | Caio Lelis |
-| Metas de usabilidade | Início: 18/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 23/10 | Gabriel Barbosa e Joel Soares | Doan Filho |
-| Guia de estilo |Início: 18/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 23/10 | Caio Braga e Caio Lelis | Joel Soares |
-| Determinar as características da plataforma para o projeto | Início: 18/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 23/10 | Joel Soares e Miguel de Frias | Caio Braga  |
+| Princípios gerais do projeto | Início: 18/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 23/10 | Caio Lelis e Gabriel Barbosa | Miguel de Frias |
+| Metas de usabilidade | Início: 18/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 23/10 | Guilherme Basilio e Joel Soares | Caio Lelis |
+| Guia de estilo |Início: 18/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 23/10 | Caio Braga e Doan Filho | Joel Soares |
+| Determinar as características da plataforma para o projeto | Início: 18/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 23/10 | Gabriel Barbosa | Miguel de Frias|
 | Atualizar GitPage | Início: 18/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 23/10 | Caio Braga e Caio Lelis | Doan Filho |
 | Gravação da Apresentação | Início: 22/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 22/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias|
 | Postagem da Apresentação | Início: 22/10 <br> Fim: 22/10 | Início: 22/10 <br> Fim: 22/10 | Joel Soares | Miguel de Frias|
@@ -160,6 +162,29 @@ A tabela 6 mostra as tarefas do planejamento feito para a entrega 3 do projeto.
 <div style="text-align: center">
     <p> <b>Tabela 6</b>: Tarefas planejadas na Entrega 3. (Fonte: Miguel de Frias, 2023).</p>
 </div>
+
+### **Executado**
+
+A tabela 7 mostra as atividades realizadas para a entrega 3 do projeto.
+
+| Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
+|--------|----------------------------|--------------------|-------------|--------|
+| Princípios gerais do projeto | Início: 18/10 <br> Fim: 23/10 | Início: 23/10 <br> Fim: 23/10 | Caio Lelis e Gabriel Barbosa | Miguel de Frias |
+| Metas de usabilidade | Início: 18/10 <br> Fim: 23/10 | Início: 23/10 <br> Fim: 23/10 | Guilherme Basilio e Joel Soares | Caio Lelis |
+| Guia de estilo |Início: 18/10 <br> Fim: 23/10 | Início: 22/10 <br> Fim: 23/10 | Caio Braga e Doan Filho | Joel Soares |
+| Determinar as características da plataforma para o projeto | Início: 18/10 <br> Fim: 23/10 | Início: 23/10 <br> Fim: 23/10 | Gabriel Barbosa | Miguel de Frias|
+| Atualizar GitPage | Início: 18/10 <br> Fim: 23/10 | Início: 23/10 <br> Fim: 23/10 | Caio Braga e Caio Lelis | Doan Filho |
+| Gravação da Apresentação | Início: 23/10 <br> Fim: 23/10 | Início: 23/10 <br> Fim: 23/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias|
+| Postagem da Apresentação | Início: 23/10 <br> Fim: 23/10 | Início: 23/10 <br> Fim: 23/10 | Joel Soares | Miguel de Frias|
+| Cronograma Executado | Início: 18/10 <br> Fim: 23/10 | Início: 23/10 <br> Fim: 23/10 | Miguel de Frias | Doan Filho |
+| Correções da Entrega 2 | Início: 18/10 <br> Fim: 23/10 | Início: 23/10 <br> Fim: 23/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias|
+
+<div style="text-align: center">
+    <p> <b>Tabela 7</b>: Tarefas realizadas na Entrega 3. (Fonte: Miguel de Frias, 2023).</p>
+</div>
+
+
+
 
 ## **Entrega 4**
 
@@ -187,7 +212,7 @@ A tabela 8 mostra as tarefas do planejamento feito para a entrega 4 do projeto.
 
 ### **Planejado**
 
-A tabela 6 mostra as tarefas do planejamento feito para a entrega 5 do projeto.
+A tabela 10 mostra as tarefas do planejamento feito para a entrega 5 do projeto.
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
 |--------|----------------------------|--------------------|-------------|--------|
@@ -329,9 +354,10 @@ A tabela 11 mostra as tarefas do planejamento feito para a entrega 9 do projeto.
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Planejamento das Entregas |  Miguel Matos   |   18/09/2023   | Doa Filho  |   02/10/2023     |
-|  1.1   | Adição de atribuições e executado entrega 01  |  Miguel Matos |   01/10/2023   | Doan Filho | 02/10/2023      |
-|  1.2   | Adição de executado entrega 02  |  Miguel Matos |   15/10/2023   | Doan Filho |  16/10/2023     |
+|  1.0   | Planejamento das Entregas |  Miguel de Frias  |   18/09/2023   | Doa Filho  |   02/10/2023     |
+|  1.1   | Adição de atribuições e executado entrega 01  |  Miguel de Frias |   01/10/2023   | Doan Filho | 02/10/2023      |
+|  2.0   | Adição do executado entrega 02  |  Miguel de Frias |   15/10/2023   | Doan Filho |  16/10/2023   |
+|  3.0   | Adição do executado entrega 3  |  Miguel de Frias |   23/10/2023   | Doan Filho |  23/10/2023   |
 
 
 
