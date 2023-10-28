@@ -15,7 +15,7 @@ Existem 4 tipo de tarefas
 - Tarefa interativas: são tarefas que acontecem através da interação entre o sistema e o usuário
 - Tarefa abstratas: São a representação da composição de tarefas que dá auxilio a decomposição
 
-#### *Especificação de relações entre tarefas*
+#### **Especificação de relações entre tarefas**
 
 Segundo Barbosa e Diniz (2021), existem 8 tipos de relações entre tarefas no diagrama CTT, contudo, no trabalho nos limitamos a utilizar apenas 4 tipos de relações, que são:
 
@@ -41,12 +41,12 @@ realizadas	em	qualquer	ordem	ou	ao	mesmo	tempo
     <p> Figura 3 - Especificações do CTT. Fonte: Autores </p> 
 </div>
 
-### *Motivação da escolha*
+### **Motivação da escolha**
 
 Optamos por empregar este método na análise das seguintes ações: "Cadastrar currículo," "Atualizar currículo," e "Buscar currículo." A razão para essa escolha reside no fato de que todas essas atividades requerem interações entre o usuário e o sistema. A abordagem da "Árvore de Tarefas Concorrentes" tem a capacidade de estruturar essas interações de forma hierárquica e, simultaneamente, estabelecer uma ordem cronológica para elas. Isso resulta em uma apresentação mais clara e organizada das tarefas.
 
 
-### *Análise de Tarefa CTT 1: Cadastrar currículo*
+### **Análise de Tarefa CTT 1: Cadastrar currículo**
 
 A tarefa "Cadastrar currículo" consiste basicamente em inserir as informações do usuário no sistema para que essas informações sejam salvas e disponibilizadas na plataforma. Na figura 4 está a análise detalhada representada em diagrama.
 
@@ -67,7 +67,7 @@ A tarefa "Atualizar currículo" consiste basicamente em editar as informações 
 </div>
 
 
-### *Análise de Tarefa CTT 3: Buscar currículo*
+### **Análise de Tarefa CTT 3: Buscar currículo**
 
 A tarefa "Buscar currículo" consiste basicamente em buscar as informações de um usuário já cadastrado anteriormente no sistema. Na figura 6 está a análise detalhada representada em diagrama.
 
@@ -77,17 +77,17 @@ A tarefa "Buscar currículo" consiste basicamente em buscar as informações de 
     <p> Figura 6 - Análise da Tarefa de "Buscar currículo". Fonte: Autores </p> 
 </div>
 
-### *Análise de Tarefa CTT 4: Buscar instituição*
+### **Análise de Tarefa CTT 4: Buscar instituição**
 
 A tarefa "Buscar instituição" consiste basicamente em buscar as informações de uma instituição já cadastrada anteriormente no sistema. Na figura 7 está a análise detalhada representada em diagrama.
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/buscar_instituicao.png" style="width:40vw"/>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/buscar_Instituicao.png" style="width:40vw"/>
     <p> Figura 7 - Análise da Tarefa de "Buscar instituição". Fonte: SOARES, Joel </p> 
 </div>
 
-### *Análise de Tarefa CTT 5: Depositar pesquisa*
+### **Análise de Tarefa CTT 5: Depositar pesquisa**
 
 A tarefa "Depositar pesquisa" consiste basicamente em depositar uma pesquisa no sistema. Na figura 8 está a análise detalhada representada em diagrama.
 
@@ -97,7 +97,7 @@ A tarefa "Depositar pesquisa" consiste basicamente em depositar uma pesquisa no 
     <p> Figura 8 - Análise da Tarefa de "Depositar pesquisa". Fonte: BASILIO, Guilherme </p> 
 </div>
 
-## *Análise de Tarefa CTT 5: Buscar pesquisa*
+### **Análise de Tarefa CTT 5: Buscar pesquisa**
 
 A tarefa "Consiste pesquisa" consiste basicamente em buscar uma pesquisa depositada no sistema. Na figura 9 está a análise detalhada representada em diagrama.
 
@@ -106,9 +106,13 @@ A tarefa "Consiste pesquisa" consiste basicamente em buscar uma pesquisa deposit
     <p> Figura 9 - Análise da Tarefa de "Buscar pesquisa". Fonte: de Frias, Miguel </p> 
 </div>
 
+
+
 ## **Bibliografia**
 
 > [1] Barbosa, Simone Diniz Junqueira Interação humano-computador / Simone Diniz Junqueira Barbosa, Bruno Santana da Silva. – Rio de Janeiro: Elsevier, 2010. Disponível em:  https://www.amazon.com.br/Intera%C3%A7%C3%A3o-Humano-Computador-Simone-Junqueira-Barbosa/dp/8535234187 
+
+
 
 ## **Histórico de Versões**
 
@@ -117,6 +121,6 @@ A tarefa "Consiste pesquisa" consiste basicamente em buscar uma pesquisa deposit
 |  1.0   | Criação Análise de tarefas |   Caio Lelis   |   16/10/2023   | Caio Braga  |       16/10/2023      |
 |  1.1   | Adição HTA |   Caio Lelis e Joel   |   16/10/2023   | Guilherme  |       16/10/2023      |
 |  1.2   | Adição do CTT |   Caio Braga   |   16/10/2023   |  Gabriel  |       16/10/2023      |
-|  1.3   | Adicionando HTA e CTT de "Buscar Instituição" |   Joel Soares   |   22/10/2023   |  Miguel de Frias e Guilherme Basilio  |   23/10/2023      |
-|  1.4   | Adicionando HTA e CTT de "Depositar Pesquisa" |   Guilherme Basilio  |   23/10/2023   |  Miguel de Frias e Guilherme Basilio  |  23/10/2023      |
-|  1.5   | Adicionando HTA e CTT de "Buscar Pesquisa" |   Miguel de Frias |   23/10/2023   |  Miguel de Frias e Guilherme Basilio  |  23/10/2023      |
+|  1.3   | Adicionando CTT de "Buscar Instituição" |   Joel Soares   |   22/10/2023   |  Miguel de Frias e Guilherme Basilio  |   23/10/2023      |
+|  1.4   | Adicionando CTT de "Depositar Pesquisa" |   Guilherme Basilio  |   23/10/2023   |  Miguel de Frias e Guilherme Basilio  |  23/10/2023      |
+|  1.5   | Adicionando CTT de "Buscar Pesquisa" |   Miguel de Frias |   23/10/2023   |  Miguel de Frias e Guilherme Basilio  |  23/10/2023      |
