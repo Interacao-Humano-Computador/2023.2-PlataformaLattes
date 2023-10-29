@@ -17,9 +17,9 @@ Somos o Grupo 3 da disciplina de Interação-Humano-Computador, ministrada pelo 
 
 ## **Objetivo da Página**
 
-O principal objetivo desta página é fornecer uma documentação abrangente e organizada de todos os artefatos que estamos desenvolvendo. Isso inclui, mas não se limita a, especificações de requisitos, diagramas, planos de teste e relatórios de progresso.
+O principal objetivo desta página é fornecer uma documentação abrangente e organizada de todos os artefatos que estamos desenvolvendo. Isso inclui as especificações de requisitos, diagramas, planos de teste e relatórios de progresso.
 
-Além disso, esta página serve como um arquivo para as atas de nossas reuniões de desenvolvimento. Essas atas fornecem um registro detalhado dos progressos realizados em nossas reuniões, decisões tomadas e ações futuras planejadas.
+Além disso, esta página serve como um arquivo para as atas das nossas reuniões de desenvolvimento. Essas atas fornecem um registro detalhado dos progressos realizados em nossas reuniões, decisões tomadas e o planejamento de ações futuras.
 
 
 

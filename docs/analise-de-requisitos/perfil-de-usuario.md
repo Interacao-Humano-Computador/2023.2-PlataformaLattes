@@ -4,10 +4,9 @@
 
 O objetivo deste artefato é definir o perfil típico de usuário da plataforma Lattes. O mapeamento deste perfil auxiliará em etapas posteriores do projeto, principalmente na criação de personas que participarão das etapas de elicitação de requisitos.
 
-Para realizar tal objetivo, o grupo desenvolveu um questionário que foi repassado na comunidade local da Universidade de Brasília, e também utilizou dos Paineis desenvolvidos pelo CNPq, disponível em: https://painel-lattes.cnpq.br/#/pages/dashboard.
-
+Para realizar tal objetivo, o grupo desenvolveu um questionário que foi repassado na comunidade local da Universidade de Brasília e também utilizamos os Paineis desenvolvidos pelo CNPq, disponível nesse <a href="https://painel-lattes.cnpq.br/#/pages/dashboard">link</a>
 ## **Preparação**
-O questionário foi mediado pela ferramenta [Google Forms] trazendo perguntas sobre o usuário e a experiência dele com a plataforma lattes, o formulário foi submetido a grupos de estudantes da [Universidade de Brasília], e foi submetido um termo de consentimento livre no início do formulário. 
+O questionário foi mediado pela ferramenta **Google Forms** trazendo perguntas sobre o usuário e sua experiência com a Plataforma lattes, o formulário foi submetido a grupos de estudantes da **Universidade de Brasília**, e foi submetido um termo de consentimento livre no início do formulário. 
 
 ---
 
@@ -122,7 +121,7 @@ Após realizar as pesquisas citadas, o grupo definiu o seguinte perfil de usuár
 
 ## **Bibliografia**
 
-> [1]Painel Lattes. Disponível em: <https://painel-lattes.cnpq.br/#/pages/dashboard>. Acesso em: 16 de outubro de 2023.
+> [1] Painel Lattes. Disponível em: <https://painel-lattes.cnpq.br/#/pages/dashboard>. Acesso em: 16 de outubro de 2023.
 
 
 ## **Histórico de versão**
