@@ -4,8 +4,6 @@
 ## **Introdução**
 
 
-
-<<<<<<< HEAD:docs/planejamento/cronograma.md
 &emsp;&emsp;Este documento refere-se ao cronograma que será seguido pela equipe do semestre 2023.2 na disciplina de Interação Humano Computador, ministrada pelo professor André Barros de Sales, com a finalidade de estudar a plataforma Lattes. Este documento possui um objetivo inicial de organizar todas as tarefas que deverão ser realizadas no decorrer do semestre e também destacar os principais tópicos a serem abordados, as tarefas necessárias e a devida alocação de tempo para cada entrega do projeto.
 </p>
 
@@ -358,6 +356,7 @@ A tabela 11 mostra as tarefas do planejamento feito para a entrega 9 do projeto.
 |  1.1   | Adição de atribuições e executado entrega 01  |  Miguel de Frias |   01/10/2023   | Doan Filho | 02/10/2023      |
 |  2.0   | Adição do executado entrega 02  |  Miguel de Frias |   15/10/2023   | Doan Filho |  16/10/2023   |
 |  3.0   | Adição do executado entrega 3  |  Miguel de Frias |   23/10/2023   | Doan Filho |  23/10/2023   |
+| 3.1    | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |
 
 
 

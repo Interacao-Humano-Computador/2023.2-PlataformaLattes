@@ -28,4 +28,5 @@ Escolhemos a técnica de programação em pares [pair program](https://www.techt
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-| 1.0    | Criando metodologia | Doan Filho | 22/10/2023 | Caio Braga  |  |
+| 1.0    | Criando metodologia | Doan Filho | 22/10/2023 | Caio Braga  | 28/10/2023 |
+| 1.1    | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |

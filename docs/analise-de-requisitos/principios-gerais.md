@@ -85,3 +85,4 @@ Estes princípios são considerados fundamentais para o grupo 03, eles visam gar
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 | 1.0    | Criação de principios  | Caio Lelis | 21/10/2023 | Doan Filho  | 23/10/2023 |
+| 1.1    | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |

@@ -82,13 +82,13 @@ Nessa tarefa o usuário tem o objetivo de buscar uma instituição conforme dado
 | Objetivos/Operações | Problemas/Recomendações |
 |--------------------|------------------------|
 | 0.0 Buscar instituição | **Input:** Acesso à opção "Buscar instituição" na tela inicial do site <br> **Feedback:** Tela de Diretório de instituições <br> **Plano:** Definir como a busca por instituição pode ser aprimorada |
-| 1.0 Página inicial  | plano: apresentar a página "Diretório de Instituições" para o usuário  |
-| 2.0 Busca  | plano: definir tipo de busca  |
-| 2.1 Busca pelo nome e/ou sigla | plano: instituição pelo nome e/ou sigla cadastrado  |
-| 2.2 Busca CNPJ | plano: buscar instituição pelo CNPJ |
-| 3.0 Demonstação dos resultados   | plano: Demonstrar uma lista de resultados para o usuário, aonde poderá selecionar a instituição que desejar para obter mais informações             |
+| 1.0 Página inicial  | **Plano:** apresentar a página "Diretório de Instituições" para o usuário  |
+| 2.0 Busca  | **Plano:** definir tipo de busca  |
+| 2.1 Busca pelo nome e/ou sigla | **Plano:** instituição pelo nome e/ou sigla cadastrado  |
+| 2.2 Busca CNPJ | **Plano:** buscar instituição pelo CNPJ |
+| 3.0 Demonstração dos resultados   | **Plano:** Demonstrar uma lista de resultados para o usuário, aonde poderá selecionar a instituição que desejar para obter mais informações             |
 
-Tabela 2: Tabela da análise hierárquica de tarefas para o objetivo "Buscar instituição" (Fonte: Caio Lucas)
+Tabela 2: Tabela da análise hierárquica de tarefas para o objetivo "Buscar instituição" (Fonte: Joel Soares)
 
 ### **Depositar dados de pesquisa**
 
@@ -97,13 +97,13 @@ Nessa tarefa o usuário tem o objetivo de depositar uma pesquisa.
 | Objetivos/Operações | Problemas/Recomendações |
 |--------------------|------------------------|
 | 0.0 Depositar pesquisa | **Input:** Acesso à opção "Depositar pesquisa" na tela inicial do site <br> **Feedback:** Tela de depósito de pesquisa com informações e campo em branco <br> **Plano:** Definir como o depósito de pesquisa pode ser aprimorado |
-| 1.0 Página inicial | plano: apresentar a página de cadastro de pesquisa para o usuário |
-| 2.0 Dados da pesquisa | plano: Coletar informações relevantes sobre a pesquisa a ser cadastrada |
-| 2.1 Título da pesquisa | plano: Solicitar ao usuário que insira o título da pesquisa |
-| 2.2 Resumo da pesquisa | plano: Solicitar ao usuário que insira um resumo conciso da pesquisa |
-| 3.0 Duração da pesquisa| plano: Solicitar ao usuário que especifique o período de realização da pesquisa |
-| 4.0 Anexos | Permitir ao usuário anexar arquivos à pesquisa, como artigos, resumos, apresentações, etc |
-| 5.0 Avaliação | Solicitar ao usuário que avalie a relevância da pesquisa |
+| 1.0 Página inicial | **Plano:** apresentar a página de cadastro de pesquisa para o usuário |
+| 2.0 Dados da pesquisa | **Plano:** Coletar informações relevantes sobre a pesquisa a ser cadastrada |
+| 2.1 Título da pesquisa | **Plano:** Solicitar ao usuário que insira o título da pesquisa |
+| 2.2 Resumo da pesquisa | **Plano:** Solicitar ao usuário que insira um resumo conciso da pesquisa |
+| 3.0 Duração da pesquisa| **Plano:** Solicitar ao usuário que especifique o período de realização da pesquisa |
+| 4.0 Anexos | **Plano:** Permitir ao usuário anexar arquivos à pesquisa, como artigos, resumos, apresentações, etc |
+| 5.0 Avaliação | **Plano:** Solicitar ao usuário que avalie a relevância da pesquisa |
 
 Tabela 3: Tabela da análise hierárquica de tarefas para o objetivo "Depositar dados de pesquisa" (Fonte: Guilherme Basilio) 
 
@@ -115,14 +115,52 @@ Nessa tarefa o usuário tem o objetivo de buscar dados de pesquisa conforme dado
 | Objetivos/Operações | Problemas/Recomendações |
 |--------------------|------------------------|
 | 0.0 Buscar instituição | **Input:** Acesso à opção "Buscar dados de pesquisa" na tela inicial do site <br> **Feedback:** Tela de consulta de pesquisas <br> **Plano:** Definir como a busca por dados de pesquisa pode seer melhorada |
-| 1.0 Página inicial  | plano: apresentar a página "Consulta de pesquisas" para o usuário  |
-| 2.0 Busca  | plano: definir tipo de busca |
-| 2.1 Busca pelo nome/palavra-chave | plano:  buscar a pesquisa pelo nome ou palavra-chave |
-| 2.2 Busca pelo autor | plano: buscar pesquisa pelo autor |
-| 3.0 Demonstação dos resultados   | plano: Demonstrar uma lista de resultados para o usuário, aonde poderá selecionar os dados de pesquisa para obter mais informações sobre a mesma  |
+| 1.0 Página inicial  | **Plano:** apresentar a página "Consulta de pesquisas" para o usuário  |
+| 2.0 Busca  | **Plano:** definir tipo de busca |
+| 2.1 Busca pelo nome/palavra-chave | **Plano:**  buscar a pesquisa pelo nome ou palavra-chave |
+| 2.2 Busca pelo autor | **Plano:** buscar pesquisa pelo autor |
+| 3.0 Demonstração dos resultados   | **Plano:** Demonstrar uma lista de resultados para o usuário, aonde poderá selecionar os dados de pesquisa para obter mais informações sobre a mesma  |
 
 Tabela 4: Tabela da análise hierárquica de tarefas para o objetivo "Buscar dados de pesquisa" (Fonte: Miguel de Frias)
 
+
+### **Buscar dados de pesquisa**
+
+Nessa tarefa o usuário tem o objetivo de buscar dados de pesquisa conforme dados selecionados para busca.
+
+
+| Objetivos/Operações | Problemas/Recomendações |
+|--------------------|------------------------|
+| 0.0 Buscar instituição | **Input:** Acesso à opção "Buscar dados de pesquisa" na tela inicial do site <br> **Feedback:** Tela de consulta de pesquisas <br> **Plano:** Definir como a busca por dados de pesquisa pode seer melhorada |
+| 1.0 Página inicial  | **Plano:** apresentar a página "Consulta de pesquisas" para o usuário  |
+| 2.0 Busca  | **Plano:** definir tipo de busca |
+| 2.1 Busca pelo nome/palavra-chave | **Plano:**  buscar a pesquisa pelo nome ou palavra-chave |
+| 2.2 Busca pelo autor | **Plano:** buscar pesquisa pelo autor |
+| 3.0 Demonstração dos resultados   | **Plano:** Demonstrar uma lista de resultados para o usuário, aonde poderá selecionar os dados de pesquisa para obter mais informações sobre a mesma  |
+
+Tabela 4: Tabela da análise hierárquica de tarefas para o objetivo "Buscar dados de pesquisa" (Fonte: Miguel de Frias)
+
+
+### **Acessar Painel Lattes**
+
+Nessa tarefa o usuário tem o objetivo de acessar o Painel Lattes para buscar dados estatísticos sobre a plataforma.
+
+
+| Objetivos/Operações | Problemas/Recomendações |
+|--------------------|------------------------|
+| 0.0 Acessar Painel Lattes | **Input:** Acesso à opção "Acessar Painel Lattes" na tela inicial do site <br> **Feedback:** Tela de painel de dados da Plataforma Lattes<br> **Plano:** Definir como o painel de dados estatísticos pode ser melhorado |
+| 1.0 Página inicial  | **Plano:** apresentar a página "Painel Lattes" para o usuário  |
+| 2.0 Filtrar  | **Plano:** definir filtro para afunilar os resultados  |
+| 2.1 Filtrar por região | **Plano:** filtra o grau de escolaridade e área de estudo por região (Centro-Oeste, Sudeste, etc) |
+| 2.2 Filtrar por estado | **Plano:** filtra o grau de escolaridade e área de estudo por estado (DF, GO, MG, SP, etc) |
+| 2.3 Filtrar por escolaridade | **Plano:** filtra o painel pelo grau de escolaridade (Ensino Fundamental, Médio, Superior, etc) |
+| 2.4 Filtrar por sexo | **Plano:** filtrar o painel pelo sexo (Masculino ou Feminino) |
+| 2.5 Filtrar por faixa etária | **Plano:** filtrar o painel pela faixa etária |
+| 2.6 Filtrar por grande área | **Plano:** filtrar o painel pela área de estudo (ex: Ciências Humanas e Sociais) |
+| 2.7 Filtrar por setor econômico | **Plano:** filtrar o painel pela grande área do grau de escolaridade (ex: Ensino Superior Público ou Privado, Ensino Técnico, etc) |
+| 3.0 Demonstração dos resultados   | **Plano:** demonstrar uma lista de resultados para o usuário, aonde poderá selecionar os dados de pesquisa para obter mais informações sobre ela |
+
+Tabela 4: Tabela da análise hierárquica de tarefas para o objetivo "Acessar Painel Lattes" (Fonte: Caio Braga)
 
 
 ## **Bibliografia**
@@ -136,7 +174,8 @@ Tabela 4: Tabela da análise hierárquica de tarefas para o objetivo "Buscar dad
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação Análise de tarefas |   Caio Lelis   |   16/10/2023   | Caio Braga  |       16/10/2023      |
 |  1.1   | Adição HTA |   Caio Lelis e Joel   |   16/10/2023   | Guilherme  |       16/10/2023      |
-|  1.2   | Adição do CTT |   Caio Braga   |   16/10/2023   |  Gabriel  |       16/10/2023      |
 |  1.3   | Adicionando HTA de "Buscar Instituição" |   Joel Soares   |   22/10/2023   |  Miguel de Frias e Guilherme Basilio  |   23/10/2023      |
 |  1.4   | Adicionando HTA de "Depositar Pesquisa" |   Guilherme Basilio  |   23/10/2023   |  Miguel de Frias e Guilherme Basilio  |  23/10/2023      |
 |  1.5   | Adicionando HTA de "Buscar Pesquisa" |   Miguel de Frias |   23/10/2023   |  Miguel de Frias e Guilherme Basilio  |  23/10/2023      |
+| 1.6    | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |
+|  1.7   | Adicionando HTA de "Acessar Painel Lattes" |   Caio Braga |   29/10/2023   |  Caio Lelis  |  23/10/2023      |
