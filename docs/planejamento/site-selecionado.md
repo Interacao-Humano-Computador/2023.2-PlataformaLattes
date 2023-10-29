@@ -7,7 +7,7 @@ Após alguns debates ao longo do inicio do projeto, tivemos uma escolha em conse
 ## **CNPq - Plataforma Lattes**
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/lattes-logo.png" width = 300px/>
+    <img src="../assets/lattes-logo.png" width = 300px/>
     <p> Figura 1: Imagem Plataforma Lattes . Fonte: <a href="https://www.lattes.cnpq.br/">Lattes CNPq</a></p> 
 </div>
 

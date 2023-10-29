@@ -43,7 +43,7 @@ A análise hierárquica de tarefas possui os seguintes elementos:
 Esta análise pode ser implementada em formato de tabela, ou por um diagrama conforme a notação a seguir:
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/elementos_hta.png" style="width:60vw"/>
+    <img src="../assets/elementos_hta.png" style="width:60vw"/>
     <p> Figura 1 - Elementos HTA - Faixa etária. Fonte: Autores </p> 
 </div>
 
@@ -68,7 +68,7 @@ Tabela 1: Tabela da análise hierárquica de tarefas para o objetivo "Buscar cur
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/buscar_curriculo.jpg">
+    <img src="../assets/buscar_curriculo.jpg">
     <p> Figura 3: Diagrama da análise hierárquica de tarefas para o objetivo "Buscar currículo" (Fonte: Caio Lucas) </p> 
 </div>
     

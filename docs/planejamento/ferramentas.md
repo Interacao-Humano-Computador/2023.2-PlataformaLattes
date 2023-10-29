@@ -6,13 +6,13 @@
 ## **Ferramentas** 
 |Logo| Ferramenta | Objetivo|
 |:---:|:---:|---|
-|<img src = "https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/mkdocs.png" width = 170px>|Mkdocs|Ferramenta usada para a criação do documento|
-|<img src = "https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/teams-logo.png" width = 150px>|Microsoft Teamns|Aplicativo usado para fazer as reuniões e realizar as gravações|
-|<img src = "https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/vscode.png" width = 100px>|Visual Studio Code |Aplicativo/ IDE usado para a codificação da documentação|
-|<img src = "https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/telegram.png" width = 150px >|Telegram |Aplicativo para a comunicação entre os participantes|
-|<img src = "https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/thispersona.png" width = 150px>|This person does not exist | Ferramenta para gerar pessoas ficticias|
-|<img src = "https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/youtube.png" width = 150px>|YouTube|Aplicativo para postar os vídeos|
-|<img src = https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/Planejamento/img/github.png width = 150px>|GitHub|Ferramenta para fazer o versionamento dos códigos|
+|<img src = "../assets/mkdocs.png" width = 170px>|Mkdocs|Ferramenta usada para a criação do documento|
+|<img src = "../assets/teams-logo.png" width = 150px>|Microsoft Teams|Aplicativo usado para fazer as reuniões e realizar as gravações|
+|<img src = "../assets/vscode.png" width = 100px>|Visual Studio Code |Aplicativo/ IDE usado para a codificação da documentação|
+|<img src = "../assets/telegram.png" width = 150px >|Telegram |Aplicativo para a comunicação entre os participantes|
+|<img src = "../assets/thispersona.png" width = 150px>|This person does not exist | Ferramenta para gerar pessoas ficticias|
+|<img src = "../assets/youtube.png" width = 150px>|YouTube|Aplicativo para postar os vídeos|
+|<img src = "../assets/github.png" width = 150px>|GitHub|Ferramenta para fazer o versionamento dos códigos|
 
 
 ## **Bibliografia**
