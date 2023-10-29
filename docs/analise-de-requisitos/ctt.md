@@ -37,7 +37,7 @@ realizadas	em	qualquer	ordem	ou	ao	mesmo	tempo
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/CTTRelacoes.png.png" style="width:40vw"/>
+    <img src="../assets/CTTRelacoes.png.png" style="width:40vw"/>
     <p> Figura 3 - Especificações do CTT. Fonte: Autores </p> 
 </div>
 
@@ -52,7 +52,7 @@ A tarefa "Cadastrar currículo" consiste basicamente em inserir as informações
 
 
 <div align="center">
-    <img src=" https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/CTTCadastrarCurriculo.png" style="width:40vw"/>
+    <img src=" ../assets/CTTCadastrarCurriculo.png" style="width:40vw"/>
     <p> Figura 4 - Análise da Tarefa de "Cadastrar currículo". Fonte: Autores </p> 
 </div>
 
@@ -62,7 +62,7 @@ A tarefa "Atualizar currículo" consiste basicamente em editar as informações 
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/CTTAtualizarCurriculo.png" style="width:40vw"/>
+    <img src="../assets/CTTAtualizarCurriculo.png" style="width:40vw"/>
     <p> Figura 5 - Análise da Tarefa de "Atualizar currículo". Fonte: Autores </p> 
 </div>
 
@@ -73,7 +73,7 @@ A tarefa "Buscar currículo" consiste basicamente em buscar as informações de 
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/CTTBuscarCurriculo.png" style="width:40vw"/>
+    <img src="../assets/CTTBuscarCurriculo.png" style="width:40vw"/>
     <p> Figura 6 - Análise da Tarefa de "Buscar currículo". Fonte: Autores </p> 
 </div>
 
@@ -83,7 +83,7 @@ A tarefa "Buscar instituição" consiste basicamente em buscar as informações 
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/buscar_Instituicao.png" style="width:40vw"/>
+    <img src="../assets/buscar_Instituicao.png" style="width:40vw"/>
     <p> Figura 7 - Análise da Tarefa de "Buscar instituição". Fonte: SOARES, Joel </p> 
 </div>
 
@@ -93,7 +93,7 @@ A tarefa "Depositar pesquisa" consiste basicamente em depositar uma pesquisa no 
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/CCTDepositarPesquisa.PNG" style="width:40vw"/>
+    <img src="../assets/CCTDepositarPesquisa.PNG" style="width:40vw"/>
     <p> Figura 8 - Análise da Tarefa de "Depositar pesquisa". Fonte: BASILIO, Guilherme </p> 
 </div>
 
@@ -102,7 +102,7 @@ A tarefa "Depositar pesquisa" consiste basicamente em depositar uma pesquisa no 
 A tarefa "Consiste pesquisa" consiste basicamente em buscar uma pesquisa depositada no sistema. Na figura 9 está a análise detalhada representada em diagrama.
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/CTTBuscarPesquisa.png" style="width:40vw"/>
+    <img src="../assets/CTTBuscarPesquisa.png" style="width:40vw"/>
     <p> Figura 9 - Análise da Tarefa de "Buscar pesquisa". Fonte: de Frias, Miguel </p> 
 </div>
 

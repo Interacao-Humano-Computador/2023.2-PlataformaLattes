@@ -47,7 +47,7 @@ Definida qual a eficiência do sistema em ajudar o usuário a executar suas tare
 O sistema atualmente não se apresenta eficiente em relação a algumas funcionalidades. Embora os usuários sejam capazes de concluir as principais atividades relacionadas ao registro de informações, existem oportunidades para simplificar ainda mais o processo. Por exemplo, otimizar o preenchimento de campos e reduzir a quantidade de etapas necessárias para realizar tarefas comuns pode melhorar significativamente a eficiência e a fluidez da experiência do usuário como podemos notar na figura 1.
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/Eficiencia.png" style="width:60vw"/>
+    <img src="../assets/Eficiencia.png" style="width:60vw"/>
 </div>
 
 <font size="2"><p style="text-align: center">Figura 1: Meta de usabilidade Eficiência (fonte: [Lattes CNPQ](https://lattes.cnpq.br))</p></font>
@@ -77,7 +77,7 @@ Definida como a rapidez com que os usuários podem compreender e utilizar o sist
 Algumas das funcionalidades presentes no site se encontram um tanto quanto escondidas ou pouco evidentes, sendo mascaradas por elementos visuais que não são particularmente intuitivos ou atrativos. Isso pode dificultar a capacidade do usuário de encontrar o que procura, como ilustrado na Figura 2.
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/Aprendizado.png" style="width:60vw"/>
+    <img src="../assets/Aprendizado.png" style="width:60vw"/>
 </div>
 
 <font size="2"><p style="text-align: center">Figura 2: Meta de usabilidade Facilidade de aprendizado (fonte: [Lattes CNPQ](https://lattes.cnpq.br))</p></font>

@@ -81,7 +81,7 @@ Tabela 3: Terceira persona. (SOARES, Joel 2023)
 |    |    |
 | :----: | :---------------------: |
 |  Nome  | Eduardo Aragão |
-|  Foto  |   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/img/Persona4.png" width = 100px><p>Imagem:  persona 4 |
+|  Foto  |   <img src="../assets/Persona4.png" width = 100px><p>Imagem:  persona 4 |
 | Descrição | Eduardo Aragão, 12 anos, estudante em unidade pública, reside em Guará-DF|
 | Tipo | Anti-Persona |
 | Informações | Eduardo Aragão é um menino de 12 anos que mora na região de Guará, no Distrito Federal. Ele está no início da adolescência e atualmente cursa o ensino fundamental. Eduardo é uma anti persona no contexto da plataforma Lattes, pois, devido à sua idade e estágio de educação, não tem motivo nem necessidade de usar a plataforma. |

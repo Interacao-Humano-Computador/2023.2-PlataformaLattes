@@ -17,7 +17,7 @@ O design pode ser visto como um processo que envolve três atividades básicas:
 Essas atividades formam um ciclo contínuo no processo de design, permitindo ao designer criar soluções e melhorias iterativamente com base na análise e avaliação contínuas da situação.
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/img/processo_design/figura1.png" style="width:40vw"/>
+    <img src="../assets/processo-design/figura1.png" style="width:40vw"/>
     <p> Figura 1 - O que é Design? (Fonte: BARBOSA, Simone; DINIZ, Bruno; 2010) </p> 
 </div>
 
@@ -42,7 +42,7 @@ Os processos de design em Interação Humano-Computador (IHC) têm como foco pri
 Com toda sua simplicidade, essa opção de processo de design é mais recomendada para designers mais experientes, tendo em vista que   não apresenta um detalhamento de etapas rigoroso e depende de poucas iterações no decorrer de seu desenvolvimento, ou seja, ele pode ser muito útil para designers que tenham mais experiência e intuição para trabalhar de maneira flexível, no entanto, para designers menos experientes se trata de uma proposta de processo de design bem desafiadora.
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/img/processo_design/figura2.png" style="width:40vw"/>
+    <img src="../assets/processo-design/figura2.png" style="width:40vw"/>
     <p> Figura 2 - Ciclo de vida simples (Fonte: BARBOSA, Simone; DINIZ, Bruno; 2010) </p> 
 </div>
 </p>
@@ -52,7 +52,7 @@ Com toda sua simplicidade, essa opção de processo de design é mais recomendad
 O ciclo de vida estrela (representado na Figura 3) guarda semelhanças com o ciclo de vida simples, mas se distingue por apresentar um nível maior de detalhamento e mais verificações entre as etapas. Enquanto o ciclo de vida simples é mais direto e requer poucas iterações, o ciclo de vida estrela se caracteriza por uma abordagem mais minuciosa, envolvendo maior monitoramento e análise ao longo do processo de design.
 </p>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/img/processo_design/figura3.png" style="width:40vw"/>
+    <img src="../assets/processo-design/figura3.png" style="width:40vw"/>
     <p> Figura 3 - Ciclo de vida em estrelas (Fonte: BARBOSA, Simone; DINIZ, Bruno; 2010) </p> 
 </div>
 
@@ -103,7 +103,7 @@ Durante esta etapa, ocorre a concepção da solução que atende aos requisitos 
 Após a implementação do sistema, é importante coletar as opiniões dos usuários após um período de uso real. Essas opiniões são valiosas para o correto entendimento das necessidades da interface e da interação.
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/img/processo_design/figura4.png" style="width:40vw"/>
+    <img src="../assets/processo-design/figura4.png" style="width:40vw"/>
     <p> Figura 4: Engenharia de usabilidade de Mayhew (Fonte: BARBOSA, Simone; DINIZ, Bruno; 2010) </p> 
 </div>
 

@@ -14,17 +14,17 @@ O questionário foi mediado pela ferramenta **Google Forms** trazendo perguntas 
 ## **Mapeamento do Painel Lattes**
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/totalcurriculos.png" style="width:60vw"/>
+    <img src="../assets/totalcurriculos.png" style="width:60vw"/>
     <p> Figura 1 - Painel Lattes - Total de Curriculos cadastrados. Fonte: Autores </p> 
 </div>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/painelfem.png" style="width:60vw"/>
+    <img src="../assets/painelfem.png" style="width:60vw"/>
     <p> Figura 2 - Painel Lattes - mapeamento por sexo: feminino. Fonte: Autores </p> 
 </div>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/painelmasc.png" style="width:60vw"/>
+    <img src="../assets/painelmasc.png" style="width:60vw"/>
     <p> Figura 3 - Painel Lattes - mapeamento por sexo: masculino. Fonte: Autores </p> 
 </div>
 
@@ -44,7 +44,7 @@ Aqui são as perguntas que serão coletadas dados referentes ao perfil do usuár
 Pergunta feita para coletar as idades dos participantes que se propuseram a responder o formulário 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/QueFaixaEtaria.png" style="width:60vw"/>
+    <img src="../assets/QueFaixaEtaria.png" style="width:60vw"/>
     <p> Figura 1 - Resultado do Questionário - Faixa etária. Fonte: Autores </p> 
 </div>
 
@@ -54,7 +54,7 @@ Pergunta feita para coletar as idades dos participantes que se propuseram a resp
 Pergunta feita coletando dados sobre a sexualizade dos participantes 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/QueSexualidade.png" style="width:60vw"/>
+    <img src="../assets/QueSexualidade.png" style="width:60vw"/>
     <p> Figura 2 - Resultado do Questionário - Sexo. Fonte: Autores </p> 
 </div>
 
@@ -64,7 +64,7 @@ Pergunta feita coletando dados sobre a sexualizade dos participantes
 Pergunta feita para coletar a escolaridade dos participantes 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/QueEscolaridade.png" style="width:60vw"/>
+    <img src="../assets/QueEscolaridade.png" style="width:60vw"/>
     <p> Figura 3 - Resultado do Questionário - Escolaridade. Fonte: Autores </p> 
 </div>
 
@@ -74,7 +74,7 @@ Pergunta feita para coletar a escolaridade dos participantes
 Pergunta feita para  coletamos um pouco de como é a familiaridade com a plataforma lattes 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/QueFamiliaridade.png" style="width:60vw"/>
+    <img src="../assets/QueFamiliaridade.png" style="width:60vw"/>
     <p> Figura 4 - Resultado do Questionário - Familiaridade. Fonte: Autores </p> 
 </div>
 
@@ -83,7 +83,7 @@ Pergunta feita para  coletamos um pouco de como é a familiaridade com a platafo
 Aqui coletaremos informações sobre a experiência do usuário 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/QueExperiencia.png" style="width:60vw"/>
+    <img src="../assets/QueExperiencia.png" style="width:60vw"/>
     <p> Figura 5 - Resultado do Questionário - Tipo de Experiência. Fonte: Autores </p> 
 </div>
 
@@ -91,7 +91,7 @@ Aqui coletaremos informações sobre a experiência do usuário
 Pergunta feita para coletar a avaliação do usuário de acordo com o acesso a plataforma
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/QueAvaliacaoExperiencia.png" style="width:60vw"/>
+    <img src="../assets/QueAvaliacaoExperiencia.png" style="width:60vw"/>
     <p> Figura 1 - Resultado do Questionário - Faixa etária. Fonte: Autores </p> 
 </div>
 
@@ -99,7 +99,7 @@ Pergunta feita para coletar a avaliação do usuário de acordo com o acesso a p
 Pergunta feita para aferir qual o vinculo do usuário e o seu uso durante o vinculo correspondente com a sua respectiva unidade de ensino quando respondeu o formulário.
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/QueVinculo.png" style="width:60vw"/>
+    <img src="../assets/QueVinculo.png" style="width:60vw"/>
     <p> Figura 7 - Resultado do Questionário - Vínculo com universidade ou instituição de ensino. Fonte: Autores </p> 
 </div>
 
