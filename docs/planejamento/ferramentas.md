@@ -1,7 +1,7 @@
 # **Ferramentas**
 
 ## **Introdução**
-&emsp;&emsp;Para o andamento do projeto foram escolhidas ferramentas que vão dar auxilio na produção dos artefatos e que usamos no dia a dia como engenheiros de software para documentar, gravar , codificar e etc.  
+&emsp;&emsp;Para o andamento do projeto foram escolhidas ferramentas que darão auxilio na produção dos artefatos e que usamos no dia a dia como engenheiros de software para documentar, gravar, codificar e etc.  
 
 ## **Ferramentas** 
 |Logo| Ferramenta | Objetivo|
