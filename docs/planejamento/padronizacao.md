@@ -142,4 +142,4 @@ A padronização de commit é importante para a identificação de commit's feit
 |:------:|:-------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 | 1.0    | Criando guia de contribuição | Doan Filho | 22/10/2023 |  Caio Braga  |      28/10/2023       |
 | 1.1    | Refatoraçaõ da interface | Caio Braga | 28/10/2023 |  Doan Filho  |      29/10/2023       |
-| 1.1    | Adicional referência bibliográfica para commits | Caio Braga | 29/10/2023 |  Doan Filho  |      29/10/2023       |
+| 1.2    | Adicional referência bibliográfica para commits | Caio Braga | 29/10/2023 |  Doan Filho  |      29/10/2023       |
