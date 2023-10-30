@@ -39,9 +39,13 @@ nav:
       - Introspecção: analise-de-requisitos/introspeccao.md
       - Observação: analise-de-requisitos/observacao.md
 
-
-
-
+  - Design, Avaliação e Desenvolvimento:
+    - Nivel 01:
+        - Storyboard:
+          - Planejamento Da avaliação do storyboard: Design, Avaliação e Desenvolvimento/Nível  01.md/Storyboard/Planejamento da avaliação do Storyboard.md
+          - Storyboard: Design, Avaliação e Desenvolvimento/Nível  01.md/Storyboard/Storyboard.md
+          - Planejamento do relato dos resultados: Design, Avaliação e Desenvolvimento/Nível  01.md/Storyboard/Planejamento do relato dos resultados .md
+          - Relato dos resultados: Design, Avaliação e Desenvolvimento/Nível  01.md/Storyboard/Relato dos resultados.md
 
 theme:
   icon:
