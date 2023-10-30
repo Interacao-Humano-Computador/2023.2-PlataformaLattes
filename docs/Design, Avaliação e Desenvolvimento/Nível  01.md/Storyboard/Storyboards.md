@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Storyboard é uma técnica de design que consiste em representar, por meio de desenhos, o fluxo de um sistema ou aplicativo. Essa técnica é útil para visualizar como o sistema será usado e identificar possíveis problemas ou inconsistências. Para a confecção dos storyboards, os usuários escolheram as tarefas com que já trabalharam nos artefatos HTA e CTT.
+Storyboard é uma técnica de design que consiste em representar, por meio de desenhos, o fluxo de um sistema ou aplicativo. Essa técnica é útil para visualizar como o sistema será usado e identificar possíveis problemas ou inconsistências. Para a confecção dos storyboards, os usuários escolheram as tarefas com que já trabalharam nos artefatos [HTA](http://127.0.0.1:8000/analise-de-requisitos/hta/) e [CTT](http://127.0.0.1:8000/analise-de-requisitos/ctt/).
 
 Os storyboards contam com os elementos a seguir:
 
