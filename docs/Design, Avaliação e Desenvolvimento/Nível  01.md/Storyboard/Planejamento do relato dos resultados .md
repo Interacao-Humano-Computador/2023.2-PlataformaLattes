@@ -6,7 +6,7 @@ O objetivo deste documento é criar um plano para a apresentação e revisão do
 
 ## **Metodologia**
 
-O relatório de resultados deve incluir uma descrição da metodologia utilizada, que deve estar de acordo com o que está descrito no [planejamento da avaliação]().
+O relatório de resultados deve incluir uma descrição da metodologia utilizada, que deve estar de acordo com o que está descrito no [planejamento da avaliação](https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/blob/main/docs/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%20%2001.md/Storyboard/Planejamento%20da%20avalia%C3%A7%C3%A3o%20do%20Storyboard.md).
 
 ## **Objetivo**
 
@@ -18,15 +18,33 @@ Primeiramente, o grupo precisa selecionar os participantes das entrevistas e os 
 
 ## **Sumário dos dados**
 
-O avaliador deve registrar as respostas do entrevistado para cada [pergunta planejada](), incluindo as considerações do usuário caso este responda **não** ou **não sei informar**.
+O avaliador deve registrar as respostas do entrevistado para cada pergunta planejada (conforme o [roteiro de perguntas](https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/blob/main/docs/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%20%2001.md/Storyboard/Planejamento%20da%20avalia%C3%A7%C3%A3o%20do%20Storyboard.md) incluindo as considerações do usuário caso este responda **não** ou **não sei informar**.
 
 ## **Problemas encontrados**
 
-O avaliador deve identificar os problemas encontrados nos storyboards, com base nos resultados coletados.
+O avaliador deve identificar os problemas encontrados nos storyboards, com base nos resultados coletados. Conforme descrito no [planejamento da avaliação](https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/blob/main/docs/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%20%2001.md/Storyboard/Planejamento%20da%20avalia%C3%A7%C3%A3o%20do%20Storyboard.md), cada problema em relação aos storyboards será descrito em detalhes, classificado quanto o seu impacto e acompanhado de sugestões de melhoria.
+
+Abaixo, um template para adição de problemas relatados por usuários.
+
+| Nº do problema | Problemas relatados | Impacto |
+| :------------: | :------------------: | :------: |
+|       Pxx        |         xxx          |      xx      | 
+
+<figcaption align='center'>
+    Tabela 1: Template para erros.(Fonte: Autores)
+</figcaption>
 
 ## **Sugestões de correções**
 
 O avaliador deve apresentar soluções para os problemas encontrados, considerando as sugestões do usuário e acrescentando as suas próprias, se achar necessário.
+
+| Nº do problema | Sugestão usuário | Proposta do avaliador |
+| :------------: | :------------------: | :------: |
+|       Pxx        |         xxx          |      xxx     | 
+
+<figcaption align='center'>
+    Tabela 1: Template para sugestões de correções.(Fonte: Autores)
+</figcaption>
 
 ## **Gravações do teste piloto e da entrevista**
 
