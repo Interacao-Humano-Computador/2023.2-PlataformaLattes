@@ -31,8 +31,8 @@ Os storyboards contam com os elementos a seguir:
 
 
 <div align="center">
-    <img src="../assets/strbBuscarCurriculo.png" style="width:40vw"/>
-    <p> Figura 01 - StoryBoard da tarefa "Buscar curriculo". Fonte: LELIS,Caio </p> 
+    <img src="../assets/sotryboardBuscarCurriculo.jpeg" style="width:3g0vw"/>
+    <p> Figura 01 - StoryBoard da tarefa "Buscar curriculo". (Fonte: LELIS,Caio) </p> 
 </div>
 
 
@@ -43,17 +43,29 @@ Os storyboards contam com os elementos a seguir:
 | Elemento                     | Descrição                                                                                      |
 |------------------------------|--------------------------------------------------------------------------------------------------|
 | **Pessoas envolvidas**       | - Calleri (o entrevistado) <br> - Muricy (o entrevistador)                                     |
-| **Tarefas**                  | - Calleri necessita encontrar uma alternativa para achar seu currículo Lattes esquecido para a entrevista. |
 | **Ambiente/contexto**        | - Calleri está em uma entrevista de emprego com Muricy.                                        |
+| **Tarefas**                  | - Calleri necessita encontrar uma alternativa para achar seu currículo Lattes esquecido para a entrevista. |
 | **Passos envolvidos**        | - Acessar o site do CNPQ - Lattes e usar a tarefa Buscar currículos usando filtros de busca para que encontre o seu. |
 | **Motivação de usar a aplicação** | - Praticidade em encontrar seu currículo.                                                     |
-| **O que as pessoas precisam para completar a tarefa** | - Usar campos de filtro para que encontre seu perfil no Lattes. |
-| **O que motivou a usar o sistema** | - Necessidade em encontrar currículo.                                                           |
+| **O que as pessoas precisam para completar a tarefa** | - Usar campos de filtro para que encontre seu perfil no Lattes. |                                                       |
 | **Resultado (satisfação) da pessoa ao completar a tarefa no final do storyboard** | - Calleri ao completar a tarefa pode cumprir um requisito presente em sua entrevista e agora Muricy, o entrevistador, pode dar prosseguimento na entrevista. |
 
 <p align="center">
-Tabela 01 - elementos do storyboard da tarefa 01 "Buscar curriculo". Fonte: LELIS,Caio
+Tabela 01 - elementos do storyboard da tarefa 01 "Buscar curriculo". (Fonte: LELIS,Caio)
 </p>
 
 
 
+## **Referências bibliográficas**
+
+> [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
+
+## **Bibliografia**
+
+ > [1] Storyboard. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/storyboard/>. Acesso em: 30 de outubro de 2023.
+
+## **Histórico de versão**
+
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+| 1.0    | Criação do documento Storyboards | Caio Lelis | 30/10/2023 |  | --/--/2023 |
