@@ -160,7 +160,23 @@ Nessa tarefa o usuário tem o objetivo de acessar o Painel Lattes para buscar da
 | 2.7 Filtrar por setor econômico | **Plano:** filtrar o painel pela grande área do grau de escolaridade (ex: Ensino Superior Público ou Privado, Ensino Técnico, etc) |
 | 3.0 Demonstração dos resultados   | **Plano:** demonstrar uma lista de resultados para o usuário, aonde poderá selecionar os dados de pesquisa para obter mais informações sobre ela |
 
-Tabela 4: Tabela da análise hierárquica de tarefas para o objetivo "Acessar Painel Lattes" (Fonte: Caio Braga)
+Tabela 5: Tabela da análise hierárquica de tarefas para o objetivo "Acessar Painel Lattes" (Fonte: Caio Braga)
+
+## **Cadastrar instituição**
+
+Nesta tarefa, o objetivo do usuário é cadastrar uma instituição de ensino.
+
+| Objetivos/Operações | Problemas/Recomendações |
+|--------------------|------------------------|
+| 0.0 Cadastrar instituição | **Input:** Acesso à opção "Cadastrar instituição" no menu de acesso direto contido na tela inicial do site <br> **Feedback:** Tela para busca no Diretório de instituições <br> **Plano:** Apresentar  |
+| 1.0 Busca | **Plano:** Primeiro, faça uma busca para verificar se a instituição já existe no cadastro. Se não existir, a inclusão é feita pelo ícone "Cadastrar uma nova instituição" |
+| 1.1 Acesso ao CADI  | **Plano:** Visualizar os campos de preenchimento disponíveis  |
+| 2.0 Preenchimento | **Plano:** Preencher todos os campos disponíveis, dentre eles: Identificação; Sócios/Representantes; Endereço; Contato; Classificação, Histórico; Missão |
+| 2.1 Salvamento | **Plano:** Botão de salvar informações deve ser selecionado|    
+| 3.0 Confirmação de cadastro  | **Plano:** Mensagem com a confirmação de cadastro exibida na tela     |
+
+Tabela 6: Tabela da análise hierárquica de tarefas para o objetivo "Cadastrar instituição" (Fonte: Gabriel Barbosa)
+
 
 
 ## **Bibliografia**
