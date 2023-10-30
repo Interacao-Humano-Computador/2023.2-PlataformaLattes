@@ -56,4 +56,36 @@ Tabela 01 - elementos do storyboard da tarefa 01 "Buscar curriculo". Fonte: LELI
 </p>
 
 
+<p align="center">
+    <strong><span style="font-size: larger;">Tarefa 02 - Depositar pesquisa</span></strong>
+</p>
+
+
+
+<div align="center">
+    <img src="../assets/strbDepositarPesquisa.png" style="width:40vw"/>
+    <p> Figura 02 - StoryBoard da tarefa "Depositar pesquisa". Fonte: BASILIO,Guilherme </p> 
+</div>
+
+
+<p align="center">
+    <strong><span style="font-size: larger;">Elementos do Storyboard </span></strong>
+</p>
+
+| Elemento                     | Descrição                                                                                      |
+|------------------------------|--------------------------------------------------------------------------------------------------|
+| **Pessoas envolvidas**       | - Jhonatan (Um pesquisador)                                  |
+| **Tarefas**                  | - Jhonatan está terminando sua pesquisa e precisa encontrar uma maneira para depositar sua pesquisa |
+| **Ambiente/contexto**        | - Jhonatan está em sua casa focado em terminar sua pesquisa    |
+| **Passos envolvidos**        | - Acessar o site do CNPQ - Lattes e usar a tarefa Depositar pesquisa utilizando o número do processo dessa pesquisa |
+| **Motivação de usar a aplicação** | - Visibilidade acadêmica e no meio profissional      |
+| **O que as pessoas precisam para completar a tarefa** | - Número de processo da pesquisa |
+| **O que motivou a usar o sistema** | - Necessidade em depositar sua pesquisa             |
+| **Resultado (satisfação) da pessoa ao completar a tarefa no final do storyboard** | - Jhonatan está satisfeito por ter depositado sua pesquisa com sucesso. Ele está confiante de que sua pesquisa será bem recebida pela comunidade acadêmica. |
+
+<p align="center">
+Tabela 02 - elementos do storyboard da tarefa 02 "Depositar pesquisa". Fonte: BASILIO,Guilherme
+</p>
+
+
 
