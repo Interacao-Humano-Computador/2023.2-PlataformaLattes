@@ -164,7 +164,7 @@ Tabela 5: Tabela da análise hierárquica de tarefas para o objetivo "Acessar Pa
 
 ## **Cadastrar instituição**
 
-Nesta tarefa, o objetivo do usuário é cadastrar uma instituição de ensino.
+Nesta tarefa, o objetivo do usuário é cadastrar uma instituição de ensino na plataforma lattes.
 
 | Objetivos/Operações | Problemas/Recomendações |
 |--------------------|------------------------|
@@ -172,8 +172,9 @@ Nesta tarefa, o objetivo do usuário é cadastrar uma instituição de ensino.
 | 1.0 Busca | **Plano:** Primeiro, faça uma busca para verificar se a instituição já existe no cadastro. Se não existir, a inclusão é feita pelo ícone "Cadastrar uma nova instituição" |
 | 1.1 Acesso ao CADI  | **Plano:** Visualizar os campos de preenchimento disponíveis  |
 | 2.0 Preenchimento | **Plano:** Preencher todos os campos disponíveis, dentre eles: Identificação; Sócios/Representantes; Endereço; Contato; Classificação, Histórico; Missão |
-| 2.1 Salvamento | **Plano:** Botão de salvar informações deve ser selecionado|    
-| 3.0 Confirmação de cadastro  | **Plano:** Mensagem com a confirmação de cadastro exibida na tela     |
+| 2.1 Salvamento | **Plano:** Botão de salvar informações deve ser selecionado|
+| 3.0 Validação | **Plano:** O lattes faz uma validação dos dados fornecidos |
+| 3.1 Confirmação de cadastro  | **Plano:** Mensagem com a confirmação de cadastro exibida na tela     |
 
 Tabela 6: Tabela da análise hierárquica de tarefas para o objetivo "Cadastrar instituição" (Fonte: Gabriel Barbosa)
 
