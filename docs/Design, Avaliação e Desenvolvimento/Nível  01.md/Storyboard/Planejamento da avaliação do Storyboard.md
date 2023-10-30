@@ -75,7 +75,7 @@ Comparação de ideias e alternativas de design:
 
 Identificação de problemas na interação e interface:
 
-- Os storyboards estão alinhados com os cenários previamente delineados?
+
 - Há aspectos na interação representada nos storyboards que podem ser melhorados para oferecer uma experiência mais fluida aos usuários?
 
 Essas questões foram estruturadas para avaliar a congruência, o potencial de melhorias e a fidelidade aos cenários pré-estabelecidos, alinhando-se aos objetivos gerais da avaliação de storyboards.
@@ -108,21 +108,19 @@ A avaliação tem prazo final para o dia 30/10/2023, ressaltando que a entrevist
 
 Abaixo a <i>Tabela 1</i> com as perguntas.
 
-Nº | Pergunta | Resposta |
-| :----: | :--------: | :--------: |
-| 1 | Os usuários envolvidos no storyboard condizem com a realidade? | [ ] Sim<br>[ ] Não |
-| 2 | Por quê você acha que este storyboard não condiz com a realidade? | Resposta aberta |
-| 3 | Você teria alguma sugestão de melhoria ou alteração no storyboard apresentado? | [ ] Sim <br>[ ] Não |
-| 4 | O Storyboard possui conexão com a realidade da tarefa proposta nele? | [ ] Sim<br>[ ] Não |
-| 5 | O Storyboard segue uma ordem cronológica dos seus acontecimentos? | [ ] Sim<br>[ ] Não |
-| 6 | Qual sugestão de melhoria ou alteração você gostaria de compartilhar? | Resposta aberta |
-| 7 | Os storyboards apresentam consistência com a realidade e refletem ações coerentes? | [Resposta] |
-| 8 | Existe alguma discrepância entre as representações nos storyboards e o que seria esperado na prática? | [Resposta] |
-| 9 | Os storyboards demandam modificações para validação ou para atender às expectativas dos usuários? | [Resposta] |
-| 10 | Há espaço para aprimoramento nos storyboards, especialmente em termos de facilidade de compreensão ou representação visual? | [Resposta] |
-| 11 | Os storyboards estão alinhados com os cenários previamente delineados? | [Resposta] |
-| 12 | Há aspectos na interação representada nos storyboards que podem ser melhorados para oferecer uma experiência mais fluida aos usuários? | [Resposta] |
-| 13 | Outras observações ou sugestões para melhorar os storyboards? | Resposta aberta |
+| Nº  | Pergunta                                                                                                                    | Resposta                |
+|----|------------------------------------------------------------------------------------------------------------------------------|-------------------------|
+| 1  | Os usuários envolvidos no storyboard condizem com a realidade?                                                             | [ ] Sim<br>[ ] Não      |
+| 2  | Por quê você acha que este storyboard não condiz com a realidade?                                                         | Resposta aberta         |
+| 3  | Você teria alguma sugestão de melhoria ou alteração no storyboard apresentado?                                           | [ ] Sim<br>[ ] Não      |
+| 4  | O Storyboard possui conexão com a realidade da tarefa proposta nele?                                                       | [ ] Sim<br>[ ] Não      |
+| 5  | O Storyboard segue uma ordem cronológica dos seus acontecimentos?                                                         | [ ] Sim<br>[ ] Não      |
+| 6  | Existe alguma discrepância entre as representações nos storyboards e o que seria esperado na prática?                      | [ ] Sim<br>[ ] Não      |
+| 7  | Os storyboards demandam modificações para validação ou para atender às expectativas dos usuários?                         | [ ] Sim<br>[ ] Não      |
+| 8  | Há espaço para aprimoramento nos storyboards, especialmente em termos de facilidade de compreensão ou representação visual? | [ ] Sim<br>[ ] Não      |
+| 9  | Há aspectos na interação representada nos storyboards que podem ser melhorados para oferecer uma experiência mais fluida aos usuários? | [ ] Sim<br>[ ] Não |
+| 10 | Outras observações ou sugestões para melhorar os storyboards?                                                              | Resposta aberta         |
+
 
 
 <figcaption align='center'>
