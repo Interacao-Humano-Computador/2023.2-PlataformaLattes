@@ -1,62 +1,144 @@
-## **Planejamento da Avaliação do Storyboard**
+# **Planejamento da Avaliação do Storyboard**
 
 ## **Introdução**
 
-Storyboard é uma técnica de design que consiste em representar, por meio de desenhos, o fluxo de um sistema ou aplicativo. Essa técnica é útil para visualizar como o sistema será usado e identificar possíveis problemas ou inconsistências.
-
-A avaliação será realizada com usuários da plataforma, para identificar se o storyboard está de acordo com as suas necessidades e expectativas.
+<p align="justify">
+O Storyboard é uma ferramenta de design que utiliza representações visuais para ilustrar o fluxo de interações em um sistema ou aplicativo. Essa técnica é crucial para a visualização do uso do sistema e a identificação de potenciais problemas ou incoerências. Contudo, para garantir a eficácia das decisões tomadas, é essencial realizar avaliações e validações com os usuários do sistema.</p>
 
 ## **Objetivo**
 
-O propósito deste documento é estabelecer um plano de avaliação para o storyboard desenvolvido com base na metodologia, bem como definir as tarefas a serem executadas. Isso visa aprimorar as escolhas do designer à medida que o projeto avança e garantir que haja informações adequadas para aprimorar as funcionalidades no sistema.
+<p align="justify">
+Este documento tem como objetivo principal estabelecer diretrizes claras para a avaliação do Storyboard, empregando metodologias apropriadas. Busca-se oferecer um roteiro detalhado para que avaliadores futuros possam conduzir avaliações com os futuros usuários. O foco está na definição de métodos e etapas para assegurar uma avaliação completa e eficiente do design de sistemas por meio do Storyboard.</p>
+
 
 ## **Metodologia**
 
-A abordagem metodológica escolhida, após a análise das personas e a elaboração do storyboard, é a entrevista estruturada. Nesse método, são formuladas previamente perguntas específicas que são seguidas rigorosamente em um roteiro.
+Para a realização do planejamento da avaliação do Storyboard, será adotado o framework DECIDE, uma ferramenta que nos orientará passo a passo por meio do acrônimo representado pelas suas palavras-chave, conforme apresentado na tabela a seguir:
 
-Além disso, optamos por adotar o framework DECIDE, um guia que direciona o planejamento, a execução e a análise da avaliação de Interação Humano-Computador. As etapas desse framework são interconectadas e conduzidas de forma iterativa, à medida que o avaliador articula os objetivos da avaliação, os recursos disponíveis e os dados coletados (conforme proposto por Preece et al., 2002).
+<div align="center">
+  <table style="width: 60%;">
+    <tr>
+      <th><strong>Letra</strong></th>
+      <th><strong>Objetivo</strong></th>
+    </tr>
+    <tr>
+      <td><strong>D:</strong></td>
+      <td>Definir os objetivos gerais da avaliação e entender por que esses objetivos são significativos.</td>
+    </tr>
+    <tr>
+      <td><strong>E:</strong></td>
+      <td>Explorar as questões que precisam ser respondidas por meio da avaliação.</td>
+    </tr>
+    <tr>
+      <td><strong>C:</strong></td>
+      <td>Escolher os métodos de avaliação apropriados.</td>
+    </tr>
+    <tr>
+      <td><strong>I:</strong></td>
+      <td>Gerenciar as questões práticas relacionadas à avaliação.</td>
+    </tr>
+    <tr>
+      <td><strong>D:</strong></td>
+      <td>Tomar decisões éticas que envolvem a avaliação.</td>
+    </tr>
+    <tr>
+      <td><strong>E:</strong></td>
+      <td>Avaliar, interpretar e apresentar os dados coletados.</td>
+    </tr>
+  </table>
+</div>
 
-O acrônimo DECIDE se desdobra da seguinte forma:
+<p align="center">
+Tabela 01 - Especificação do framework DECIDE. (Fonte: LELIS,Caio)
+</p>
 
-- D: Definir os objetivos gerais da avaliação e entender por que esses objetivos são significativos.
-- E: Explorar as questões que precisam ser respondidas por meio da avaliação.
-- C: Escolher os métodos de avaliação apropriados.
-- I: Gerenciar as questões práticas relacionadas à avaliação.
-- D: Tomar decisões éticas que envolvem a avaliação.
-- E: Avaliar, interpretar e apresentar os dados coletados.
 
 ## **Planejamento da avaliação**
 
-## **Definição das tarefas**
+## Objetivos Gerais (D):
 
-A avaliação do storyboard será realizada por meio de entrevistas com usuários da plataforma Lattes. Os entrevistados serão convidados a assistir aos storyboards e responder a perguntas sobre a sua compreensão e opinião sobre o conteúdo.
+A avaliação de storyboards é crucial para garantir a congruência entre as representações visuais propostas e os objetivos gerais do projeto. O objetivo primordial da avaliação é validar uma versão final dos storyboards a fim de achar possíveis problemas na interação e na interface que posteriormente serão trabalhados pelo grupo.
 
-## **Validação do storyboard**
+## Exploração de Questões (E):
 
-A validação do storyboard será realizada com base nas respostas dos entrevistados. Se os entrevistados relatarem que os storyboards são compreensíveis e que correspondem às suas experiências com a plataforma Lattes, o storyboard será considerado validado.
+Com base nos objetivos da avaliação, foram elaboradas perguntas orientadas para atingir os seguintes pontos:
+
+Conformidade com um padrão estabelecido:
+
+- Os storyboards apresentam consistência com a realidade e refletem ações coerentes?
+- Existe alguma discrepância entre as representações nos storyboards e o que seria esperado na prática?
+
+Comparação de ideias e alternativas de design:
+
+- Os storyboards demandam modificações para validação ou para atender às expectativas dos usuários?
+- Há espaço para aprimoramento nos storyboards, especialmente em termos de facilidade de compreensão ou representação visual?
+
+Identificação de problemas na interação e interface:
+
+- Os storyboards estão alinhados com os cenários previamente delineados?
+- Há aspectos na interação representada nos storyboards que podem ser melhorados para oferecer uma experiência mais fluida aos usuários?
+
+Essas questões foram estruturadas para avaliar a congruência, o potencial de melhorias e a fidelidade aos cenários pré-estabelecidos, alinhando-se aos objetivos gerais da avaliação de storyboards.
+
+## Métodos de Avaliação (C):
+
+A estratégia de avaliação empregará uma abordagem adaptada do método de  investigação, utilizando entrevistas guiadas por um questionário roteirizado. Os usuários serão convidados a analisar cenários hipotéticos apresentados nos storyboards e a correlacionar esses contextos fictícios com suas experiências pessoais.
+
+## Questões Práticas da Avaliação (I):
+
+## Recrutamento:
+
+O recrutamento de entrevistados será flexível, baseado nos [perfis de usuários](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/analise-de-requisitos/perfil-de-usuario/) pré-determinados. As entrevistas poderão ser conduzidas tanto de forma online quanto presencial, oferecendo essa escolha aos entrevistadores para garantir o máximo conforto e adesão.
+
+## Preparação:
+
+Os entrevistadores seguirão um roteiro de perguntas estruturadas. Podem ser designados um ou dois entrevistadores, cada um responsável por uma função específica, seja a realização das perguntas ou a coleta de respostas. Caso a avaliação seja sozinha, cabe ao entrevistador fazer as duas funções.
+
+## Custos:
+
+A avaliação não implicará custos para os usuários envolvidos ou para a equipe executora.
+
+## Prazos:
+
+A avaliação tem prazo final para o dia 30/10/2023, ressaltando que a entrevista com o usuário não terá duração maior que 25 minutos para que o mesmo não se sinta fadigado.
+
+## Roteiro de Perguntas:
 
 ## **Elaboração do roteiro de perguntas**
 
 Abaixo a <i>Tabela 1</i> com as perguntas.
 
-| Nº |    Pergunta    | Resposta |
+Nº | Pergunta | Resposta |
 | :----: | :--------: | :--------: |
-|  1   | Os usuários envolvidos no storyboard condizem com a realidade? | [ ] Sim<br>[ ] Não |
-|  2   | Qual dos storyboards apresentados você acha que não condiz com a realidade? |Número do storyboard|
-|  3   | Por quê você acha que este storyboard não condiz com a realidade? |Resposta aberta|
-|  4   | Você teria alguma sugestão de melhoria ou alteração em algum dos storyboards apresentados? | [ ] Sim <br>[ ] Não<br>|
-|  5   | Qual dos storyboards apresentados você gostaria de contribuir com a sua opinião? |Número do storyboard|
-|  6   | Qual sugestão de melhoria ou alteração você gostaria de compartilhar? |Resposta aberta|
+| 1 | Os usuários envolvidos no storyboard condizem com a realidade? | [ ] Sim<br>[ ] Não |
+| 2 | Por quê você acha que este storyboard não condiz com a realidade? | Resposta aberta |
+| 3 | Você teria alguma sugestão de melhoria ou alteração no storyboard apresentado? | [ ] Sim <br>[ ] Não |
+| 4 | O Storyboard possui conexão com a realidade da tarefa proposta nele? | [ ] Sim<br>[ ] Não |
+| 5 | O Storyboard segue uma ordem cronológica dos seus acontecimentos? | [ ] Sim<br>[ ] Não |
+| 6 | Qual sugestão de melhoria ou alteração você gostaria de compartilhar? | Resposta aberta |
+| 7 | Os storyboards apresentam consistência com a realidade e refletem ações coerentes? | [Resposta] |
+| 8 | Existe alguma discrepância entre as representações nos storyboards e o que seria esperado na prática? | [Resposta] |
+| 9 | Os storyboards demandam modificações para validação ou para atender às expectativas dos usuários? | [Resposta] |
+| 10 | Há espaço para aprimoramento nos storyboards, especialmente em termos de facilidade de compreensão ou representação visual? | [Resposta] |
+| 11 | Os storyboards estão alinhados com os cenários previamente delineados? | [Resposta] |
+| 12 | Há aspectos na interação representada nos storyboards que podem ser melhorados para oferecer uma experiência mais fluida aos usuários? | [Resposta] |
+| 13 | Outras observações ou sugestões para melhorar os storyboards? | Resposta aberta |
+
 
 <figcaption align='center'>
-    Tabela 1: Perguntas a serem feitas.
+    Tabela 1: Perguntas a serem feitas.(Fonte: Autores)
 </figcaption>
 
-## **Tratamento de aspectos éticos**
+## Execução do Roteiro:
+
+Durante a entrevista, o entrevistado seguirá o roteiro respondendo de acordo com sua percepção. Em caso de respostas afirmativas, as perguntas subsequentes serão seguidas conforme indicado. Para respostas negativas, serão exploradas sugestões de melhoria, e as respostas discursivas serão registradas para análise posterior.
+
+## Aspectos éticos (D):
 
 É necessário  garantir o respeito pelos direitos dos participantes, obtendo consentimento informado, protegendo sua privacidade e confidencialidade, e assegurando que nenhum dano seja causado durante o processo de avaliação. Para isso, as avaliações e entrevistas com o usuário serão feitas somente após o preenchimento do nosso [termo de consentimento](https://unbbr-my.sharepoint.com/:w:/g/personal/211061645_aluno_unb_br/EUZaSOp-u5VBs1zdaqRbHbgBzHhy-r2WnmNvWRohQTtfBg?e=gRm35H), disponível no documento de [aspectos éticos](https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/blob/main/docs/analise-de-requisitos/aspectos-eticos.md)
 
-## **Análise dos dados coletados**
+
+## Avaliar, interpretar e apresentar os dados(E):
 
 Para finalizar o planejamento da avaliação do Storyboard com base no framework DECIDE, é necessário determinar o que será feito com os dados obtidos durante a avaliação.
 
@@ -74,13 +156,18 @@ Se qualquer problema for identificado durante o teste-piloto, é fundamental que
 
 Dessa maneira, o teste-piloto será realizado no dia 03/11/2023 e contará com a presença dos integrantes [Gabriel Barbosa](https://github.com/gabrie1barbosa) e [Guilherme Basilio](https://github.com/GuilhermeBES), atuando como entrevistador e entrevistado, respectivamente.
 
+## **Referências bibliográficas**
+
+> [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
+
 ## **Bibliografia**
 
-> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
+ > [1] Planejamento da Avaliação do Storyboard. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/storyboard-dad/planejamento-avaliavao-sb/>. Acesso em: 30 de outubro de 2023.
 
 ## **Histórico de versão**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-| 1.0    | Criação do documento  | Guilherme Basilio | 27/10/2023 |  | --/--/2023 |
+| 1.0    | Criação do documento  | Guilherme Basilio | 27/10/2023 | Caio Lelis | --/--/2023 |
 | 1.1    | Planejamento teste piloto e conclusão | Gabriel Barbosa | 29/10/2023 |      |        |
+| 1.2    | Alteração questões práticas |  Caio Lelis | 30/10/2023|      |       --/--/2023  | 
