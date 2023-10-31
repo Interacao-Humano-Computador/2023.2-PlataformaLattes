@@ -183,6 +183,7 @@ Tabela 05 - elementos do storyboard da tarefa 07 "Cadastrar instituição". (Fon
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-| 1.0    | Criação do documento Storyboards | Caio Lelis e Joel Soares| 30/10/2023 |  | --/--/2023 |
-| 1.1    | Adição dos storyboards | Doan Filho | 30/10/2023 | Caio Lelis | --/--/2023 |
+| 1.0    | Criação do documento Storyboards | Caio Lelis e Joel Soares| 30/10/2023 | Gabriel Barbosa | 30/10/2023 |
+| 1.1    | Adição dos storyboards | Doan Filho | 30/10/2023 | Caio Lelis | 30/10/2023 |
 | 1.1    | Adição dos storyboards | Miguel de Frias | 30/10/2023 | Guilherme Basilio | 30/10/2023 |
+| 1.2    | Adição dos storyboards | Gabriel Barbosa | 30/10/2023  |        |           |    
