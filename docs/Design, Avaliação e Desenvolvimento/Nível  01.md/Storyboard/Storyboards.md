@@ -56,14 +56,14 @@ Tabela 01 - elementos do storyboard da tarefa 01 "Buscar curriculo". (Fonte: LEL
 
 
 <p align="center">
-    <strong><span style="font-size: larger;">Tarefa 02 - Depositar pesquisa</span></strong>
+    <strong><span style="font-size: larger;">Tarefa 02 - Depositar dados de pesquisa</span></strong>
 </p>
 
 
 
 <div align="center">
     <img src="../assets/strbDepositarPesquisa.png" style="width:40vw"/>
-    <p> Figura 02 - StoryBoard da tarefa "Depositar pesquisa". Fonte: BASILIO,Guilherme </p> 
+    <p> Figura 02 - StoryBoard da tarefa "Depositar dados de pesquisa". Fonte: BASILIO,Guilherme </p> 
 </div>
 
 
@@ -83,7 +83,7 @@ Tabela 01 - elementos do storyboard da tarefa 01 "Buscar curriculo". (Fonte: LEL
 | **Resultado (satisfação) da pessoa ao completar a tarefa no final do storyboard** | - Jhonatan está satisfeito por ter depositado sua pesquisa com sucesso. Ele está confiante de que sua pesquisa será bem recebida pela comunidade acadêmica. |
 
 <p align="center">
-Tabela 02 - elementos do storyboard da tarefa 02 "Depositar pesquisa". Fonte: BASILIO,Guilherme
+Tabela 02 - elementos do storyboard da tarefa 02 "Depositar dados de pesquisa". Fonte: BASILIO,Guilherme
 </p>
 
 
@@ -117,6 +117,36 @@ Tabela 02 - elementos do storyboard da tarefa 02 "Depositar pesquisa". Fonte: BA
 Tabela 02 - elementos do storyboard da tarefa 03 "Atualizar currículo". (Fonte: FILHO,Doan)
 </p>
 
+
+<p align="center">
+    <strong><span style="font-size: larger;">Tarefa 04 - Buscar Dados de Pesquisa</span></strong>
+</p>
+
+
+<div align="center">
+    <img src="../assets/storybuscpesq.jpeg" style="width:40vw"/>
+    <p> Figura 04 - StoryBoard da tarefa "Buscar Dados de Pesquisa". (Fonte: de Frias, Miguel) </p> 
+</div>
+
+
+<p align="center">
+    <strong><span style="font-size: larger;">Elementos do Storyboard </span></strong>
+</p>
+
+| Elemento                     | Descrição                                                                                      |
+|------------------------------|--------------------------------------------------------------------------------------------------|
+| **Pessoas envolvidas**       | Ailton(Um estudante de engenharia aeroespacial) |
+| **Tarefas**                  | Ailton deseja buscar dados de uma pesquisa |
+| **Ambiente/contexto**        | Ailton está em casa |
+| **Passos envolvidos**        |Acessar a plataforma cnpq lattes e buscar uma pesquisa   |
+| **Motivação de usar a aplicação** | A plataforma possui um grande acervo de dados de pesquisa   |
+| **O que as pessoas precisam para completar a tarefa** |Preencher o campo com dados da pesquisa |
+| **Resultado (satisfação) da pessoa ao completar a tarefa no final do storyboard** |Ailton consesguiu buscar os dados da pesquisa que estava procurando |
+
+<p align="center">
+Tabela 02 - elementos do storyboard da tarefa 04 "Buscar Dados de Pesquisa". (Fonte: de Frias, Miguel)
+</p>
+
 ## **Referências bibliográficas**
 
 > [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
@@ -131,3 +161,4 @@ Tabela 02 - elementos do storyboard da tarefa 03 "Atualizar currículo". (Fonte:
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 | 1.0    | Criação do documento Storyboards | Caio Lelis e Joel Soares| 30/10/2023 |  | --/--/2023 |
 | 1.1    | Adição dos storyboards | Doan Filho | 30/10/2023 | Caio Lelis | --/--/2023 |
+| 1.1    | Adição dos storyboards | Miguel de Frias | 30/10/2023 | Guilherme Basilio | 30/10/2023 |
