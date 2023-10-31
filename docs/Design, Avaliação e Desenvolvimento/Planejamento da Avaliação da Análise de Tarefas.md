@@ -33,13 +33,33 @@
 
 ### **(E) Explorar Perguntas da Avaliação**
 
+&emsp;&emsp;Com base no objetivo da avaliação, foram elaboradas questões fundamentadas nos seguintes tópicos: 
 
+1. Verificação de conformidade com um padrão: 
+   - Os diagramas HTA utilizam notações apropriadas, legendas adequadas e uma representação tabular correta?
+   
+2. Comparação de ideias e alternativas de design:
+   - Os diagramas representam tarefas que correspondem às funcionalidades esperadas para o site?
+   - As entrevistas possibilitam a identificação de maneiras de aprimorar as tarefas elucidadas pelo artefato de Análise de Tarefas?
 
+&emsp;&emsp;Estas perguntas foram selecionadas com o intuito de orientar a avaliação e estão embasadas no Capítulo 11 da literatura de  [1] Barbosa e Silva (2011, p.266).
 
+### **(C) Escolher Métodos de Avaliação**
 
+&emsp;&emsp;A escolha de adotar uma abordagem de avaliação que inclui entrevistas e observações com base em um roteiro questionário se justifica pelo fato de ser um método de pesquisa que oferece a capacidade de coletar uma ampla gama de informações. Além disso, sua flexibilidade permite a formulação de perguntas que podem aprofundar ainda mais na compreensão dos objetivos que os usuários desejam alcançar. Além disso, é importante destacar que as entrevistas serão conduzidas de forma rigorosa, com gravações precisas e documentação detalhada para garantir a qualidade do processo de avaliação.
 
+### **(I) Identificar Questões Práticas**
 
+#### **Recrutamento**
+&emsp;&emsp;Para recrutar os participantes, serão convidados indivíduos que fazem uso da Plataforma Lattes. A finalidade é assegurar a inclusão de uma amostra que seja representativa dos principais perfis de usuários do site. A tabela 2 abaixo, nos traz um exemplo do cronograma de entrevistas.
 
+| Tarefa |  Entrevistador | Participante | Data | Horário de Início | Horário de Término | Local |
+| ------ | ---------------|--------------|:----:|:-----------------:|------------------- | ----- |
+|        |                |              |      |                   |                    |       |
+
+ &emsp;&emsp;A quantidade de entrevistados será equivalente ao número de membros no grupo, totalizando, portanto, 6 usuários entrevistados. Essa decisão foi tomada com o intuito de proporcionar a cada membro a oportunidade de ter um contato direto com usuários reais, permitindo assim a coleta de perspectivas diversas e enriquecedoras.
+
+#### **Preparação**
 
 
 ## **Referências Bibliográficas**
