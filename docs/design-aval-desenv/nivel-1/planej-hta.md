@@ -33,7 +33,7 @@ Para o planejamento, cada letra do framework representa uma etapa fundamental. M
 |   D   |          Decidir como lidar com as questões éticas.          |
 |   E   |          Avaliar, interpretar e apresentar os dados          |
 
-**Fonte** - BARBOSA e SILVA (2021).
+<p style="text-align: center"> Tabela 1: Framework DECIDE (Fonte: Autores, 2023).</p>
 
 </center>
 
@@ -69,7 +69,7 @@ Na tabela a seguir, são listadas as questões a serem abordadas durante as entr
 |   11    |                  Você teria alguma sugestão para melhorar o diagrama?          |    Resposta Discursiva    |
 |   12    |                  E sobre a tarefa, você teria alguma sugestão para melhorá-la?         |    Resposta Discursiva    |
 
- **Fonte** - Autores.
+ <p style="text-align: center"> Tabela 2: Roteiro de Perguntas (Fonte: Autores, 2023).</p>
 
 ## **C - Escolher os métodos**
 
@@ -99,6 +99,7 @@ As entrevistas serão realizadas de forma online, visando evitar custos para a e
 |     4°     | 05/11/2023 | 19:00 - 19:15 | Plataforma Microsoft Teams (Online) | Caio Braga e Miguel de Frias | --- |
 |     5°     | 05/11/2023 | 19:20 - 19:35 | Plataforma Microsoft Teams (Online) | Caio Braga e Doan FIlho  | --- |
 
+<p style="text-align: center"> Tabela 3: Prazos das entrevistas (Fonte: Autores, 2023).</p>
 
 Importante mencionar que os requisitos para participação incluem acesso à internet, a aplicativos de comunicação e a um navegador web em qualquer dispositivo que os participantes possuam. Isso garantirá a facilidade de participação.
 
