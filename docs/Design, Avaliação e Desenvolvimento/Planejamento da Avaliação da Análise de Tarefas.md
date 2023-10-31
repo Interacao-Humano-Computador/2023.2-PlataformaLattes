@@ -6,7 +6,7 @@
 
 ## **Metodologia**
 
-&emsp;&emsp;O planejamento será realizado seguindo o framework DECIDE, que consiste em seis etapas, cada uma representada por uma letra da palavra. A tabela 1 a seguir apresenta o significado de cada letra.
+&emsp;&emsp;O planejamento ocorrerá utilizando o framework DECIDE, que consiste em seis etapas, cada uma representada por uma letra da palavra. A tabela 1 a seguir apresenta o significado de cada letra.
 
 <center>
 
@@ -24,6 +24,19 @@
 </div>
 
 </center>
+
+## **Etapas**
+
+### **(D) Objetivos**
+
+&emsp;&emsp;Os objetivos desta avaliação são verificar se os artefatos produzidos na Análise de Tarefas estão em conformidade com os padrões exigidos e identificar possíveis designs alternativos para a aplicação. A avaliação também será utilizada para elicitar ideias e problemas não identificados na produção do artefato de Análise de Tarefas, que serão implementados em uma nova versão.
+
+### **(E) Explorar Perguntas da Avaliação**
+
+
+
+
+
 
 
 
