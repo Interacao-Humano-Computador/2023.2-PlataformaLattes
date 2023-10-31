@@ -147,6 +147,30 @@ Tabela 03 - elementos do storyboard da tarefa 03 "Atualizar currículo". (Fonte:
 Tabela 04 - elementos do storyboard da tarefa 04 "Buscar Dados de Pesquisa". (Fonte: de Frias, Miguel)
 </p>
 
+<div align="center">
+    <img src="../assets/storyboardCadastrarinsituicao.png" style="width:40vw"/>
+    <p> Figura 05 - StoryBoard da tarefa "Cadastrar instituição". (Fonte: BARBOSA,Gabriel) </p> 
+</div>
+
+
+<p align="center">
+    <strong><span style="font-size: larger;">Elementos do Storyboard </span></strong>
+</p>
+
+| Elemento                     | Descrição                                                                                      |
+|------------------------------|--------------------------------------------------------------------------------------------------|
+| **Pessoas envolvidas**       | Paulo (O reitor da universidade fictícia "UMENGO") |
+| **Tarefas**                  | Paulo deseja cadastrar sua instuição de ensino na plataforma lattes |
+| **Ambiente/contexto**        | Paulo está no seu escritório e vê uma oportunidade de participar do CONBRIC (Congresso Brasileiro de Iniciação Científica) e precisa que as pesquisas de extensão produzidas na sua universidade tenham maior embasamento no congresso  |
+| **Passos envolvidos**        | Acessar a plataforma cnpq lattes e clicarem cadastrar nova instiuição   |
+| **Motivação de usar a aplicação** | Pois a plataforma lattes reune pesquisas e iniciações de todo o Brasil |
+| **O que as pessoas precisam para completar a tarefa** | Preencher os dados cadastrais e aguardar validação |
+| **Resultado (satisfação) da pessoa ao completar a tarefa no final do storyboard** | Paulo conseguiu cadastrar sua instituição privada de ensino na plataforma lattes, portanto, poderá participar do CONBRIC |
+
+<p align="center">
+Tabela 05 - elementos do storyboard da tarefa 07 "Cadastrar instituição". (Fonte: BARBOSA, Gabriel)
+</p>
+
 ## **Referências bibliográficas**
 
 > [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
