@@ -171,6 +171,29 @@ Tabela 04 - elementos do storyboard da tarefa 04 "Buscar Dados de Pesquisa". (Fo
 Tabela 05 - elementos do storyboard da tarefa 07 "Cadastrar instituição". (Fonte: BARBOSA, Gabriel)
 </p>
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/SB_buscar_inst.png" style="width:60vw"/>
+    <p> Figura 06 - StoryBoard - "Buscar Insituição". Fonte: SOARES, Joel </p> 
+</div>
+
+<p align="center">
+    <strong><span style="font-size: larger;">Elementos do Storyboard </span></strong>
+</p>
+
+| Elemento                     | Descrição                                                                                      |
+|------------------------------|--------------------------------------------------------------------------------------------------|
+| **Pessoas envolvidas**       | Um pesquisador e um professor orientador |
+| **Tarefas**                  | Encontrar informações de uma instituição para prosseguir com a pesquisa |
+| **Ambiente/contexto**        | universidade. (Primeiro take acontece em uma sala de aula, e depois vão para uma sala onde há o computador do pesquisador)  |
+| **Passos envolvidos**        | Ouvir uma sugestão de onde encontrará essas informações, acessar a plataforma Lattes, apertar o botão que indica busca por instituições e pesquisar sobre qual for a instituição requerida.   |
+| **Motivação de usar a aplicação** | Sugestão de pessoas que já possuem experiencia no meio científico |
+| **O que as pessoas precisam para completar a tarefa** | entrar na plataforma e pesquisar sobre a instituição requerida. |
+| **Resultado (satisfação) da pessoa ao completar a tarefa no final do storyboard** | ao final do storyboard, o pesquisador se sentiu feliz por encontrar um conjunto muito grande de informações sobre a instituição, permitindo ele a continuar seu trabalho com excelência. |
+
+<p align="center">
+Tabela 06 - elementos do storyboard da tarefa 07 "Cadastrar instituição". (Fonte: SOARES, Joel)
+</p>
+
 ## **Referências bibliográficas**
 
 > [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
