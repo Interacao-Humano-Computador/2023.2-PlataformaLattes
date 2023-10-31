@@ -191,7 +191,7 @@ Tabela 05 - elementos do storyboard da tarefa 07 "Cadastrar instituição". (Fon
 | **Resultado (satisfação) da pessoa ao completar a tarefa no final do storyboard** | ao final do storyboard, o pesquisador se sentiu feliz por encontrar um conjunto muito grande de informações sobre a instituição, permitindo ele a continuar seu trabalho com excelência. |
 
 <p align="center">
-Tabela 06 - elementos do storyboard da tarefa 07 "Cadastrar instituição". (Fonte: SOARES, Joel)
+Tabela 06 - elementos do storyboard da tarefa 07 "Buscar instituição". (Fonte: SOARES, Joel)
 </p>
 
 ## **Referências bibliográficas**
@@ -209,4 +209,5 @@ Tabela 06 - elementos do storyboard da tarefa 07 "Cadastrar instituição". (Fon
 | 1.0    | Criação do documento Storyboards | Caio Lelis e Joel Soares| 30/10/2023 | Gabriel Barbosa | 30/10/2023 |
 | 1.1    | Adição dos storyboards | Doan Filho | 30/10/2023 | Caio Lelis | 30/10/2023 |
 | 1.1    | Adição dos storyboards | Miguel de Frias | 30/10/2023 | Guilherme Basilio | 30/10/2023 |
-| 1.2    | Adição dos storyboards | Gabriel Barbosa | 30/10/2023  |        |           |    
+| 1.2    | Adição dos storyboards | Gabriel Barbosa | 30/10/2023  |  Joel Soares      |     30/10/2023      |    
+| 1.3    | Adição dos storyboards | Joel Soares | 30/10/2023  |        |           |  
