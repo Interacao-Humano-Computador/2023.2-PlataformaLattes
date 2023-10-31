@@ -105,14 +105,13 @@ Tabela 02 - elementos do storyboard da tarefa 02 "Depositar pesquisa". Fonte: BA
 
 | Elemento                     | Descrição                                                                                      |
 |------------------------------|--------------------------------------------------------------------------------------------------|
-| **Pessoas envolvidas**       |  |
-| **Tarefas**                  |  |
-| **Ambiente/contexto**        |   |
-| **Passos envolvidos**        |  |
-| **Motivação de usar a aplicação** |   |
-| **O que as pessoas precisam para completar a tarefa** | |
-| **O que motivou a usar o sistema** |   |
-| **Resultado (satisfação) da pessoa ao completar a tarefa no final do storyboard** |  |
+| **Pessoas envolvidas**       | Cleiton(Um pesquisador) |
+| **Tarefas**                  | Cleiton terminou seu doutorado e deseja adiciona-lo ao curricul lattes |
+| **Ambiente/contexto**        |Cleiton está no trabalho  |
+| **Passos envolvidos**        |Acessar a plataforma cnpq lattes e atualizar seu currículo   |
+| **Motivação de usar a aplicação** | O currílo se encontra hospedado na plataforma   |
+| **O que as pessoas precisam para completar a tarefa** |Preencher os dados adicionais para o currículo  |
+| **Resultado (satisfação) da pessoa ao completar a tarefa no final do storyboard** |Cleiton consesguiu atualizar seu currículo com o certificado de doutorado, podendo dar prosseguimento para suas aulas |
 
 <p align="center">
 Tabela 02 - elementos do storyboard da tarefa 03 "Atualizar currículo". (Fonte: FILHO,Doan)
