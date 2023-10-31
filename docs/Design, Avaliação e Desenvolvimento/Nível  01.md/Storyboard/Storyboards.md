@@ -114,7 +114,7 @@ Tabela 02 - elementos do storyboard da tarefa 02 "Depositar dados de pesquisa". 
 | **Resultado (satisfação) da pessoa ao completar a tarefa no final do storyboard** |Cleiton consesguiu atualizar seu currículo com o certificado de doutorado, podendo dar prosseguimento para suas aulas |
 
 <p align="center">
-Tabela 02 - elementos do storyboard da tarefa 03 "Atualizar currículo". (Fonte: FILHO,Doan)
+Tabela 03 - elementos do storyboard da tarefa 03 "Atualizar currículo". (Fonte: FILHO,Doan)
 </p>
 
 
@@ -144,7 +144,7 @@ Tabela 02 - elementos do storyboard da tarefa 03 "Atualizar currículo". (Fonte:
 | **Resultado (satisfação) da pessoa ao completar a tarefa no final do storyboard** |Ailton consesguiu buscar os dados da pesquisa que estava procurando |
 
 <p align="center">
-Tabela 02 - elementos do storyboard da tarefa 04 "Buscar Dados de Pesquisa". (Fonte: de Frias, Miguel)
+Tabela 04 - elementos do storyboard da tarefa 04 "Buscar Dados de Pesquisa". (Fonte: de Frias, Miguel)
 </p>
 
 ## **Referências bibliográficas**
