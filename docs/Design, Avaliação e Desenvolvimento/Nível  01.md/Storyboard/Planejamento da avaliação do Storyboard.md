@@ -166,6 +166,6 @@ Dessa maneira, o teste-piloto será realizado no dia 03/11/2023 e contará com a
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-| 1.0    | Criação do documento  | Guilherme Basilio | 27/10/2023 | Caio Lelis | --/--/2023 |
+| 1.0    | Criação do documento  | Guilherme Basilio | 27/10/2023 | Caio Lelis e Joel Soares| --/--/2023 |
 | 1.1    | Planejamento teste piloto e conclusão | Gabriel Barbosa | 29/10/2023 |      |        |
-| 1.2    | Alteração questões práticas |  Caio Lelis | 30/10/2023|      |       --/--/2023  | 
+| 1.2    | Alteração questões práticas |  Caio Lelis e Joel Soares| 30/10/2023|      |       --/--/2023  | 

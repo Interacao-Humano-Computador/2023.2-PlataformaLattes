@@ -129,5 +129,5 @@ Tabela 02 - elementos do storyboard da tarefa 03 "Atualizar currículo". (Fonte:
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-| 1.0    | Criação do documento Storyboards | Caio Lelis | 30/10/2023 |  | --/--/2023 |
+| 1.0    | Criação do documento Storyboards | Caio Lelis e Joel Soares| 30/10/2023 |  | --/--/2023 |
 | 1.1    | Adição dos storyboards | Doan Filho | 30/10/2023 | Caio Lelis | --/--/2023 |
