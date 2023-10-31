@@ -111,7 +111,7 @@ Após realizar as pesquisas citadas, o grupo definiu o seguinte perfil de usuár
 
 | Características |  Descrição  |
 | :-----:  | :-----: |
-| Idade  | Entre 18 a 65 anos (Jovens/Idosos) |
+| Idade  | Entre 20 e 29 anos |
 | Experiência | Novatos e Veteranos|
 | Atitudes | Tecnófilo |
 | Escolaridade | Ensino superior incompleto |
@@ -131,4 +131,3 @@ Após realizar as pesquisas citadas, o grupo definiu o seguinte perfil de usuár
 |  1.0   | Criação dos documentos e adição das imagens |  Joel Soares   |   16/10/2023   | Doan Filho  |       16/10/2023      |
 |  1.1   | Mudanças e ajustes no Documento |  Doan Filho   |   16/10/2023   | Joel Soares  |       16/10/2023      |
 |  1.2   | Adicionando descrição de Hardware |  Joel Soares   |   22/10/2023   |Doan Filho|       23/10/2023      |
-| 1.3    | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |
