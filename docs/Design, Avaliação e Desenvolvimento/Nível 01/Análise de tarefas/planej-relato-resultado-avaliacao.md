@@ -38,33 +38,38 @@ O procedimento adotado para esta avaliação envolve a combinação de observaç
 |  Caio Braga  | Wendy    |       16:00     |     16:10      | 04/10/2023 | Microsoft Teamns|
 |  Caio Lelis  |   Amanda Campos   |       18:00       |    18:00      | 04/10/2023 | Microsoft Teamns|
 
+<p align="center">
+Tabela 01 - Cronograma da avaliação. (Fonte: Autores,2023)
+</p>
 
 ## **Seleção dos participantes**
 
 Após a conclusão do planejamento, é crucial justificar a escolha do entrevistado, certificando-se de que ele se alinhe com o perfil de usuário estabelecido no projeto. A seleção dos participantes deve refletir uma similaridade com as personas definidas, uma vez que eles representam o público-alvo que desejamos alcançar, com o intuito de compreender as necessidades dos usuários do Bilheteria Digital. Os participantes destacados na Tabela 1 atendem ao requisito de faixa etária entre 20 e 35 anos. Esta característica deve ser ressaltada no relato dos resultados.
 
-## **Problemas e Desafios Registrados**
+**Problemas e Desafios Registrados**
 
 Nesta seção do relatório, o entrevistador deve minuciosamente listar as dificuldades específicas e obstáculos encontrados pelos usuários durante as entrevistas. Isso inclui documentar de forma precisa e objetiva cada contrariedade, erro, falha ou desafio enfrentado pelos usuários ao interagir com o sistema ou produto avaliado.
 
-## **Recomendações para Aprimoramento**
+**Recomendações para Aprimoramento**
 
 É fundamental que o entrevistador documente minuciosamente as sugestões e recomendações com base nos problemas identificados durante a avaliação. Isso implica no registro claro e objetivo de cada problema identificado, descrevendo o contexto, a ação do usuário, o resultado esperado e o resultado observado. Além disso, o entrevistador deve oferecer soluções ou sugestões para resolver os problemas identificados, propondo ideias para melhorias no design, na interface do usuário ou nas funcionalidades.
 
-## **Opiniões dos Usuários**
+**Opiniões dos Usuários**
 
 É essencial que o entrevistador colete as opiniões dos usuários que participaram da avaliação de tarefas. Isso inclui ouvir atentamente as sugestões, comentários e observações feitas pelos usuários durante a interação com o sistema ou produto avaliado. O entrevistador deve documentar de forma completa e precisa o feedback fornecido pelos usuários, considerando suas percepções, experiências e necessidades. Essas informações são valiosas para compreender as expectativas dos usuários, identificar pontos fortes e fracos do sistema e obter insights para possíveis melhorias.
 
-## **Análise e Conclusões dos Resultados**
+**Análise e Conclusões dos Resultados**
 
 O entrevistador deve realizar uma análise e extração de conclusões a partir dos resultados obtidos na avaliação de tarefas. Isso requer uma análise minuciosa dos dados coletados, identificação de tendências, padrões e insights relevantes, bem como a formulação de conclusões significativas com base nesses dados. É importante contextualizar os resultados em relação aos objetivos da avaliação e avaliar o impacto dos problemas identificados na usabilidade, na experiência do usuário e nos objetivos estabelecidos.
 
-## **Resumo dos Principais Achados**
+**Resumo dos Principais Achados**
 
 Ao final do documento, é necessário elaborar um resumo dos aspectos essenciais dentro dos objetivos da avaliação. Esta etapa visa reunir de forma concisa as informações mais importantes relacionadas às melhorias necessárias para a plataforma do Bilheteria Digital. O resumo deve incluir os problemas identificados, as sugestões de melhoria propostas e o feedback dos participantes, enfatizando os impactos dessas melhorias na usabilidade, na experiência do usuário e nos objetivos estabelecidos. O objetivo desta síntese é oferecer uma visão clara e resumida das ações prioritárias para aprimorar a plataforma, permitindo uma tomada de decisão eficaz e a implementação direcionada das melhorias necessárias.
 
+As gravações das entrevistas devem ser disponibilizadas da seguinte maneira:
 
-## **Plano de aprimoramento do projeto**
+
+**Plano de aprimoramento do projeto**
 
 Por último, no que diz respeito ao propósito da mencionada atividade, esta quase sempre se relaciona à validação, sendo conduzida com o auxílio de um utilizador real. Nesse sentido, as modificações sugeridas e outras eventualidades identificadas ao analisar o artefato especificado devem ser levadas em conta ao efetuar um potencial redesenho. Entretanto, é importante destacar que esse redesenho deve preservar a essência do projeto original, realizando somente as modificações estritamente necessárias.
 
@@ -81,7 +86,9 @@ A tabela abaixo representa o cronograma do plano de aprimoramento do projeto:
 |  [Caio Braga](https://github.com/caioalvesbraga) |         12:00       |     13:10      | 06/10/2023 |
 |  [Caio Braga](https://github.com/caioalvesbraga) |        17:30       |     18:00      | 06/10/2023 |
 
-
+<p align="center">
+Tabela 02 - Cronograma de aprimoramento. (Fonte: Autores,2023)
+</p>
 
 ## Bibliografia
 

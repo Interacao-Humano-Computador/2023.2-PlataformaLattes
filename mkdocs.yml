@@ -41,11 +41,13 @@ nav:
 
   - Design, Avaliação e Desenvolvimento:
     - Nível 1:
-      - Planejamento da Avaliação da Análise de Tarefas: design-aval-desenv/nivel-1/planej-hta.md
-      - Planejamento Relato do Resultado da Avaliação da Análise de Tarefas: design-aval-desenv/nivel-1/planej-relato-resultado-avaliacao.md
-
-
-
+        - Análise de Tarefas:
+          - Planejamento da Avaliação da Análise de Tarefas: Design, Avaliação e Desenvolvimento/Nível 01/Análise de tarefas/planej-hta.md
+          - Planejamento Relato do Resultado da Avaliação da Análise de Tarefas: Design, Avaliação e Desenvolvimento/Nível 01/Análise de tarefas/planej-relato-resultado-avaliacao.md
+        - Storyboard:
+          - Planejamento da avaliação do Storyboard: Design, Avaliação e Desenvolvimento/Nível 01/Storyboard/Planejamento da avaliação do Storyboard.md
+          - Storyboards: Design, Avaliação e Desenvolvimento/Nível 01/Storyboard/Storyboards.md
+          - Planejamento do Relato dos resultados: Design, Avaliação e Desenvolvimento/Nível 01/Storyboard/Planejamento do relato dos resultados .md
 
 
 theme:
