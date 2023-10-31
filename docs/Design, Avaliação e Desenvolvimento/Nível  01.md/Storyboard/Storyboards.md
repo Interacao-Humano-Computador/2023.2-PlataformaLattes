@@ -87,6 +87,36 @@ Tabela 02 - elementos do storyboard da tarefa 02 "Depositar pesquisa". Fonte: BA
 </p>
 
 
+<p align="center">
+    <strong><span style="font-size: larger;">Tarefa 03 - Atualizar currículo</span></strong>
+</p>
+
+
+
+<div align="center">
+    <img src="../assets/storyboardAtualizarCurriculo.jpg" style="width:40vw"/>
+    <p> Figura 03 - StoryBoard da tarefa "Atualizar currículo". (Fonte: FILHO,Doan) </p> 
+</div>
+
+
+<p align="center">
+    <strong><span style="font-size: larger;">Elementos do Storyboard </span></strong>
+</p>
+
+| Elemento                     | Descrição                                                                                      |
+|------------------------------|--------------------------------------------------------------------------------------------------|
+| **Pessoas envolvidas**       |  |
+| **Tarefas**                  |  |
+| **Ambiente/contexto**        |   |
+| **Passos envolvidos**        |  |
+| **Motivação de usar a aplicação** |   |
+| **O que as pessoas precisam para completar a tarefa** | |
+| **O que motivou a usar o sistema** |   |
+| **Resultado (satisfação) da pessoa ao completar a tarefa no final do storyboard** |  |
+
+<p align="center">
+Tabela 02 - elementos do storyboard da tarefa 03 "Atualizar currículo". (Fonte: FILHO,Doan)
+</p>
 
 ## **Referências bibliográficas**
 
@@ -101,3 +131,4 @@ Tabela 02 - elementos do storyboard da tarefa 02 "Depositar pesquisa". Fonte: BA
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 | 1.0    | Criação do documento Storyboards | Caio Lelis | 30/10/2023 |  | --/--/2023 |
+| 1.1    | Adição dos storyboards | Doan Filho | 30/10/2023 | Caio Lelis | --/--/2023 |
