@@ -11,7 +11,7 @@ Claro, aqui está o texto mesclado e revisado para evitar plágio:
 
 ## **Metodologia**
 
-A metodologia a ser adotada, com base nos tópicos mencionados, incluindo a avaliação da interação entre sujeitos conforme discutido por Barbosa e Silva (2011, p.279)¹ e adaptada para este documento, abrangerá os seguintes aspectos:
+A metodologia a ser adotada, com base nos tópicos mencionados, incluindo a avaliação da interação entre sujeitos conforme discutido por Barbosa e Silva (2011, p.279)<a id="anchor_1" href="#REF1"><sup>1</sup></a> e adaptada para este documento, abrangerá os seguintes aspectos:
 
 - Objetivo e abrangência da avaliação
 - Procedimento de avaliação
@@ -44,7 +44,7 @@ Tabela 01 - Cronograma da avaliação. (Fonte: Autores,2023)
 
 ## **Seleção dos participantes**
 
-Após a conclusão do planejamento, é crucial justificar a escolha do entrevistado, certificando-se de que ele se alinhe com o perfil de usuário estabelecido no projeto. A seleção dos participantes deve refletir uma similaridade com as personas definidas, uma vez que eles representam o público-alvo que desejamos alcançar, com o intuito de compreender as necessidades dos usuários do Bilheteria Digital. Os participantes destacados na Tabela 1 atendem ao requisito de faixa etária entre 20 e 35 anos. Esta característica deve ser ressaltada no relato dos resultados.
+Após a conclusão do planejamento, é crucial justificar a escolha do entrevistado, certificando-se de que ele se alinhe com o perfil de usuário estabelecido no projeto. A seleção dos participantes deve refletir uma similaridade com as personas definidas, uma vez que eles representam o público-alvo que desejamos alcançar, com o intuito de compreender as necessidades dos usuários da Plataforma Lattes. Os participantes destacados na Tabela 1 atendem ao requisito de faixa etária entre 20 e 35 anos. Esta característica deve ser ressaltada no relato dos resultados.
 
 **Problemas e Desafios Registrados**
 
@@ -64,7 +64,7 @@ O entrevistador deve realizar uma análise e extração de conclusões a partir 
 
 **Resumo dos Principais Achados**
 
-Ao final do documento, é necessário elaborar um resumo dos aspectos essenciais dentro dos objetivos da avaliação. Esta etapa visa reunir de forma concisa as informações mais importantes relacionadas às melhorias necessárias para a plataforma do Bilheteria Digital. O resumo deve incluir os problemas identificados, as sugestões de melhoria propostas e o feedback dos participantes, enfatizando os impactos dessas melhorias na usabilidade, na experiência do usuário e nos objetivos estabelecidos. O objetivo desta síntese é oferecer uma visão clara e resumida das ações prioritárias para aprimorar a plataforma, permitindo uma tomada de decisão eficaz e a implementação direcionada das melhorias necessárias.
+Ao final do documento, é necessário elaborar um resumo dos aspectos essenciais dentro dos objetivos da avaliação. Esta etapa visa reunir de forma concisa as informações mais importantes relacionadas às melhorias necessárias para a Plataforma Lattes. O resumo deve incluir os problemas identificados, as sugestões de melhoria propostas e o feedback dos participantes, enfatizando os impactos dessas melhorias na usabilidade, na experiência do usuário e nos objetivos estabelecidos. O objetivo desta síntese é oferecer uma visão clara e resumida das ações prioritárias para aprimorar a plataforma, permitindo uma tomada de decisão eficaz e a implementação direcionada das melhorias necessárias.
 
 As gravações das entrevistas devem ser disponibilizadas da seguinte maneira:
 
@@ -81,14 +81,16 @@ A tabela abaixo representa o cronograma do plano de aprimoramento do projeto:
 | :----------------:  | :---------------: | :------------: | :--------: |
 |  [Doan Filho](https://github.com/FilhoDoan)  |          19:00       |     19:30       | 06/10/2023 |
 |  [Miguel de Frias](https://github.com/migueldefrias)  |          19:00       |     19:30      | 06/10/2023 |
-|  [Miguel de Frias](https://github.com/migueldefrias)  |         20:00       |     20:30      | 06/10/2023 |
-|  [Doan Filho](https://github.com/FilhoDoan) |          22:00       |     22:30      | 06/10/2023 |
 |  [Caio Braga](https://github.com/caioalvesbraga) |         12:00       |     13:10      | 06/10/2023 |
-|  [Caio Braga](https://github.com/caioalvesbraga) |        17:30       |     18:00      | 06/10/2023 |
 
 <p align="center">
 Tabela 02 - Cronograma de aprimoramento. (Fonte: Autores,2023)
 </p>
+
+
+## **Referência bibliográfica**
+
+> <a id="REF1" href="#anchor_1" >[1] </a>BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021.
 
 ## Bibliografia
 

@@ -2,11 +2,11 @@
 
 ## **Introdução**
 
-&emsp;&emsp;Conforme destacado por Barbosa e Silva<a><sup>1</sup></a>, a avaliação desempenha um papel fundamental no desenvolvimento de sistemas interativos de alta qualidade. Ela implica julgar a qualidade de uso da solução e identificar problemas na interação e na interface. Métodos de investigação permitem acessar e analisar concepções dos usuários, com o objetivo de obter detalhes mais profundos sobre as tarefas no contexto do aplicação. Optamos pelo método de investigação, especificamente entrevistas com usuários reais da Plataforma Lattes.
+&emsp;&emsp;Conforme destacado por Barbosa e Silva<a id="anchor_1" href="#REF1"><sup>1</sup></a>, a avaliação desempenha um papel fundamental no desenvolvimento de sistemas interativos de alta qualidade. Ela implica julgar a qualidade de uso da solução e identificar problemas na interação e na interface. Métodos de investigação permitem acessar e analisar concepções dos usuários, com o objetivo de obter detalhes mais profundos sobre as tarefas no contexto do aplicação. Optamos pelo método de investigação, especificamente entrevistas com usuários reais da Plataforma Lattes.
 
 ## **Planejamento**
 
-&emsp;&emsp;O framework DECIDE, desenvolvido por Sharp, Rogers e Preece <a><sup>2</sup></a>, oferece um guia abrangente para o planejamento, execução e análise de avaliações de Interação Humano-Computador (IHC). Este modelo envolve as seguintes  etapas interconectadas:
+&emsp;&emsp;O framework DECIDE, desenvolvido por Sharp, Rogers e Preece <a id="anchor_2" href="#REF2"><sup>2</sup></a>, oferece um guia abrangente para o planejamento, execução e análise de avaliações de Interação Humano-Computador (IHC). Este modelo envolve as seguintes  etapas interconectadas:
 
 **Definir Objetivos da Avaliação:** Estabeleça os objetivos gerais da avaliação e sua relevância.
 
@@ -46,7 +46,7 @@ O propósito desta avaliação consiste em adquirir insights dos stakeholders, e
 
 ## **E - Explorar perguntas**
 
-Na tabela a seguir, são listadas as questões a serem abordadas durante as entrevistas. Essas perguntas foram elaboradas com base em diretrizes sugeridas no trabalho de Simone Barbosa e Bruno Diniz <a><sup>1</sup></a> e desempenharão um papel fundamental na avaliação da compreensão dos participantes em relação aos procedimentos das tarefas em análise:
+Na tabela a seguir, são listadas as questões a serem abordadas durante as entrevistas. Essas perguntas foram elaboradas com base em diretrizes sugeridas no trabalho de Simone Barbosa e Bruno Diniz <a id="anchor_1" href="#REF1"><sup>1</sup></a> e desempenharão um papel fundamental na avaliação da compreensão dos participantes em relação aos procedimentos das tarefas em análise:
 
 
 | Número |                                                              Pergunta                                                               |     Resposta Possíveis     |
@@ -79,7 +79,7 @@ A abordagem utilizada escolhida foi o método investigativo, no qual consistirá
 
 ### **Recrutamento**
 
-Para a escolha dos participantes da avaliação, optaremos por selecionar 6 usuários que se encaixem no Perfil de Usuário e nas Personas previamente estabelecidas. Essa decisão é baseada na recomendação de Dumas e Redish <a><sup>3</sup></a>, especialistas em Interação Humano-Computador (IHC), que sugerem que um grupo composto por 5 a 12 usuários é adequado para avaliações desse tipo, com ênfase na eficácia de identificar a maioria dos problemas. Portanto, com esse número, buscamos obter uma amostra representativa que nos permita abordar diversas perspectivas e experiências, enriquecendo nossa análise. Essa abordagem também facilitará a distribuição equitativa de entrevistas entre os membros da equipe de pesquisa, proporcionando uma oportunidade valiosa para cada um interagir diretamente com os usuários e coletar insights diversificados para o estudo.
+Para a escolha dos participantes da avaliação, optaremos por selecionar 6 usuários que se encaixem no Perfil de Usuário e nas Personas previamente estabelecidas. Essa decisão é baseada na recomendação de Dumas e Redish <a id="anchor_3" href="#REF3"><sup>3</sup></a>, especialistas em Interação Humano-Computador (IHC), que sugerem que um grupo composto por 5 a 12 usuários é adequado para avaliações desse tipo, com ênfase na eficácia de identificar a maioria dos problemas. Portanto, com esse número, buscamos obter uma amostra representativa que nos permita abordar diversas perspectivas e experiências, enriquecendo nossa análise. Essa abordagem também facilitará a distribuição equitativa de entrevistas entre os membros da equipe de pesquisa, proporcionando uma oportunidade valiosa para cada um interagir diretamente com os usuários e coletar insights diversificados para o estudo.
 
 ### **Preparação**
 
@@ -120,7 +120,7 @@ Isso assegura que os resultados sejam cuidadosamente analisados e utilizados de 
 
 Antes de realizar as entrevistas com os usuários, planejamos conduzir um teste piloto com dois avaliadores. Essa etapa tem como finalidade simular uma sessão de avaliação regular para garantir que todas as ferramentas funcionem adequadamente, verificar a eficácia do nosso planejamento e assegurar que a avaliação forneça os dados necessários para o estudo. Além disso, o teste piloto servirá para avaliar a clareza e a objetividade da linguagem utilizada nas entrevistas, certificando-se de que as perguntas sejam compreendidas de maneira adequada pelos participantes.
 
-De acordo com Barbosa e Silva (2021, p.276) <a><sup>1</sup></a>, o objetivo desse teste é avaliar o próprio planejamento e garantir que a avaliação planejada produza os dados necessários para responder às questões e objetivos do estudo. Durante o teste-piloto, os avaliadores conduzirão a simulação de uma sessão de avaliação normal, permitindo verificar se a linguagem utilizada nas explicações e nos materiais é clara e objetiva, além de garantir que esses materiais contenham informações apropriadas e suficientes para orientar os participantes durante a avaliação.
+De acordo com Barbosa e Silva (2021, p.276) <a id="anchor_1" href="#REF1"><sup>1</sup></a>, o objetivo desse teste é avaliar o próprio planejamento e garantir que a avaliação planejada produza os dados necessários para responder às questões e objetivos do estudo. Durante o teste-piloto, os avaliadores conduzirão a simulação de uma sessão de avaliação normal, permitindo verificar se a linguagem utilizada nas explicações e nos materiais é clara e objetiva, além de garantir que esses materiais contenham informações apropriadas e suficientes para orientar os participantes durante a avaliação.
 
 
 <link do vídeo>
