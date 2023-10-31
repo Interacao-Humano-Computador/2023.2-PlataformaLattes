@@ -100,7 +100,7 @@ A avaliação não implicará custos para os usuários envolvidos ou para a equi
 
 ## Prazos:
 
-A avaliação tem prazo final para o dia 30/10/2023, ressaltando que a entrevista com o usuário não terá duração maior que 25 minutos para que o mesmo não se sinta fadigado.
+A avaliação tem prazo final para o dia 07/11/2023, ressaltando que a entrevista com o usuário não terá duração maior que 25 minutos para que o mesmo não se sinta fadigado.
 
 ## Roteiro de Perguntas:
 

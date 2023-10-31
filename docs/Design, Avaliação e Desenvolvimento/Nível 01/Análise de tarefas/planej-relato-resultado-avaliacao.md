@@ -94,7 +94,7 @@ Tabela 02 - Cronograma de aprimoramento. (Fonte: Autores,2023)
 
 ## Bibliografia
 
->[1]Aprender3, Disponível em: <https://aprender3.unb.br/course/view.php?id=19947>
+> Aprender3 da disciplina de Interação Humano-Computador (IHC), Disponível em: <https://aprender3.unb.br/course/view.php?id=19947>
 
 ## **Histórico de Versões**
 

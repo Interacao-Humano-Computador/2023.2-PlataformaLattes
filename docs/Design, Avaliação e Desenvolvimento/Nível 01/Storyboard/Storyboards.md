@@ -147,6 +147,11 @@ Tabela 03 - elementos do storyboard da tarefa 03 "Atualizar currículo". (Fonte:
 Tabela 04 - elementos do storyboard da tarefa 04 "Buscar Dados de Pesquisa". (Fonte: de Frias, Miguel)
 </p>
 
+
+<p align="center">
+    <strong><span style="font-size: larger;">Tarefa 05 - Cadastrar Instituição</span></strong>
+</p>
+
 <div align="center">
     <img src="../assets/storyboardCadastrarinsituicao.png" style="width:40vw"/>
     <p> Figura 05 - StoryBoard da tarefa "Cadastrar instituição". (Fonte: BARBOSA,Gabriel) </p> 
@@ -167,12 +172,13 @@ Tabela 04 - elementos do storyboard da tarefa 04 "Buscar Dados de Pesquisa". (Fo
 | **O que as pessoas precisam para completar a tarefa** | Preencher os dados cadastrais e aguardar validação |
 | **Resultado (satisfação) da pessoa ao completar a tarefa no final do storyboard** | Paulo conseguiu cadastrar sua instituição privada de ensino na plataforma lattes, portanto, poderá participar do CONBRIC |
 
+
 <p align="center">
-Tabela 05 - elementos do storyboard da tarefa 07 "Cadastrar instituição". (Fonte: BARBOSA, Gabriel)
+    <strong><span style="font-size: larger;">Tarefa 06 - Buscar Dados de Pesquisa</span></strong>
 </p>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/main/docs/An%C3%A1lise%20de%20Requisitos/assets/SB_buscar_inst.png" style="width:60vw"/>
+    <img src="../assets/SB_buscar_inst.png" style="width:60vw"/>
     <p> Figura 06 - StoryBoard - "Buscar Insituição". Fonte: SOARES, Joel </p> 
 </div>
 
@@ -192,6 +198,34 @@ Tabela 05 - elementos do storyboard da tarefa 07 "Cadastrar instituição". (Fon
 
 <p align="center">
 Tabela 06 - elementos do storyboard da tarefa 07 "Buscar instituição". (Fonte: SOARES, Joel)
+</p>
+
+
+<p align="center">
+    <strong><span style="font-size: larger;">Tarefa 07 - Cadastrar currículo</span></strong>
+</p>
+
+<div align="center">
+    <img src="../assets/storyboardCadastrarCurriculo.png" style="width:60vw"/>
+    <p> Figura 06 - StoryBoard - "Cadastrar Currículo". Fonte: BRAGA, Caio </p> 
+</div>
+
+<p align="center">
+    <strong><span style="font-size: larger;">Elementos do Storyboard </span></strong>
+</p>
+
+| Elemento                     | Descrição                                                                                      |
+|------------------------------|--------------------------------------------------------------------------------------------------|
+| **Pessoas envolvidas**       | Uma pessoa recém-formada buscando um mestrado |
+| **Tarefas**                  | Para realizar o cadastro, ele deve inserir as  suas informações pessoais e acadêmicas  |
+| **Ambiente/contexto**        | Casa do personagem   |
+| **Passos envolvidos**        | Inserção de informações e confirmação do cadastro   |
+| **Motivação de usar a aplicação** | A motivação é o uso da plataforma para ter visibilidade acadêmica |
+| **O que as pessoas precisam para completar a tarefa** | Acessar o site da plataforma, inserir seus dados, confirmar seu cadastro e aguardar o período de confirmação do cadastro do CNPQ |
+| **Resultado (satisfação) da pessoa ao completar a tarefa no final do storyboard** | Ao final do storyboard, a tarefa cumpre o seu objetivo ao fornecer o currículo do nosso personagem para diversas universidades nacionais, onde ele pode conseguir um programa de mestrado dos sonhos|
+
+<p align="center">
+Tabela 07 - elementos do storyboard da tarefa 07 "Cadastrar currículo". (Fonte: BRAGA, Caio)
 </p>
 
 ## **Referências bibliográficas**
