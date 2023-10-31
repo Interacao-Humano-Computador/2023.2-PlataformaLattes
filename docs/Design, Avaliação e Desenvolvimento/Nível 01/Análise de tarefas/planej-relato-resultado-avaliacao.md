@@ -3,8 +3,6 @@
 
 ## **Introdução**
 
-Claro, aqui está o texto mesclado e revisado para evitar plágio:
-
 <div align="justify">
 &emsp;&emsp;Este documento tem como finalidade registrar e comunicar as descobertas e conclusões alcançadas durante a avaliação. Essa avaliação permite uma compreensão detalhada das várias tarefas que os usuários executam ao interagir com um produto ou serviço. Através dessa análise, podemos identificar desafios, oportunidades de aprimoramento e insights significativos que podem orientar o design e desenvolvimento do projeto. Dessa forma, oferecemos informações valiosas para os desenvolvedores, designers e todas as partes envolvidas no processo de desenvolvimento de software.
 </div>
