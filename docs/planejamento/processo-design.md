@@ -126,4 +126,5 @@ Após analisar minuciosamente os modelos mencionados anteriormente, o grupo deli
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 | 1.0    | Construção processo de design  |Caio lelis | 29/09/2023 | Caio Braga  | 02/10/2023 |
 | 1.1    | Adição de processo de design escolhido  | Caio lelis | 02/10/2023 | Miguel | 02/10/2023 |
+| 1.2    | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |
 

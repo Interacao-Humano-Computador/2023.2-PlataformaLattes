@@ -117,3 +117,4 @@ Portanto, após uma avaliação minuciosa por meio de simulações do comportame
 |  1.2   | Adicionando eficácia, eficiência e segurança |  Guilherme Basilio   |    22/10/202   | Miguel de Frias  |      23/10/2023      |
 |  1.3   | Adicionando utilidade, aprendizado e memorização |  Guilherme Basilio   |    23/10/202   |Joel Soares  |      23/10/2023      |
 |  1.4   | Corrigindo erros e melhorando conclusão |  Guilherme Basilio   |    23/10/202   |Joel Soares  |      23/10/2023      |
+| 1.5    | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |

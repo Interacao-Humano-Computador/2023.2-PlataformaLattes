@@ -12,6 +12,8 @@ A ética é o estudo dos princípios morais que orientam o comportamento humano,
 
 - O Princípio da Justiça e Equidade na bioética: envolve tratar todas as pessoas de maneira justa e imparcial, distribuindo recursos e benefícios de forma equitativa, considerando necessidades individuais e evitando discriminação. Isso implica assegurar acesso igualitário aos cuidados de saúde e uma distribuição justa de benefícios e riscos na prática médica e de pesquisa, promovendo a igualdade e a justiça.
 
+No contexto brasileiro, as pesquisas científicas envolvendo seres humanos são reguladas pela Resolução nº 466/2012 do Conselho Nacional de Saúde <a id="anchor_1" href="#REF1"><sup>1</sup></a>. Essa normativa estabelece princípios fundamentais que devem orientar tais pesquisas, notadamente a valorização da autonomia dos participantes, a busca pelo máximo benefício com o mínimo de prejuízo, a prevenção de danos previsíveis e a promoção da justiça e equidade. Estas diretrizes ganham particular importância em estudos que incluem indivíduos, onde é imperativo zelar pela dignidade e independência dos envolvidos, assegurando a adesão a critérios éticos ao longo de todo o processo de pesquisa.
+
 ## **Termo de consentimento para entrevista com Usuários**
 
 [Termo de consentimento](https://unbbr-my.sharepoint.com/:w:/g/personal/211061645_aluno_unb_br/EUZaSOp-u5VBs1zdaqRbHbgBzHhy-r2WnmNvWRohQTtfBg?e=gRm35H)
@@ -46,9 +48,11 @@ Ao concordar com este termo de consentimento, eu afirmo que li e entendi as info
 
 - [ ] Não aceito participar da entrevista
 
-Nome do Participante: ___________________
+Assinatura do Participante: ___________________
 
-Assinatura do Participante: _________________
+Assinatura do Entrevistador: _________________
+
+Data da pesquisa: __ de ___________ de ____
 
 Agradecemos sua disposição em ajudar para esta pesquisa acadêmica. Seu apoio é essêncial para o sucesso desta pesquisa.
 
@@ -56,6 +60,10 @@ Agradecemos sua disposição em ajudar para esta pesquisa acadêmica. Seu apoio 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GuilhermeBES">Guilherme Basílio.</a></b></p></font>
 
 </div>
+
+## **Referência Bibliográfica**
+
+> <a id="REF1" href="#anchor_1">[1] </a>BRASIL. Resolução nº 466, de 12 de dezembro de 2012, que trata de pesquisas em seres humanos e atualiza a resolução 196. Brasília, DF: Diário Oficial da União, 2013. Disponível em: <https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf>. Acesso em: 29/10/2023. 
 
 ## **Bibliografia**
 
@@ -66,3 +74,5 @@ Agradecemos sua disposição em ajudar para esta pesquisa acadêmica. Seu apoio 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 | 1.0    | Criação de aspectos éticos  | Guilherme Basilio  | 21/10/2023 | Doan Filho  | 22/10/2023 |
+| 1.1    | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |
+| 1.2    | Adiciona referência bibliográfica  | Caio Braga  | 29/10/2023 | Doan Filho  | 29/10/2023 |

@@ -178,3 +178,5 @@ Tabela 4: Tabela da análise hierárquica de tarefas para o objetivo "Acessar Pa
 |  1.4   | Adicionando HTA de "Depositar Pesquisa" |   Guilherme Basilio  |   23/10/2023   |  Miguel de Frias e Guilherme Basilio  |  23/10/2023      |
 |  1.5   | Adicionando HTA de "Buscar Pesquisa" |   Miguel de Frias |   23/10/2023   |  Miguel de Frias e Guilherme Basilio  |  23/10/2023      |
 |  1.5   | Adicionando HTA de "Buscar Pesquisa" |   Miguel de Frias |   23/10/2023   |  Miguel de Frias e Guilherme Basilio  |  23/10/2023      |
+| 1.6    | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |
+|  1.7   | Adicionando HTA de "Acessar Painel Lattes" |   Caio Braga |   29/10/2023   |  Caio Lelis  |  23/10/2023      |

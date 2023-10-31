@@ -123,3 +123,4 @@ A tarefa "Consiste pesquisa" consiste basicamente em buscar uma pesquisa deposit
 |  1.3   | Adicionando CTT de "Buscar Instituição" |   Joel Soares   |   22/10/2023   |  Miguel de Frias e Guilherme Basilio  |   23/10/2023      |
 |  1.4   | Adicionando CTT de "Depositar Pesquisa" |   Guilherme Basilio  |   23/10/2023   |  Miguel de Frias e Guilherme Basilio  |  23/10/2023      |
 |  1.5   | Adicionando CTT de "Buscar Pesquisa" |   Miguel de Frias |   23/10/2023   |  Miguel de Frias e Guilherme Basilio  |  23/10/2023      |
+| 1.6    | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |

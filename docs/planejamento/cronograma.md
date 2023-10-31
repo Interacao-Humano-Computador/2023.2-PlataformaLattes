@@ -356,6 +356,7 @@ A tabela 11 mostra as tarefas do planejamento feito para a entrega 9 do projeto.
 |  1.1   | Adição de atribuições e executado entrega 01  |  Miguel de Frias |   01/10/2023   | Doan Filho | 02/10/2023      |
 |  2.0   | Adição do executado entrega 02  |  Miguel de Frias |   15/10/2023   | Doan Filho |  16/10/2023   |
 |  3.0   | Adição do executado entrega 3  |  Miguel de Frias |   23/10/2023   | Doan Filho |  23/10/2023   |
+| 3.1    | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |
 
 
 

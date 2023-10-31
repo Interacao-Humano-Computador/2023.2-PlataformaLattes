@@ -128,3 +128,4 @@ Foi adotada uma avaliação com base nas heurísticas de [Nielsen](https://www.n
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   |Versão Inicial |   Doan Filho, Joel Soares e Gabriel Barbosa   |   01/10/2023   | Caio Braga   |       02/10/2023      |
+| 1.1    | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |
