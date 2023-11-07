@@ -39,8 +39,15 @@ nav:
       - Introspecção: analise-de-requisitos/introspeccao.md
       - Observação: analise-de-requisitos/observacao.md
 
-
-
+  - Design, Avaliação e Desenvolvimento:
+    - Nível 1:
+        - Análise de Tarefas:
+          - Planejamento da Avaliação da Análise de Tarefas: Design, Avaliação e Desenvolvimento/Nível 01/Análise de tarefas/planej-hta.md
+          - Planejamento Relato do Resultado da Avaliação da Análise de Tarefas: Design, Avaliação e Desenvolvimento/Nível 01/Análise de tarefas/planej-relato-resultado-avaliacao.md
+        - Storyboard:
+          - Planejamento da Avaliação do Storyboard: Design, Avaliação e Desenvolvimento/Nível 01/Storyboard/Planejamento da avaliação do Storyboard.md
+          - Storyboards: Design, Avaliação e Desenvolvimento/Nível 01/Storyboard/Storyboards.md
+          - Planejamento do Relato dos resultados: Design, Avaliação e Desenvolvimento/Nível 01/Storyboard/Planejamento do relato dos resultados .md
 
 
 theme:

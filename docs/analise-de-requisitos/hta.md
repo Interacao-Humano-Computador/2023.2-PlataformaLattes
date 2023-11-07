@@ -87,6 +87,11 @@ Nessa tarefa o usuário tem o objetivo de buscar uma instituição conforme dado
 | 2.1 Busca pelo nome e/ou sigla | **Plano:** instituição pelo nome e/ou sigla cadastrado  |
 | 2.2 Busca CNPJ | **Plano:** buscar instituição pelo CNPJ |
 | 3.0 Demonstração dos resultados   | **Plano:** Demonstrar uma lista de resultados para o usuário, aonde poderá selecionar a instituição que desejar para obter mais informações             |
+| 1.0 Página inicial  | **Plano:** apresentar a página "Diretório de Instituições" para o usuário  |
+| 2.0 Busca  | **Plano:** definir tipo de busca  |
+| 2.1 Busca pelo nome e/ou sigla | **Plano:** instituição pelo nome e/ou sigla cadastrado  |
+| 2.2 Busca CNPJ | **Plano:** buscar instituição pelo CNPJ |
+| 3.0 Demonstração dos resultados   | **Plano:** Demonstrar uma lista de resultados para o usuário, aonde poderá selecionar a instituição que desejar para obter mais informações             |
 
 Tabela 2: Tabela da análise hierárquica de tarefas para o objetivo "Buscar instituição" (Fonte: Joel Soares)
 
@@ -104,25 +109,15 @@ Nessa tarefa o usuário tem o objetivo de depositar uma pesquisa.
 | 3.0 Duração da pesquisa| **Plano:** Solicitar ao usuário que especifique o período de realização da pesquisa |
 | 4.0 Anexos | **Plano:** Permitir ao usuário anexar arquivos à pesquisa, como artigos, resumos, apresentações, etc |
 | 5.0 Avaliação | **Plano:** Solicitar ao usuário que avalie a relevância da pesquisa |
+| 1.0 Página inicial | **Plano:** apresentar a página de cadastro de pesquisa para o usuário |
+| 2.0 Dados da pesquisa | **Plano:** Coletar informações relevantes sobre a pesquisa a ser cadastrada |
+| 2.1 Título da pesquisa | **Plano:** Solicitar ao usuário que insira o título da pesquisa |
+| 2.2 Resumo da pesquisa | **Plano:** Solicitar ao usuário que insira um resumo conciso da pesquisa |
+| 3.0 Duração da pesquisa| **Plano:** Solicitar ao usuário que especifique o período de realização da pesquisa |
+| 4.0 Anexos | **Plano:** Permitir ao usuário anexar arquivos à pesquisa, como artigos, resumos, apresentações, etc |
+| 5.0 Avaliação | **Plano:** Solicitar ao usuário que avalie a relevância da pesquisa |
 
 Tabela 3: Tabela da análise hierárquica de tarefas para o objetivo "Depositar dados de pesquisa" (Fonte: Guilherme Basilio) 
-
-### **Buscar dados de pesquisa**
-
-Nessa tarefa o usuário tem o objetivo de buscar dados de pesquisa conforme dados selecionados para busca.
-
-
-| Objetivos/Operações | Problemas/Recomendações |
-|--------------------|------------------------|
-| 0.0 Buscar instituição | **Input:** Acesso à opção "Buscar dados de pesquisa" na tela inicial do site <br> **Feedback:** Tela de consulta de pesquisas <br> **Plano:** Definir como a busca por dados de pesquisa pode seer melhorada |
-| 1.0 Página inicial  | **Plano:** apresentar a página "Consulta de pesquisas" para o usuário  |
-| 2.0 Busca  | **Plano:** definir tipo de busca |
-| 2.1 Busca pelo nome/palavra-chave | **Plano:**  buscar a pesquisa pelo nome ou palavra-chave |
-| 2.2 Busca pelo autor | **Plano:** buscar pesquisa pelo autor |
-| 3.0 Demonstração dos resultados   | **Plano:** Demonstrar uma lista de resultados para o usuário, aonde poderá selecionar os dados de pesquisa para obter mais informações sobre a mesma  |
-
-Tabela 4: Tabela da análise hierárquica de tarefas para o objetivo "Buscar dados de pesquisa" (Fonte: Miguel de Frias)
-
 
 ### **Buscar dados de pesquisa**
 
@@ -160,7 +155,8 @@ Nessa tarefa o usuário tem o objetivo de acessar o Painel Lattes para buscar da
 | 2.7 Filtrar por setor econômico | **Plano:** filtrar o painel pela grande área do grau de escolaridade (ex: Ensino Superior Público ou Privado, Ensino Técnico, etc) |
 | 3.0 Demonstração dos resultados   | **Plano:** demonstrar uma lista de resultados para o usuário, aonde poderá selecionar os dados de pesquisa para obter mais informações sobre ela |
 
-Tabela 4: Tabela da análise hierárquica de tarefas para o objetivo "Acessar Painel Lattes" (Fonte: Caio Braga)
+Tabela 5: Tabela da análise hierárquica de tarefas para o objetivo "Acessar Painel Lattes" (Fonte: Caio Braga)
+
 
 ### **Atualizar curriculo**
 Nessa tarefa o usuário tem o objetivo de atualizar um curriculo conforme os dados desejados . 
@@ -200,4 +196,5 @@ Tabela 5: Tabela da análise hierárquica de tarefas para o objetivo "Atualizar 
 |  1.5   | Adicionando HTA de "Buscar Pesquisa" |   Miguel de Frias |   23/10/2023   |  Miguel de Frias e Guilherme Basilio  |  23/10/2023      |
 | 1.6    | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |
 |  1.7   | Adicionando HTA de "Acessar Painel Lattes" |   Caio Braga |   29/10/2023   |  Caio Lelis  |  23/10/2023      |
-|  1.8   | Adicionando HTA de "Atualizar curriculo" | Doan Filho  |   30/10/2023   |  Caio Braga |  30/10/2023      |
+| 1.8    | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |
+|  1.9  | Adicionando HTA de "Atualizar curriculo" | Doan Filho  |   30/10/2023   |  Caio Braga |  30/10/2023      |

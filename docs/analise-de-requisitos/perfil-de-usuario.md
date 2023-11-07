@@ -111,7 +111,7 @@ Após realizar as pesquisas citadas, o grupo definiu o seguinte perfil de usuár
 
 | Características |  Descrição  |
 | :-----:  | :-----: |
-| Idade  | Entre 18 a 65 anos (Jovens/Idosos) |
+| Idade  | Entre 20 e 29 anos |
 | Experiência | Novatos e Veteranos|
 | Atitudes | Tecnófilo |
 | Escolaridade | Ensino superior incompleto |
