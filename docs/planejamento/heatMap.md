@@ -32,3 +32,4 @@ Teremos reuniões para revisão e planejamento, sendo elas:
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão Inicial|   Doan Filho  |   30/09/2023   | Caio Braga  |  02/10/2023  |
+| 1.1    | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |

@@ -4,21 +4,7 @@
 ## **Introdução**
 
 
-
-<<<<<<< HEAD:docs/planejamento/cronograma.md
 &emsp;&emsp;Este documento refere-se ao cronograma que será seguido pela equipe do semestre 2023.2 na disciplina de Interação Humano Computador, ministrada pelo professor André Barros de Sales, com a finalidade de estudar a plataforma Lattes. Este documento possui um objetivo inicial de organizar todas as tarefas que deverão ser realizadas no decorrer do semestre e também destacar os principais tópicos a serem abordados, as tarefas necessárias e a devida alocação de tempo para cada entrega do projeto.
-</p>
-
-<center>
-
-| Versão | Data       | Descrição            | Autor          | Revisor          |
-|--------|------------|----------------------|----------------|------------------|
-| 1.0    | 30/09/2023 | Versão inicial       | Doan Filho     |    Caio Braga    |
-| 1.0    | 02/10/2023 | Ajustes e organização| Joel Sares     |    Gabriel       |
-
-</center>
-
-
 
 
 ## **Cronograma Geral**
@@ -194,10 +180,10 @@ A tabela 8 mostra as tarefas do planejamento feito para a entrega 4 do projeto.
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
 |--------|----------------------------|--------------------|-------------|--------|
-| Planejamento da avaliação <br> do Story Board | Início: 25/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 31/10 | Miguel de Frias e Doan Filho | Caio Lelis |
-| Planejamento do relato dos <br>resultados da avaliação do Storyboard | Início: 25/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 31/10 | Caio Braga e Joel Soares  |Guilherme Basilio  |
-| Planejamento da Avaliação <br> da Análise de tarefas | Início: 25/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 31/10 | Gabriel Barbosa e Guilherme Basilio  | Joel Soares |
-| Planejamento do relato da <br> avaliação da análise <br> de tarefas | Início: 25/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 31/10 | Caio Lelis e Doan Filho | Gabriel Barbosa |
+| Planejamento da avaliação <br> do Story Board | Início: 25/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 31/10 | Caio Lelis, Gabriel Barbosa, Guilherme Basilio e Joel Soares | Caio Lelis |
+| Planejamento do relato dos <br>resultados da avaliação do Storyboard | Início: 25/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 31/10 | Caio Lelis, Gabriel Barbosa, Guilherme Basilio e Joel Soares  | Guilherme Basilio  |
+| Planejamento da Avaliação <br> da Análise de tarefas | Início: 25/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 31/10 | Caio Braga, Doan Filho e Miguel Matos  | Joel Soares |
+| Planejamento do relato da <br> avaliação da análise <br> de tarefas | Início: 25/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 31/10 | Caio Braga, Doan Filho e Miguel Matos | Miguel de Frias |
 | Atualizar GitPage | Início: 25/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 31/10 |Doan Filho e Caio Braga  | Caio Lelis |
 | Gravação da Apresentação | Início: 30/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 30/10 |  Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
 | Postagem da Apresentação | Início: 30/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 30/10 | Joel Soares | Miguel de Frias|
@@ -206,6 +192,26 @@ A tabela 8 mostra as tarefas do planejamento feito para a entrega 4 do projeto.
 
 <div style="text-align: center">
     <p> <b>Tabela 8</b>: Tarefas planejadas na Entrega 4. (Fonte: Miguel de Frias, 2023).</p>
+</div>
+
+### **Executado**
+
+A tabela 9 mostra as tarefas realizadas na entrega 4 do projeto.
+
+| Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
+|--------|----------------------------|--------------------|-------------|--------|
+| Planejamento da avaliação <br> do Story Board | Início: 25/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 31/10 | Caio Lelis, Gabriel Barbosa, Guilherme Basilio e Joel Soares | Caio Lelis |
+| Planejamento do relato dos <br>resultados da avaliação do Storyboard | Início: 25/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 31/10 | Caio Lelis, Gabriel Barbosa, Guilherme Basilio e Joel Soares  | Guilherme Basilio  |
+| Planejamento da Avaliação <br> da Análise de tarefas | Início: 25/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 31/10 | Caio Braga, Doan Filho e Miguel Matos  | Joel Soares |
+| Planejamento do relato da <br> avaliação da análise <br> de tarefas | Início: 25/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 31/10 | Caio Braga, Doan Filho e Miguel Matos | Miguel de Frias |
+| Atualizar GitPage | Início: 25/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 31/10 |Doan Filho e Caio Braga  | Caio Lelis |
+| Gravação da Apresentação | Início: 30/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 30/10 |  Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
+| Postagem da Apresentação | Início: 30/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 30/10 | Joel Soares | Miguel de Frias|
+| Cronograma Executado | Início: 25/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 31/10 | Miguel de Frias | Doan Filho |
+| Correções da Entrega 3 | Início: 25/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 31/10 |  Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
+
+<div style="text-align: center">
+    <p> <b>Tabela 9</b>: Tarefas realizadas na Entrega 4. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 ## **Entrega 5**
@@ -358,6 +364,8 @@ A tabela 11 mostra as tarefas do planejamento feito para a entrega 9 do projeto.
 |  1.1   | Adição de atribuições e executado entrega 01  |  Miguel de Frias |   01/10/2023   | Doan Filho | 02/10/2023      |
 |  2.0   | Adição do executado entrega 02  |  Miguel de Frias |   15/10/2023   | Doan Filho |  16/10/2023   |
 |  3.0   | Adição do executado entrega 3  |  Miguel de Frias |   23/10/2023   | Doan Filho |  23/10/2023   |
+| 3.1    | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |
+|  4.0   | Adição do executado entrega 4  |  Miguel de Frias |   30/10/2023   | Doan Filho |  30/10/2023   |
 
 
 

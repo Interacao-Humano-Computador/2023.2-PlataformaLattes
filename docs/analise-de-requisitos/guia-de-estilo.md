@@ -134,3 +134,4 @@ Criamos um quadro no figma para demonstrar de forma mais detalhada a nossa propo
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 | 1.0    | Criando guia de estilo | Doan Filho | 23/10/2023 | Caio Braga  | 23/10/23 |
 | 1.1    | Adicionando as figuras do Figma | Caio Braga | 23/10/2023 | Doan Filho  | 23/10/23 |
+| 1.2   | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |

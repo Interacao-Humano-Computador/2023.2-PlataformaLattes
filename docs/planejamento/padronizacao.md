@@ -114,7 +114,7 @@ As pull request servem para solicitar a junção da branch criada com a principa
 ---
 
 ### **Padronização de commit: estrutura, padrões, mensagem.**
-A padronização de commit é importante para a identificação de commit's feitos durante o processo de desenvolimento do projeto. Os commits seguirão o seguinte modelo:
+A padronização de commit é importante para a identificação de commit's feitos durante o processo de desenvolimento do projeto. Segundo o padrão Conventional Commits<a id="anchor_5" href="#REF5"><sup>5</sup></a> de maneira adaptada ao projeto, os commits seguirão o seguinte modelo:
 
 - **docs:** para novas alterações na documentação
 - **fix:** para correções de erros na documentação
@@ -133,9 +133,13 @@ A padronização de commit é importante para a identificação de commit's feit
 
 >[4] Daniela Diana, **Bibliografia**, Disponível em: <https://www.todamateria.com.br/bibliografia/>, Acesso em: 07 de Outrubro de 2023
 
+><a id="REF5" href="#anchor_5" >[5]</a> Conentional Commits, Disponível em: <https://www.conventionalcommits.org/en/about/>, Acesso em: 29 de Outrubro de 2023
+
 ## **Histórico de Versões**
 
 
 | Versão |   Descrição         |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 | 1.0    | Criando guia de contribuição | Doan Filho | 22/10/2023 |  Caio Braga  |      28/10/2023       |
+| 1.1    | Refatoraçaõ da interface | Caio Braga | 28/10/2023 |  Doan Filho  |      29/10/2023       |
+| 1.2    | Adicional referência bibliográfica para commits | Caio Braga | 29/10/2023 |  Doan Filho  |      29/10/2023       |
