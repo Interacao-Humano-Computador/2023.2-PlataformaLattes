@@ -136,45 +136,6 @@ Nessa tarefa o usuário tem o objetivo de buscar dados de pesquisa conforme dado
 Tabela 4: Tabela da análise hierárquica de tarefas para o objetivo "Buscar dados de pesquisa" (Fonte: Miguel de Frias)
 
 
-### **Buscar dados de pesquisa**
-
-Nessa tarefa o usuário tem o objetivo de buscar dados de pesquisa conforme dados selecionados para busca.
-
-
-| Objetivos/Operações | Problemas/Recomendações |
-|--------------------|------------------------|
-| 0.0 Buscar instituição | **Input:** Acesso à opção "Buscar dados de pesquisa" na tela inicial do site <br> **Feedback:** Tela de consulta de pesquisas <br> **Plano:** Definir como a busca por dados de pesquisa pode seer melhorada |
-| 1.0 Página inicial  | **Plano:** apresentar a página "Consulta de pesquisas" para o usuário  |
-| 2.0 Busca  | **Plano:** definir tipo de busca |
-| 2.1 Busca pelo nome/palavra-chave | **Plano:**  buscar a pesquisa pelo nome ou palavra-chave |
-| 2.2 Busca pelo autor | **Plano:** buscar pesquisa pelo autor |
-| 3.0 Demonstração dos resultados   | **Plano:** Demonstrar uma lista de resultados para o usuário, aonde poderá selecionar os dados de pesquisa para obter mais informações sobre a mesma  |
-| 1.0 Página inicial  | **Plano:** apresentar a página "Consulta de pesquisas" para o usuário  |
-| 2.0 Busca  | **Plano:** definir tipo de busca |
-| 2.1 Busca pelo nome/palavra-chave | **Plano:**  buscar a pesquisa pelo nome ou palavra-chave |
-| 2.2 Busca pelo autor | **Plano:** buscar pesquisa pelo autor |
-| 3.0 Demonstração dos resultados   | **Plano:** Demonstrar uma lista de resultados para o usuário, aonde poderá selecionar os dados de pesquisa para obter mais informações sobre a mesma  |
-
-Tabela 4: Tabela da análise hierárquica de tarefas para o objetivo "Buscar dados de pesquisa" (Fonte: Miguel de Frias)
-
-
-### **Buscar dados de pesquisa**
-
-Nessa tarefa o usuário tem o objetivo de buscar dados de pesquisa conforme dados selecionados para busca.
-
-
-| Objetivos/Operações | Problemas/Recomendações |
-|--------------------|------------------------|
-| 0.0 Buscar instituição | **Input:** Acesso à opção "Buscar dados de pesquisa" na tela inicial do site <br> **Feedback:** Tela de consulta de pesquisas <br> **Plano:** Definir como a busca por dados de pesquisa pode seer melhorada |
-| 1.0 Página inicial  | **Plano:** apresentar a página "Consulta de pesquisas" para o usuário  |
-| 2.0 Busca  | **Plano:** definir tipo de busca |
-| 2.1 Busca pelo nome/palavra-chave | **Plano:**  buscar a pesquisa pelo nome ou palavra-chave |
-| 2.2 Busca pelo autor | **Plano:** buscar pesquisa pelo autor |
-| 3.0 Demonstração dos resultados   | **Plano:** Demonstrar uma lista de resultados para o usuário, aonde poderá selecionar os dados de pesquisa para obter mais informações sobre a mesma  |
-
-Tabela 4: Tabela da análise hierárquica de tarefas para o objetivo "Buscar dados de pesquisa" (Fonte: Miguel de Frias)
-
-
 ### **Acessar Painel Lattes**
 
 Nessa tarefa o usuário tem o objetivo de acessar o Painel Lattes para buscar dados estatísticos sobre a plataforma.
@@ -194,28 +155,8 @@ Nessa tarefa o usuário tem o objetivo de acessar o Painel Lattes para buscar da
 | 2.7 Filtrar por setor econômico | **Plano:** filtrar o painel pela grande área do grau de escolaridade (ex: Ensino Superior Público ou Privado, Ensino Técnico, etc) |
 | 3.0 Demonstração dos resultados   | **Plano:** demonstrar uma lista de resultados para o usuário, aonde poderá selecionar os dados de pesquisa para obter mais informações sobre ela |
 
-Tabela 4: Tabela da análise hierárquica de tarefas para o objetivo "Acessar Painel Lattes" (Fonte: Caio Braga)
+Tabela 5: Tabela da análise hierárquica de tarefas para o objetivo "Acessar Painel Lattes" (Fonte: Caio Braga)
 
-### **Acessar Painel Lattes**
-
-Nessa tarefa o usuário tem o objetivo de acessar o Painel Lattes para buscar dados estatísticos sobre a plataforma.
-
-
-| Objetivos/Operações | Problemas/Recomendações |
-|--------------------|------------------------|
-| 0.0 Acessar Painel Lattes | **Input:** Acesso à opção "Acessar Painel Lattes" na tela inicial do site <br> **Feedback:** Tela de painel de dados da Plataforma Lattes<br> **Plano:** Definir como o painel de dados estatísticos pode ser melhorado |
-| 1.0 Página inicial  | **Plano:** apresentar a página "Painel Lattes" para o usuário  |
-| 2.0 Filtrar  | **Plano:** definir filtro para afunilar os resultados  |
-| 2.1 Filtrar por região | **Plano:** filtra o grau de escolaridade e área de estudo por região (Centro-Oeste, Sudeste, etc) |
-| 2.2 Filtrar por estado | **Plano:** filtra o grau de escolaridade e área de estudo por estado (DF, GO, MG, SP, etc) |
-| 2.3 Filtrar por escolaridade | **Plano:** filtra o painel pelo grau de escolaridade (Ensino Fundamental, Médio, Superior, etc) |
-| 2.4 Filtrar por sexo | **Plano:** filtrar o painel pelo sexo (Masculino ou Feminino) |
-| 2.5 Filtrar por faixa etária | **Plano:** filtrar o painel pela faixa etária |
-| 2.6 Filtrar por grande área | **Plano:** filtrar o painel pela área de estudo (ex: Ciências Humanas e Sociais) |
-| 2.7 Filtrar por setor econômico | **Plano:** filtrar o painel pela grande área do grau de escolaridade (ex: Ensino Superior Público ou Privado, Ensino Técnico, etc) |
-| 3.0 Demonstração dos resultados   | **Plano:** demonstrar uma lista de resultados para o usuário, aonde poderá selecionar os dados de pesquisa para obter mais informações sobre ela |
-
-Tabela 4: Tabela da análise hierárquica de tarefas para o objetivo "Acessar Painel Lattes" (Fonte: Caio Braga)
 
 
 ## **Bibliografia**
