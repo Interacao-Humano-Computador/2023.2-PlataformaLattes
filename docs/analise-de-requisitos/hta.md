@@ -158,6 +158,27 @@ Nessa tarefa o usuário tem o objetivo de acessar o Painel Lattes para buscar da
 Tabela 5: Tabela da análise hierárquica de tarefas para o objetivo "Acessar Painel Lattes" (Fonte: Caio Braga)
 
 
+### **Atualizar curriculo**
+Nessa tarefa o usuário tem o objetivo de atualizar um curriculo conforme os dados desejados . 
+
+
+<div align="center">
+    <img src="../assets/HTAatualizarCurriculo.png" 
+    style="width:60vw"/>
+    <p> Figura 5 - Atualizar currículo - Fonte: Filho Doan </p> 
+</div>
+
+
+| Objetivos/Operações | Problemas/Recomendações |
+|--------------------|------------------------|
+| 0.0 Acessar aba atualizar currículo | **Input:** Acesso à opção "Atualizar currículo" na tela inicial do site <br>             **Feedback:**Tela de atualização de curriculo <br>  **Plano:** Definir como a atualização pode ser melhorada | 
+| 1.0 Fazer login  | **Input:** Acesso a opção de fazer login na página do gov relacionado com o cnpq lattes <br> **Feedback: **Tela de login site gov <br> **Plano:** Definir dados para fazer login |
+| 2.0 Selecionar dado a ser atualizado | **Plano:** selecionar dado para atualizar |
+| 3.0 Inserir dados a serem atualizados | **Plano:** atualizar dados |
+| 3.1 Demonstração dos resultados   |**Input:**botão para confirmar a atualização <br> **Plano:** Atualizar informações de usuário de acordo com sua expectativa |
+
+Tabela 5: Tabela da análise hierárquica de tarefas para o objetivo "Atualizar curriculo" (Fonte: Doan Filho)
+
 
 ## **Bibliografia**
 
@@ -173,6 +194,7 @@ Tabela 5: Tabela da análise hierárquica de tarefas para o objetivo "Acessar Pa
 |  1.3   | Adicionando HTA de "Buscar Instituição" |   Joel Soares   |   22/10/2023   |  Miguel de Frias e Guilherme Basilio  |   23/10/2023      |
 |  1.4   | Adicionando HTA de "Depositar Pesquisa" |   Guilherme Basilio  |   23/10/2023   |  Miguel de Frias e Guilherme Basilio  |  23/10/2023      |
 |  1.5   | Adicionando HTA de "Buscar Pesquisa" |   Miguel de Frias |   23/10/2023   |  Miguel de Frias e Guilherme Basilio  |  23/10/2023      |
-|  1.5   | Adicionando HTA de "Buscar Pesquisa" |   Miguel de Frias |   23/10/2023   |  Miguel de Frias e Guilherme Basilio  |  23/10/2023      |
 | 1.6    | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |
 |  1.7   | Adicionando HTA de "Acessar Painel Lattes" |   Caio Braga |   29/10/2023   |  Caio Lelis  |  23/10/2023      |
+| 1.8    | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |
+|  1.9  | Adicionando HTA de "Atualizar curriculo" | Doan Filho  |   30/10/2023   |  Caio Braga |  30/10/2023      |
