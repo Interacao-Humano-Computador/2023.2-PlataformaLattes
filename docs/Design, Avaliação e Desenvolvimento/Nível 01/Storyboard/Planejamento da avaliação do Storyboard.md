@@ -154,6 +154,7 @@ Se qualquer problema for identificado durante o teste-piloto, é fundamental que
 
 Dessa maneira, o teste-piloto será realizado no dia 03/11/2023 e contará com a presença dos integrantes [Gabriel Barbosa](https://github.com/gabrie1barbosa) e [Guilherme Basilio](https://github.com/GuilhermeBES), atuando como entrevistador e entrevistado, respectivamente.
 
+
 ## **Referências bibliográficas**
 
 > [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.

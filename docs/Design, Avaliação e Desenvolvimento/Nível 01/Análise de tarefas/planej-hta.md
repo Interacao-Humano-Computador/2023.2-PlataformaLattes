@@ -122,8 +122,9 @@ Antes de realizar as entrevistas com os usuários, planejamos conduzir um teste 
 
 De acordo com Barbosa e Silva (2021, p.276) <a id="anchor_1" href="#REF1"><sup>1</sup></a>, o objetivo desse teste é avaliar o próprio planejamento e garantir que a avaliação planejada produza os dados necessários para responder às questões e objetivos do estudo. Durante o teste-piloto, os avaliadores conduzirão a simulação de uma sessão de avaliação normal, permitindo verificar se a linguagem utilizada nas explicações e nos materiais é clara e objetiva, além de garantir que esses materiais contenham informações apropriadas e suficientes para orientar os participantes durante a avaliação.
 
+<br>
 
-<link do vídeo>
+<iframe width="680" height="315" src="https://www.youtube.com/embed/m3uoIZsvPDU?si=SSpzw0D-ks2DZmH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **Referência bibliográfica**
 
@@ -147,3 +148,5 @@ De acordo com Barbosa e Silva (2021, p.276) <a id="anchor_1" href="#REF1"><sup>1
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do artefato com textos introdutórios | Miguel de Frias | 30/10/2023 | Doan Filho e Caio Braga | 30/10/2023|
 |  1.1   | Adição dos textos restantes e planejamento do teste-piloto | Caio Braga | 30/10/2023 | Doan Filho e Miguel de Frias | 30/10/2023|
+|  1.1   | Adição do teste-piloto | Caio Braga | 06/11/2023 | Doan Filho | 07/11/2023|
+
