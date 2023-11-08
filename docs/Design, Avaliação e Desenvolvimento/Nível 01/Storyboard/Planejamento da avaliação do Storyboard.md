@@ -100,7 +100,18 @@ A avaliação não implicará custos para os usuários envolvidos ou para a equi
 
 ## Prazos:
 
-A avaliação tem prazo final para o dia 07/11/2023, ressaltando que a entrevista com o usuário não terá duração maior que 25 minutos para que o mesmo não se sinta fadigado.
+
+|    Ordem   |    Data    | Horário de início e fim | Local            |     Entrevistadores    |   Entrevistado    | 
+| :--------: | :--------: | :---------------------: | ---------------- | ---------------------- | ----------------- |
+|     1°     | xx/11/2023 | xx:xx - xx:xx | Plataforma Microsoft Teams (Online) | Caio Lelis e   | --- |
+|     2°     | xx/11/2023 | xx:xx - xx:xx | Plataforma Microsoft Teams (Online) |  | --- |
+|     3°     | xx/11/2023 | xx:xx - xx:xx | Plataforma Microsoft Teams (Online) |   | --- |
+|     4°     | xx/11/2023 | xx:xx - xx:xx | Plataforma Microsoft Teams (Online) |  | --- |
+|     5°     | xx/11/2023 | xx:xx - xx:xx | Plataforma Microsoft Teams (Online) |   | --- |
+
+
+
+<p style="text-align: center"> Tabela 2: Prazos das entrevistas (Fonte: Autores, 2023).</p>
 
 ## Roteiro de Perguntas:
 
@@ -124,7 +135,7 @@ Abaixo a <i>Tabela 1</i> com as perguntas.
 
 
 <figcaption align='center'>
-    Tabela 1: Perguntas a serem feitas.(Fonte: Autores)
+    Tabela 3: Perguntas a serem feitas.(Fonte: Autores)
 </figcaption>
 
 ## Execução do Roteiro:
