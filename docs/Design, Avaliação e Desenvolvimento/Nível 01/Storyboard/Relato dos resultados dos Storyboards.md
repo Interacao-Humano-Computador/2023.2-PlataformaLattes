@@ -67,9 +67,14 @@ Tabela 2 - Respostas 1.
 
 </center>
 
-## Entrevista Storyboard - Inserir Recursos Multimídia
+## Entrevista Storyboard - Inserir recursos multimídia
+
+
+
 
 ### Objetivo e escopo da avaliação
+
+A avaliação feita com a entrevistada Amanda Alves Campos teve como objetivo a avaliação do storyboard inserir recursos multimídia, para que houvesse a validação do mesmo para o projeto da disciplina.
 
 ### Método de avaliação
 
@@ -78,27 +83,28 @@ Tabela 3 - Cronograma da Avaliação 2.
 
 | Entrevistador(es) | Entrevistado(a) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  Caio Lelis  |   <span style = "color: ">Amanda Alves Campos</span>     |       xx:xx       |     xx:xx      | 07/11/2023 | Microsoft Teams |
+|  Caio Lelis  |   <span style = "color: ">Amanda Alves Campos</span>     |       14:27       |     14:31      | 07/11/2023 | Ailab (UnB) |
 
 **Fonte** - Autor: LELIS,Caio.
 </center>
 
 ### Seleção de participante
 
-O participante se encaixa no perfil de usuário, pois é um usuário maior de 18 anos e pesquisadora com alguns projetos universitários presentes no currículo Lattes
+O participante se encaixa no perfil de usuário, pois é um usuário maior de 18 anos e pesquisadora com alguns projetos universitários presentes no currículo Lattes.
 
 ### Problemas e dificuldades encontradas
 
-
+A usuária não indiciou nenhum problema ou dificuldade relacionada ao storyboard.
 ### Sugestões de melhoria
 
-
+Uma sugestão de melhoria proposta pela usuária foi que o storyboard especifica-se mais onde estaria a função de inserir recursos multimídia.
 ### Feedback do usuário
 
-O usuário apresentou uma determinada satisfação com o storyboard, conseguiu compreender de forma clara o que estava acontecendo dentro daquela narrativa.
+O usuário ficou bastante satisfeito com o storyboard e conseguiu compreender de forma nítida a narrativa apresentada.
 
 ### Análise e interpretação dos resultados
 
+Através da entrevista foi possível evidenciar que mesmo sendo uma função cujo o site não apresentasse a mesma, a usuária conseguiu compreender a narrativa apresentada no storyboard, o que evidencia que o mesmo está de fácil entendimento por parte da usuária entrevistada.
 
 ### Sumário dos principais resultados
 
@@ -110,29 +116,31 @@ Tabela 4 - Respostas 2.
 
 | Nº  | Pergunta                                                                                                                    | Resposta                |
 |----|------------------------------------------------------------------------------------------------------------------------------|-------------------------|
-| 1  | A representação dos usuários no storyboard corresponde à natureza da funcionalidade inventada?                            | [ ] Sim<br>[ ] Não      |
-| 2  | Por que você acredita que este storyboard não se alinha com a funcionalidade inventada?                                   | Resposta aberta         |
-| 3  | Você teria sugestões para aprimorar ou alterar o storyboard apresentado em relação à funcionalidade proposta?              | [ ] Sim<br>[ ] Não      |
-| 4  | O storyboard mantém consistência com os propósitos e objetivos da funcionalidade concebida?                               | [ ] Sim<br>[ ] Não      |
-| 5  | O fluxo de eventos no storyboard segue uma sequência lógica e coerente para a funcionalidade proposta?                   | [ ] Sim<br>[ ] Não      |
-| 6  | Existem discrepâncias entre as representações no storyboard e o que seria esperado na prática para esta funcionalidade fictícia? | [ ] Sim<br>[ ] Não |
-| 7  | O storyboard requer ajustes para validar ou atender às expectativas dos usuários em relação à funcionalidade inventada?  | [ ] Sim<br>[ ] Não      |
-| 8  | Existe margem para melhorias nos storyboards, especialmente para facilitar a compreensão ou a representação visual da funcionalidade proposta? | [ ] Sim<br>[ ] Não |
-| 9  | Há aspectos na interação representada nos storyboards que podem ser melhorados para oferecer uma experiência mais fluida aos usuários? em relação à funcionalidade proposta? | [ ] Sim<br>[ ] Não |
-| 10 | Os elementos no storyboard atendem às possíveis necessidades e desafios dos usuários para esta funcionalidade fictícia?    | [ ] Sim<br>[ ] Não      |
-| 11 | O fluxo de interação no storyboard parece natural e intuitivo para os usuários desta funcionalidade inventada?             | [ ] Sim<br>[ ] Não      |
-| 12 | As ações dos usuários no storyboard são congruentes com as atitudes esperadas na situação representada para esta funcionalidade fictícia? | [ ] Sim<br>[ ] Não |
-| 13 | Algumas outras observações ou sugestões para aprimorar os storyboards em relação à funcionalidade proposta?                | Resposta aberta         |
+| 1  | A representação dos usuários no storyboard corresponde à natureza da funcionalidade inventada?                            | [X ] Sim<br>[ ] Não      |
+| 2  | Por que você acredita que este storyboard não se alinha com a funcionalidade inventada?                                   | Não necessária         |
+| 3  | Você teria sugestões para aprimorar ou alterar o storyboard apresentado em relação à funcionalidade proposta?              | [ ] Sim<br>[X] Não      |
+| 4  | O storyboard mantém consistência com os propósitos e objetivos da funcionalidade concebida?                               | [X] Sim<br>[ ] Não      |
+| 5  | O fluxo de eventos no storyboard segue uma sequência lógica e coerente para a funcionalidade proposta?                   | [X] Sim<br>[ ] Não      |
+| 6  | Existem discrepâncias entre as representações no storyboard e o que seria esperado na prática para esta funcionalidade fictícia? | [ ] Sim<br>[X] Não |
+| 7  | O storyboard requer ajustes para validar ou atender às expectativas dos usuários em relação à funcionalidade inventada?  | Sim, a melhor descrição de onde a funcionalidade estaria.      |
+| 8  | Existe margem para melhorias nos storyboards, especialmente para facilitar a compreensão ou a representação visual da funcionalidade proposta? | [ ] Sim<br>[X] Não |
+| 9  | Há aspectos na interação representada nos storyboards que podem ser melhorados para oferecer uma experiência mais fluida aos usuários? em relação à funcionalidade proposta? | Pergunta não feita|
+| 10 | Os elementos no storyboard atendem às possíveis necessidades e desafios dos usuários para esta funcionalidade fictícia?    | [X] Sim<br>[ ] Não      |
+| 11 | O fluxo de interação no storyboard parece natural e intuitivo para os usuários desta funcionalidade inventada?             | [X] Sim<br>[ ] Não      |
+| 12 | As ações dos usuários no storyboard são congruentes com as atitudes esperadas na situação representada para esta funcionalidade fictícia? | [X] Sim<br>[ ] Não |
+| 13 | Algumas outras observações ou sugestões para aprimorar os storyboards em relação à funcionalidade proposta?                | "Não não, ao meu ver ficou de claro entendimento a relação entre o storyboard e a função apresentada. "         |
 
 
 
 **Fonte** - Autor: LELIS, Caio.
 
-<p style="text-align: center"><a href="" target="blanket">Clique aqui</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+### Entrevista feita com a usuária Amanda Alves Campos:
 
-</center>
+<iframe width="700" height="500" src="https://www.youtube.com/embed/XpsDLSIXZr8?si=Fg9hbqk4dVJNi7yG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
 
 ## Planejamento de Reprojeto
 
