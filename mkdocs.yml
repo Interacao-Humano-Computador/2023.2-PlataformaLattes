@@ -2,54 +2,6 @@ site_name: Plataforma Lattes
 repo_url: https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes
 repo_name: 2023.2-PlataformaLattes
 
-nav:
-  - Página Inicial: index.md
-  - Apresentações:
-    - Apresentação 1: apresentacao/apresentacao1.md
-    - Apresentação 2: apresentacao/apresentacao2.md
-
-  - Atas:
-    - Ata 1: atas/ata1.md
-    - Ata 2: atas/ata2.md
-    - Ata 3: atas/ata3.md
-    - Ata 4: atas/ata4.md
-
-  - Planejamento:
-    - Cronograma: planejamento/cronograma.md
-    - Ferramentas: planejamento/ferramentas.md
-    - HeatMap: planejamento/heatMap.md
-    - Metodologia: planejamento/metodologia.md
-    - Padronização: planejamento/padronizacao.md
-    - Processo de Design: planejamento/processo-design.md
-    - Sites Avaliados: planejamento/sites-avaliados.md
-    - Site Selecionado: planejamento/site-selecionado.md
-
-  - Análise de Requisitos:
-    - Aspectos Éticos: analise-de-requisitos/aspectos-eticos.md
-    - Perfil de Usuário: analise-de-requisitos/perfil-de-usuario.md
-    - Cenários: analise-de-requisitos/cenarios.md
-    - Personas: analise-de-requisitos/personas.md
-    - Análise de Tarefas: 
-      - Análise Hierárquica de Tarefas: analise-de-requisitos/hta.md
-      - Árvore de Tarefas Concorrentes: analise-de-requisitos/ctt.md
-    - Metas de Usabilidade: analise-de-requisitos/metas-de-usabilidade.md
-    - Princípios Gerais: analise-de-requisitos/principios-gerais.md
-    - Guia de Estilo: analise-de-requisitos/guia-de-estilo.md
-    - Requisitos do Usuário:
-      - Introspecção: analise-de-requisitos/introspeccao.md
-      - Observação: analise-de-requisitos/observacao.md
-
-  - Design, Avaliação e Desenvolvimento:
-    - Nível 1:
-        - Análise de Tarefas:
-          - Planejamento da Avaliação da Análise de Tarefas: Design, Avaliação e Desenvolvimento/Nível 01/Análise de tarefas/planej-hta.md
-          - Planejamento Relato do Resultado da Avaliação da Análise de Tarefas: Design, Avaliação e Desenvolvimento/Nível 01/Análise de tarefas/planej-relato-resultado-avaliacao.md
-        - Storyboard:
-          - Planejamento da Avaliação do Storyboard: Design, Avaliação e Desenvolvimento/Nível 01/Storyboard/Planejamento da avaliação do Storyboard.md
-          - Storyboards: Design, Avaliação e Desenvolvimento/Nível 01/Storyboard/Storyboards.md
-          - Planejamento do Relato dos resultados: Design, Avaliação e Desenvolvimento/Nível 01/Storyboard/Planejamento do relato dos resultados .md
-
-
 theme:
   icon:
    repo: fontawesome/brands/git-alt
