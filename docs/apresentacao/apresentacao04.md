@@ -9,4 +9,3 @@ Neste documento apresentamos a quarta entrega da disciplina Interação Humano-C
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão Inicial|   Doan Filho  |   16/10/2023   | Joel Soares |  02/10/2023  |
-
