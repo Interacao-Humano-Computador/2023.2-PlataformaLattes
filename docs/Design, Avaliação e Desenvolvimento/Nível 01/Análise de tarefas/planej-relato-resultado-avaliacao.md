@@ -74,6 +74,8 @@ Por último, no que diz respeito ao propósito da mencionada atividade, esta qua
 Por fim, no desfecho deste processo, apresentaremos recomendações para corrigir cada um dos problemas identificados, incluindo a atribuição de prioridades a essas correções.
 
 A tabela abaixo representa o cronograma do plano de aprimoramento do projeto:
+<br>
+<center>
 
 | Executor(a) do Reprojeto  | Horário de Início | Horário de Fim |    Data    |
 | :----------------:  | :---------------: | :------------: | :--------: |
@@ -84,6 +86,8 @@ A tabela abaixo representa o cronograma do plano de aprimoramento do projeto:
 <p align="center">
 Tabela 02 - Cronograma de aprimoramento. (Fonte: Autores,2023)
 </p>
+
+</center>
 
 
 ## **Referência bibliográfica**
@@ -99,4 +103,4 @@ Tabela 02 - Cronograma de aprimoramento. (Fonte: Autores,2023)
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-| 1.0    | Criação do documento de relato de resultados   | Doan Filho | 30/10/2023 | Caio Braga  | 30/10/2023 |
+| 1.0    | Criação do documento de planejamento do relato de resultados   | Doan Filho | 30/10/2023 | Caio Braga  | 30/10/2023 |

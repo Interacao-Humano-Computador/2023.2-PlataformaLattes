@@ -58,9 +58,9 @@ Na tabela a seguir, são listadas as questões a serem abordadas durante as entr
 |   4.1    |                                     Considerando a tarefa "Buscar currículo", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
 |   5    |                                     Como você buscaria uma instituição?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
 |   5.1    |                                     Considerando a tarefa "Buscar instituição", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
-|   6    |                                     Como você depositaria uma instituição?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
+|   6    |                                     Como você catalogaria uma nova instituição?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
 |   6.1    |                                     Considerando a tarefa "Depositar instituição", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
-|   7    |                                     Como você buscaria dados de pesquisa?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
+|   7    |                                     Como você buscaria dados de uma pesquisa?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
 |   7.1    |                                     Considerando a tarefa "Buscar dados de pesquisa", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
 |   8    |                                     Como você acessaria o Painel Lattes?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
 |   8.1    |                                     Considerando a tarefa "Acessar Painel Lattes", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
