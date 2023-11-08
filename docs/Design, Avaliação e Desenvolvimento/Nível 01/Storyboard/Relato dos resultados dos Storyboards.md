@@ -67,7 +67,7 @@ Tabela 2 - Respostas 1.
 
 </center>
 
-## Entrevista Inserir recursos multimídia
+## Entrevista Storyboard - Inserir Recursos Multimídia
 
 ### Objetivo e escopo da avaliação
 
