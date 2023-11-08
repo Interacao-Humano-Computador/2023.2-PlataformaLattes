@@ -70,8 +70,6 @@ Tabela 2 - Respostas 1.
 ## Entrevista Storyboard - Inserir recursos multimídia
 
 
-
-
 ### Objetivo e escopo da avaliação
 
 A avaliação feita com a entrevistada Amanda Alves Campos teve como objetivo a avaliação do storyboard inserir recursos multimídia, para que houvesse a validação do mesmo para o projeto da disciplina.
