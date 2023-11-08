@@ -16,7 +16,7 @@ Foram feitas três entrevistas, com participantes que encaixavam-se nos critéri
 
 As respostas individuais de cada participante estão expressas nas tabelas abaixo:
 
-### Entrevista 1 - Wendy Cristhiny
+### Entrevista 1 - Amanda Campos
 
 | Número |                                                              Pergunta                                                               |     Resposta Possíveis     |
 | :----: | :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------: |
@@ -24,21 +24,22 @@ As respostas individuais de cada participante estão expressas nas tabelas abaix
 |   2    |                                            Qual seu grau de experiência com tecnologias?                                            |    Resposta Discursiva     |
 |   3    |                              Você já utilizou uma plataforma acadêmica anteriormente?                             |    Resposta Discursiva    |
 |   4    |                                     Como você buscaria um currículo?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
-|   4.1    |                                     Considerando a tarefa "Buscar currículo", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
+|   4.1    |                                     Considerando a tarefa "Buscar currículo", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la. <br> Pular para a pergunta 9, 10 ou 11   |
 |   5    |                                     Como você buscaria uma instituição?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
 |   5.1    |                                     Considerando a tarefa "Buscar instituição", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
 |   6    |                                     Como você catalogaria uma nova instituição?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
-|   6.1    |                                     Considerando a tarefa "Depositar instituição", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
+|   6.1    |                                     Considerando a tarefa "Depositar instituição", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la. <br> Pular para a pergunta 9, 10 ou 11    |
 |   7    |                                     Como você buscaria dados de uma pesquisa?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
-|   7.1    |                                     Considerando a tarefa "Buscar dados de pesquisa", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
+|   7.1    |                                     Considerando a tarefa "Buscar dados de pesquisa", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la. <br> Pular para a pergunta 9, 10 ou 11   |
 |   8    |                                     Como você acessaria o Painel Lattes?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
-|   8.1    |                                     Considerando a tarefa "Acessar Painel Lattes", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
-|   9    |                        O diagrama da Análise Hierárquica de Tarefas de "Buscar currículo" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva    |
-|   10    |                        O diagrama da Análise Hierárquica de Tarefas de "Buscar instituição" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva    |
-|   11    |                  Você teria alguma sugestão para melhorar o diagrama?          |    Resposta Discursiva    |
-|   12    |                  E sobre a tarefa, você teria alguma sugestão para melhorá-la?         |    Resposta Discursiva    |
+|   8.1    |                                     Considerando a tarefa "Acessar Painel Lattes", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la. <br> Pular para a pergunta 9, 10 ou 11   |
+|   9    |                        O diagrama da Análise Hierárquica de Tarefas de "Atualizar currículo" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva  <br> Pular para a pergunta 12   |
+|   10    |                        O diagrama da Análise Hierárquica de Tarefas de "Buscar currículo" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva <br> Pular para a pergunta 12   |
+|   11    |                        O diagrama da Análise Hierárquica de Tarefas de "Buscar instituição" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva <br> Pular para a pergunta 12    |
+|   12    |                  Você teria alguma sugestão para melhorar o diagrama?          |    Resposta Discursiva    |
+|   13    |                  E sobre a tarefa, você teria alguma sugestão para melhorá-la?         |    Resposta Discursiva    |
 
-### Entrevista 2 - Ciranda Amarilis
+### Entrevista 2 - Isaque Santos
 
 | Número |                                                              Pergunta                                                               |     Resposta Possíveis     |
 | :----: | :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------: |
@@ -46,21 +47,22 @@ As respostas individuais de cada participante estão expressas nas tabelas abaix
 |   2    |                                            Qual seu grau de experiência com tecnologias?                                            |    Resposta Discursiva     |
 |   3    |                              Você já utilizou uma plataforma acadêmica anteriormente?                             |    Resposta Discursiva    |
 |   4    |                                     Como você buscaria um currículo?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
-|   4.1    |                                     Considerando a tarefa "Buscar currículo", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
+|   4.1    |                                     Considerando a tarefa "Buscar currículo", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la. <br> Pular para a pergunta 9, 10 ou 11   |
 |   5    |                                     Como você buscaria uma instituição?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
 |   5.1    |                                     Considerando a tarefa "Buscar instituição", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
 |   6    |                                     Como você catalogaria uma nova instituição?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
-|   6.1    |                                     Considerando a tarefa "Depositar instituição", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
-|   7    |                                     Como você buscaria dados de pesquisa?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
-|   7.1    |                                     Considerando a tarefa "Buscar dados de pesquisa", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
+|   6.1    |                                     Considerando a tarefa "Depositar instituição", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la. <br> Pular para a pergunta 9, 10 ou 11    |
+|   7    |                                     Como você buscaria dados de uma pesquisa?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
+|   7.1    |                                     Considerando a tarefa "Buscar dados de pesquisa", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la. <br> Pular para a pergunta 9, 10 ou 11   |
 |   8    |                                     Como você acessaria o Painel Lattes?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
-|   8.1    |                                     Considerando a tarefa "Acessar Painel Lattes", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
-|   9    |                        O diagrama da Análise Hierárquica de Tarefas de "Buscar currículo" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva    |
-|   10    |                        O diagrama da Análise Hierárquica de Tarefas de "Buscar instituição" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva    |
-|   11    |                  Você teria alguma sugestão para melhorar o diagrama?          |    Resposta Discursiva    |
-|   12    |                  E sobre a tarefa, você teria alguma sugestão para melhorá-la?         |    Resposta Discursiva    |
+|   8.1    |                                     Considerando a tarefa "Acessar Painel Lattes", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la. <br> Pular para a pergunta 9, 10 ou 11   |
+|   9    |                        O diagrama da Análise Hierárquica de Tarefas de "Atualizar currículo" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva  <br> Pular para a pergunta 12   |
+|   10    |                        O diagrama da Análise Hierárquica de Tarefas de "Buscar currículo" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva <br> Pular para a pergunta 12   |
+|   11    |                        O diagrama da Análise Hierárquica de Tarefas de "Buscar instituição" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva <br> Pular para a pergunta 12    |
+|   12    |                  Você teria alguma sugestão para melhorar o diagrama?          |    Resposta Discursiva    |
+|   13    |                  E sobre a tarefa, você teria alguma sugestão para melhorá-la?         |    Resposta Discursiva    |
 
-### Entrevista 3 - Isaque Santos
+### Entrevista 3 - Wendy Cristhiny
 
 | Número |                                                              Pergunta                                                               |     Resposta Possíveis     |
 | :----: | :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------: |
@@ -68,19 +70,20 @@ As respostas individuais de cada participante estão expressas nas tabelas abaix
 |   2    |                                            Qual seu grau de experiência com tecnologias?                                            |    Resposta Discursiva     |
 |   3    |                              Você já utilizou uma plataforma acadêmica anteriormente?                             |    Resposta Discursiva    |
 |   4    |                                     Como você buscaria um currículo?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
-|   4.1    |                                     Considerando a tarefa "Buscar currículo", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
+|   4.1    |                                     Considerando a tarefa "Buscar currículo", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la. <br> Pular para a pergunta 9, 10 ou 11   |
 |   5    |                                     Como você buscaria uma instituição?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
 |   5.1    |                                     Considerando a tarefa "Buscar instituição", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
 |   6    |                                     Como você catalogaria uma nova instituição?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
-|   6.1    |                                     Considerando a tarefa "Depositar instituição", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
-|   7    |                                     Como você buscaria dados de pesquisa?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
-|   7.1    |                                     Considerando a tarefa "Buscar dados de pesquisa", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
+|   6.1    |                                     Considerando a tarefa "Depositar instituição", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la. <br> Pular para a pergunta 9, 10 ou 11    |
+|   7    |                                     Como você buscaria dados de uma pesquisa?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
+|   7.1    |                                     Considerando a tarefa "Buscar dados de pesquisa", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la. <br> Pular para a pergunta 9, 10 ou 11   |
 |   8    |                                     Como você acessaria o Painel Lattes?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
-|   8.1    |                                     Considerando a tarefa "Acessar Painel Lattes", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
-|   9    |                        O diagrama da Análise Hierárquica de Tarefas de "Buscar currículo" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva    |
-|   10    |                        O diagrama da Análise Hierárquica de Tarefas de "Buscar instituição" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva    |
-|   11    |                  Você teria alguma sugestão para melhorar o diagrama?          |    Resposta Discursiva    |
-|   12    |                  E sobre a tarefa, você teria alguma sugestão para melhorá-la?         |    Resposta Discursiva    |
+|   8.1    |                                     Considerando a tarefa "Acessar Painel Lattes", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la. <br> Pular para a pergunta 9, 10 ou 11   |
+|   9    |                        O diagrama da Análise Hierárquica de Tarefas de "Atualizar currículo" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva  <br> Pular para a pergunta 12   |
+|   10    |                        O diagrama da Análise Hierárquica de Tarefas de "Buscar currículo" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva <br> Pular para a pergunta 12   |
+|   11    |                        O diagrama da Análise Hierárquica de Tarefas de "Buscar instituição" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva <br> Pular para a pergunta 12    |
+|   12    |                  Você teria alguma sugestão para melhorar o diagrama?          |    Resposta Discursiva    |
+|   13    |                  E sobre a tarefa, você teria alguma sugestão para melhorá-la?         |    Resposta Discursiva    |
 
 ## Problemas encontrados
 
