@@ -174,7 +174,7 @@ Tabela 04 - elementos do storyboard da tarefa 04 "Buscar Dados de Pesquisa". (Fo
 
 
 <p align="center">
-    <strong><span style="font-size: larger;">Tarefa 06 - Buscar Dados de Pesquisa</span></strong>
+    <strong><span style="font-size: larger;">Tarefa 06 - Buscar Instituição</span></strong>
 </p>
 
 <div align="center">
