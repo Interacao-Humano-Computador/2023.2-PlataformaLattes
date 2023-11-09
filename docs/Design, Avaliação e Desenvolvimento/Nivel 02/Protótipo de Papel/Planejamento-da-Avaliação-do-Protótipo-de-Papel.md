@@ -104,11 +104,18 @@ Para isso, três integrantes do grupo devem cumprir com essas funções. A simul
 
 ### Custos
 
-A avaliação não implicará custos para os usuários envolvidos ou para a equipe executora.
+A avaliação implicará custos para a criação dos protótipos de papel, custos não tão elevados que serão arcados pelo grupo.
 
 ### Prazos
 
-A avaliação tem prazo final para o dia 16/11/2023, ressaltando que a simulação com o usuário não terá duração maior que 25 minutos para que o mesmo não se sinta fadigado.
+
+|    Ordem   |    Data    | Horário de início e fim | Local            |     Entrevistadores    |   Entrevistado    | 
+| :--------: | :--------: | :---------------------: | ---------------- | ---------------------- | ----------------- |
+|     1°     | A definir | XX:XX - XX:XX | A definir | Caio Braga e Doan Filho  | Isaque Santos |
+|     2°     | A definir | XX:XX - XX:XX | A definir | Miguel de Frias e Guilherme | --- |
+|     3°     | A definir | XX:XX - XX:XX | A definir | Doan Filho e Caio  | Henrique Batalha |
+|     4°     | A definir | XX:XX - XX:XX | A definir | Caio lelis e joel  | Amanda Alves |
+|     5°     | A definir | XX:XX - XX:XX | A definir | Gabriel e MIguel  | --- |
 
 ## Aspectos éticos (D):
 
