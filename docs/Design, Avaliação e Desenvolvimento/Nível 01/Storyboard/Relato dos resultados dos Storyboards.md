@@ -234,4 +234,6 @@ Tabela 4 - Respostas 3.
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-| 1.0    | Criação do documento e adição do template | Joel Soares| 07/11/2023 |  | |
+| 1.0    | Criação do documento e adição do template | Joel Soares| 07/11/2023 |  Doan Filho|08/11/2023 |
+----------:|
+| 1.0    | Adicionando atualizar curriculo | Doan Filho| 08/11/2023 |  Joel Soares|08/11/2023 |
