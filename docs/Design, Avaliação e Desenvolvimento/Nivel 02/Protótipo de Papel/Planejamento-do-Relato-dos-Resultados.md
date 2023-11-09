@@ -117,7 +117,7 @@ Tabela 1: Tabela do cronograma planejado. (Fonte: BASILIO, Guilherme e DE FRIAS,
 
 </center>
 
-### **Referências Bibliográficas**
+## **Referências Bibliográficas**
 
 >[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
 
