@@ -1,3 +1,5 @@
+# Análise Hierárquica de Tarefas
+
 <p align="justify">
 &emsp;&emsp;A Análise de Tarefas é utilizada para ser um entendimento sobre qual o trabalho dos usuários, como eles realizam e por quê. Nessa análise o trabalho é definido em termos de objetivos que os usuários precisam antingir.
 </p>
@@ -59,7 +61,7 @@ Nessa tarefa o usuário tem o objetivo de buscar currículo conforme dados selec
 | 1.0 Busca Normal  | plano: definir tipo de busca  |
 | 2.0 Busca avançada  | plano: definir tipo de busca  |
 | 1.1 Busca nome | plano: buscar curriculo pelo nome  |
-| 1.2 Busca assunto | plano: buscar curriculo pelo nome  |
+| 1.2 Busca assunto | plano: buscar curriculo pelo assunto  |
 | 2.1 Construir consulta   |              |
 | 2.2 Aplicar filtros   |    |
 | 1.3 Aplicar filtros/referências  |   |
@@ -156,6 +158,12 @@ Nessa tarefa o usuário tem o objetivo de acessar o Painel Lattes para buscar da
 | 3.0 Demonstração dos resultados   | **Plano:** demonstrar uma lista de resultados para o usuário, aonde poderá selecionar os dados de pesquisa para obter mais informações sobre ela |
 
 Tabela 5: Tabela da análise hierárquica de tarefas para o objetivo "Acessar Painel Lattes" (Fonte: Caio Braga)
+
+
+<div align="center">
+    <img src="../assets/acessarPainelDiag.png">
+    <p> Figura 4: Diagrama da análise hierárquica de tarefas para o objetivo "Acessar Painel Lattes" (Fonte: Caio Braga) </p> 
+</div>
 
 
 ### **Atualizar curriculo**
