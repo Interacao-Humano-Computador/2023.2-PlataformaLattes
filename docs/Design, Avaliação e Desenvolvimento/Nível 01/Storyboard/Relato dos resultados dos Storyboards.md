@@ -23,13 +23,15 @@ Tabela 1 - Cronograma da Avaliação 1.
 
 ### Seleção de participante
 
-O participante se encaixa no perfil de usuário, pois é um usuário maior de 18 anos inserido no meio acadêmico que já utilizou o site para gerar e pesquisar currículo Lattes.
+A participante se encaixa no perfil de usuário, pois é um usuário maior de 18 anos inserido no meio acadêmico que já utilizou o site para gerar e pesquisar currículo Lattes.
 
 ### Problemas e dificuldades encontradas
 
+A participante não encontrou problemas ou dificuldades na leitura do storyboard ou no entendimento do assunto proposto.
 
 ### Sugestões de melhoria
 
+A participante relata que seria desejável haver uma parte voltada para pesquisa pessoal e outra para pesquisa por instituições presente no Storyboard, tendo em vista que a pesquisa pelo currículo Lattes é a atividade principal oferecida pela plataforma.
 
 ### Feedback do usuário
 
@@ -37,6 +39,7 @@ O usuário apresentou uma determinada satisfação com o storyboard, conseguiu c
 
 ### Análise e interpretação dos resultados
 
+Os resultados foram satisfatórios para o estudo da plataforma. A entrevistada foi capaz de compreender o motivo do estudo, os elementos apresentados no storyboard, além de ser uma usuária regular. 
 
 ### Sumário dos principais resultados
 
@@ -45,19 +48,16 @@ Tabela 2 - Respostas 1.
 
 | Nº  | Pergunta                                                                                                                    | Resposta                |
 |----|------------------------------------------------------------------------------------------------------------------------------|-------------------------|
-| 1  | Os usuários envolvidos no storyboard condizem com a realidade?                                                             | [ ] Sim<br>[ ] Não      |
-| 2  | Por quê você acha que este storyboard não condiz com a realidade?                                                         | Resposta aberta         |
-| 3  | Você teria alguma sugestão de melhoria ou alteração no storyboard apresentado?                                           | [ ] Sim<br>[ ] Não      |
-| 4  | O Storyboard possui conexão com a realidade da tarefa proposta nele?                                                       | [ ] Sim<br>[ ] Não      |
-| 5  | O Storyboard segue uma ordem cronológica dos seus acontecimentos?                                                         | [ ] Sim<br>[ ] Não      |
-| 6  | Existe alguma discrepância entre as representações nos storyboards e o que seria esperado na prática?                      | [ ] Sim<br>[ ] Não      |
-| 7  | Os storyboards demandam modificações para validação ou para atender às expectativas dos usuários?                         | [ ] Sim<br>[ ] Não      |
-| 8  | Há espaço para aprimoramento nos storyboards, especialmente em termos de facilidade de compreensão ou representação visual? | [ ] Sim<br>[ ] Não      |
-| 9  | Há aspectos na interação representada nos storyboards que podem ser melhorados para oferecer uma experiência mais fluida aos usuários? | [ ] Sim<br>[ ] Não |
-| 10 | Os elementos no storyboard refletem as necessidades e desafios dos usuários?                                               | [ ] Sim<br>[ ] Não      |
-| 11 | O fluxo de interação no storyboard parece natural e intuitivo para os usuários?                                           | [ ] Sim<br>[ ] Não      |
-| 12 | As ações dos usuários no storyboard são coerentes com suas possíveis atitudes na situação representada?                  | [ ] Sim<br>[ ] Não      |
-| 13 | Outras observações ou sugestões para melhorar os storyboards?                                                              | Resposta aberta         |
+| 1  | Os usuários envolvidos no storyboard condizem com a realidade?                                                             | [x] Sim<br>[ ] Não      |
+| 2  | Por quê você acha que este storyboard não condiz com a realidade?                                                         | Foi afirmado que o storyboard condiz com a realidade |
+| 3  | Você teria alguma sugestão de melhoria ou alteração no storyboard apresentado?                                           | [ ] Sim<br>[x] Não      |
+| 4  | O Storyboard possui conexão com a realidade da tarefa proposta nele?                                                       | [x] Sim<br>[ ] Não      |
+| 5  | O Storyboard segue uma ordem cronológica dos seus acontecimentos?                                                         | [x] Sim<br>[ ] Não      |
+| 6  | Existe alguma discrepância entre as representações nos storyboards e o que seria esperado na prática?                      | [x] Sim<br>[ ] Não      |
+| 7  | Os storyboards demandam modificações para validação ou para atender às expectativas dos usuários?                         | [ ] Sim<br>[x] Não      |
+| 8  | Há espaço para aprimoramento nos storyboards, especialmente em termos de facilidade de compreensão ou representação visual? | [x] Sim<br>[ ] Não      |
+| 9  | Há aspectos na interação representada nos storyboards que podem ser melhorados para oferecer uma experiência mais fluida aos usuários? | [ ] Sim<br>[x] Não | |
+| 10 | Outras observações ou sugestões para melhorar os storyboards?                                                              | "Poderia haver uma parte voltada para pesquisa pessoal e outra para pesquisa por instituições"         |
 
 **Fonte** - Autor: Joel Soares.
 
