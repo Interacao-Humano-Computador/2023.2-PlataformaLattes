@@ -32,9 +32,9 @@ O procedimento adotado para esta avaliação envolve a combinação de observaç
 
 | Entrevistadores(s) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  Doan Filho | Isaque Santos     |       14:00       |     14:10       | 03/10/2023 | Microsoft Teams|
-|  Caio Braga  | Wendy    |       16:00     |     16:10      | 04/10/2023 | Microsoft Teams|
-|  Caio Lelis  |   Amanda Campos   |       18:00       |    18:00      | 04/10/2023 | Microsoft Teams|
+|  Doan Filho | Isaque Santos     |       21:00    |            | 08/11/2023 | Jitsi|
+| Caio Lelis | Amanda Alves Campos     |      22:00    | 22:15           | 08/11/2023 | Teams|
+| Caio Braga | Wendy Cristhiny    |      22:00    | 22:15           | 08/11/2023 | Jitsi|
 
 <p align="center">
 Tabela 01 - Cronograma da avaliação. (Fonte: Autores,2023)
