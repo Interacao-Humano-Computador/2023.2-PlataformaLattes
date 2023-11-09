@@ -31,8 +31,8 @@ Os storyboards contam com os elementos a seguir:
 
 
 <div align="center">
-    <img src="../assets/sotryboardBuscarCurriculo.jpeg" style="width:3g0vw"/>
-    <p> Figura 01 - StoryBoard da tarefa "Buscar curriculo". (Fonte: LELIS,Caio) </p> 
+    <img src="../assets/Storyboard_inserir_recurso_multimidia.jpeg" style="width:3g0vw"/>
+    <p> Figura 01 - StoryBoard da tarefa "Inserir recursos multimidia". (Fonte: LELIS,Caio) </p> 
 </div>
 
 
@@ -42,16 +42,16 @@ Os storyboards contam com os elementos a seguir:
 
 | Elemento                     | Descrição                                                                                      |
 |------------------------------|--------------------------------------------------------------------------------------------------|
-| **Pessoas envolvidas**       | - Calleri (o entrevistado) <br> - Muricy (o entrevistador)                                     |
-| **Ambiente/contexto**        | - Calleri está em uma entrevista de emprego com Muricy.                                        |
-| **Tarefas**                  | - Calleri necessita encontrar uma alternativa para achar seu currículo Lattes esquecido para a entrevista. |
-| **Passos envolvidos**        | - Acessar o site do CNPQ - Lattes e usar a tarefa Buscar currículos usando filtros de busca para que encontre o seu. |
-| **Motivação de usar a aplicação** | - Praticidade em encontrar seu currículo.                                                     |
-| **O que as pessoas precisam para completar a tarefa** | - Usar campos de filtro para que encontre seu perfil no Lattes. |                                                       |
-| **Resultado (satisfação) da pessoa ao completar a tarefa no final do storyboard** | - Calleri ao completar a tarefa pode cumprir um requisito presente em sua entrevista e agora Muricy, o entrevistador, pode dar prosseguimento na entrevista. |
+| **Pessoas envolvidas**       | - Calleri  <br> - Amanda                                     |
+| **Ambiente/contexto**        | - Calleri está em uma sala com sua amiga Amanda.                                        |
+| **Tarefas**                  | - Calleri necessita encontrar uma alternativa para deixar seu currículo Lattes mais atraente. |
+| **Passos envolvidos**        | - Acessar o site do CNPQ -Acessar seu projeto Lattes - Usar a tarefa fazer upload - escolher o arquivo - confirmar entrada de arquivo em seu projeto. |
+| **Motivação de usar a aplicação** | - Praticidade em editar seu currículo.                                                     |
+| **O que as pessoas precisam para completar a tarefa** | - Fazer upload de arquivos requeridos para o projeto. |                                                       |
+| **Resultado (satisfação) da pessoa ao completar a tarefa no final do storyboard** | - Calleri ao completar a tarefa pode deixar o seu currículo mais atraente e mais rico em detalhes. |
 
 <p align="center">
-Tabela 01 - elementos do storyboard da tarefa 01 "Buscar curriculo". (Fonte: LELIS,Caio)
+Tabela 01 - elementos do storyboard da tarefa 01 "Inserir recursos multimidia". (Fonte: LELIS,Caio)
 </p>
 
 
