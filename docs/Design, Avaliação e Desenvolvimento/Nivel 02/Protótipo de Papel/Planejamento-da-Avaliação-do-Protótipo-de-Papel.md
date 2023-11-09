@@ -40,7 +40,20 @@ Com base nos objetivos descritos acima, é necessário a elaboração de pergunt
 
 Após definidas as perguntas gerais, o roteiro de perguntas deve ser elaborado para desmembrá-las de acordo com as tarefas que serão colocadas para o usuário fazer.
 
+<<<<<<< HEAD
 ### **Roteiro de Perguntas**
+=======
+### Roteiro de perguntas
+
+| Perguntas                             | Tipo de pergunta | Respostas possíveis  | 
+| ------------------------------------- | :--------------: | :------------------: | 
+| Após simular o uso dessa tarefa (citar a tarefa), você considera a sequência de elementos de interação para executá-la coerente?               | Fechada           | Sim </br>Não</br>Caso sim, pedir para descrever o problema | 
+| Alguma questão de interface ou terminologia o confundiu ou foi de difícil entendimento?                      | Aberta           | Resposta discursiva  |  
+| A disposição dos elementos de interação auxliaram na rapidez da execução da sua tarefa?  | Fechada          |  Sim </br>Não       | 
+| Em termos de layout e design, achou alguma parte estranha ou desconexa com o objetivo do site?   | Fechada               | Sim </br>Não</br>Caso sim, pedir para descrever              | 
+| Quais foram as partes do protótipo de papel que você achou mais intuitivas e fáceis de usar?  | Aberta          | Resposta Discursiva | 
+| Você imagina alguma forma de melhorar esta tarefa?    | Aberta           | Resposta discursiva   |
+>>>>>>> main
 
 | **Perguntas** | **Tipo de pergunta** | **Respostas possíveis** |
 | -------------- | :---------------------: | :---------------------: |
