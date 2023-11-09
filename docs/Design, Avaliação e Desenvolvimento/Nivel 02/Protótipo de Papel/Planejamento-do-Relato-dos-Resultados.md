@@ -79,16 +79,13 @@ Nesta parte do documento, o entrevistador deve enumerar as questões e obstácul
 
 É de extrema importância que o entrevistador capture o feedback dos usuários entrevistados durante a avaliação de tarefas. Isso requer uma escuta atenta às opiniões, sugestões e comentários expressos pelos usuários durante a interação com o sistema ou produto avaliado. O entrevistador deve registrar de maneira completa e precisa o feedback fornecido pelos usuários, levando em consideração suas percepções, experiências e necessidades.
 
-
-### **Análise e coleta de dados**
-
-Nesta etapa, a interpretação de todos os dados será realizada. O entrevistador deverá identificar padrões e contextos nos problemas relatados e elaborar conclusões que sejam pertinentes para as sugestões de melhoria propostas.
-
-
 ### **Sumário de dados**
 
 Nesta seção, o avaliador deverá apresentar um resumo conciso e claro dos dados coletados. Isso permitirá uma compreensão abrangente dos principais pontos de melhoria a serem abordados e implementados na plataforma Lattes. O resumo deve destacar os aspectos mais relevantes, incluindo as sugestões de melhoria fornecidas pelos próprios usuários e os feedbacks identificados.
 
+### **Análise e coleta de dados**
+
+Nesta etapa, a interpretação de todos os dados será realizada. O entrevistador deverá identificar padrões e contextos nos problemas relatados e elaborar conclusões que sejam pertinentes para as sugestões de melhoria propostas.
 
 ### **Aspectos éticos**
 
