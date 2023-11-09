@@ -131,4 +131,4 @@ O teste piloto ocorrerá na FGA entre o dia 08/11/2023 e 16/11/2023
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-| 1.0    | Criação do documento | Gabriel Barbosa | 08/11/2023 |  | 08/11/2023 |
+| 1.0    | Criação do documento | Gabriel Barbosa | 08/11/2023 | Guilherme Basilio | 08/11/2023 |
