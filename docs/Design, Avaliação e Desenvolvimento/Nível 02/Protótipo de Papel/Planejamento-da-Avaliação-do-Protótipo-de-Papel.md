@@ -63,9 +63,10 @@ Seguindo o método escolhido de prototipação em papel, a forma de avaliação 
 
 O usuário deve executar as seguintes tarefas (descritas na [análise de tarefas](https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/blob/main/docs/analise-de-requisitos/hta.md)) no protótipo em papel:
 
-- Buscar por um currículo na plataforma.
+
 - Buscar por instituição.
 - Buscar pesquisas e artigos acadêmicos.
+- Inserir recurso multimídia
 - Interagir com o painel lattes.
 
 #### **Aplicação**
