@@ -1,3 +1,5 @@
+# Análise Hierárquica de Tarefas
+
 <p align="justify">
 &emsp;&emsp;A Análise de Tarefas é utilizada para ser um entendimento sobre qual o trabalho dos usuários, como eles realizam e por quê. Nessa análise o trabalho é definido em termos de objetivos que os usuários precisam antingir.
 </p>
@@ -156,6 +158,12 @@ Nessa tarefa o usuário tem o objetivo de acessar o Painel Lattes para buscar da
 | 3.0 Demonstração dos resultados   | **Plano:** demonstrar uma lista de resultados para o usuário, aonde poderá selecionar os dados de pesquisa para obter mais informações sobre ela |
 
 Tabela 5: Tabela da análise hierárquica de tarefas para o objetivo "Acessar Painel Lattes" (Fonte: Caio Braga)
+
+
+<div align="center">
+    <img src="../assets/acessarPainelDiag.png">
+    <p> Figura 4: Diagrama da análise hierárquica de tarefas para o objetivo "Acessar Painel Lattes" (Fonte: Caio Braga) </p> 
+</div>
 
 
 ### **Atualizar curriculo**
