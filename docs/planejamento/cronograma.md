@@ -222,10 +222,10 @@ A tabela 10 mostra as tarefas do planejamento feito para a entrega 5 do projeto.
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
 |--------|----------------------------|--------------------|-------------|--------|
-| Relato dos resultados do Storyboard | Início: 01/11 <br> Fim: 07//11 | Início: 07/11 <br> Fim: 08/11 | Doan Filho e Caio Lelis | Guilherme Basilio |
-| Relato dos resultados da Análise de tarefas | Início: 01/11 <br> Fim: 07//11 | Início: 07/11 <br> Fim: 08/11 | Miguel de Frias e Joel Soares | Caio Braga |
-| Planejamento da avaliação do protótipo de papel | Início: 01/11 <br> Fim: 07//11 | Início: 07/11 <br> Fim: 08/11 | Gabriel Barbosa e Guilherme Basilio | Caio Lelis  |
-| Planejamento do relato de resultados da avaliação do protótipo de papel | Início: 01/11 <br> Fim: 07//11 | Início: 07/11 <br> Fim: 08/11 | Doan Filho e Miguel de Frias| Gabiel Barbosa |
+| Relato dos resultados do Storyboard | Início: 01/11 <br> Fim: 07//11 | Início: 07/11 <br> Fim: 08/11 | Joel Soares e Caio Lelis | Doan Filho |
+| Relato dos resultados da Análise de tarefas | Início: 01/11 <br> Fim: 07//11 | Início: 07/11 <br> Fim: 08/11 | Doan Filho e Caio Braga | Caio Lelis |
+| Planejamento da avaliação do protótipo de papel | Início: 01/11 <br> Fim: 07//11 | Início: 07/11 <br> Fim: 08/11 | Gabriel Barbosa e Caio Lelis | Caio Lelis  |
+| Planejamento do relato de resultados da avaliação do protótipo de papel | Início: 01/11 <br> Fim: 07//11 | Início: 07/11 <br> Fim: 08/11 | Guilherme Basilio e Miguel de Frias| Gabriel Barbosa |
 | Atualizar GitPage | Início: 01/11 <br> Fim: 07//11 | Início: 07/11 <br> Fim: 08/11 | Caio Braga e Caio Lelis | Doan Filho  |
 | Gravação da Apresentação |Início: 07/11 <br> Fim: 07//11 | Início: 07/11 <br> Fim: 07/11 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
 | Postagem da Apresentação | Início: 07/11 <br> Fim: 07//11 | Início: 07/11 <br> Fim: 07/11 | Joel Soares | Miguel de Frias|
@@ -234,6 +234,27 @@ A tabela 10 mostra as tarefas do planejamento feito para a entrega 5 do projeto.
 
 <div style="text-align: center">
     <p> <b>Tabela 10</b>: Tarefas planejadas na Entrega 5. (Fonte: Miguel de Frias, 2023).</p>
+</div>
+
+### **Executado**
+
+A tabela 11 mostra as tarefas realizadas na entrega 5 do projeto.
+
+| Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
+|--------|----------------------------|--------------------|-------------|--------|
+| Relato dos resultados do Storyboard | Início: 01/11 <br> Fim: 08//11 | Início: 08/11 <br> Fim: 08/11 | Joel Soares e Caio Lelis | Doan Filho |
+| Relato dos resultados da Análise de tarefas | Início: 01/11 <br> Fim: 08/11 | Início: 08/11 <br> Fim: 08/11 | Doan Filho e Caio Braga | Caio Lelis |
+| Planejamento da avaliação do protótipo de papel | Início: 01/11 <br> Fim: 08//11 | Início: 08/11 <br> Fim: 08/11 | Gabriel Barbosa e Caio Lelis | Caio Lelis  |
+| Planejamento do relato de resultados da avaliação do protótipo de papel | Início: 01/11 <br> Fim: 08//11 | Início: 08/11 <br> Fim: 08/11 | Guilherme Basilio e Miguel de Frias| Gabriel Barbosa |
+| Atualizar GitPage | Início: 01/11 <br> Fim: 07/11 | Início: 07/11 <br> Fim: 08/11 | Caio Braga e Caio Lelis | Doan Filho  |
+| Gravação da Apresentação |Início: 08/11 <br> Fim: 08/11 | Início: 08/11 <br> Fim: 08/11 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
+| Postagem da Apresentação | Início: 08/11 <br> Fim: 08/11 | Início: 08/11 <br> Fim: 08/11 | Joel Soares | Miguel de Frias|
+| Cronograma Executado | Início: 01/11 <br> Fim: 08//11 | Início: 08/11 <br> Fim: 08/11 | Miguel de Frias | Gabriel Barbosa |
+| Correções da Entrega 4 | Início: 01/11 <br> Fim: 07/11 | Início: 07/11 <br> Fim: 08/11 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
+
+
+<div style="text-align: center">
+    <p> <b>Tabela 11</b>: Tarefas realizadas na Entrega 5. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 ## **Entrega 6.1**
@@ -353,7 +374,7 @@ A tabela 11 mostra as tarefas do planejamento feito para a entrega 9 do projeto.
 
 ## **Bibliografia**
 
->[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 28 de setembro de 2023.
+> SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 28 de setembro de 2023.
 
 
 ## **Histórico de Versões**
@@ -366,6 +387,4 @@ A tabela 11 mostra as tarefas do planejamento feito para a entrega 9 do projeto.
 |  3.0   | Adição do executado entrega 3  |  Miguel de Frias |   23/10/2023   | Doan Filho |  23/10/2023   |
 | 3.1    | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |
 |  4.0   | Adição do executado entrega 4  |  Miguel de Frias |   30/10/2023   | Doan Filho |  30/10/2023   |
-
-
-
+|  5.0   | Adição do executado entrega 5  |  Miguel de Frias |   08/11/2023   | Gabriel Barbosa |  08/11/2023   |
