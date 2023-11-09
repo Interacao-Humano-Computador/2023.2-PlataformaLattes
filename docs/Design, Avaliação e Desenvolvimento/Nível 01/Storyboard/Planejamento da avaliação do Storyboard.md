@@ -63,20 +63,10 @@ A avaliação de storyboards é crucial para garantir a congruência entre as re
 
 Com base nos objetivos da avaliação, foram elaboradas perguntas orientadas para atingir os seguintes pontos:
 
-Conformidade com um padrão estabelecido:
+- Conformidade com um padrão estabelecido 
+- Comparação de ideias e alternativas de design:
+- Identificação de problemas na interação e interface:
 
-- Os storyboards apresentam consistência com a realidade e refletem ações coerentes?
-- Existe alguma discrepância entre as representações nos storyboards e o que seria esperado na prática?
-
-Comparação de ideias e alternativas de design:
-
-- Os storyboards demandam modificações para validação ou para atender às expectativas dos usuários?
-- Há espaço para aprimoramento nos storyboards, especialmente em termos de facilidade de compreensão ou representação visual?
-
-Identificação de problemas na interação e interface:
-
-
-- Há aspectos na interação representada nos storyboards que podem ser melhorados para oferecer uma experiência mais fluida aos usuários?
 
 Essas questões foram estruturadas para avaliar a congruência, o potencial de melhorias e a fidelidade aos cenários pré-estabelecidos, alinhando-se aos objetivos gerais da avaliação de storyboards.
 
@@ -100,7 +90,18 @@ A avaliação não implicará custos para os usuários envolvidos ou para a equi
 
 ## Prazos:
 
-A avaliação tem prazo final para o dia 07/11/2023, ressaltando que a entrevista com o usuário não terá duração maior que 25 minutos para que o mesmo não se sinta fadigado.
+
+|    Ordem   |    Data    | Horário de início e fim | Local            |     Entrevistador(es)    |   Entrevistado    | 
+| :--------: | :--------: | :---------------------: | ---------------- | ---------------------- | ----------------- |
+|     1°     | 07/11/2023 | xx:xx - xx:xx | Plataforma Microsoft Teams (Online) | Caio Lelis    | Amanda Alves Campos |
+|     2°     | xx/11/2023 | xx:xx - xx:xx | Plataforma Microsoft Teams (Online) |  | --- |
+|     3°     | xx/11/2023 | xx:xx - xx:xx | Plataforma Microsoft Teams (Online) |   | --- |
+|     4°     | xx/11/2023 | xx:xx - xx:xx | Plataforma Microsoft Teams (Online) |  | --- |
+|     5°     | xx/11/2023 | xx:xx - xx:xx | Plataforma Microsoft Teams (Online) |   | --- |
+
+
+
+<p style="text-align: center"> Tabela 2: Prazos das entrevistas (Fonte: Autores, 2023).</p>
 
 ## Roteiro de Perguntas:
 
@@ -119,12 +120,15 @@ Abaixo a <i>Tabela 1</i> com as perguntas.
 | 7  | Os storyboards demandam modificações para validação ou para atender às expectativas dos usuários?                         | [ ] Sim<br>[ ] Não      |
 | 8  | Há espaço para aprimoramento nos storyboards, especialmente em termos de facilidade de compreensão ou representação visual? | [ ] Sim<br>[ ] Não      |
 | 9  | Há aspectos na interação representada nos storyboards que podem ser melhorados para oferecer uma experiência mais fluida aos usuários? | [ ] Sim<br>[ ] Não |
-| 10 | Outras observações ou sugestões para melhorar os storyboards?                                                              | Resposta aberta         |
+| 10 | Os elementos no storyboard refletem as necessidades e desafios dos usuários?                                               | [ ] Sim<br>[ ] Não      |
+| 11 | O fluxo de interação no storyboard parece natural e intuitivo para os usuários?                                           | [ ] Sim<br>[ ] Não      |
+| 12 | As ações dos usuários no storyboard são coerentes com suas possíveis atitudes na situação representada?                  | [ ] Sim<br>[ ] Não      |
+| 13 | Outras observações ou sugestões para melhorar os storyboards?                                                              | Resposta aberta         |
 
 
 
 <figcaption align='center'>
-    Tabela 1: Perguntas a serem feitas.(Fonte: Autores)
+    Tabela 3: Perguntas a serem feitas.(Fonte: Autores)
 </figcaption>
 
 ## Execução do Roteiro:
