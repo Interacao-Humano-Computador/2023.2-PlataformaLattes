@@ -55,19 +55,20 @@ Na tabela a seguir, são listadas as questões a serem abordadas durante as entr
 |   2    |                                            Qual seu grau de experiência com tecnologias?                                            |    Resposta Discursiva     |
 |   3    |                              Você já utilizou uma plataforma acadêmica anteriormente?                             |    Resposta Discursiva    |
 |   4    |                                     Como você buscaria um currículo?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
-|   4.1    |                                     Considerando a tarefa "Buscar currículo", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
+|   4.1    |                                     Considerando a tarefa "Buscar currículo", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la. <br> Pular para a pergunta 9, 10 ou 11   |
 |   5    |                                     Como você buscaria uma instituição?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
 |   5.1    |                                     Considerando a tarefa "Buscar instituição", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
-|   6    |                                     Como você depositaria uma instituição?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
-|   6.1    |                                     Considerando a tarefa "Depositar instituição", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
-|   7    |                                     Como você buscaria dados de pesquisa?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
-|   7.1    |                                     Considerando a tarefa "Buscar dados de pesquisa", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
+|   6    |                                     Como você catalogaria uma nova instituição?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
+|   6.1    |                                     Considerando a tarefa "Depositar instituição", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la. <br> Pular para a pergunta 9, 10 ou 11    |
+|   7    |                                     Como você buscaria dados de uma pesquisa?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
+|   7.1    |                                     Considerando a tarefa "Buscar dados de pesquisa", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la. <br> Pular para a pergunta 9, 10 ou 11   |
 |   8    |                                     Como você acessaria o Painel Lattes?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
-|   8.1    |                                     Considerando a tarefa "Acessar Painel Lattes", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la.    |
-|   9    |                        O diagrama da Análise Hierárquica de Tarefas de "Buscar currículo" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva    |
-|   10    |                        O diagrama da Análise Hierárquica de Tarefas de "Buscar instituição" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva    |
-|   11    |                  Você teria alguma sugestão para melhorar o diagrama?          |    Resposta Discursiva    |
-|   12    |                  E sobre a tarefa, você teria alguma sugestão para melhorá-la?         |    Resposta Discursiva    |
+|   8.1    |                                     Considerando a tarefa "Acessar Painel Lattes", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la. <br> Pular para a pergunta 9, 10 ou 11   |
+|   9    |                        O diagrama da Análise Hierárquica de Tarefas de "Atualizar currículo" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva  <br> Pular para a pergunta 12   |
+|   10    |                        O diagrama da Análise Hierárquica de Tarefas de "Buscar currículo" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva <br> Pular para a pergunta 12   |
+|   11    |                        O diagrama da Análise Hierárquica de Tarefas de "Acessar Painel Lattes" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva <br> Pular para a pergunta 12    |
+|   12    |                  Você teria alguma sugestão para melhorar o diagrama?          |    Resposta Discursiva    |
+|   13    |                  E sobre a tarefa, você teria alguma sugestão para melhorá-la?         |    Resposta Discursiva    |
 
  <p style="text-align: center"> Tabela 2: Roteiro de Perguntas (Fonte: Autores, 2023).</p>
 
@@ -122,8 +123,9 @@ Antes de realizar as entrevistas com os usuários, planejamos conduzir um teste 
 
 De acordo com Barbosa e Silva (2021, p.276) <a id="anchor_1" href="#REF1"><sup>1</sup></a>, o objetivo desse teste é avaliar o próprio planejamento e garantir que a avaliação planejada produza os dados necessários para responder às questões e objetivos do estudo. Durante o teste-piloto, os avaliadores conduzirão a simulação de uma sessão de avaliação normal, permitindo verificar se a linguagem utilizada nas explicações e nos materiais é clara e objetiva, além de garantir que esses materiais contenham informações apropriadas e suficientes para orientar os participantes durante a avaliação.
 
+<br>
 
-<link do vídeo>
+<iframe width="680" height="315" src="https://www.youtube.com/embed/m3uoIZsvPDU?si=SSpzw0D-ks2DZmH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **Referência bibliográfica**
 
@@ -147,3 +149,5 @@ De acordo com Barbosa e Silva (2021, p.276) <a id="anchor_1" href="#REF1"><sup>1
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do artefato com textos introdutórios | Miguel de Frias | 30/10/2023 | Doan Filho e Caio Braga | 30/10/2023|
 |  1.1   | Adição dos textos restantes e planejamento do teste-piloto | Caio Braga | 30/10/2023 | Doan Filho e Miguel de Frias | 30/10/2023|
+|  1.1   | Adição do teste-piloto | Caio Braga | 06/11/2023 | Doan Filho | 07/11/2023|
+
