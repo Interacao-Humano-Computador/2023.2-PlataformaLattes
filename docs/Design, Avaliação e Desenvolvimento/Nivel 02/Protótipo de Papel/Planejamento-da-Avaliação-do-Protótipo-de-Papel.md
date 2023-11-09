@@ -69,6 +69,7 @@ Com base nos objetivos descritos acima, é necessário a elaboração de pergunt
 Após definidas as perguntas gerais, o roteiro de perguntas deve ser elaborado para desmembra-las de acordo com as tarefas que serão colocadas para o usuário fazer
 
 ### Roteiro de perguntas
+
 | Perguntas                             | Tipo de pergunta | Respostas possíveis  | 
 | ------------------------------------- | :--------------: | :------------------: | 
 | Após simular o uso dessa tarefa (citar a tarefa), você considera a sequência de elementos de interação para executá-la coerente?               | Fechada           | Sim </br>Não</br>Caso sim, pedir para descrever o problema | 
