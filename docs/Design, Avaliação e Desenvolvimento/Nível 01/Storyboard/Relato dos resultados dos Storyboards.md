@@ -141,15 +141,6 @@ Tabela 4 - Respostas 2.
 <iframe width="700" height="500" src="https://www.youtube.com/embed/XpsDLSIXZr8?si=Fg9hbqk4dVJNi7yG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-
-
-## Planejamento de Reprojeto
-
-As sugestões de alterações e demais variações identificadas durante a análise do artefato especificado devem ser levadas em consideração para o reprojeto. Contudo, é fundamental que este reprojeto mantenha a base do projeto original, realizando apenas as modificações estritamente necessárias.
-
-
-## Entrevista - Depositar dados de pesquisa
-
 ## Entrevista - Atualizar currículo
 
 ### Objetivo da avaliação
@@ -294,6 +285,11 @@ Tabela 5 - Respostas 4.
 ### Entrevista feita com a usuária Wendy Cristhiny:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oACw1GhLwqE?si=i6CfSbk-bBnk02op" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+## Planejamento de Reprojeto
+
+As sugestões de alterações e demais variações identificadas durante a análise do artefato especificado devem ser levadas em consideração para o reprojeto. Contudo, é fundamental que este reprojeto mantenha a base do projeto original, realizando apenas as modificações estritamente necessárias.
 
 
 
