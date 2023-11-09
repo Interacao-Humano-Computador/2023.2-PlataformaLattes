@@ -149,6 +149,78 @@ As sugestões de alterações e demais variações identificadas durante a anál
 
 ## Entrevista - Atualizar currículo
 
+### Objetivo da avaliação
+Essa avaliação teve como objetivo validar a tarefa de atualizar curriculo, para verificar algumas melhorias e sugestões 
+
+### Método de avaliação
+
+O participante Isaque Santos, se encaixa no perfil de usuário da plataforma lattes, possui uma experiência média no uso com tecnologias e já utilizou o lattes para fins academicos. 
+
+<center>
+Tabela 3 - Cronograma da Avaliação 2.
+
+| Entrevistador(es) | Entrevistado(a) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  Doan Filho  |   <span style = "color: ">Isaque Santos</span>     |      22:30       |    22:40     | 08/11/2023 | Microsoftteamns |
+
+**Fonte** - Autor: Filho,Doan
+</center>
+
+### Seleção de participante
+
+O participante Isaque Santos, se encaixa no perfil de usuário da plataforma lattes, possui uma experiência média no uso com tecnologias e já utilizou o lattes para fins academicos. 
+### Problemas e dificuldades encontradas
+
+A usuária não indiciou nenhum problema ou dificuldade relacionada ao storyboard.
+
+### Sugestões de melhoria
+O usuário sugeriu adicionar ais informações ao storyboard feito pelo entrevistador
+
+### Feedback do usuário
+
+Houve satisfação do usuário com o storyboard apresentado. 
+
+### Análise e interpretação dos resultados
+
+Com a entrevista feita, interpretamos que o storyBoard feito coendiz com o fluxo proposto pela tarefa atualizar curriculo  atende as necessidades dos usuários da plataforma lattes.  
+
+
+### Sumário dos principais resultados
+Aqui temos os principais resultados coletados na entrevista
+
+<center>
+Tabela 4 - Respostas 3.
+
+| Nº  | Pergunta                                                                                                                    | Resposta                |
+|----|------------------------------------------------------------------------------------------------------------------------------|-------------------------|
+| 1  | A representação dos usuários no storyboard corresponde à natureza da funcionalidade inventada?                            | [X ] Sim<br>[ ] Não      |
+| 2  | Por que você acredita que este storyboard não se alinha com a funcionalidade inventada?                                   | Não necessária         |
+| 3  | Você teria sugestões para aprimorar ou alterar o storyboard apresentado em relação à funcionalidade proposta?              | [X] Sim<br>[] Não      |
+| 4  | O storyboard mantém consistência com os propósitos e objetivos da funcionalidade concebida?                               | [X] Sim<br>[ ] Não      |
+| 5  | O fluxo de eventos no storyboard segue uma sequência lógica e coerente para a funcionalidade proposta?                   | [X] Sim<br>[ ] Não      |
+| 6  | Existem discrepâncias entre as representações no storyboard e o que seria esperado na prática para esta funcionalidade fictícia? | [ ] Sim<br>[X] Não |
+| 7  | O storyboard requer ajustes para validar ou atender às expectativas dos usuários em relação à funcionalidade inventada?  | sim, poderia conter mais informações|
+| 8  | Existe margem para melhorias nos storyboards, especialmente para facilitar a compreensão ou a representação visual da funcionalidade proposta? | [X] Sim<br>[] Não |
+| 9  | Há aspectos na interação representada nos storyboards que podem ser melhorados para oferecer uma experiência mais fluida aos usuários? em relação à funcionalidade proposta? | Pergunta não feita|
+| 10 | Os elementos no storyboard atendem às possíveis necessidades e desafios dos usuários para esta funcionalidade fictícia?    | [X] Sim<br>[ ] Não      |
+| 11 | O fluxo de interação no storyboard parece natural e intuitivo para os usuários desta funcionalidade inventada?             | [X] Sim<br>[ ] Não      |
+| 12 | As ações dos usuários no storyboard são congruentes com as atitudes esperadas na situação representada para esta funcionalidade fictícia? | [X] Sim<br>[ ] Não |
+| 13 | Algumas outras observações ou sugestões para aprimorar os storyboards em relação à funcionalidade proposta?                | "Só conter mais informações sobre a funcionalidade do site"         |
+
+**Fonte** - Autor: Filho, Doan.
+
+
+
+
+## Entrevista com Isaque Santos 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o_VrQWTVv28?si=eeFtaNVr8ee9cXy6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+
+
 ## Entrevista - Cadastrar Instituição
 
 ## Entrevista - Cadastrar currículo
