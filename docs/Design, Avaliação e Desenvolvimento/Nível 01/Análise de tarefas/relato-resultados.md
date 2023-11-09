@@ -24,7 +24,7 @@ Foram feitas três entrevistas, com participantes que encaixavam-se nos critéri
 Para essa entrevista, a participante foi convidada a avaliar o diagrama da Análise Hierárquica de Tarefas. A gravação está disponível abaixo:
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oACw1GhLwqE?si=5Zy45UL0tlusj9HP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="660" height="315" src="https://www.youtube.com/embed/oACw1GhLwqE?si=5Zy45UL0tlusj9HP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Problemas identificados
 O principal problema identificado foi a quantidade excessiva de opções de filtro, que segundo à usuária são pouco intuitivos e que não trazem uma compreensão satisfatória sobre o que é necessário ser feito.
@@ -39,6 +39,17 @@ De acordo com a participante, o diagrama apresentado condiz com a tarefa na vida
 
 ### Análise e interpretação das respostas dos usuários
 
+As perguntas feitas à usuária foram as seguintes:
+
+| Número |                                                              Pergunta                                                               |     Resposta Possíveis     |
+| :----: | :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------: |
+|   1    |                                                          Qual o seu nome?                                                           | Resposta Discursiva     |
+|   2    |                                            Qual seu grau de experiência com tecnologias?                                            |    Resposta Discursiva     |
+|   3    |                              Você já utilizou uma plataforma acadêmica anteriormente?                             |    Resposta Discursiva    |
+|   8    |                                     Como você acessaria o Painel Lattes?                     |    Resposta Discursiva <br> Outra opçao? Como?    |
+|   8.1    |                                     Considerando a tarefa "Acessar Painel Lattes", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la. <br> Pular para a pergunta 9, 10 ou 11   |
+|   11    |                        O diagrama da Análise Hierárquica de Tarefas de "Acessar Painel Lattes" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva <br> Pular para a pergunta 12    |
+
 Com base na entrevista realizada, podemos concluir que o diagrama HTA elaborada para a tarefa de Acessar Painel Lattes na Plataforma Lattes, no geral, não foi bem aceita pela usuária. A participante selecionada encaixou-se no <a>Perfil do Usuário</a>, sendo pouco experiente com tecnologia e familiarizada com o site.
 
 A usuária apresentou certa dificuldade em entender a tarefa, pois ela não possui a clareza esperada por um usuária com baixa familiaridade com tecnologia. Isso é um indicativo de que a tarefa pode ser melhorada, e assim, tornar o site de mais fácil aprendizado, cumprindo assim o objetivo de tornar a apropriação da tecnologia pelo usuário mais alcançável.
@@ -46,6 +57,11 @@ A usuária apresentou certa dificuldade em entender a tarefa, pois ela não poss
 ### Resumo das descobertas principais
 
 A avaliação do HTA de Acessar Painel Lattes da Plataforma Lattes foi conduzida com sucesso e resultou em feedback negativo da usuária entrevistado. As principais descobertas obtidas são os seguintes:
+
+- A participante entrevistada se encaixa no <a>Perfil do Usuário</a>, sendo pouco experiente com tecnologia e familiarizada com o site.
+- Durante a entrevista, a usuária apresentou dificuldades em entender a tarefa no diagrama, indicando que a sequência de fatos é pouco comprreensível
+- Foram identificadas sugestões de melhoria com relação a excessividade de opções de filtro e com relação à clareza delas
+- A usuária validou a qualidade do diagrama, e apresentou críticas construtivas ao entendimento daa tarefa. Porém ela disse que o diagrama está coerente com a Plataforma Lattes
 
 
 

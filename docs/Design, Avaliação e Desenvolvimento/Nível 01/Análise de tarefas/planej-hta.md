@@ -66,7 +66,7 @@ Na tabela a seguir, são listadas as questões a serem abordadas durante as entr
 |   8.1    |                                     Considerando a tarefa "Acessar Painel Lattes", a sucessão de procedimentos é eficiente? Se não, poderia dizer o motivo?                   |    Resposta Discursiva <br> ⚠️ Mostrar a tarefa ao usuário e explicá-la. <br> Pular para a pergunta 9, 10 ou 11   |
 |   9    |                        O diagrama da Análise Hierárquica de Tarefas de "Atualizar currículo" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva  <br> Pular para a pergunta 12   |
 |   10    |                        O diagrama da Análise Hierárquica de Tarefas de "Buscar currículo" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva <br> Pular para a pergunta 12   |
-|   11    |                        O diagrama da Análise Hierárquica de Tarefas de "Buscar instituição" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva <br> Pular para a pergunta 12    |
+|   11    |                        O diagrama da Análise Hierárquica de Tarefas de "Acessar Painel Lattes" realmente coerente com o mundo real? Se não, poderia descrever o motivo?         |    Resposta Discursiva <br> Pular para a pergunta 12    |
 |   12    |                  Você teria alguma sugestão para melhorar o diagrama?          |    Resposta Discursiva    |
 |   13    |                  E sobre a tarefa, você teria alguma sugestão para melhorá-la?         |    Resposta Discursiva    |
 
