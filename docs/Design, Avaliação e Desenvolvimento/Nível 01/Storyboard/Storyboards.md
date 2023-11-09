@@ -202,12 +202,12 @@ Tabela 06 - elementos do storyboard da tarefa 07 "Buscar instituição". (Fonte:
 
 
 <p align="center">
-    <strong><span style="font-size: larger;">Tarefa 07 - Cadastrar currículo</span></strong>
+    <strong><span style="font-size: larger;">Tarefa 08 - Acessar Painel Lattes</span></strong>
 </p>
 
 <div align="center">
-    <img src="../assets/storyboardCadastrarCurriculo.png" style="width:60vw"/>
-    <p> Figura 06 - StoryBoard - "Cadastrar Currículo". Fonte: BRAGA, Caio </p> 
+    <img src="../assets/acessarPainelSB.png" style="width:100vw"/>
+    <p> Figura 07 - StoryBoard - "Acessar Painel Lattes". Fonte: BRAGA, Caio </p> 
 </div>
 
 <p align="center">
@@ -216,16 +216,16 @@ Tabela 06 - elementos do storyboard da tarefa 07 "Buscar instituição". (Fonte:
 
 | Elemento                     | Descrição                                                                                      |
 |------------------------------|--------------------------------------------------------------------------------------------------|
-| **Pessoas envolvidas**       | Uma pessoa recém-formada buscando um mestrado |
-| **Tarefas**                  | Para realizar o cadastro, ele deve inserir as  suas informações pessoais e acadêmicas  |
-| **Ambiente/contexto**        | Casa do personagem   |
-| **Passos envolvidos**        | Inserção de informações e confirmação do cadastro   |
-| **Motivação de usar a aplicação** | A motivação é o uso da plataforma para ter visibilidade acadêmica |
-| **O que as pessoas precisam para completar a tarefa** | Acessar o site da plataforma, inserir seus dados, confirmar seu cadastro e aguardar o período de confirmação do cadastro do CNPQ |
-| **Resultado (satisfação) da pessoa ao completar a tarefa no final do storyboard** | Ao final do storyboard, a tarefa cumpre o seu objetivo ao fornecer o currículo do nosso personagem para diversas universidades nacionais, onde ele pode conseguir um programa de mestrado dos sonhos|
+| **Pessoas envolvidas**       | Uma pesquisador buscando informações sobre a Plataforma Lattes |
+| **Tarefas**                  | Para acessar o Painel Lattes, o pesquisador deve acessar a página inicial do Lattes/CNPQ e selecionar a opção Acessar Painel Lattes  |
+| **Ambiente/contexto**        | Faculdade do personagem   |
+| **Passos envolvidos**        | Acesso à página e escolha dos filtros desejados   |
+| **Motivação de usar a aplicação** | Facilita a pesquisa sobre a comunidade acadêmica |
+| **O que as pessoas precisam para completar a tarefa** | Acessar o site da plataforma, selecionar a opção "Acessar o Painel Lattes" e escolher o filtro desejado para ver os dados fornecidos pelos painéis |
+| **Resultado (satisfação) da pessoa ao completar a tarefa no final do storyboard** | Ao final do storyboard, a tarefa cumpre o seu objetivo ao conseguir fornecer os dados necessários para as necessidades do pesquisador |
 
 <p align="center">
-Tabela 07 - elementos do storyboard da tarefa 07 "Cadastrar currículo". (Fonte: BRAGA, Caio)
+Tabela 07 - Elementos do storyboard da tarefa 08 "Acessar Painel Lattes". (Fonte: BRAGA, Caio)
 </p>
 
 ## **Referências bibliográficas**
