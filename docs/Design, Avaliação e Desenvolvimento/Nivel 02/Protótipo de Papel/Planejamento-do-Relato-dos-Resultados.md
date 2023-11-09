@@ -39,11 +39,11 @@ Com o objetivo de assegurar consistência no cronograma, apresentaremos na Tabel
 | Entrevistador(es)  |      Entrevistado(s)   | Horário de Início | Horário de Fim |    Data    |          Local          |
 | ------------------ | :--------------------: | :---------------: | :------------: | :--------: | :---------------------: |
 | Guilherme Basilio  |  Iago Oliveira         |       20:00       |     20:30      | 08/11/2023 |   Pessoalmente          |
-| Miguel de Frias    |  Guilherme Coelho      |       07:10       |     07:25      | 08/11/2023 | Pessoalmente            |
-| Doan Filho         |    |       16:00       |       16:25       | 09/11/2023 |   Pessoalmente         |
-| Joel Soares        |    |       22:00       |       22:10       | 11/11/2023 |   Pessoalmente         |
-| Caio Braga         |    |       22:00       |       22:50       | 8/11/2023  |   Plataforma Discord   |
-| Caio Lellis        |    |       21:30       |       22:00       | 11/11/2023 |   Plataforma Discord   |
+| Miguel de Frias    |  Guilherme Coelho      |       07:10       |     07:25      | 08/11/2023 |   Pessoalmente          |
+| Doan Filho         |  - |       16:00       |       16:25       | 09/11/2023 |   Pessoalmente        |
+| Joel Soares        |  - |       22:00       |       22:10       | 11/11/2023 |   Pessoalmente         |
+| Caio Braga         |  - |       22:00       |       22:50       | 8/11/2023  |   Plataforma Discord   |
+| Caio Lellis        |  - |       21:30       |       22:00       | 11/11/2023 |   Plataforma Discord   |
 
 Tabela 1: Tabela do cronograma planejado. (Fonte: BASILIO, Guilherme e DE FRIAS, Miguel; 2023)
 
@@ -110,7 +110,7 @@ Por último, considerando que o propósito dessa atividade está quase sempre vi
 | Miguel de Frias   |       07:10       |     07:25      | 08/11/2023 | 
 | Doan Filho        |       16:00       |     16:25      | 09/11/2023 | 
 | Joel Soares       |       22:00       |     22:10      | 11/11/2023 |   
-| Caio Braga        |       22:00       |     22:50      | 8/11/2023  |  
+| Caio Braga        |       22:00       |     22:50      | 11/11/2023  |  
 |  Caio Lellis      |       21:30       |     22:00      | 11/11/2023 | 
 
 Tabela 1: Tabela do cronograma planejado. (Fonte: BASILIO, Guilherme e DE FRIAS, Miguel; 2023)
