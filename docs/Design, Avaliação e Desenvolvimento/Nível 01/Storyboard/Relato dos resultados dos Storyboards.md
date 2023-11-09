@@ -247,7 +247,7 @@ O usuário ficou bastante satisfeito com o storyboard e conseguiu compreender de
 
 ### Análise e interpretação dos resultados
 
-Através da entrevista foi possível evidenciar que a função de Acesso ao Painel Lattes não possui tanta clarreza, mas a usuária conseguiu compreender a ilustração das interações.A participante selecionada encaixou-se no Perfil do Usuário, sendo pouco experiente com tecnologia e familiarizada com o site.
+Através da entrevista foi possível evidenciar que a função de Acesso ao Painel Lattes não possui tanta clareza, mas a usuária conseguiu compreender a ilustração das interações.A participante selecionada encaixou-se no Perfil do Usuário, sendo pouco experiente com tecnologia e familiarizada com o site.
 
 ### Sumário dos principais resultados
 
@@ -265,17 +265,17 @@ Tabela 5 - Respostas 4.
 |----|------------------------------------------------------------------------------------------------------------------------------|-------------------------|
 | 1  | A representação dos usuários no storyboard corresponde à natureza da funcionalidade inventada?                            | [X ] Sim<br>[ ] Não      |
 | 2  | Por que você acredita que este storyboard não se alinha com a funcionalidade inventada?                                   | Não necessária         |
-| 3  | Você teria sugestões para aprimorar ou alterar o storyboard apresentado em relação à funcionalidade proposta?              | [ ] Sim<br>[X] Não      |
+| 3  | Você teria sugestões para aprimorar ou alterar o storyboard apresentado em relação à funcionalidade proposta?              | [X] Sim<br>[] Não      |
 | 4  | O storyboard mantém consistência com os propósitos e objetivos da funcionalidade concebida?                               | [X] Sim<br>[ ] Não      |
 | 5  | O fluxo de eventos no storyboard segue uma sequência lógica e coerente para a funcionalidade proposta?                   | [X] Sim<br>[ ] Não      |
-| 6  | Existem discrepâncias entre as representações no storyboard e o que seria esperado na prática para esta funcionalidade fictícia? | [ ] Sim<br>[X] Não |
-| 7  | O storyboard requer ajustes para validar ou atender às expectativas dos usuários em relação à funcionalidade inventada?  | Sim, a melhor descrição de onde a funcionalidade estaria.      |
-| 8  | Existe margem para melhorias nos storyboards, especialmente para facilitar a compreensão ou a representação visual da funcionalidade proposta? | [ ] Sim<br>[X] Não |
-| 9  | Há aspectos na interação representada nos storyboards que podem ser melhorados para oferecer uma experiência mais fluida aos usuários? em relação à funcionalidade proposta? | Pergunta não feita|
+| 6  | Existem discrepâncias entre as representações no storyboard e o que seria esperado na prática para esta funcionalidade fictícia? | [X] Sim<br>[] Não |
+| 7  | O storyboard requer ajustes para validar ou atender às expectativas dos usuários em relação à funcionalidade inventada?  | Sim, a melhor clareza do acesso à funcionalidade.      |
+| 8  | Existe margem para melhorias nos storyboards, especialmente para facilitar a compreensão ou a representação visual da funcionalidade proposta? | [X] Sim<br>[] Não |
+| 9  | Há aspectos na interação representada nos storyboards que podem ser melhorados para oferecer uma experiência mais fluida aos usuários? em relação à funcionalidade proposta? | Como dito anteriormente, melhoramento na clareza do acesso à funcionalidade|
 | 10 | Os elementos no storyboard atendem às possíveis necessidades e desafios dos usuários para esta funcionalidade fictícia?    | [X] Sim<br>[ ] Não      |
 | 11 | O fluxo de interação no storyboard parece natural e intuitivo para os usuários desta funcionalidade inventada?             | [X] Sim<br>[ ] Não      |
 | 12 | As ações dos usuários no storyboard são congruentes com as atitudes esperadas na situação representada para esta funcionalidade fictícia? | [X] Sim<br>[ ] Não |
-| 13 | Algumas outras observações ou sugestões para aprimorar os storyboards em relação à funcionalidade proposta?                | "Não não, ao meu ver ficou de claro entendimento a relação entre o storyboard e a função apresentada. "         |
+| 13 | Algumas outras observações ou sugestões para aprimorar os storyboards em relação à funcionalidade proposta?                | "Não, as perguntas feitas anteriormente já completam o raciocínio de melhoramento. "         |
 
 
 
