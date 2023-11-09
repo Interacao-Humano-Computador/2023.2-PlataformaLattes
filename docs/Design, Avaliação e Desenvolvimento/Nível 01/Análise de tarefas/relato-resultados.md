@@ -10,7 +10,7 @@ Seguindo o framework DECIDE, conforme abordado em Barbosa e Silva (2021), este a
 
 ## Seleção dos Participantes
 
-Foram feitas três entrevistas, com participantes que encaixavam-se nos critérios definidos anteriormente no <a>Perfil do Usuário</a>. Todas foram realizadas remotamente. Relembrando, as entrevistas seguiram o seguinte cronograma:
+Foram feitas três entrevistas, com participantes que encaixavam-se nos critérios definidos anteriormente no <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/analise-de-requisitos/perfil-de-usuario/" >Perfil do Usuário</a>. Todas foram realizadas remotamente. Relembrando, as entrevistas seguiram o seguinte cronograma:
 
 | Entrevistadores(s) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |

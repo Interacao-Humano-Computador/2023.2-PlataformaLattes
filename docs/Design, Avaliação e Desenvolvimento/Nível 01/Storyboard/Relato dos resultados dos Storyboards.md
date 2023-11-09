@@ -212,21 +212,89 @@ Tabela 4 - Respostas 3.
 
 **Fonte** - Autor: Filho, Doan.
 
-
-
+</center>
 
 ## Entrevista com Isaque Santos 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o_VrQWTVv28?si=eeFtaNVr8ee9cXy6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+## Entrevista Storyboard - Acessar Painel Lattes
+
+
+### Objetivo e escopo da avaliação
+
+A avaliação feita com a entrevistada Wendy Cristhiny teve como objetivo a avaliação do storyboard acessar painel lattes, para que houvesse a validação do mesmo para o projeto da disciplina.
+
+### Método de avaliação
+
+<center>
+Tabela 3 - Cronograma da Avaliação 2.
+
+| Entrevistador(es) | Entrevistado(a) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  Caio Braga  |   <span style = "color: ">Wendy Cristhiny</span>     |       22:30       |     22:55      | 07/11/2023 | Jitsi |
+
+**Fonte** - Autor: BRAGA, Caio.
+</center>
+
+### Seleção de participante
+
+A participante se encaixa no perfil de usuário, pois é um usuário maior de 18 anos, possui pouca familiaridade com tecnologia e possuía experiência prévia com storyboards.
+
+### Problemas e dificuldades encontradas
+
+A usuária indicou que o StoryBoard é condizente com a vida real, e realmente faz sentido com a Plataforma Lattes
+
+### Sugestões de melhoria
+
+Uma sugestão de melhoria proposta pela usuária foi que o storyboard poderia trazer uma explicação mais clara sobre como os usuários interagem com o Painel Lattes.
+
+### Feedback do usuário
+
+O usuário ficou bastante satisfeito com o storyboard e conseguiu compreender de forma nítida a narrativa apresentada.
+
+### Análise e interpretação dos resultados
+
+Através da entrevista foi possível evidenciar que a função de Acesso ao Painel Lattes não possui tanta clarreza, mas a usuária conseguiu compreender a ilustração das interações.A participante selecionada encaixou-se no Perfil do Usuário, sendo pouco experiente com tecnologia e familiarizada com o site.
+
+### Sumário dos principais resultados
+
+Considerando que a função foi concebida especificamente para os propósitos da disciplina, foram realizadas modificações nas questões da entrevista a fim de aprimorar a experiência do usuário ao longo do processo, mantendo-se alinhadas com o padrão do projeto. Os principais resultados obtidos através da entrevista são os seguintes:
+
+- A participante entrevistada se encaixa no <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/analise-de-requisitos/perfil-de-usuario/" >Perfil do Usuário</a>, sendo pouco experiente com tecnologia e familiarizada com o site.
+- Durante a entrevista, a usuária não apresentou dificuldades em entender o storyboard, indicando que a sequência de fatos é comprreensível.
+- Foram identificadas sugestões de melhoria com relação a excessividade de opções de filtro e com relação à clareza delas.
 
 
 
+Tabela 5 - Respostas 4.
 
-## Entrevista - Cadastrar Instituição
+| Nº  | Pergunta                                                                                                                    | Resposta                |
+|----|------------------------------------------------------------------------------------------------------------------------------|-------------------------|
+| 1  | A representação dos usuários no storyboard corresponde à natureza da funcionalidade inventada?                            | [X ] Sim<br>[ ] Não      |
+| 2  | Por que você acredita que este storyboard não se alinha com a funcionalidade inventada?                                   | Não necessária         |
+| 3  | Você teria sugestões para aprimorar ou alterar o storyboard apresentado em relação à funcionalidade proposta?              | [ ] Sim<br>[X] Não      |
+| 4  | O storyboard mantém consistência com os propósitos e objetivos da funcionalidade concebida?                               | [X] Sim<br>[ ] Não      |
+| 5  | O fluxo de eventos no storyboard segue uma sequência lógica e coerente para a funcionalidade proposta?                   | [X] Sim<br>[ ] Não      |
+| 6  | Existem discrepâncias entre as representações no storyboard e o que seria esperado na prática para esta funcionalidade fictícia? | [ ] Sim<br>[X] Não |
+| 7  | O storyboard requer ajustes para validar ou atender às expectativas dos usuários em relação à funcionalidade inventada?  | Sim, a melhor descrição de onde a funcionalidade estaria.      |
+| 8  | Existe margem para melhorias nos storyboards, especialmente para facilitar a compreensão ou a representação visual da funcionalidade proposta? | [ ] Sim<br>[X] Não |
+| 9  | Há aspectos na interação representada nos storyboards que podem ser melhorados para oferecer uma experiência mais fluida aos usuários? em relação à funcionalidade proposta? | Pergunta não feita|
+| 10 | Os elementos no storyboard atendem às possíveis necessidades e desafios dos usuários para esta funcionalidade fictícia?    | [X] Sim<br>[ ] Não      |
+| 11 | O fluxo de interação no storyboard parece natural e intuitivo para os usuários desta funcionalidade inventada?             | [X] Sim<br>[ ] Não      |
+| 12 | As ações dos usuários no storyboard são congruentes com as atitudes esperadas na situação representada para esta funcionalidade fictícia? | [X] Sim<br>[ ] Não |
+| 13 | Algumas outras observações ou sugestões para aprimorar os storyboards em relação à funcionalidade proposta?                | "Não não, ao meu ver ficou de claro entendimento a relação entre o storyboard e a função apresentada. "         |
 
-## Entrevista - Cadastrar currículo
+
+
+**Fonte** - Autor: BRAGA, Caio.
+
+
+### Entrevista feita com a usuária Wendy Cristhiny:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oACw1GhLwqE?si=i6CfSbk-bBnk02op" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 ## Referências Bibliográficas
@@ -239,4 +307,5 @@ Tabela 4 - Respostas 3.
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 | 1.0    | Criação do documento e adição do template | Joel Soares| 07/11/2023 |  Doan Filho|08/11/2023 |
 ----------:|
-| 1.0    | Adicionando atualizar curriculo | Doan Filho| 08/11/2023 |  Joel Soares|08/11/2023 |
+| 1.1    | Adicionando atualizar curriculo | Doan Filho| 08/11/2023 |  Joel Soares| 08/11/2023 |
+| 1.2    | Adicionando Acessar Painel Lattes | Caio Braga | 08/11/2023 |  Doan Filho | 08/11/2023 |
