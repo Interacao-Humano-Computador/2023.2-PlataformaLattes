@@ -13,12 +13,14 @@ Os elementos de avaliação são:
 
 - Objetivo e escopo da avaliação;
 - Método utilizado na avaliação;
-- Justificativa da seleção dos participantes;   
-- Principais problemas encontrados;
+- Aspectos Práticos;   
+- Problemas encontrados;
+- Feedback do usuário;
 - Sumário dos dados;
 - Análise e interpretação dos dados coletados;
+- Aspectos Éticos;
 - Sugestões de melhoria;
-- Planejamento de reprojeto do site;
+- Planejamento de reprojeto;
 
 ## **Planejamento do Relato**
 
@@ -34,14 +36,14 @@ Com o objetivo de assegurar consistência no cronograma, apresentaremos na Tabel
 
 <center>
 
-| Entrevistador(es)                              | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |          Local          |
-| ---------------------------------------------- | :-------------: | :---------------: | :------------: | :--------: | :---------------------: |
-| Guilherme Basilio  |    |       20:00       |     20:30      | 08/11/2023 | Pessoalmente |
-| Miguel de Frias   |  Guilherme Coelho  |       07:10       |     07:25      | 08/11/2023 | Pessoalmente  |
-| Doan Filho    |   | 16:00              | 16:25          | 09/11/2023 | Pessoalmente |
-| Joel Soares |  |       22:00       |     22:10      | 11/11/2023 |   Pessoalmente    |
-| Caio Braga   |   |       22:00       |     22:50      | 8/11/2023 |   Plataforma Discord    |
-|  Caio Lellis       |   |       21:30       |    22:00      | 11/11/2023 | Plataforma Discord |
+| Entrevistador(es)  |      Entrevistado(s)   | Horário de Início | Horário de Fim |    Data    |          Local          |
+| ------------------ | :--------------------: | :---------------: | :------------: | :--------: | :---------------------: |
+| Guilherme Basilio  |  Iago Oliveira         |       20:00       |     20:30      | 08/11/2023 |   Pessoalmente          |
+| Miguel de Frias    |  Guilherme Coelho      |       07:10       |     07:25      | 08/11/2023 | Pessoalmente            |
+| Doan Filho         |    |       16:00       |       16:25       | 09/11/2023 |   Pessoalmente         |
+| Joel Soares        |    |       22:00       |       22:10       | 11/11/2023 |   Pessoalmente         |
+| Caio Braga         |    |       22:00       |       22:50       | 8/11/2023  |   Plataforma Discord   |
+| Caio Lellis        |    |       21:30       |       22:00       | 11/11/2023 |   Plataforma Discord   |
 
 Tabela 1: Tabela do cronograma planejado. (Fonte: BASILIO, Guilherme e DE FRIAS, Miguel; 2023)
 
@@ -72,31 +74,57 @@ Ao fornecer informações abrangentes sobre todos esses aspectos, você assegura
 
 Nesta parte do documento, o entrevistador deve enumerar as questões e obstáculos específicos que o usuário encontrou durante a entrevista. Isso requer o registro claro e preciso de cada impedimento, equívoco, falha ou desafio enfrentado pelo usuário ao interagir com o sistema ou produto que está sendo avaliado.
 
-### **Sugestão de Melhorias**
 
-É de suma importância que o entrevistador faça um registro abrangente das sugestões e melhorias com base nos problemas identificados durante a avaliação. Isso envolve a documentação clara e objetiva de cada problema encontrado, descrevendo o contexto, a ação do usuário, o resultado esperado e o resultado observado.
+## **Feedback do usuário**
 
-### **Sumario de dados**
+É de extrema importância que o entrevistador capture o feedback dos usuários entrevistados durante a avaliação de tarefas. Isso requer uma escuta atenta às opiniões, sugestões e comentários expressos pelos usuários durante a interação com o sistema ou produto avaliado. O entrevistador deve registrar de maneira completa e precisa o feedback fornecido pelos usuários, levando em consideração suas percepções, experiências e necessidades.
 
-Nesta seção, o avaliador deverá apresentar um resumo conciso e claro dos dados coletados. Isso permitirá uma compreensão abrangente dos principais pontos de melhoria a serem abordados e implementados na plataforma Lattes. O resumo deve destacar os aspectos mais relevantes, incluindo as sugestões de melhoria fornecidas pelos próprios usuários e os feedbacks identificados.
 
 ### **Análise e coleta de dados**
 
 Nesta etapa, a interpretação de todos os dados será realizada. O entrevistador deverá identificar padrões e contextos nos problemas relatados e elaborar conclusões que sejam pertinentes para as sugestões de melhoria propostas.
 
+
+### **Sumario de dados**
+
+Nesta seção, o avaliador deverá apresentar um resumo conciso e claro dos dados coletados. Isso permitirá uma compreensão abrangente dos principais pontos de melhoria a serem abordados e implementados na plataforma Lattes. O resumo deve destacar os aspectos mais relevantes, incluindo as sugestões de melhoria fornecidas pelos próprios usuários e os feedbacks identificados.
+
+
 ### **Aspectos éticos**
 
 Respeitar a privacidade dos participantes é um elemento crucial. É preciso garantir que as identidades dos entrevistados e suas opiniões permaneçam em sigilo, sem divulgação pública, a fim de preservar sua confidencialidade. É fundamental obter a autorização dos participantes, informando-os sobre o propósito da avaliação e como seus dados serão utilizados. Ao seguir essas diretrizes éticas, estabelecemos um ambiente de avaliação seguro e respeitoso. No relato dos resultados da avaliação, é essencial descrever como a solicitação de consentimento foi conduzida e se o entrevistado concordou ou não.
 
+### **Sugestão de Melhorias**
 
+É de suma importância que o entrevistador faça um registro abrangente das sugestões e melhorias com base nos problemas identificados durante a avaliação. Isso envolve a documentação clara e objetiva de cada problema encontrado, descrevendo o contexto, a ação do usuário, o resultado esperado e o resultado observado.
+
+### **Planejamento de Reprojeto**
+
+Por último, considerando que o propósito dessa atividade está quase sempre vinculado à validação realizada com a ajuda de um usuário real, é crucial levar em conta as mudanças sugeridas e outras complexidades encontradas durante a análise do artefato especificado ao realizar um possível redesenho. No entanto, esse redesenho deve preservar a estrutura do projeto original e efetuar apenas as alterações estritamente necessárias.
+
+<center>
+
+| Executor(a) do Reprojeto  | Horário de Início | Horário de Fim |    Data    |
+| :----------------------:  | :---------------: | :------------: | :--------: |
+| Guilherme Basilio |       20:00       |     20:30      | 08/11/2023 | 
+| Miguel de Frias   |       07:10       |     07:25      | 08/11/2023 | 
+| Doan Filho        |       16:00       |     16:25      | 09/11/2023 | 
+| Joel Soares       |       22:00       |     22:10      | 11/11/2023 |   
+| Caio Braga        |       22:00       |     22:50      | 8/11/2023  |  
+|  Caio Lellis      |       21:30       |     22:00      | 11/11/2023 | 
+
+Tabela 1: Tabela do cronograma planejado. (Fonte: BASILIO, Guilherme e DE FRIAS, Miguel; 2023)
+
+</center>
 
 ### **Referências Bibliográficas**
 
->[1] </a>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
->>>>>>> Stashed changes
+>[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
+
 
 ## **Histórico de Versões**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-| 1.0    | Criação do documento e textos introdutórios | Guilherme Basilio e Miguel de Frias | 07/11/2023 | Gabriel Barbosa  | --/11/2023 |
+| 1.0    | Criação do documento e textos introdutórios | Guilherme Basilio e Miguel de Frias | 07/11/2023 | Gabriel Barbosa  | 08/11/2023 |
+| 1.1    | Adição dos tópicos abordados pelo documento | Guilherme Basilio e Miguel de Frias | 07/11/2023 | Gabriel Barbosa  | 08/11/2023 |
