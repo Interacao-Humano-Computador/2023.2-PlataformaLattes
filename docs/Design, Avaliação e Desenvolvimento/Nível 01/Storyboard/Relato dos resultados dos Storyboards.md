@@ -60,6 +60,7 @@ Tabela 2 - Respostas 1.
 | 10 | Outras observações ou sugestões para melhorar os storyboards?                                                              | "Poderia haver uma parte voltada para pesquisa pessoal e outra para pesquisa por instituições"         |
 
 **Fonte** - Autor: Joel Soares.
+</center>
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=PD3mHcCSVTs" target="blanket">Clique aqui</a></p>
 
@@ -131,6 +132,8 @@ Tabela 4 - Respostas 2.
 
 
 **Fonte** - Autor: LELIS, Caio.
+
+</center>
 
 
 ### Entrevista feita com a usuária Amanda Alves Campos:
