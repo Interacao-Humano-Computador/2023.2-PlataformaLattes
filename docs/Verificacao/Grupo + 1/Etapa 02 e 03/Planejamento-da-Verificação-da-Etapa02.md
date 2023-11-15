@@ -14,16 +14,18 @@ Para efetuar a verificação do artefato, adotaremos a abordagem de revisão est
 
 O propósito deste documento consiste em analisar a qualidade dos artefatos produzidos pelo [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/) durante a etapa 02 da disciplina de interação humano-computador que se associa a etapa de análise de requisitos. Posteriormente à avaliação, os membros do grupo serão orientados a corrigir eventuais discrepâncias, assegurando, assim, a garantia de qualidade para o(s) usuário(s) vinculado(s) ao grupo. A avaliação seguirá os critérios estipulados na disciplina de Interação humano-computador, bem como os padrões reconhecidos na literatura especializada.
 
-Os artefatos verificados seguem uma junto na parte de Análise de Requisitos onde foram juntadas duas entregas no mesmo artefato, [Etapa 02] e [Etapa 03] . 
-- [Aspectos Éticos]()
-- [Perfil de usuário]()
-- [Personas]()
-- [Cenários]()
-- [Análise de Tarefas]()
+Os artefatos verificados seguem uma junto na parte de Análise de Requisitos onde foram juntadas duas entregas no mesmo artefato, [Etapa 02] e [Etapa 03].
+
+- [Aspectos Éticos](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/aspectos_eticos/)
+- [Perfil de usuário](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/perfil_de_usuario/)
+- [Personas](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/personas/)
+- [Cenários](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/cenarios/)
+- [Análise de Tarefas - HTA](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/analise_de_tarefas/hta/)
+- [Análise de Tarefas - GOMNS](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/analise_de_tarefas/goms/)
 
 ## **Participantes**
 
-Os responsáveis pela verificação são os participantes [Doan Filho]() e [ responsáveis pela verificação da etapa 02 pelo  [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
+Os responsáveis pela verificação são os participantes [Doan Filho](https://github.com/FilhoDoan) responsáveis pela verificação da etapa 02 pelo  [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
 
 ## **Checklist de verificação**
 
@@ -40,7 +42,7 @@ Os responsáveis pela verificação são os participantes [Doan Filho]() e [ res
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRCJw9U26luzRcnvpcA0rUzpFMrafHp3msMymAuWaNZgdRcWj2Sfv0sflz1ufGU5EmteX17EulWtWkF/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"width="100%" height="400" frameborder="0" scrolling="no"></iframe>
 
 <div align="center">
-<p> <b>Planilha 02</b>: Checklist de Específico - Grupo 4. (Fonte: Guilherme Basilio e Miguel de Frias). </p>
+<p> <b>Planilha 02</b>: Checklist de Específico - Grupo 4. (Fonte: Doan Filho). </p>
 </div>
 
 Acesso às checklists:
@@ -57,7 +59,6 @@ Aqui teremos o exemplo de melhoria mostrado de maneira visual pelo grupo
 
 ## **Gravação**
 Aqui traremos a gravação da vericação dos artefados listados na etapa 
-
 
 ## **Bibliografia**
 
