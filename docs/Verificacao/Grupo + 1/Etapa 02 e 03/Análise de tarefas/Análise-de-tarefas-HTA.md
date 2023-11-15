@@ -1,4 +1,4 @@
-# **Aspectos Éticos**
+# **HTA**
 
 ## **Introdução**
 
@@ -11,7 +11,7 @@ Neste contexto, este documento realizará a avaliação das entregas efetuadas p
 Para efetuar a verificação do artefato, adotaremos a abordagem de revisão estática, buscando identificar possíveis problemas a fim de garantir a qualidade. Para isso, será desenvolvido um checklist de verificação, levando em consideração as orientações e materiais fornecidos pelo professor durante as aulas. O checklist abrangerá perguntas relacionadas à formatação, padronização e versionamento dos artefatos, seguidas de questionamentos referentes ao conteúdo a ser verificado. A planilha 01 e 02 apresentam todas as perguntas contempladas de todos os artefatos elaborados pelo [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
 
 ## **Objetivo**
-O objetivo deste documento é verficar o artefato de [Aspectos Éticos](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/aspectos_eticos/) produzido pelo [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/) durante a entrega da etapa 02 da disciplina Interação humano-computador.
+O objetivo deste documento é verficar o artefato de [Análise de Tarefas - HTA](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/analise_de_tarefas/hta/)produzido pelo [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/) durante a entrega da etapa 02 da disciplina Interação humano-computador.
 
 Os responsáveis pela verificação são os participantes [Doan Filho](https://github.com/FilhoDoan) responsáveis pela verificação da etapa 02 pelo grupo escolhido . 
 
@@ -26,12 +26,11 @@ Os responsáveis pela verificação são os participantes [Doan Filho](https://g
 
 ### **Itens específicos por etapa**
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRCJw9U26luzRcnvpcA0rUzpFMrafHp3msMymAuWaNZgdRcWj2Sfv0sflz1ufGU5EmteX17EulWtWkF/pubhtml?gid=175723229&amp;single=true&amp;widget=true&amp;headers=false"width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRCJw9U26luzRcnvpcA0rUzpFMrafHp3msMymAuWaNZgdRcWj2Sfv0sflz1ufGU5EmteX17EulWtWkF/pubhtml?gid=778617158&amp;single=true&amp;widget=true&amp;headers=false"width="100%" height="400" frameborder="0" scrolling="no"></iframe>
 
 <div align="center">
 <p> <b>Planilha 02</b>: Checklist de Específico - Grupo 4. (Fonte: Doan Filho). </p>
 </div>
-
 
 ## **Problemas Encontrados e Susgestão de melhoria**
 

@@ -32,11 +32,6 @@ Os responsáveis pela verificação são os participantes [Doan Filho](https://g
 <p> <b>Planilha 02</b>: Checklist de Específico - Grupo 4. (Fonte: Doan Filho). </p>
 </div>
 
-Acesso às checklists:
-
-- [Itens Gerais](https://docs.google.com/spreadsheets/d/1IPek4jO6xHWaE3eM8urNbpq08WkMWDg3m1SppeeKNZA/edit?usp=sharing)
-- [Etapa 02](https://docs.google.com/spreadsheets/d/1aKMvcUggYGwM6cnL-CTDqjgTNAWfYGI8DcQwcMRWqps/edit?usp=sharing)
-
 ## **Problemas Encontrados e Susgestão de melhoria**
 
 ---
