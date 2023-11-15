@@ -45,17 +45,7 @@ Os responsáveis pela verificação são os participantes [Miguel de Frias](http
 
 ## **Problemas Encontrados e Susgestão de melhoria**
 
-Cronogramas:   Falta de data de revisão no HV, o planejado e executado Não possuem titulo, falta fonte
-
-Ferramentas: Legendas nao possuem fontes, Falta de data de revisão no HV, poderia ter imagens auxialiando a apresentação das ferramentas
-
-Metodologia: pequeno erro de escrita na bibliografia, não possui data de revisão no HV, não possui os pontos fracos em relação à metodologia usada
-
-Processo: a referência é utilizada sem numeração, Falta de data de revisão no HV, não explica os prós e contras do ciclo de vida escolhido
-
-Sites Avaliados: não possui bibliografia , Falta de data de revisão no HV, as imagens estão em pdfs de avaliação porém nem todos os sites tem esse pdf, poderia explicar melhor o método de análise.
-
-Site Escolhido: possui a referência no texto mas não possui referencia bibliografica, o pdf de avaliação completa podia estar mais destacado, o artefato podia possuir imagens, video quebrado, poderia explicitar melhor a utilidade do site,
+Aqui seão colocadas os problemas encontrados e as sugestões de melhoria.
 
 ## **Gravação**
 
