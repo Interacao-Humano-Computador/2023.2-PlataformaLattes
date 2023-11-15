@@ -1,9 +1,9 @@
-# **Verificação do Artefato Cronograma**
+# **Verificação do Artefato Sites Avaliados**
 
 
 ## **Introdução**
 
-Este documento se trata da verificação do artefato [Cronograma](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/planejamento/cronograma/) produzido pelos membros do [Grupo 04](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
+Este documento se trata da verificação do artefato [Sites avaliados](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/planejamento/sites_avaliados/) produzido pelos membros do [Grupo 04](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
 
 
 ## **Objetivos**
@@ -21,29 +21,29 @@ Os responséveis pela verificação são os participantes do aplicatico [Lattes 
 
 ## Planilha de Itens Gerais:
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTkEjL2JgWq-gsW_c22BSr_129iWso-wHMrwrRTw181RFALQDgAvZWVMjhAnv_0R0_jjgLovRiGHTnn/pubhtml?widget=true&amp;headers=false"width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
+<iframe src=""width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
 
 
 ## Planilha de Itens específicos:
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSatq52abaLzgCxOUKTbG2WFqkWTy2mrAxffel9U5ETKrtKvcx7WyRejvPWdkMVOoD7WOXi4ww0LCUw/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
+<iframe src=""width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
 
 
 ## **Problemas encontrados**
 
-Falta de data de revisão no HV, o planejado e executado Não possuem titulo, falta fonte.
+não possui bibliografia , Falta de data de revisão no HV, as imagens estão em pdfs de avaliação porém nem todos os sites tem esse pdf, poderia explicar melhor o método de análise.
 
 ## **Gravação**
 
-<iframe width="560" height="315" src="https://youtu.be/s-tI6j3eyP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/IFiorzB83uA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **Bibliografia**
 
-IHC - Domínio Público. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/>. Acesso em: 14 nov. 2023.
+IHC - Domínio Público. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/>. Acesso em: 15 nov. 2023.
 Checklist dos Artefatos. Disponível em: <https://docs.google.com/spreadsheets/d/15EDbOPfKa4pIaol_-bd42GEhTigE0IdQgedaPUzWacw/edit#gid=55399263>. Acesso em: 15 nov. 2023.
 
 ## **Histórico de Versões**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Versão inicial |  Guilherme Basilio   |   15/11/2023   |    |      15/11/2023     |
+|  1.0   | Versão inicial |  Guilherme Basilio   |   15/11/2023   |  Miguel de Frias  |      15/11/2023     |
