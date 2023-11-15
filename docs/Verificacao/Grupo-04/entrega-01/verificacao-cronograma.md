@@ -7,7 +7,7 @@ Este documento se trata da verificação do artefato [Cronograma](https://intera
 
 ## **Metodologia**
 
-O propósito deste documento consiste em analisar a qualidade do artefato Cronograma da etapa 1 produzido pelo [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/). Posteriormente à avaliação, os membros do grupo serão orientados a corrigir eventuais discrepâncias, assegurando, assim, a garantia de qualidade para o(s) usuário(s) vinculado(s) ao grupo. A avaliação seguirá os critérios estipulados na disciplina de Requisitos de Software, bem como os padrões reconhecidos na literatura especializada.
+O propósito deste documento consiste em analisar a qualidade do artefato [Cronograma](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/planejamento/cronograma/) da etapa 1 produzido pelo [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/). Posteriormente à avaliação, os membros do grupo serão orientados a corrigir eventuais discrepâncias, assegurando, assim, a garantia de qualidade para o(s) usuário(s) vinculado(s) ao grupo. A avaliação seguirá os critérios estipulados na disciplina de Requisitos de Software, bem como os padrões reconhecidos na literatura especializada.
 
 ## **Objetivos**
 
@@ -48,4 +48,4 @@ Checklist dos Artefatos. Disponível em: <https://docs.google.com/spreadsheets/d
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão inicial |  Guilherme Basilio   |   15/11/2023   |    |      15/11/2023     |
-|  1.1   | Versão inicial |  Guilherme Basilio   |   15/11/2023   |  Miguel de Frias  |      15/11/2023     |
+|  1.1   | Adição de tópicos |  Guilherme Basilio   |   15/11/2023   |  Miguel de Frias  |      15/11/2023     |
