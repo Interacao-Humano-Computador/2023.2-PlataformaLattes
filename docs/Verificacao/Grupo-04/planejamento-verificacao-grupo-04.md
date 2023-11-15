@@ -35,7 +35,7 @@ Os responsáveis pela verificação são os participantes [Miguel de Frias](http
 
 ### **Itens específicos por etapa**
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT5oNvnCDKSmvP2l0W2S0N17Dx9lsRZmmfhfyAXvq2MXzUqYMyEamA9EQtB3gb7cUf9DaaHvKTCp33D/pubhtml"width="100%" height="900" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT5oNvnCDKSmvP2l0W2S0N17Dx9lsRZmmfhfyAXvq2MXzUqYMyEamA9EQtB3gb7cUf9DaaHvKTCp33D/pubhtml" width="100%" height="900" frameborder="0" scrolling="no"></iframe>
 
 <div align="center">
 <p> <b>Planilha 02</b>: Checklist de Específico - Grupo 4. (Fonte: Guilherme Basilio e Miguel de Frias). </p>
@@ -50,6 +50,8 @@ Acesso às checklists:
 
 Nesta seção, serão apresentados os problemas encontrados durante a verificação do respectivo artefato da etapa .
 
+## **Melhoria sugerida**
+Aqui teremos o exemplo de melhoria mostrado de maneira visual pelo grupo 
 
 ## **Gravação**
 Aqui traremos a gravação da vericação dos artefados listados na etapa 
@@ -64,3 +66,4 @@ IHC - Domínio Público. Disponível em: <https://interacao-humano-computador.gi
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão inicial |  Guilherme Basilio   |   14/11/2023   |  Miguel de Frias  |      14/11/2023     |
+|  1.1   | Estrutura nova  |  Doan Filho   |   14/11/2023   |  Guilherme Basílio  |      14/11/2023     |
