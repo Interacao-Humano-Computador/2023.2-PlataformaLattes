@@ -30,7 +30,7 @@ Os responsáveis pela verificação são os participantes [Miguel de Frias](http
 
 ### **Itens específicos**
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSatq52abaLzgCxOUKTbG2WFqkWTy2mrAxffel9U5ETKrtKvcx7WyRejvPWdkMVOoD7WOXi4ww0LCUw/pubhtml?gid=736745981&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="900" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSatq52abaLzgCxOUKTbG2WFqkWTy2mrAxffel9U5ETKrtKvcx7WyRejvPWdkMVOoD7WOXi4ww0LCUw/pubhtml?gid=736745981&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
 
 <div align="center">
 <p> <b>Planilha 02</b>: Checklist Específico - Grupo 4. (Fonte: Guilherme Basilio e Miguel de Frias). </p>
