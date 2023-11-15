@@ -1,4 +1,4 @@
-# **Verificação do Artefato Sites Selecionados**
+# **Verificação do Artefato Site Selecionado**
 
 ## **Introdução**
 
@@ -41,7 +41,7 @@ Os responsáveis pela verificação são os participantes [Miguel de Frias](http
 ## **Problemas Encontrados e Susgestão de melhoria**
 
 
-o texto menciona referências, mas a bibliografia está ausente. Recomenda-se incluir as referências bibliográficas para respaldar o conteúdo. Além disso, para melhor visibilidade, sugere-se destacar mais proeminente o PDF de avaliação completa. Introduzir imagens poderia enriquecer o artefato, proporcionando uma compreensão visual mais eficaz. Verificar e corrigir qualquer link de vídeo quebrado é fundamental para a experiência do usuário. Explicitar de maneira mais clara a utilidade do site contribuiria para uma compreensão mais abrangente por parte dos usuários.
+O texto menciona referências, mas a bibliografia está ausente. Recomenda-se incluir as referências bibliográficas para respaldar o conteúdo. Além disso, para melhor visibilidade, sugere-se destacar mais o PDF de avaliação completa. Introduzir imagens poderia enriquecer o artefato, proporcionando uma compreensão visual mais eficaz. Corrigir link de vídeo quebrado. Explicitar de maneira mais clara a utilidade do site contribuiria para uma compreensão mais abrangente por parte dos usuários.
 
 
 ## **Gravação**

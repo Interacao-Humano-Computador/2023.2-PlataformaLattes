@@ -6,14 +6,13 @@
 Este documento se trata da verificação do artefato [Ferramentas](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/planejamento/ferramentas/) produzido pelos membros do [Grupo 04](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
 
 
+## **Metodologia**
+
+O propósito deste documento consiste em analisar a qualidade do artefato Ferramentas da etapa 1 produzido pelo [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/). Posteriormente à avaliação, os membros do grupo serão orientados a corrigir eventuais discrepâncias, assegurando, assim, a garantia de qualidade para o(s) usuário(s) vinculado(s) ao grupo. A avaliação seguirá os critérios estipulados na disciplina de Requisitos de Software, bem como os padrões reconhecidos na literatura especializada.
+
 ## **Objetivos**
 
 O documento tem como objetivo central verificar a qualidade do artefato [Ferramentas](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/planejamento/ferramentas/) com o intuito de garantir que o mesmo atenda as exigências especificadas, para que após a avaliação os membros corrijam os erros para proporcionar a garantia de qualidade ao(s) usuário(s) relacionado(s) ao grupo. A avaliação será realizada de acordo com os requisitos estabelecidos na disciplina de Requisitos de Software e os padrões consagrados na literatura especializada.
-
-## **Metodologia**
-
-O propósito deste documento consiste em analisar a qualidade do artefato Metodologia da etapa 1 produzido pelo [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/). Posteriormente à avaliação, os membros do grupo serão orientados a corrigir eventuais discrepâncias, assegurando, assim, a garantia de qualidade para o(s) usuário(s) vinculado(s) ao grupo. A avaliação seguirá os critérios estipulados na disciplina de Requisitos de Software, bem como os padrões reconhecidos na literatura especializada..
-
 
 ## **Participantes**
 
