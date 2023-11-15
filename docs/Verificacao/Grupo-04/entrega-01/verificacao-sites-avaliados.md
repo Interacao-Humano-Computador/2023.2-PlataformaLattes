@@ -37,7 +37,7 @@ não possui bibliografia , Falta de data de revisão no HV, as imagens estão em
 
 ## **Gravação**
 
-<iframe width="560" height="315" src="https://youtu.be/IFiorzB83uA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IFiorzB83uA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **Bibliografia**
 

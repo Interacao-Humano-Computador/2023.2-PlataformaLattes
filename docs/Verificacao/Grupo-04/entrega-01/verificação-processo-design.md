@@ -45,8 +45,7 @@ O artefarto não possui data de revisão no Histórico de Versões, não explica
 
 ## **Gravação**
 
-<iframe width="560" height="315" src="https://youtu.be/hIG1qTc1ak0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hIG1qTc1ak0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **Bibliografia**
 
