@@ -59,4 +59,4 @@ Interação Huamno Computador - Domínio Público. Disponível em: <https://inte
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Adicionando conteúdo          | Caio Lelis          | 12/11/2023   | |       |
+|  1.0   | Adicionando conteúdo          | Caio Lelis          | 12/11/2023   |              |                       |
