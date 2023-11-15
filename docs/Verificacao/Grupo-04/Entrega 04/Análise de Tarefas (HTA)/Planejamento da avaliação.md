@@ -43,9 +43,11 @@ Para uma melhor visualização:
 
 ## Problemas Encontrados / Sugestão de Melhoria
 
+Conforme feita a verificação do artefato, os membros presentes concluiram que o artefato está de acordo com o que foi proposto na disciplina de Interação Humano Computador, não sendo necessário nenhuma alteração.
 
 ## Melhorias sugeridas
 
+Não houve necessidade de melhorias.
 
 ## Gravação
 

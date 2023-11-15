@@ -42,7 +42,7 @@ Para uma melhor visualização:
 
 
 ## Problemas Encontrados / Sugestão de Melhoria
-
+- Não há bibliografia ou referência bibliográfica no artefato.
 
 ## Melhorias sugeridas
 

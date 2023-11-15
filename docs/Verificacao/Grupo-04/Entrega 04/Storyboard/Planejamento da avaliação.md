@@ -39,13 +39,14 @@ Para uma melhor visualização:
 - [Checklist Itens Específicos](https://docs.google.com/spreadsheets/d/e/2PACX-1vTRn-kgt7gjb3HL4-fU6cy3VjlbQABZGBu_7wZSIv8imuwuIYc-gSCCY5lVDQkocHh9MR_E2l5GnKOm/pubhtml?gid=1340176601&single=true)
 
 
-
 ## Problemas Encontrados / Sugestão de Melhoria
 
 
+Conforme feita a verificação do artefato, os membros presentes concluiram que o artefato está de acordo com o que foi proposto na disciplina de Interação Humano Computador, não sendo necessário nenhuma alteração.
+
 ## Melhorias sugeridas
 
-
+Não houve necessidade de melhorias.
 ## Gravação
 
 
