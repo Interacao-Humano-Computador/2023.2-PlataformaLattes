@@ -1,9 +1,9 @@
-# **Verificação do Artefato Cronograma**
+# **Verificação do Artefato Ferramentas**
 
 
 ## **Introdução**
 
-Este documento se trata da verificação do artefato [Cronograma](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/planejamento/cronograma/) produzido pelos membros do [Grupo 04](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
+Este documento se trata da verificação do artefato [Ferramentas](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/planejamento/ferramentas/) produzido pelos membros do [Grupo 04](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
 
 
 ## **Objetivos**
@@ -35,12 +35,21 @@ Para uma melhor visualização:
 
 - [Checklist Itens Específicos](https://docs.google.com/spreadsheets/d/e/2PACX-1vSatq52abaLzgCxOUKTbG2WFqkWTy2mrAxffel9U5ETKrtKvcx7WyRejvPWdkMVOoD7WOXi4ww0LCUw/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false)
 
+## **Problemas encontrados**
+
+Legendas nao possuem fontes, Falta de data de revisão no HV, poderia ter imagens auxialiando a apresentação das ferramentas.
+
+## **Gravação**
+
+<iframe width="560" height="315" src="https://youtu.be/s-tI6j3eyP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## **Bibliografia**
 
-IHC - Domínio Público. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/>. Acesso em: 14 nov. 2023.
+IHC - Domínio Público. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/>. Acesso em: 15 nov. 2023.
 
 ## **Histórico de Versões**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Versão inicial |  Guilherme Basilio   |   15/11/2023   |    |      15/11/2023     |
+|  1.0   | Versão inicial |  Guilherme Basilio   |   15/11/2023   |  Miguel de Frias  |      15/11/2023     |
