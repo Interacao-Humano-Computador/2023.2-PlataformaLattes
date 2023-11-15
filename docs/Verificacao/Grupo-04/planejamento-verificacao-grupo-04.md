@@ -21,7 +21,17 @@ As verificações serão feitas em documentos dinstintos sendo o resultado da ve
 
 ## **Participantes**
 
-Os responsáveis pela verificação são os participantes [Miguel de Frias](https://github.com/migueldefrias) e [Guilherme Basilio](https://github.com/GuilhermeBES) , responsáveis pela verificação do [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
+Para que a verificação seja efetuada de forma eficaz, é necessário que todos os membros do grupo participem ativamente do processo. Dessa forma, o grupo foi dividido em duplas e trios onde ficarão responsáveis por verificar uma entrega em específico, conforme a tabela abaixo:
+
+
+| Etapa |  Dupla  |
+|:-----:|:-------:|
+|  1    |  Guilherme Basilio e Miguel de Frias  |
+|  2    |  Caio Braga, Doan Filho e Gabriel  |
+|  3    |  Caio Lelis e Guilherme Basílio  |
+|  4    |  Doan Filho e Joel Soares |
+
+Tabela 01: Distribuição das duplas para verificação dos artefatos. (Fonte: Autores)
 
 ## **Checklist de verificação**
 
