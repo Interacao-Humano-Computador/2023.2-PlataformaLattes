@@ -8,7 +8,7 @@ Este documento se trata da verificação do artefato [Cronograma](https://intera
 
 ## **Objetivos**
 
-O documento tem como objetivo central verificar a qualidade do artefato com o intuito de garantir que o mesmo atenda as exigências especificadas, para que após a avaliação os membros corrijam os erros para proporcionar a garantia de qualidade ao(s) usuário(s) relacionado(s) ao grupo. A avaliação será realizada de acordo com os requisitos estabelecidos na disciplina de Requisitos de Software e os padrões consagrados na literatura especializada.
+O documento tem como objetivo central verificar a qualidade do artefato [Cronograma](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/planejamento/cronograma/) com o intuito de garantir que o mesmo atenda as exigências especificadas, para que após a avaliação os membros corrijam os erros para proporcionar a garantia de qualidade ao(s) usuário(s) relacionado(s) ao grupo. A avaliação será realizada de acordo com os requisitos estabelecidos na disciplina de Requisitos de Software e os padrões consagrados na literatura especializada.
 
 ## **Metodologia**
 
@@ -31,7 +31,7 @@ Os responséveis pela verificação são os participantes do aplicatico [Lattes 
 
 ## **Problemas encontrados**
 
-Falta de data de revisão no HV, o planejado e executado Não possuem titulo, falta fonte.
+Melhorar o Histórico de Visitas (HV) envolve adicionar a data de revisão em cada entrada, introduzir títulos para as seções "Planejado" e "Executado" para maior clareza, e incluir fontes para fortalecer a credibilidade das informações no documento.
 
 ## **Gravação**
 

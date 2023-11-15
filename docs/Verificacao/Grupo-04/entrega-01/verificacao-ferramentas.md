@@ -8,7 +8,7 @@ Este documento se trata da verificação do artefato [Ferramentas](https://inter
 
 ## **Objetivos**
 
-O documento tem como objetivo central verificar a qualidade do artefato com o intuito de garantir que o mesmo atenda as exigências especificadas, para que após a avaliação os membros corrijam os erros para proporcionar a garantia de qualidade ao(s) usuário(s) relacionado(s) ao grupo. A avaliação será realizada de acordo com os requisitos estabelecidos na disciplina de Requisitos de Software e os padrões consagrados na literatura especializada.
+O documento tem como objetivo central verificar a qualidade do artefato [Ferramentas](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/planejamento/ferramentas/) com o intuito de garantir que o mesmo atenda as exigências especificadas, para que após a avaliação os membros corrijam os erros para proporcionar a garantia de qualidade ao(s) usuário(s) relacionado(s) ao grupo. A avaliação será realizada de acordo com os requisitos estabelecidos na disciplina de Requisitos de Software e os padrões consagrados na literatura especializada.
 
 ## **Metodologia**
 
@@ -21,32 +21,26 @@ Os responséveis pela verificação são os participantes do aplicatico [Lattes 
 
 ## Planilha de Itens Gerais:
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTkEjL2JgWq-gsW_c22BSr_129iWso-wHMrwrRTw181RFALQDgAvZWVMjhAnv_0R0_jjgLovRiGHTnn/pubhtml?widget=true&amp;headers=false"width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
+<iframe src=""width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
 
 
 ## Planilha de Itens específicos:
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSatq52abaLzgCxOUKTbG2WFqkWTy2mrAxffel9U5ETKrtKvcx7WyRejvPWdkMVOoD7WOXi4ww0LCUw/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
+<iframe src=""width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
 
-
-Para uma melhor visualização:
-
-- [Checklist Itens Gerais](https://docs.google.com/spreadsheets/d/e/2PACX-1vTkEjL2JgWq-gsW_c22BSr_129iWso-wHMrwrRTw181RFALQDgAvZWVMjhAnv_0R0_jjgLovRiGHTnn/pubhtml?widget=true&amp;headers=false)
-
-- [Checklist Itens Específicos](https://docs.google.com/spreadsheets/d/e/2PACX-1vSatq52abaLzgCxOUKTbG2WFqkWTy2mrAxffel9U5ETKrtKvcx7WyRejvPWdkMVOoD7WOXi4ww0LCUw/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false)
 
 ## **Problemas encontrados**
 
-Legendas nao possuem fontes, Falta de data de revisão no HV, poderia ter imagens auxialiando a apresentação das ferramentas.
+A ausência de fontes nas legendas compromete a credibilidade das informações apresentadas. Além disso, a falta de data de revisão no Histórico de Visitas (HV) limita a compreensão do contexto temporal. A inclusão de imagens para auxiliar na apresentação das ferramentas pode melhorar significativamente a clareza e a visualização das informações.
 
 ## **Gravação**
 
-<iframe width="560" height="315" src="https://youtu.be/s-tI6j3eyP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://youtu.be/D-t6JVeIKj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **Bibliografia**
 
 IHC - Domínio Público. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/>. Acesso em: 15 nov. 2023.
+Checklist dos Artefatos. Disponível em: <https://docs.google.com/spreadsheets/d/15EDbOPfKa4pIaol_-bd42GEhTigE0IdQgedaPUzWacw/edit#gid=55399263>. Acesso em: 15 nov. 2023.
 
 ## **Histórico de Versões**
 
