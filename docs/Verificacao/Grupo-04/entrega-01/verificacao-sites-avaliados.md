@@ -47,3 +47,4 @@ Checklist dos Artefatos. Disponível em: <https://docs.google.com/spreadsheets/d
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão inicial |  Guilherme Basilio   |   15/11/2023   |  Miguel de Frias  |      15/11/2023     |
+|  1.1   | Versão inicial |  Guilherme Basilio   |   15/11/2023   |  Miguel de Frias  |      15/11/2023     |
