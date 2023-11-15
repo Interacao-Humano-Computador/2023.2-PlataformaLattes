@@ -12,19 +12,21 @@ O documento tem como objetivo central verificar a qualidade do artefato [Ferrame
 
 ## **Metodologia**
 
-O documento será guiado conforme especificado no [Planejamento da verificação](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Verificacao/planejamento-verificacao-grupo-04/), onde por meio de checklists a inspeção será realizada para verificar se o artefato está condizente com o que foi proposto na disciplina de Requisitos de Software.
+O propósito deste documento consiste em analisar a qualidade do artefato Metodologia da etapa 1 produzido pelo [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/). Posteriormente à avaliação, os membros do grupo serão orientados a corrigir eventuais discrepâncias, assegurando, assim, a garantia de qualidade para o(s) usuário(s) vinculado(s) ao grupo. A avaliação seguirá os critérios estipulados na disciplina de Requisitos de Software, bem como os padrões reconhecidos na literatura especializada..
 
 
 ## **Participantes**
 
 Os responséveis pela verificação são os participantes do aplicatico [Lattes CNPQ - Grupo 03](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/), [Guilherme Basilio](https://github.com/GuilhermeBES) e [Miguel de Frias](https://github.com/migueldefrias), que ficaram responsaveis pelo feito do artefato de verificação. 
 
-## Planilha de Itens Gerais:
+## **Checklist de verificação**
+
+### **Itens Gerais**
 
 <iframe src=""width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
 
 
-## Planilha de Itens específicos:
+## **Itens específicos**
 
 <iframe src=""width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
 

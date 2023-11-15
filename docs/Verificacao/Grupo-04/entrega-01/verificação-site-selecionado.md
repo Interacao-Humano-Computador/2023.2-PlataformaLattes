@@ -1,8 +1,8 @@
-# **Planejamento de verificação da etapa 1 do grupo 04**
+# **Verificação do Artefato Sites Selecionados**
 
 ## **Introdução**
 
-Este documento realizará a avaliação das entregas efetuadas pelo [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/) no desenvolvimento do aplicativo Domínio Público, no âmbito da disciplina de Interação Humano-Computador.
+Este documento se trata da verificação do artefato [Sites selecionados](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/planejamento/site_escolhido/) produzido pelos membros do [Grupo 04](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
 
 ## **Metodologia**
 
@@ -41,7 +41,7 @@ Os responsáveis pela verificação são os participantes [Miguel de Frias](http
 ## **Problemas Encontrados e Susgestão de melhoria**
 
 
-O artefato possui uma referência no texto mas não possui referência bibliográfica, o pdf de avaliação completa podia estar mais destacado, o artefato podia possuir imagens para ilustrar melhor o site escolhido, o vídeo apresentado não está disponível. Logo, o artefato poderia incluir imagens, poderia explicitar melhor a utilidade do site e adicionar uma seção de referência bibliográfica, visto que foi utilizada uma referência.
+o texto menciona referências, mas a bibliografia está ausente. Recomenda-se incluir as referências bibliográficas para respaldar o conteúdo. Além disso, para melhor visibilidade, sugere-se destacar mais proeminente o PDF de avaliação completa. Introduzir imagens poderia enriquecer o artefato, proporcionando uma compreensão visual mais eficaz. Verificar e corrigir qualquer link de vídeo quebrado é fundamental para a experiência do usuário. Explicitar de maneira mais clara a utilidade do site contribuiria para uma compreensão mais abrangente por parte dos usuários.
 
 
 ## **Gravação**

@@ -6,12 +6,11 @@ Este documento se trata da verificação do artefato [Metodologia](https://inter
 
 ## **Metodologia**
 
-O documento tem como objetivo central verificar a qualidade do artefato [Ferramentas](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/planejamento/ferramentas/) com o intuito de garantir que o mesmo atenda as exigências especificadas, para que após a avaliação os membros corrijam os erros para proporcionar a garantia de qualidade ao(s) usuário(s) relacionado(s) ao grupo. A avaliação será realizada de acordo com os requisitos estabelecidos na disciplina de Requisitos de Software e os padrões consagrados na literatura especializada.
+Para efetuar a verificação do artefato, adotaremos a abordagem de revisão estática, buscando identificar possíveis problemas a fim de garantir a qualidade. Para isso, será desenvolvido um checklist de verificação, levando em consideração as orientações e materiais fornecidos pelo professor durante as aulas. O checklist abrangerá perguntas relacionadas à formatação, padronização e versionamento dos artefatos, seguidas de questionamentos referentes ao conteúdo a ser verificado. A planilha 01 e 02 apresentam todas as perguntas contempladas de todos os artefatos elaborados pelo [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
 
 ## **Objetivo**
 
 O propósito deste documento consiste em analisar a qualidade do artefato Metodologia da etapa 1 produzido pelo [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/). Posteriormente à avaliação, os membros do grupo serão orientados a corrigir eventuais discrepâncias, assegurando, assim, a garantia de qualidade para o(s) usuário(s) vinculado(s) ao grupo. A avaliação seguirá os critérios estipulados na disciplina de Requisitos de Software, bem como os padrões reconhecidos na literatura especializada.
-As verificações serão feitas em documentos dinstintos sendo o resultado da verificação do projeto.
 
 
 
