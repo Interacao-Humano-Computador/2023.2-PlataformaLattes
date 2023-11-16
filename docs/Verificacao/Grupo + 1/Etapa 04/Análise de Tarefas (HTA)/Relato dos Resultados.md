@@ -48,14 +48,14 @@ Para uma melhor visualização:
 - Erro de nome da plataforma Microsoft Teams no artefato (Google Teams).
 - A tarefa Acessar Ajuda não contém seu participante com isso, não á evidência que todos os participantes das entrevistas estão de acordo com o perfil de 
 -  Algumas tarefas trazem o padrão do perfil de usuário com idade entre 18 e 35 anos , a tarefa avaliar mídia e contratar administradores traz a idade entre 18 e 24
-
+- Há alguns tópicos no documento que se encontram duplicados nas tarefas, como por exemplo o tópico "Sugestão de melhoria"
 ## **Melhorias sugeridas**
 
 - Adicionar Bibliografia ou Referência bibliográfica no artefato.
 - Corrigir o nome da plataforma Microsoft Teams no artefato (Google Teams).
 - Adicionar o participante da tarefa Acessar Ajuda com isso, á evidência que todos os participantes das entrevistas estão de acordo com o perfil de usuário.
 - Corrigir o padrão do perfil de usuário. 
-
+- Remover os tópicos duplicados no documento.
 ## **Gravação**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qy8X5Z3Vzsw?si=m8Qy_d2aGqM_sRQz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
