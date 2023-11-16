@@ -33,14 +33,13 @@ Os responsáveis pela verificação são os participantes [Doan Filho](https://g
 </div>
 
 ## **Problemas Encontrados e Susgestão de melhoria**
-
----
+Não foi estabelecido uma relação com o Perfil do Usuário, conforme previsto na avaliação do professor. Além disso, os hyperlinks do texto não estão funcionais.
 
 ## **Melhoria sugerida**
----
+Estabelecer a relação do artefato com o Perfil do Usuário, e soluciona a questão dos hyperlinks das Referências Bibliográficas. Outrossim, adicionar data de revisão no histórico de versões.
 
 ## **Gravação**
---- 
+<iframe width="660" height="315" src="https://www.youtube.com/embed/04dbB6qAgwM?si=kUdGZkhzW1CclZtP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **Bibliografia**
 

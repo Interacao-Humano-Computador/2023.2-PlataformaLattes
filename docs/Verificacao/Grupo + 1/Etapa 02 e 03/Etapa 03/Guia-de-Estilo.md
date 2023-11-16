@@ -31,14 +31,15 @@ Os responsáveis pela verificação são os participantes [Doan Filho](https://g
 </div>
 
 ## **Problemas Encontrados e Susgestão de melhoria**
+Não há uma proposta de intervenção para a melhoria do guia de estilo do site proposto. Além disso, o grupo não trouxe a relação com os princípios gerais elicitados pelo grupo 
 
----
 
 ## **Melhoria sugerida**
----
+Elaboração de uma proposta de intervenção para que o guia de estilo fique completo. Além disso, estabelecer essa relação entre os Princípios Gerais e o Guia de Estilo, conforme pedido pelo Plano de Ensino. Outrossim, adicionar data de revisão no histórico de versões.
 
 ## **Gravação**
---- 
+<iframe width="660" height="315" src="https://www.youtube.com/embed/04dbB6qAgwM?si=kUdGZkhzW1CclZtP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## **Bibliografia**
 

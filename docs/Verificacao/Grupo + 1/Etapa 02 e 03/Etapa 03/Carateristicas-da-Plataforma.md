@@ -32,13 +32,14 @@ Os responsáveis pela verificação são os participantes [Doan Filho](https://g
 
 ## **Problemas Encontrados e Susgestão de melhoria**
 
----
+Problemas identificados na referência bibliográfica, pois a literatura não possui link em nenhum ponto do texto. Além disso, a hierarquia de títulos está desordernada.
 
 ## **Melhoria sugerida**
----
+
+A melhoria sugerida limita-se somente à correção da referenciação da bibliográfica da literatura, que pode ser feita através de um hyperlink, e à correção da hierarquia dos títulos de características positivas e negativas, e do título de tecnologias utilizadas. Além disso, incluir o hardware necessário para utilizar a aplicação e a inclusão da data de revisão.
 
 ## **Gravação**
---- 
+<iframe width="660" height="315" src="https://www.youtube.com/embed/04dbB6qAgwM?si=kUdGZkhzW1CclZtP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **Bibliografia**
 
