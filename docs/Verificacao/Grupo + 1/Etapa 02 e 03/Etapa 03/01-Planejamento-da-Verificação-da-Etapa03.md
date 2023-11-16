@@ -1,4 +1,4 @@
-# **Planejamento de verificação da Etapa 02 do grupo 04**
+# **Planejamento de verificação da Etapa 03 do grupo 04**
 
 ## **Introdução**
 
@@ -12,16 +12,18 @@ Para efetuar a verificação do artefato, adotaremos a abordagem de revisão est
 
 ## **Objetivo**
 
-O propósito deste documento consiste em analisar a qualidade dos artefatos produzidos pelo [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/) durante a etapa 02 da disciplina de interação humano-computador que se associa a etapa de análise de requisitos. Posteriormente à avaliação, os membros do grupo serão orientados a corrigir eventuais discrepâncias, assegurando, assim, a garantia de qualidade para o(s) usuário(s) vinculado(s) ao grupo. A avaliação seguirá os critérios estipulados na disciplina de Interação humano-computador, bem como os padrões reconhecidos na literatura especializada.
+O propósito deste documento consiste em analisar a qualidade dos artefatos produzidos pelo [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/) durante a etapa 03 da disciplina de interação humano-computador que se associa a etapa de análise de requisitos. Posteriormente à avaliação, os membros do grupo serão orientados a corrigir eventuais discrepâncias, assegurando, assim, a garantia de qualidade para o(s) usuário(s) vinculado(s) ao grupo. A avaliação seguirá os critérios estipulados na disciplina de Interação humano-computador, bem como os padrões reconhecidos na literatura especializada.
 
 Os artefatos verificados seguem uma junto na parte de Análise de Requisitos onde foram juntadas duas entregas no mesmo artefato, [Etapa 02] e [Etapa 03].
 
-- [Aspectos Éticos](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/aspectos_eticos/)
-- [Perfil de usuário](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/perfil_de_usuario/)
-- [Personas](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/personas/)
-- [Cenários](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/cenarios/)
-- [Análise de Tarefas - HTA](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/analise_de_tarefas/hta/)
-- [Análise de Tarefas - GOMNS](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/analise_de_tarefas/goms/)
+
+- [Principios Gerais](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/principios_gerais/)
+- [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/metas_de_usabilidade/)
+- [Guia de estilo](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/guia_de_estilo/) 
+- [Caracteristicas da Plataforma](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/caracteristicas/) 
+
+
+
 
 ## **Participantes**
 
@@ -39,7 +41,7 @@ Os responsáveis pela verificação são os participantes [Doan Filho](https://g
 
 ### **Itens específicos por etapa**
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRCJw9U26luzRcnvpcA0rUzpFMrafHp3msMymAuWaNZgdRcWj2Sfv0sflz1ufGU5EmteX17EulWtWkF/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIdSB0cHh3fcdzJkXwZWJf_mix_8ja4L9EpVHOTX3GlGkZ16iwYMcEc2icIbQ7kfuhbIOaEGzgI5QP/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
 
 <div align="center">
 <p> <b>Planilha 02</b>: Checklist de Específico - Grupo 4. (Fonte: Doan Filho). </p>
@@ -48,7 +50,7 @@ Os responsáveis pela verificação são os participantes [Doan Filho](https://g
 Acesso às checklists:
 
 - [Itens Gerais](https://docs.google.com/spreadsheets/d/1IPek4jO6xHWaE3eM8urNbpq08WkMWDg3m1SppeeKNZA/edit?usp=sharing)
-- [Etapa 02](https://docs.google.com/spreadsheets/d/1aKMvcUggYGwM6cnL-CTDqjgTNAWfYGI8DcQwcMRWqps/edit?usp=sharing)
+- [Etapa 03](https://docs.google.com/spreadsheets/d/1aKMvcUggYGwM6cnL-CTDqjgTNAWfYGI8DcQwcMRWqps/edit?usp=sharing)
 
 ## **Problemas Encontrados e Susgestão de melhoria**
 
@@ -68,5 +70,5 @@ IHC - Domínio Público. Disponível em: <https://interacao-humano-computador.gi
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Versão inicial | Doan Filho   |   14/11/2023   |  Caio Braga |      14/11/2023     |
+|  1.0   | Versão inicial | Caio Braga  |   14/11/2023   |  Doan Filho |      14/11/2023     |
 

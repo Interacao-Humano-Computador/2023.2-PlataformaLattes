@@ -2,9 +2,7 @@
 
 ## **Introdução**
 
-A validação e verificação desempenham papéis cruciais no ciclo de desenvolvimento de software, assegurando que o produto final atenda às expectativas dos usuários e aos requisitos estipulados. A verificação refere-se à avaliação sistemática dos elementos de software para garantir conformidade com requisitos e padrões. Esse processo engloba análises estáticas e dinâmicas do código, verifica a aderência a diretrizes de codificação, identifica falhas e certifica-se de que o software e seus componentes atendam às expectativas dos usuários.
-
-Neste contexto, este documento realizará a avaliação das entregas efetuadas pelo [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/) no desenvolvimento do aplicativo Domínio Público, no âmbito da disciplina de Interação Humano-Computador.
+O presente documento refere-se à verificação do artefatos "Perfil de Usuário" elaborados [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/), cujo projeto está centrado no site Domínio Público. Nesse contexto, a avaliação das tarefas será conduzida conforme os princípios da literatura de Interação Humano-Computador de Barbosa e Silva.
 
 ## **Metodologia**
 

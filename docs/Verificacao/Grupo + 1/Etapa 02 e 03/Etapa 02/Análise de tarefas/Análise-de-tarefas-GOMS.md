@@ -26,7 +26,6 @@ Os responsáveis pela verificação são os participantes [Doan Filho](https://g
 </div>
 
 ### **Itens específicos por etapa**
-
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRCJw9U26luzRcnvpcA0rUzpFMrafHp3msMymAuWaNZgdRcWj2Sfv0sflz1ufGU5EmteX17EulWtWkF/pubhtml?gid=24814303&amp;single=true&amp;widget=true&amp;headers=false"width="100%" height="400" frameborder="0" scrolling="no"></iframe>
 
 <div align="center">
