@@ -33,7 +33,7 @@ Os responsáveis pela verificação são os participantes [Joel Soares](https://
 
 ### **Itens específicos**
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxfrrxgyZOXDyq68vXISPax2NcU2-zty8QK8Ifkw2p09msqwXWRCXunjfUFhyBddQ3cmPvgMVUnZsY/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxfrrxgyZOXDyq68vXISPax2NcU2-zty8QK8Ifkw2p09msqwXWRCXunjfUFhyBddQ3cmPvgMVUnZsY/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"width="100%" height="400" frameborder="0" scrolling="no" ></iframe>
 
 <div align="center">
 <p> <b>Planilha 02</b>: Checklist de Específico - Grupo 4. (Fonte: Guilherme Basilio e Miguel de Frias). </p>
@@ -46,8 +46,7 @@ Aqui serão colocadas os problemas encontrados e as sugestões de melhoria.
 
 ## **Gravação**
 
-<iframe width="560" height="315" src="https://youtu.be/rmQbkuy4D2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+Aqui traremos a gravação da vericação do artefato.
 
 ## **Bibliografia**
 
