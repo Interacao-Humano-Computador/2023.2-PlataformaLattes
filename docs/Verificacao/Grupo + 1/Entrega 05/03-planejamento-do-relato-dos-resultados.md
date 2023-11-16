@@ -35,11 +35,19 @@ Os responsáveis pela verificação são os participantes [Joel Soares](https://
 
 ## **Problemas Encontrados e Susgestão de melhoria**
 
-Aqui serão colocadas os problemas encontrados e as sugestões de melhoria.
+- Inclusão da Data de Revisão no Histórico de Versões:
+
+Recomenda-se acrescentar a data de revisão no histórico de versões do relato de resultados. Isso proporcionará uma referência temporal clara para cada revisão realizada, contribuindo para uma documentação organizada e facilitando o acompanhamento das mudanças ao longo do tempo.
+
+- Adição de Lista com Entrevistados Selecionados:
+
+Foi notada uma falta dos nomes dos usuários a serem entrevistados. Além também da falta das datas planejadas para as entrevistas. 
 
 ## **Gravação**
 
-Aqui traremos a gravação da vericação do artefato.
+<iframe width="560" height="315" src="https://youtu.be/rmQbkuy4D2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<a href="https://youtu.be/rmQbkuy4D2o" target="_blank">Acesso à gravação</a>
 
 
 ## **Bibliografia**

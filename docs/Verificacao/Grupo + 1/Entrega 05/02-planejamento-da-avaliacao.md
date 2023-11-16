@@ -36,11 +36,23 @@ Os responsáveis pela verificação são os participantes [Joel Soares](https://
 
 ## **Problemas Encontrados e Susgestão de melhoria**
 
-Aqui serão colocadas os problemas encontrados e as sugestões de melhoria.
+- Inclusão Íntegra do Termo de Consentimento:
+
+Recomenda-se adicionar o termo de consentimento de forma integral no protótipo de papel. Isso contribuirá para a transparência e a conformidade com as diretrizes éticas estabelecidas.
+
+- Registro de Data no Histórico de Versões:
+
+Para aprimorar a rastreabilidade e o controle de alterações, sugere-se incluir a data de revisão no histórico de versões do protótipo de papel. Dessa maneira, será possível acompanhar facilmente quando cada revisão foi realizada, proporcionando uma visão cronológica das modificações efetuadas ao longo do tempo.
+
+- Inclusão de Link Clickável para o Vídeo no YouTube:
+
+Para garantir a acessibilidade e a continuidade da experiência do usuário, é recomendável adicionar um texto com um link clicável para o vídeo no YouTube, caso o vídeo incorporado esteja quebrado. Isso proporcionará uma alternativa direta para os usuários acessarem o conteúdo visual, mantendo a fluidez da experiência mesmo em situações de falha técnica.
 
 ## **Gravação**
 
-Aqui traremos a gravação da vericação do artefato.
+<iframe width="560" height="315" src="https://youtu.be/rmQbkuy4D2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<a href="https://youtu.be/rmQbkuy4D2o" target="_blank">Acesso à gravação</a>
 
 
 ## **Bibliografia**
