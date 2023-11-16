@@ -36,10 +36,11 @@ Os responsáveis pela verificação são os participantes [Doan Filho](https://g
 
 ## **Problemas Encontrados e Susgestão de melhoria**
 
----
+O documento está bem feito, foram identificados alguns pontos de melhoria opcional, tais como: A forma pelo qual o grupo chegou nas tarefas escolhidas, qual a importância dessas tarefas para o contexto do projeto e a participação de todos os integrantes nessa fase do projeto.
 
 ## **Melhoria sugerida**
----
+
++ Que todos os integrantes do grupo contribuam no artefato.
 
 ## **Gravação**
 --- 
@@ -53,4 +54,5 @@ IHC - Domínio Público. Disponível em: <https://interacao-humano-computador.gi
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão inicial | Doan Filho   |   14/11/2023   |  Caio Braga |      14/11/2023     |
+|  1.1   | Adição de tópicos | Gabriel Barbosa |  15/11/2023  |    |      |
 
