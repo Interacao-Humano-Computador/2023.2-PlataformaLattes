@@ -19,7 +19,7 @@ Os responsáveis pela verificação são os participantes [Doan Filho](https://g
 
 ### **Itens gerais**
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRosc4EhCubuK631zfmVzmzzqXcTlcza-m16-LLkAexbM2Nlods5Zdun204FAqC4yDGXfk8TSLPlul6/pubhtml?gid=0&single=true"width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRCJw9U26luzRcnvpcA0rUzpFMrafHp3msMymAuWaNZgdRcWj2Sfv0sflz1ufGU5EmteX17EulWtWkF/pubhtml?gid=1271676277&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
 
 <div align="center">
 <p> <b>Planilha 01</b>: Checklist Geral - Grupo 4. (Fonte: Doan Filho ). </p>
@@ -34,10 +34,11 @@ Os responsáveis pela verificação são os participantes [Doan Filho](https://g
 
 ## **Problemas Encontrados e Susgestão de melhoria**
 
----
+Durante a verificação do artefato, a visibilidade das tabelas foram afetadas por causa da resolução e contraste, conforme pode ser visto na gravação abaixo. Seria interessante colocar a forma pelo qual o grupo chegou nas tarefas escolhidas e a importância delas no contexto do site escolhido.
 
 ## **Melhoria sugerida**
----
+
++ Tabelas com melhor resolução
 
 ## **Gravação**
 --- 
@@ -51,4 +52,5 @@ IHC - Domínio Público. Disponível em: <https://interacao-humano-computador.gi
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão inicial | Doan Filho   |   14/11/2023   |  Caio Braga |      14/11/2023     |
+|  1.1   | Adição de tópicos | Gabriel Barbosa |  15/11/2023  |    |      |
 
