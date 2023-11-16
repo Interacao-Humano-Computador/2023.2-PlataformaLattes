@@ -1,4 +1,4 @@
-# **Planejamento de Verificação da Etapa 4**
+# **Planejamento de Verificação da Etapa 5**
 
 ## **Introdução**
 
@@ -6,29 +6,20 @@ Este documento realizará a avaliação das entregas efetuadas pelo [Grupo 4](ht
 
 ## **Metodologia**
 
-Para efetuar a verificação do artefato, adotaremos a abordagem de revisão estática, buscando identificar possíveis problemas a fim de garantir a qualidade. Para isso, será desenvolvido um checklist de verificação, levando em consideração as orientações e materiais fornecidos pelo professor durante as aulas. O checklist abrangerá perguntas relacionadas à formatação, padronização e versionamento dos artefatos, seguidas de questionamentos referentes ao conteúdo a ser verificado. A planilha 01 e 02 apresentam todas as perguntas contempladas de todos os artefatos elaborados pelo [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
+Para efetuar a verificação do artefato, adotaremos a abordagem de inspeção, buscando identificar possíveis problemas a fim de garantir a qualidade. Para isso, será desenvolvido um checklist de verificação, levando em consideração as orientações e materiais fornecidos pelo professor durante as aulas. O checklist abrangerá perguntas relacionadas à formatação, padronização e versionamento dos artefatos, seguidas de questionamentos referentes ao conteúdo a ser verificado. A planilha 01 e 02 apresentam todas as perguntas contempladas de todos os artefatos elaborados pelo [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
 
 ## **Objetivo**
 
 O propósito deste documento consiste em analisar a qualidade dos artefatos da etapa 5, condizentes ao protótipo de papel, produzidos pelo [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/). Posteriormente à avaliação, os membros do grupo serão orientados a corrigir eventuais discrepâncias, assegurando, assim, a garantia de qualidade para o(s) usuário(s) vinculado(s) ao grupo. A avaliação seguirá os critérios estipulados na disciplina de Requisitos de Software, bem como os padrões reconhecidos na literatura especializada.
 As verificações serão feitas em documentos dinstintos sendo o resultado da verificação do projeto.
 
-- [Análise de tarefas - Planejamento da avaliação](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/design_avalaiacao_desenvolvimento/nivel1/analise_de_tarefas/planejamento_avaliacao/)
-
-- [Análise de tarefas - Planejamento da avaliação](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/design_avalaiacao_desenvolvimento/nivel1/analise_de_tarefas/planejamento_relato/)
-
-- [Análise de tarefas - Relato dos resultados](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/design_avalaiacao_desenvolvimento/nivel1/analise_de_tarefas/relato_resultados/)
-
-- [Storyboard - Planejamento da avaliação](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/design_avalaiacao_desenvolvimento/nivel1/storyboard/planejamento_avaliacao/)
-
-- [Storyboard - Planejamento do relato dos resultados](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/design_avalaiacao_desenvolvimento/nivel1/storyboard/planejamento_relato/)
-
-- [Storyboard - Relato dos resultados](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/design_avalaiacao_desenvolvimento/nivel1/storyboard/relato_resultados/)
+- [Planejamento da avaliação](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/design_avalaiacao_desenvolvimento/nivel2/prototipo_de_papel/planejamento_avaliacao/)
+- [Planejamento do relato dos resultados](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/design_avalaiacao_desenvolvimento/nivel2/prototipo_de_papel/planejamento_relato/)
+- [Relato dos resultados](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/design_avalaiacao_desenvolvimento/nivel2/prototipo_de_papel/relato_resultados/)
 
 ## **Participantes**
 
-Os responsáveis pela verificação são os participantes [Caio Lelis](https://github.com/caio-lelis) e[Guilherme Basílio](https://github.com/GuilhermeBES) , responsáveis pela verificação do [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
-
+Os responsáveis pela verificação são os participantes [Joel Soares](https://github.com/JoelSRangel) e [Doan Filho](https://github.com/FilhoDoan) , responsáveis pela verificação do [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
 
 ## **Checklist de verificação**
 
@@ -42,7 +33,7 @@ Os responsáveis pela verificação são os participantes [Caio Lelis](https://g
 
 ### **Itens específicos**
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRF52alfubZ5YVqxuAh0ujzSPd6HPEp_riA-CdsLm_1H3tyvjhdbsRGiHUQtYs3WYsw-2PsJjEPuDp0/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxfrrxgyZOXDyq68vXISPax2NcU2-zty8QK8Ifkw2p09msqwXWRCXunjfUFhyBddQ3cmPvgMVUnZsY/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"width="100%" height="400" frameborder="0" scrolling="no" ></iframe>
 
 <div align="center">
 <p> <b>Planilha 02</b>: Checklist de Específico - Grupo 4. (Fonte: Guilherme Basilio e Miguel de Frias). </p>

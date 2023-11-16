@@ -33,7 +33,7 @@ Os responséveis pela verificação são os participantes do aplicatico [Lattes 
 
 ## **Problemas encontrados**
 
-não possui bibliografia , Falta de data de revisão no HV, as imagens estão em pdfs de avaliação porém nem todos os sites tem esse pdf, poderia explicar melhor o método de análise.
+Não possui bibliografia, falta de data de revisão no HV, as imagens estão em pdfs de avaliação porém nem todos os sites tem esse pdf, poderia explicar melhor o método de análise.
 
 ## **Gravação**
 
