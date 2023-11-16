@@ -48,6 +48,7 @@ Conforme feita a verificação do artefato, os membros presentes concluiram que 
 ## **Melhorias sugeridas**
 
 - Clareza no "Reprojeto": Detalhar quais problemas foram identificados, como serão resolvidos e fornecer informações específicas sobre a implementação das melhorias propostas.
+
 ## **Gravação**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qy8X5Z3Vzsw?si=m8Qy_d2aGqM_sRQz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

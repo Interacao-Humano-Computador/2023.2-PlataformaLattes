@@ -1,4 +1,5 @@
- **Características da Plataforma**
+
+# **Características da Plataforma**
 
 ## **Introdução**
 
