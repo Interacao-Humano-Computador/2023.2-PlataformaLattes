@@ -1,4 +1,4 @@
-# **Planejamento de verificação da etapa 5 do grupo 04**
+# **Planejamento de verificação da etapa 4 do grupo 04**
 
 ## **Introdução**
 
@@ -27,7 +27,8 @@ As verificações serão feitas em documentos dinstintos sendo o resultado da ve
 
 ## **Participantes**
 
-Os responsáveis pela verificação são os participantes [Joel Soares](https://github.com/JoelSRangel) e [Doan Filho](https://github.com/FilhoDoan) , responsáveis pela verificação do [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
+Os responsáveis pela verificação são os participantes [Caio Lelis](https://github.com/caio-lelis) e[Guilherme Basílio](https://github.com/GuilhermeBES) , responsáveis pela verificação do [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
+
 
 ## **Checklist de verificação**
 

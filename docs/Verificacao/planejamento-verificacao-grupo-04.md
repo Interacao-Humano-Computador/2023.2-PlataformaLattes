@@ -81,3 +81,4 @@ André Barros,Plano de Ensino de Interação humano-computador, Disponível em :
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão inicial |  Guilherme Basilio   |   14/11/2023   |  Miguel de Frias  |      14/11/2023     |
 |  1.1   | Estrutura nova  |  Doan Filho   |   14/11/2023   |  Guilherme Basílio  |      14/11/2023     |
+| 1.2   | Adição de conteúdo  |  Caio Lelis   |   15/11/2023   |    |           |
