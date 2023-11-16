@@ -50,6 +50,7 @@ O artefarto não possui data de revisão no Histórico de Versões, não explica
 ## **Bibliografia**
 
 IHC - Domínio Público. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/>. Acesso em: 14 nov. 2023.
+
 Checklist dos Artefatos. Disponível em: <https://docs.google.com/spreadsheets/d/15EDbOPfKa4pIaol_-bd42GEhTigE0IdQgedaPUzWacw/edit#gid=55399263>. Acesso em: 15 nov. 2023.
 
 ## **Histórico de Versões**
