@@ -42,6 +42,7 @@ não possui bibliografia , Falta de data de revisão no HV, as imagens estão em
 ## **Bibliografia**
 
 IHC - Domínio Público. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/>. Acesso em: 15 nov. 2023.
+
 Checklist dos Artefatos. Disponível em: <https://docs.google.com/spreadsheets/d/15EDbOPfKa4pIaol_-bd42GEhTigE0IdQgedaPUzWacw/edit#gid=55399263>. Acesso em: 15 nov. 2023.
 
 ## **Histórico de Versões**

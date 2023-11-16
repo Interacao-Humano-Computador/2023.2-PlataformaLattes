@@ -60,8 +60,6 @@ Acesso às checklists:
 
 Nesta seção, serão apresentados os problemas encontrados durante a verificação do respectivo artefato da etapa .
 
-## **Melhoria sugerida**
-Aqui teremos o exemplo de melhoria mostrado de maneira visual pelo grupo 
 
 ## **Gravação**
 Aqui traremos a gravação da vericação dos artefados listados na etapa 
