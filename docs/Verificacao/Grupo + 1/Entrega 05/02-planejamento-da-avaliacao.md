@@ -19,7 +19,7 @@ Os responsáveis pela verificação são os participantes [Joel Soares](https://
 
 ### **Itens gerais**
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRosc4EhCubuK631zfmVzmzzqXcTlcza-m16-LLkAexbM2Nlods5Zdun204FAqC4yDGXfk8TSLPlul6/pubhtml?gid=0&single=true"width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxfrrxgyZOXDyq68vXISPax2NcU2-zty8QK8Ifkw2p09msqwXWRCXunjfUFhyBddQ3cmPvgMVUnZsY/pubhtml?gid=1116072950&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 <div align="center">
 <p> <b>Planilha 01</b>: Checklist Geral - Grupo 4. (Fonte: Guilherme Basilio e Miguel de Frias). </p>
@@ -27,7 +27,7 @@ Os responsáveis pela verificação são os participantes [Joel Soares](https://
 
 ### **Itens específicos**
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT5oNvnCDKSmvP2l0W2S0N17Dx9lsRZmmfhfyAXvq2MXzUqYMyEamA9EQtB3gb7cUf9DaaHvKTCp33D/pubhtml#" width="100%" height="900" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxfrrxgyZOXDyq68vXISPax2NcU2-zty8QK8Ifkw2p09msqwXWRCXunjfUFhyBddQ3cmPvgMVUnZsY/pubhtml?gid=313439466&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 <div align="center">
 <p> <b>Planilha 02</b>: Checklist de Específico - Grupo 4. (Fonte: Guilherme Basilio e Miguel de Frias). </p>
