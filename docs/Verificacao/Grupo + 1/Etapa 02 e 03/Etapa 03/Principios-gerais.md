@@ -31,14 +31,14 @@ Os responsáveis pela verificação são os participantes [Doan Filho](https://g
 </div>
 
 ## **Problemas Encontrados e Susgestão de melhoria**
-
----
+Não houve estabelecimento de chamadas entre os textos, principalmente com relação aos hyperlinks das referências bibliográficas. E dessa forma, também não houve o uso adequado da referência bibliográfica, uma vez que não há conexão entre as referência e a literatura definida no rodapé.
 
 ## **Melhoria sugerida**
----
+Estabelecer chamadas entre os textos de referências bibliográficas e fazer o uso adequado da referência bibliográfica
+ao longo do texto, referenciando os autores sempre que forem chamados no texto, seguindo assim o padrão dos outros artefatos.
 
 ## **Gravação**
---- 
+<iframe width="660" height="315" src="https://www.youtube.com/embed/04dbB6qAgwM?si=kUdGZkhzW1CclZtP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **Bibliografia**
 
