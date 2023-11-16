@@ -58,4 +58,4 @@ IHC - Domínio Público. Disponível em: <https://interacao-humano-computador.gi
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão inicial | Doan Filho   |   14/11/2023   |  Caio Braga |      14/11/2023     |
-|  1.1   | Adição de tópicos | Gabriel Barbosa |  15/11/2023  |    |      |
+|  1.1   | Adição de tópicos | Gabriel Barbosa |  15/11/2023  |   Caio Braga |      15/11/2023     |
