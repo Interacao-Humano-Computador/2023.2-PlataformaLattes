@@ -34,10 +34,11 @@ Os responsáveis pela verificação são os participantes [Doan Filho](https://g
 
 ## **Problemas Encontrados e Susgestão de melhoria**
 
----
+No contexto de itens gerais e específicos o documento está bem feito, porém foi enquanto os membros liam o documento, as informações dispostas no texto estão coladas e isso afeta na facilidade de leitura.
 
 ## **Melhoria sugerida**
----
+
++ Ter um melhor espaçamento mais amplo entre introdução e principios. (Opcional)
 
 ## **Gravação**
 --- 
@@ -51,4 +52,5 @@ IHC - Domínio Público. Disponível em: <https://interacao-humano-computador.gi
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão inicial | Doan Filho   |   14/11/2023   |  Caio Braga |      14/11/2023     |
+|  1.1   | Adição de tópicos | Gabriel Barbosa |  15/11/2023  |    |      |
 
