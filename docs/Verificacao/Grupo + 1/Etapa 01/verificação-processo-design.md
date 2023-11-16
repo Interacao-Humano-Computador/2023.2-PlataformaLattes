@@ -1,4 +1,4 @@
-# **Verificação do Artefato Processo de Design**
+# **Processo de Design**
 
 ## **Introdução**
 

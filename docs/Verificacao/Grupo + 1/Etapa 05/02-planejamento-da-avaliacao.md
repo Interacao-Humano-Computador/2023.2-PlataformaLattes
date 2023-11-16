@@ -1,4 +1,4 @@
-# **Verificação do Artefato Planejamento da avaliação do protótipo de papel**
+# **Planejamento da avaliação do protótipo de papel**
 
 ## **Introdução**
 

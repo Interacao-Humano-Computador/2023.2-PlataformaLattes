@@ -1,4 +1,4 @@
-# **Verificação do Artefato Metodologia**
+# **Metodologia**
 
 ## **Introdução**
 

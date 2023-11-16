@@ -44,7 +44,10 @@ Neste artefato, algumas informações individuais (idade) das personas definidas
 
 
 ## **Gravação**
---- 
+|  3    |  Caio Lelis e Guilherme Basílio  |
+|  4    |  Doan Filho e Joel Soares |
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/63mnG7iaEfI?si=WLXVmmBnW5_6SM5t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **Bibliografia**
 

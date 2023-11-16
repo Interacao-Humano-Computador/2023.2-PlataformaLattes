@@ -8,7 +8,8 @@ Neste contexto, este documento realizará a avaliação das entregas efetuadas p
 
 ## **Metodologia**
 
-Para efetuar a verificação do artefato, adotaremos a abordagem de revisão estática, buscando identificar possíveis problemas a fim de garantir a qualidade. Para isso, será desenvolvido um checklist de verificação, levando em consideração as orientações e materiais fornecidos pelo professor durante as aulas. O checklist abrangerá perguntas relacionadas à formatação, padronização e versionamento dos artefatos, seguidas de questionamentos referentes ao conteúdo a ser verificado. A planilha 01 e 02 apresentam todas as perguntas contempladas de todos os artefatos elaborados pelo [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
+Para efetuar a verificação do artefato, adotaremos a abordagem de revisão estática, buscando identificar possíveis problemas a fim de garantir a qualidade. Para isso, será desenvolvido um checklist de verificação, levando em consideração as orientações e materiais fornecidos pelo professor durante as aulas. O checklist abrangerá perguntas levando em conta a requisitos contidos no plano de ensino apresentado na [disiciplina](https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf) relacionadas e à formatação, padronização e versionamento dos artefatos, seguidas de questionamentos referentes ao conteúdo a ser verificado . A planilha 01 e 02 apresentam todas as perguntas contempladas de todos os artefatos elaborados pelo [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
+
 
 ## **Objetivo**
 
@@ -21,8 +22,6 @@ Os artefatos verificados seguem uma junto na parte de Análise de Requisitos ond
 - [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/metas_de_usabilidade/)
 - [Guia de estilo](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/guia_de_estilo/) 
 - [Caracteristicas da Plataforma](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/caracteristicas/) 
-
-
 
 
 ## **Participantes**
@@ -71,4 +70,3 @@ IHC - Domínio Público. Disponível em: <https://interacao-humano-computador.gi
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão inicial | Caio Braga  |   14/11/2023   |  Doan Filho |      14/11/2023     |
-

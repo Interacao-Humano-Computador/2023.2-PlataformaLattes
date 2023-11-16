@@ -6,7 +6,7 @@ Este documento realizará a avaliação das entregas efetuadas pelo [Grupo 4](ht
 
 ## **Metodologia**
 
-Para efetuar a verificação do artefato, adotaremos a abordagem de revisão estática, buscando identificar possíveis problemas a fim de garantir a qualidade. Para isso, será desenvolvido um checklist de verificação, levando em consideração as orientações e materiais fornecidos pelo professor durante as aulas. O checklist abrangerá perguntas relacionadas à formatação, padronização e versionamento dos artefatos, seguidas de questionamentos referentes ao conteúdo a ser verificado. A planilha 01 e 02 apresentam todas as perguntas contempladas de todos os artefatos elaborados pelo [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
+Para efetuar a verificação do artefato, adotaremos a abordagem de revisão estática, buscando identificar possíveis problemas a fim de garantir a qualidade. Para isso, será desenvolvido um checklist de verificação, levando em consideração as orientações e materiais fornecidos pelo professor durante as aulas. O checklist abrangerá perguntas levando em conta a requisitos contidos no plano de ensino apresentado na [disiciplina](https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf) relacionadas e à formatação, padronização e versionamento dos artefatos, seguidas de questionamentos referentes ao conteúdo a ser verificado . A planilha 01 e 02 apresentam todas as perguntas contempladas de todos os artefatos elaborados pelo [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
 
 ## **Objetivo**
 

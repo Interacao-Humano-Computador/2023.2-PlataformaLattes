@@ -39,7 +39,9 @@ Conforme visto nas tabelas acima, alguns problemas encontrados estão relacionad
 + Disponibilizar o link do questionario  e o termo de consentimento para os leitores e o meio pelo qual eles fizeram o questionario 
 
 ## **Gravação**
---- 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/63mnG7iaEfI?si=WLXVmmBnW5_6SM5t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **Bibliografia**
 

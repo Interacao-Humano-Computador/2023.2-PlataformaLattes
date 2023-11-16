@@ -8,7 +8,7 @@ Neste contexto, este documento realizará a avaliação das entregas efetuadas p
 
 ## **Metodologia**
 
-Para efetuar a verificação do artefato, adotaremos a abordagem de revisão estática, buscando identificar possíveis problemas a fim de garantir a qualidade. Para isso, será desenvolvido um checklist de verificação, levando em consideração as orientações e materiais fornecidos pelo professor durante as aulas. O checklist abrangerá perguntas relacionadas à formatação, padronização e versionamento dos artefatos, seguidas de questionamentos referentes ao conteúdo a ser verificado. A planilha 01 e 02 apresentam todas as perguntas contempladas de todos os artefatos elaborados pelo [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
+Para efetuar a verificação do artefato, adotaremos a abordagem de revisão estática, buscando identificar possíveis problemas a fim de garantir a qualidade. Para isso, será desenvolvido um checklist de verificação, levando em consideração as orientações e materiais fornecidos pelo professor durante as aulas. O checklist abrangerá perguntas levando em conta a requisitos contidos no plano de ensino apresentado na [disiciplina](https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf) relacionadas e à formatação, padronização e versionamento dos artefatos, seguidas de questionamentos referentes ao conteúdo a ser verificado . A planilha 01 e 02 apresentam todas as perguntas contempladas de todos os artefatos elaborados pelo [Grupo 4](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/).
 
 ## **Objetivo**
 
@@ -27,11 +27,11 @@ Para que a verificação seja efetuada de forma eficaz, é necessário que todos
 | Etapa |  Dupla  |
 |:-----:|:-------:|
 |  1    |  Guilherme Basilio e Miguel de Frias  |
-|  2    |  Caio Braga, Doan Filho e Gabriel  |
-|  3    |  Caio Lelis e Guilherme Basílio  |
-|  4    |  Doan Filho e Joel Soares |
+| 2 e 3 |  Caio Braga, Doan Filho e Gabriel  |
+|  4    |  Caio Lelis e Guilherme Basílio  |
+|  5    |  Doan Filho e Joel Soares |
 
-Tabela 01: Distribuição das duplas para verificação dos artefatos. (Fonte: Autores)
+Tabela 01: Distribuição das duplas para verificação dos artefatos. (Fonte: Caio Lelis)
 
 ## **Checklist de verificação**
 
@@ -70,6 +70,10 @@ Aqui traremos a gravação da vericação dos artefados listados na etapa
 ## **Bibliografia**
 
 IHC - Domínio Público. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/>. Acesso em: 14 nov. 2023.
+
+André Barros,Plano de Ensino de Interação humano-computador, Disponível em : <https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf>, Acesso em 14: novembro de 2023 
+
+
 
 ## **Histórico de Versões**
 

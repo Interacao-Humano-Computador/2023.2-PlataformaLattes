@@ -1,4 +1,4 @@
-# **Verificação do Artefato Cronograma**
+# **Cronograma**
 
 
 ## **Introdução**

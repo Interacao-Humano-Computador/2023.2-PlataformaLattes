@@ -1,4 +1,4 @@
-# **Verificação do Artefato Planejamento do relato dos resultados do protótipo de papel**
+# **Planejamento do relato dos resultados do protótipo de papel**
 
 ## **Introdução**
 

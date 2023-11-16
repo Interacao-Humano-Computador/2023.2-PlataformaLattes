@@ -1,4 +1,4 @@
-# **Verificação do Artefato Site Selecionado**
+# **Site Selecionado**
 
 ## **Introdução**
 
