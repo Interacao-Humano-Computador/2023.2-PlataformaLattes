@@ -46,10 +46,11 @@ Para uma melhor visualização:
 ## **Problemas Encontrados / Sugestão de Melhoria**
 
 - Não há bibliografia ou referência bibliográfica no artefato.
+-  Algumas tarefas trazem o padrão do perfil de usuário com idade entre 18 e 35 anos , a tarefa avaliar mídia e contratar administradores traz a idade entre 18 e 24
 
 ## **Melhorias sugeridas**
-
-- Adicionar bibliografia
+- Padronizar as idades dos perfis de usuário no artefato conforme o real valor das idades no perfil de usuário.
+- Adicionar bibliografia.
 
 ## **Gravação**
 

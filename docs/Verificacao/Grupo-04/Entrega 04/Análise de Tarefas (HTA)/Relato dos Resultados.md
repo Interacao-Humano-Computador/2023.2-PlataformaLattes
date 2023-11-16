@@ -51,6 +51,10 @@ Para uma melhor visualização:
 
 ## **Melhorias sugeridas**
 
+- Adicionar Bibliografia ou Referência bibliográfica no artefato.
+- Corrigir o nome da plataforma Microsoft Teams no artefato (Google Teams).
+- Adicionar o participante da tarefa Acessar Ajuda com isso, á evidência que todos os participantes das entrevistas estão de acordo com o perfil de usuário.
+- Corrigir o padrão do perfil de usuário. 
 
 ## **Gravação**
 

@@ -46,7 +46,17 @@ Conforme feita a verificação do artefato, os membros presentes concluiram que 
 
 ## **Melhorias sugeridas**
 
-Não houve necessidade de melhorias.
+O artefato não conta com erros advindos da checklist, porém, alguns erros ortográficos foram identificados e para que o grupo os ache com mais facilidade estão listados abaixo:
+
+
+1. **"seguintos"** - Na seção "Objetivos da avaliação", onde se lê "avaliar os seguintos pontos", a palavra correta seria "seguintes".
+
+2. **"necessario"** - Em "será necessário disponibilizar", a palavra "necessário" está escrita com um erro ortográfico. O correto é "necessário".
+
+3. **"consisa"** - Na frase "uma avaliação mais consisa", a palavra "consisa" deve ser corrigida para "concisa".
+
+4. **"relizados"** - Em "serão relizados pelos entrevistadores", o verbo está escrito incorretamente. O correto seria "realizados".
+
 
 ## **Gravação**
 
