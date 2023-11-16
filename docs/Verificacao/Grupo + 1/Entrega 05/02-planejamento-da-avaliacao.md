@@ -65,4 +65,4 @@ Para garantir a acessibilidade e a continuidade da experiência do usuário, é 
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Versão inicial |  Joel Soares   |   15/11/2023   |    |        |
+|  1.0   | Versão inicial |  Joel Soares   |   15/11/2023   |  Guilherme Basilio  |   15/11/2023   |
