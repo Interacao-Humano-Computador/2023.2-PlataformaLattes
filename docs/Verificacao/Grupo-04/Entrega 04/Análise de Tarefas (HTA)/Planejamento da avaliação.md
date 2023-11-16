@@ -1,0 +1,73 @@
+## **Verificação do Planejamento da avaliação da Análise de Tarefa**
+
+
+## **Introdução**
+
+Este documento se trata da Verificação do artefato [Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2022.2-Skoob/verificacoes/planejamento-analise-tarefas/) feita pelo [Grupo 04](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/) , responsável pelos artefatos com tema do site Domínio Público. 
+
+
+## **Metodologia**
+O documento será guiado conforme especificado no [Planejamento da verificação](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Verificacao/planejamento-verificacao-grupo-04/), onde por meio de checklists a inspeção será realizada para verificar se o artefato está condizente com o que foi proposto na disciplina de Interação Humano Computador.
+
+
+## **Objetivo**
+O documento tem como objetivo central verificar a qualidade do artefato com o intuito de garantir que o mesmo atenda as exigências especificadas, para que após a avaliação os membros corrijam os erros para proporcionar a garantia de qualidade ao(s) usuário(s) relacionado(s) ao grupo. A avaliação será realizada de acordo com os requisitos estabelecidos na disciplina de Interação Humano Computador e os padrões consagrados na literatura especializada.
+
+## **Participantes**
+
+A dupla escalada para a Verificação do artefato foi composta pelos membros:
+
+- [Caio Lelis](https://github.com/caio-lelis)
+- [Guilherme Basílio](https://github.com/GuilhermeBES)
+
+## **Checklist de verificação**
+
+## **Planilha de Itens Gerais:**
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRn-kgt7gjb3HL4-fU6cy3VjlbQABZGBu_7wZSIv8imuwuIYc-gSCCY5lVDQkocHh9MR_E2l5GnKOm/pubhtml?gid=161452326&single=true"width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
+
+
+## **Planilha de Itens específicos:**
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRn-kgt7gjb3HL4-fU6cy3VjlbQABZGBu_7wZSIv8imuwuIYc-gSCCY5lVDQkocHh9MR_E2l5GnKOm/pubhtml?gid=507877544&single=true"width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
+
+
+Para uma melhor visualização:
+
+- [Checklist Itens Gerais](https://docs.google.com/spreadsheets/d/e/2PACX-1vTRn-kgt7gjb3HL4-fU6cy3VjlbQABZGBu_7wZSIv8imuwuIYc-gSCCY5lVDQkocHh9MR_E2l5GnKOm/pubhtml?gid=161452326&single=true)
+
+- [Checklist Itens Específicos](https://docs.google.com/spreadsheets/d/e/2PACX-1vTRn-kgt7gjb3HL4-fU6cy3VjlbQABZGBu_7wZSIv8imuwuIYc-gSCCY5lVDQkocHh9MR_E2l5GnKOm/pubhtml?gid=507877544&single=true)
+
+
+
+## **Problemas Encontrados / Sugestão de Melhoria**
+
+Conforme feita a verificação do artefato, os membros presentes concluiram que o artefato está de acordo com o que foi proposto na disciplina de Interação Humano Computador, não sendo necessário nenhuma alteração.
+
+## **Melhorias sugeridas**
+
+O artefato não conta com erros advindos da checklist, porém, alguns erros ortográficos foram identificados e para que o grupo os ache com mais facilidade estão listados abaixo:
+
+
+1. **"seguintos"** - Na seção "Objetivos da avaliação", onde se lê "avaliar os seguintos pontos", a palavra correta seria "seguintes".
+
+2. **"necessario"** - Em "será necessário disponibilizar", a palavra "necessário" está escrita com um erro ortográfico. O correto é "necessário".
+
+3. **"consisa"** - Na frase "uma avaliação mais consisa", a palavra "consisa" deve ser corrigida para "concisa".
+
+4. **"relizados"** - Em "serão relizados pelos entrevistadores", o verbo está escrito incorretamente. O correto seria "realizados".
+
+
+## **Gravação**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qy8X5Z3Vzsw?si=m8Qy_d2aGqM_sRQz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## **Bibliografia**
+
+Interação Huamno Computador - Domínio Público. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/>. Acesso em: 15 nov. 2023.
+
+## **Histórico de Versões**
+
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Adicionando conteúdo          | Caio Lelis          | 12/11/2023   | Guilherme Basilio     |        15/11/2023                |
