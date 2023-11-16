@@ -35,10 +35,12 @@ Os responsáveis pela verificação são os participantes [Doan Filho](https://g
 
 ## **Problemas Encontrados e Susgestão de melhoria**
 
----
+A obra utilizada para definição de cenário não está na bibliografia. É interessante colocar a data de revisão no histórico de versão para melhor acompanhamento do projeto. Também é válido deixar claro a maneira no qual foi descrito o cenário.
 
 ## **Melhoria sugerida**
----
+
++ Deixar claro o porque do uso das personas na confecção dos cenários, podendo usar hiperlinks para fazer a relação.
++ Colocar todas as obras literárias usadas na bibliografia. 
 
 ## **Gravação**
 --- 
@@ -52,3 +54,4 @@ IHC - Domínio Público. Disponível em: <https://interacao-humano-computador.gi
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão inicial | Doan Filho   |   14/11/2023   |  Caio Braga |      14/11/2023     |
+|  1.1   | Adição de tópicos | Gabriel Barbosa |  15/11/2023  |    |      |
