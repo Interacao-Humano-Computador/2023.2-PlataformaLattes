@@ -143,4 +143,4 @@ De acordo com Barbosa e Silva (2021, p.276) <a id="anchor_1" href="#REF1"><sup>1
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do artefato com textos introdutórios | Miguel de Frias e Joel Soares | 22/11/2023 | Miguel de Frias | 22/11/2023 |
-|  1.1   | Adição dos textos restantes | Miguel de Frias | 22/11/2023 | Doan Filho e Miguel de Frias | 22/11/2023 |
+|  1.1   | Adição dos textos restantes | Miguel de Frias | 22/11/2023 | Joel Soares | 22/11/2023 |
