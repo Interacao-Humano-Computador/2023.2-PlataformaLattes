@@ -64,6 +64,10 @@ Tabela 02 - Participantes e funções. (Fonte: autores, 2023)
 
 Este tópico deverá apresentar uma análise e interpretação dos resultados obtidos a partir da avaliação. Essa análise deve ser realizada com os dados coletados e extraindo conclusões relevantes para a melhora do artefato. É recomendação, que o avaliador contextualize os resultados com os objetivos da avaliação. Além disso, deverão ser apresentados todos os problemas identificados, detalhando como eles ocorrem, onde eles ocorrem e o impacto na usabilidade e experiência do usuário na utilização do sistema.
 
+## **Questões éticas**
+
+O relato dos resultados deve abordar como as questões éticas foram consideradas durante a Avaliação do Protótipo de Alta Fidelidade, e o termo de consentimento utilizado no processo.
+
 ## **Recomendações de melhoria**
 
 É importante que o entrevistador documente  as sugestões e melhorias com base nos problemas identificados durante a avaliação, sendo essa a função do anotador citado na Tabela 1. Portanto, deve-se apresentar o registro claro e objetivo de cada problema encontrado, descrevendo o contexto, ação do usuário, resultado esperado e resultado observado. Além disso, os analisadores devem propor soluções ou sugestões para corrigir os problemas identificados, oferecendo ideias para ajustes de design, melhorias na interface do usuário ou alterações nas funcionalidades.
@@ -80,7 +84,9 @@ O entrevistador deve realizar uma análise e interpretação dos resultados obti
 
 Esta seção deverá apresentar de maneira clara e objetiva os dados (comentários, defeitos, obstáculos ou desafios) encontrados com a avaliação. Esses dados podem ser apresentados em forma de tabelas ou gráficos, criados a partir das perguntas utilizadas ou anotações que os avaliadores fizeram mediante a observação da realização das tarefas durante a avaliação. Por fim, deve-se disponibilizar a gravação da seguinte forma:
 
+## **Sugestão de reprojeto para o sistema**
 
+A análise dos resultados deve incluir uma proposta de reprojeto para a plataforma, fundamentada na interpretação e análise dos dados provenientes da Avaliação do Protótipo de Alta Fidelidade.
 
 ## **Referências Bibliográficas**
 
@@ -92,4 +98,5 @@ Esta seção deverá apresentar de maneira clara e objetiva os dados (comentári
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-| 1.0    | Criação do documento de planejamento do relato de resultados PA   | Gabriel Barbosa | 22/11/2023 |  |  |
+| 1.0    | Criação do documento de planejamento do relato de resultados PA   | Gabriel Barbosa | 22/11/2023 | Guilherme Basilio | 22/11/2023 |
+| 1.1    | Adicionando questões éticas e planejamento de reprojeto  | Guilherme Basilio | 22/11/2023 |  |  |
