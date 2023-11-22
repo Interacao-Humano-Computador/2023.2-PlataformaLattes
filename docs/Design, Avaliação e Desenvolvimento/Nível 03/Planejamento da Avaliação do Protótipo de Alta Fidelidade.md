@@ -44,7 +44,7 @@ O objetivo de realizar uma avaliação de um protótipo de alta fidelidade é av
 
 ## **E - Explorar perguntas**
 
-Nas tabelas a seguir, são listadas as questões a serem abordadas durante as entrevistas. Essas perguntas foram elaboradas com base em diretrizes sugeridas no trabalho de Simone Barbosa e Bruno Diniz <a id="anchor_1" href="#REF1"><sup>1</sup></a> e desempenharão um papel fundamental na avaliação da compreensão dos participantes em relação aos procedimentos das tarefas em análise:
+Nas tabelas a seguir, são listadas as questões a serem abordadas durante as avaliações. Essas perguntas foram elaboradas com base em diretrizes sugeridas no trabalho de Simone Barbosa e Bruno Diniz <a id="anchor_1" href="#REF1"><sup>1</sup></a> e desempenharão um papel fundamental na avaliação da compreensão dos participantes em relação aos procedimentos das tarefas em análise:
 
 
 ### **Perguntas ao usuário**
