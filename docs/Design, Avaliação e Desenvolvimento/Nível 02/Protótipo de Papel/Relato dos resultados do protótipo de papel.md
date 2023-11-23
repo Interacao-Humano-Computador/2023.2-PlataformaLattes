@@ -8,7 +8,7 @@
 
 
 
-## Entrevista Prototipo de papel - Inserir Recursos multimídia em um Projeto
+## Entrevista Protótipo de papel - Inserir Recursos multimídia em um Projeto
 
 
 
@@ -63,7 +63,7 @@ Considerando que a função foi concebida especificamente para os propósitos da
 
 <iframe width="700" height="500" src="https://www.youtube.com/embed/XpsDLSIXZr8?si=Fg9hbqk4dVJNi7yG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Entrevista Prototipo de papel - Buscar instituição
+## Entrevista Protótipo de papel - Buscar instituição
 
 ### Objetivo e escopo da avaliação
 
@@ -113,7 +113,7 @@ Com base nos dados coletados, sugere-se as seguintes correções:
 
 <iframe width="700" height="500" src="https://youtu.be/SlscTgSuCSI?si=4sdTW9Mj-STxNKY6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Entrevista Prototipo de papel - Buscar grupo de pesquisa
+## Entrevista Protótipo de papel - Buscar grupo de pesquisa
 
 ### Objetivo e escopo da avaliação
 
@@ -163,7 +163,7 @@ Com base nos dados coletados, sugere-se as seguintes correções:
 <iframe width="700" height="500" src="https://www.youtube.com/watch?v=4AdqwCRGNGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-## Entrevista Prototipo de papel - Buscar Currículo
+## Entrevista Protótipo de papel - Buscar Currículo
 
 ### Objetivo e escopo da avaliação
 
