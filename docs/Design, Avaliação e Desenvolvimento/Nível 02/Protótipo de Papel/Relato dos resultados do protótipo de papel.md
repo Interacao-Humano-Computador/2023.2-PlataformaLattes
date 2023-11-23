@@ -302,7 +302,11 @@ A atividade feita teve como objetivo a avaliação do prototipo de papel - busca
 ### Método de avaliação
 
 <center>
+<<<<<<< HEAD
 Tabela 8 - Cronograma da Avaliação 6.
+=======
+Tabela 8 - Cronograma da Avaliação 7.
+>>>>>>> refs/remotes/origin/124-relato-dos-resultados-do-protótipo-de-papel
 
 | Entrevistador(es) | Entrevistado(a) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -345,7 +349,17 @@ Considerando que a função foi concebida especificamente para os propósitos da
 
 ### Perguntas Respondidas pela entrevistada:
 
-As perguntas feitas para a usuária podem ser encontradas no [roteiro de perguntas](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2002/Prot%C3%B3tipo%20de%20Papel/Planejamento-da-Avalia%C3%A7%C3%A3o-do-Prot%C3%B3tipo-de-Papel/#roteiro-de-perguntas) planejado, e o resultado está no vídeo abaixo.
+As perguntas feitas para a usuária podem ser encontradas no [roteiro de perguntas](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2002/Prot%C3%B3tipo%20de%20Papel/Planejamento-da-Avalia%C3%A7%C3%A3o-do-Prot%C3%B3tipo-de-Papel/#roteiro-de-perguntas) planejado, e o resultado está na tabela abaixo.
+
+
+| **Perguntas** | **Tipo de pergunta** | **Resposta do usuário** |
+| -------------- | :---------------------: | :---------------------: |
+| Após simular o uso da tarefa de buscar dados de pesquisa acadêmica, você considera a sequência de elementos de interação para executá-la coerente? | Fechada | Sim  |
+| Alguma questão de interface ou terminologia o confundiu ou foi de difícil entendimento? | Aberta | Não teve nenhuma que prejudicou o entendimento |
+| A disposição dos elementos de interação auxiliaram na rapidez da execução da sua tarefa? | Fechada | Sim, pois ja tinha os critérios de busca previamente definidos|
+| Em termos de layout e design, achou alguma parte estranha ou desconexa com o objetivo do site? | Fechada | Não achei|
+| Quais foram as partes do protótipo de papel que você achou mais intuitivas e fáceis de usar? | Aberta | Página inicial com o painel de acesso direto |
+| Você imagina alguma forma de melhorar esta tarefa? | Aberta | As opções de filtragem na segunda tela poderiam ser melhor explicadas. Na terceira tela, a diposição desses elementos/critérios de busca poderia ser mais limpa |
 
 
 ### Entrevista feita com a usuária Giovana Barbosa
