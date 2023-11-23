@@ -50,11 +50,11 @@ Nas tabelas a seguir, são listadas as questões a serem abordadas durante as av
 
 | ID | Enunciado| Resposta| Justificativa |
 | :---: | :----------------------------------------------------------: | :-----------------:|:------------|
-|   1   |   A interface apresentada foi de fácil utilização?        |     Aberta         | Justifique |
-|   2   |  A realização da tarefa solicitada trouxe algum contratempo?   |     Aberta         | Justifique |
-|   3   |  A dispozição dos elementos da tela foi agradável? |     Aberta         | Justifique |
-|   4   |  A realização da tarefa solicitada corresponde a expectativa que foi criada ao ser concedida a ideia  |     Aberta         | Justifique |
-|   5   |  Foi encontrada algum erro ou inconsistência durante o uso da interface?   |     Aberta         | Justifique |
+|   1   |   A interface apresentada foi de fácil utilização?        |     Fechada         | Justifique |
+|   2   |  A realização da tarefa solicitada trouxe algum contratempo?   |     Fechada         | Justifique |
+|   3   |  A dispozição dos elementos da tela foi agradável? |     Fechada         | Justifique |
+|   4   |  A realização da tarefa solicitada corresponde a expectativa que foi criada ao ser concedida a ideia?  |     Fechada         | Justifique |
+|   5   |  Foi encontrada algum erro ou inconsistência durante o uso da interface?   |     Fechada         | Justifique |
 <div style="text-align: center">
     <p> <b>Tabela 2</b>: tabela de perguntas ao Usuário (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
 </div>
@@ -63,11 +63,11 @@ Nas tabelas a seguir, são listadas as questões a serem abordadas durante as av
 
 | ID | Enunciado| Resposta| 
 | :---: | :----------------------------------------------------------: | :-----------------:|
-|   1   |   Foi possível por parte do usuário operar o sistema  |     Fechada     | 
-|   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     Aberta    | 
-|   3   |    Ele entendeu a funcionalidade a ser testada     |     Fechada     | 
-|   4   |   Quais foram os principais problemas notados para o usuário atingir seu objetivo     |     Aberta     | 
-|   5  |   O usuário consultou ajuda online ou o manual de usuário   |     Aberta     | 
+|   1   |   Foi possível por parte do usuário operar o sistema?  |     Fechada     | 
+|   2   |   O usuário atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Ele cometeu erros? Quantos?       |     Aberta    | 
+|   3   |    Ele entendeu a funcionalidade a ser testada?     |     Fechada     | 
+|   4   |   Quais foram os principais problemas notados para o usuário atingir seu objetivo?     |     Aberta     | 
+|   5  |   O usuário consultou ajuda online ou o manual de usuário?   |     Fechada     | 
 <div style="text-align: center">
     <p> <b>Tabela 3</b>: tabela de perguntas de Diretriz. (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
 </div>
