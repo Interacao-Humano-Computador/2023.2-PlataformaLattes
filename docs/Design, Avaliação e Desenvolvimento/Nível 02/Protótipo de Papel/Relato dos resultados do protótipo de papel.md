@@ -360,7 +360,7 @@ As perguntas feitas para a usuária podem ser encontradas no [roteiro de pergunt
 
 ### Entrevista feita com a usuária Giovana Barbosa
 
-<iframe width="700" height="500" src="https://www.youtube.com/watch?v=D48tuJKsEGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="700" height="500" src="https://www.youtube.com/embed/D48tuJKsEGc" title="Protótipo de papel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
