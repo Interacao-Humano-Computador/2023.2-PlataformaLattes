@@ -1,4 +1,4 @@
-# Planejamento do Relato dos Resultados - Protótipo de Alta Fidelidade
+# **Planejamento do Relato dos Resultados - Protótipo de Alta Fidelidade**
 
 ## **Introdução**
 
@@ -82,7 +82,7 @@ O entrevistador deve realizar uma análise e interpretação dos resultados obti
 
 ## **Resumo dos principais resultados**
 
-Esta seção deverá apresentar de maneira clara e objetiva os dados (comentários, defeitos, obstáculos ou desafios) encontrados com a avaliação. Esses dados podem ser apresentados em forma de tabelas ou gráficos, criados a partir das perguntas utilizadas ou anotações que os avaliadores fizeram mediante a observação da realização das tarefas durante a avaliação. Por fim, deve-se disponibilizar a gravação da seguinte forma:
+Esta seção deverá apresentar de maneira clara e objetiva os dados (comentários, defeitos, obstáculos ou desafios) encontrados com a avaliação. Esses dados podem ser apresentados em forma de tabelas ou gráficos, criados a partir das perguntas utilizadas ou anotações que os avaliadores fizeram mediante a observação da realização das tarefas durante a avaliação.
 
 ## **Sugestão de reprojeto para o sistema**
 
