@@ -112,3 +112,60 @@ Com base nos dados coletados, sugere-se as seguintes correções:
 ### Entrevista feita com o usuário Igor Penha:
 
 <iframe width="700" height="500" src="https://youtu.be/SlscTgSuCSI?si=4sdTW9Mj-STxNKY6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Entrevista Prototipo de papel - Buscar grupo de pesquisa
+
+### Objetivo e escopo da avaliação
+
+A avaliação realizada com o entrevistado Bruno Ribeiro teve como propósito avaliar o protótipo em papel relacionado à busca por grupos de pesquisa através do portal do diretório, visando validar sua adequação para a implementação no projeto da disciplina.
+
+### Método de avaliação
+
+<center>
+Tabela 4 - Cronograma da Avaliação 2.
+
+| Entrevistador(es) | Entrevistado(a) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  Joel Soares  |   <span style = "color: ">Bruno Ribeiro</span>     |       14:05       |     14:08    | 22/11/2023 | UAC (UnB) |
+
+**Fonte** - Autor: SOARES, Joel.
+</center>
+
+### Seleção de participante
+
+O participante se encaixa no perfil de usuário, pois é um usuário maior de 18 anos e pesquisador com alguns projetos universitários presentes no currículo Lattes.
+
+### Problemas e dificuldades encontradas
+
+- O usuário levou mais tempo para conseguir encontrar a opção desejada na página inicial da plataforma Lattes desenhada no protótipo de papel.
+
+### Sugestões de melhoria
+
+- O usuário sugeriu a melhor organização da interface da página inicial para tirar o aspecto de "poluição"
+
+### Feedback do usuário
+
+O utilizador demonstrou satisfação em relação ao protótipo em papel, conseguindo compreender de maneira clara tanto a narrativa quanto as interações apresentadas. Por fim, ele sugeriu a revisão e o aprimoramento da página inicial, que foi por ele considerado "poluído".
+
+## Análise e interpretação dos resultados
+
+Por meio da entrevista, tornou-se evidente que, apesar de ser um percurso relativamente breve para concluir a interação, a disposição dos elementos na página está prejudicando a eficiência. Há espaço para otimizar o caminho, reduzindo a distância de páginas necessárias para atingir o objetivo.
+
+### Sumário dos principais resultados
+
+Com base nos dados coletados, sugere-se as seguintes correções:
+
+- Diminuir o número de interações necessárias para concluir a busca.
+- Aprimorar a organização dos elementos na página.
+
+### Entrevista feita com o usuário Bruno Ribeiro:
+
+<iframe width="700" height="500" src="https://www.youtube.com/watch?v=4AdqwCRGNGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## **Histórico de Versões**
+
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+| 1.0    | Criação do documento e textos introdutórios | Caio Lelis | 21/11/2023 | Guilherme Basilio | 22/11/2023 |
+| 1.1    | Adição da entrevista com Igor Penha | Guilherme Basilio | 22/11/2023 | Joel Soares  | 22/11/2023 |
+| 1.2    | Adição da entrevista com Bruno Ribeiro | Joel Soares | 22/11/2023 |   | 22/11/2023 |
