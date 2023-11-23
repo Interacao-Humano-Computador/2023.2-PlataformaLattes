@@ -8,7 +8,7 @@
 
 
 # Avaliações
-## Entrevista Prototipo de papel - Inserir Recursos multimídia em um Projeto
+## Entrevista Protótipo de papel - Inserir Recursos multimídia em um Projeto
 ### Objetivo e escopo da avaliação
 
 A avaliação feita com a entrevistada Amanda Alves Campos teve como objetivo a avaliação do prototipo de papel - inserir recursos multimídia, para que houvesse a validação do mesmo para o projeto da disciplina.
@@ -16,7 +16,7 @@ A avaliação feita com a entrevistada Amanda Alves Campos teve como objetivo a 
 ### Método de avaliação
 
 <center>
-Tabela 3 - Cronograma da Avaliação 2.
+Tabela 1 - Cronograma da Avaliação 1.
 
 | Entrevistador(es) | Entrevistado(a) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -69,7 +69,7 @@ Considerando que a função foi concebida especificamente para os propósitos da
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ajo8V6Sxx0k?si=SR2QTHhTLiKlEIxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Entrevista Prototipo de papel - Buscar instituição
+## Entrevista Protótipo de papel - Buscar instituição
 
 ### Objetivo e escopo da avaliação
 
@@ -78,11 +78,11 @@ A avaliação realizada com o entrevistado Igor Penha Campos teve como propósit
 ### Método de avaliação
 
 <center>
-Tabela 4 - Cronograma da Avaliação 2.
+Tabela 3 - Cronograma da Avaliação 2.
 
 | Entrevistador(es) | Entrevistado(a) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  Guilherme Basilio  |   <span style = "color: ">Igor Penha</span>     |       16:00       |     16:05    | 22/11/2023 | UAC (UnB) |
+|  Guilherme Basilio  |   <span style = "color: ">Igor Penha</span>     |       14:11       |     14:17    | 22/11/2023 | UAC (UnB) |
 
 **Fonte** - Autor: BASILIO,Guilherme.
 </center>
@@ -119,7 +119,7 @@ Com base nos dados coletados, sugere-se as seguintes correções:
 
 <iframe width="700" height="500" src="https://youtu.be/SlscTgSuCSI?si=4sdTW9Mj-STxNKY6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Entrevista Prototipo de papel - Buscar grupo de pesquisa
+## Entrevista Protótipo de papel - Buscar grupo de pesquisa
 
 ### Objetivo e escopo da avaliação
 
@@ -128,11 +128,11 @@ A avaliação realizada com o entrevistado Bruno Ribeiro teve como propósito av
 ### Método de avaliação
 
 <center>
-Tabela 4 - Cronograma da Avaliação 2.
+Tabela 4 - Cronograma da Avaliação 3.
 
 | Entrevistador(es) | Entrevistado(a) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  Joel Soares  |   <span style = "color: ">Bruno Ribeiro</span>     |       14:05       |     14:08    | 22/11/2023 | UAC (UnB) |
+|  Joel Soares  |   <span style = "color: ">Bruno Ribeiro</span>     |       14:20       |     14:24    | 22/11/2023 | UAC (UnB) |
 
 **Fonte** - Autor: SOARES, Joel.
 </center>
@@ -178,11 +178,11 @@ A avaliação realizada com o entrevistado Igor Penha teve como propósito avali
 ### Método de avaliação
 
 <center>
-Tabela 5 - Cronograma da Avaliação 3.
+Tabela 5 - Cronograma da Avaliação 4.
 
 | Entrevistador(es) | Entrevistado(a) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  Miguel de Frias  |   <span style = "color: red ">Igor Penha</span>     |       15:00       |     15:05    | 22/11/2023 | UAC (UnB) |
+|  Miguel de Frias  |   <span style = "color: red ">Igor Penha</span>     |       14:03       |     14:08    | 22/11/2023 | UAC (UnB) |
 
 **Fonte** - Autor: DE FRIAS, Miguel
 </center>
@@ -224,7 +224,7 @@ Com base nos dados coletados, sugere-se as seguintes correções:
 
 
 
-## Entrevista Prototipo de papel - Atualizar curriculo
+## Entrevista Protótipo de papel - Atualizar curriculo
 
 ### Objetivo e escopo da avaliação
 Foi feita uma avaliação com o participante Isaque Santos com o intuito de avaliar a parte de atualzar o curriculo na plataforma lattes. 
@@ -232,7 +232,7 @@ Foi feita uma avaliação com o participante Isaque Santos com o intuito de aval
 ### Método de avaliação
 
 <center>
-Tabela 3 - Cronograma da Avaliação 2.
+Tabela 6 - Cronograma da Avaliação 5.
 
 | Entrevistador(es) | Entrevistado(a) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -288,7 +288,7 @@ Foi percebido que o temos uma fluidez na hora de fazer a tarefa proposta porém 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vjVBqztUH6g?si=lDfaXhpjDpyaWaxH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-## Entrevista Prototipo de papel - Buscar dados de pesquisas acadêmicas
+## Entrevista Protótipo de papel - Buscar dados de pesquisas acadêmicas
 
 ### Objetivo e escopo da avaliação
 
@@ -297,7 +297,7 @@ A atividade feita teve como objetivo a avaliação do prototipo de papel - busca
 ### Método de avaliação
 
 <center>
-Tabela 6 - Cronograma da Avaliação 2.
+Tabela 7 - Cronograma da Avaliação 6.
 
 | Entrevistador(es) | Entrevistado(a) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -353,7 +353,7 @@ As perguntas feitas para a usuária podem ser encontradas no [roteiro de pergunt
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 | 1.0    | Criação do documento e textos introdutórios | Caio Lelis | 21/11/2023 | Guilherme Basilio | 22/11/2023 |
 | 1.1    | Adição da entrevista com Igor Penha | Guilherme Basilio | 22/11/2023 | Joel Soares  | 22/11/2023 |
-| 1.2    | Adição da entrevista com Bruno Ribeiro | Joel Soares | 22/11/2023 | Gabriel Barbosa  | 22/11/2023 |
+| 1.2    | Adição da entrevista com Bruno Ribeiro | Joel Soares | 22/11/2023 | Miguel de Frias | 22/11/2023 |
 | 1.3    | Adição da entrevista buscar currículo | Miguel de Frias | 22/11/2023 |   | 22/11/2023 |
 | 1.4  |  Adição de relato dos resultados |  Gabriel Barbosa  | 22/11/2023  |    |  22/11/2023 |
 | 1.5  |  Adição de atualizar curriculo |  Doan Filho  | 22/11/2023  |    |  22/11/2023 |
