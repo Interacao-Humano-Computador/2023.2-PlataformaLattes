@@ -7,11 +7,8 @@
 ## Metodologia
 
 
-
-## Entrevista Protótipo de papel - Inserir Recursos multimídia em um Projeto
-
-
-
+# Avaliações
+## Entrevista Prototipo de papel - Inserir Recursos multimídia em um Projeto
 ### Objetivo e escopo da avaliação
 
 A avaliação feita com a entrevistada Amanda Alves Campos teve como objetivo a avaliação do prototipo de papel - inserir recursos multimídia, para que houvesse a validação do mesmo para o projeto da disciplina.
@@ -57,13 +54,22 @@ Considerando que a função foi concebida especificamente para os propósitos da
 
 ### Perguntas Respondidas pela usuária Amanda Alves Campos:
 
+| **Perguntas** | **Tipo de pergunta** | **Respostas possíveis** |
+| -------------- | :---------------------: | :---------------------: |
+| Após simular o uso dessa tarefa (citar a tarefa), você considera a sequência de elementos de interação para executá-la coerente? | Fechada | Sim  |
+| Alguma questão de interface ou terminologia o confundiu ou foi de difícil entendimento? | Aberta | O login pelo botão atualizar currículo fez com que tivesse dificuldades de encontrar um meio de login |
+| A disposição dos elementos de interação auxiliaram na rapidez da execução da sua tarefa? | Fechada | Tirando o Login não explícito, sim |
+| Em termos de layout e design, achou alguma parte estranha ou desconexa com o objetivo do site? | Fechada | Sim sim, a parte da funcionalidade 'Inserir recurso multimídia " não mostra oq é cada coisa, o que complica um pouco o entendimento do usuário|
+| Quais foram as partes do protótipo de papel que você achou mais intuitivas e fáceis de usar? | Aberta | A questão dos ícones mais atualizados na hora de editar algo fez com que o currículo Lattes ficasse mais intuitivo |
+| Você imagina alguma forma de melhorar esta tarefa? | Aberta | Inserir um login mais fácil de se encontrar seria um bom ponto |
 
+*<p align="center">Tabela 02 - Roteiro de perguntas</p>*
 
 ### Entrevista feita com a usuária Amanda Alves Campos:
 
-<iframe width="700" height="500" src="https://www.youtube.com/embed/XpsDLSIXZr8?si=Fg9hbqk4dVJNi7yG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ajo8V6Sxx0k?si=SR2QTHhTLiKlEIxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Entrevista Protótipo de papel - Buscar instituição
+## Entrevista Prototipo de papel - Buscar instituição
 
 ### Objetivo e escopo da avaliação
 
@@ -76,7 +82,7 @@ Tabela 4 - Cronograma da Avaliação 2.
 
 | Entrevistador(es) | Entrevistado(a) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  Guilherme Basilio  |   <span style = "color: ">Igor Penha</span>     |       14:11       |     14:16    | 22/11/2023 | UAC (UnB) |
+|  Guilherme Basilio  |   <span style = "color: ">Igor Penha</span>     |       16:00       |     16:05    | 22/11/2023 | UAC (UnB) |
 
 **Fonte** - Autor: BASILIO,Guilherme.
 </center>
@@ -113,7 +119,7 @@ Com base nos dados coletados, sugere-se as seguintes correções:
 
 <iframe width="700" height="500" src="https://youtu.be/SlscTgSuCSI?si=4sdTW9Mj-STxNKY6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Entrevista Protótipo de papel - Buscar grupo de pesquisa
+## Entrevista Prototipo de papel - Buscar grupo de pesquisa
 
 ### Objetivo e escopo da avaliação
 
@@ -126,7 +132,7 @@ Tabela 4 - Cronograma da Avaliação 2.
 
 | Entrevistador(es) | Entrevistado(a) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  Joel Soares  |   <span style = "color: ">Bruno Ribeiro</span>     |       14:20       |     14:24    | 22/11/2023 | UAC (UnB) |
+|  Joel Soares  |   <span style = "color: ">Bruno Ribeiro</span>     |       14:05       |     14:08    | 22/11/2023 | UAC (UnB) |
 
 **Fonte** - Autor: SOARES, Joel.
 </center>
@@ -162,66 +168,10 @@ Com base nos dados coletados, sugere-se as seguintes correções:
 
 <iframe width="700" height="500" src="https://www.youtube.com/watch?v=4AdqwCRGNGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-## Entrevista Protótipo de papel - Buscar Currículo
-
-### Objetivo e escopo da avaliação
-
-A avaliação realizada com o entrevistado Igor Penha teve como propósito avaliar o protótipo em papel relacionado à funcionalidade busca de currículo, visando validar sua adequação para a implementação no projeto da disciplina.
-
-### Método de avaliação
-
-<center>
-Tabela 5 - Cronograma da Avaliação 3.
-
-| Entrevistador(es) | Entrevistado(a) | Horário de Início | Horário de Fim |    Data    |    Local     |
-| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  Miguel de Frias  |   <span style = "color: red ">Igor Penha</span>     |       14:02       |     14:07  | 22/11/2023 | UAC (UnB) |
-
-**Fonte** - Autor: DE FRIAS, Miguel
-</center>
-
-### Seleção de participante
-
-O participante se encaixa no perfil de usuário, pois é um usuário maior de 18 anos e pesquisador com alguns projetos universitários presentes no currículo Lattes.
-
-### Problemas e dificuldades encontradas
-
-- Falta de Objetividade para a realização da ação, na página inicial há muita informação concentrada em pontos específicos devido a má utilização do espaço da tela. Há também informações que são redundantes ao preencher o formulário de busca.
-
-### Sugestões de melhoria
-
-- Melhorar a organização dos elementos contidos na página inicial, visando melhor visibilidade para as funcionalidades mais acessadas.
-- Evitar campos redundantes no formulário de busca.
-- Usar de maneira mais efetiva o espaço da página.
-
-### Feedback do usuário
-
-O utilizador demonstrou satisfação em relação ao protótipo em papel, conseguindo compreender de maneira clara tanto a narrativa quanto as interações apresentadas. Porém, dentre todos os problemas ressaltou a concentração de informações no canto esquerdo da página principal, o que levou a um desconforto na utilização.
-
-## Análise e interpretação dos resultados
-
-Por meio da entrevista, tornou-se evidente que a disposição dos elementos na página inicial está prejudicando a eficiência. E também foi notado que o formulário de busca possui informações redundantes, além de já possuir muitos campos, levando a uma utilização um pouco cansativa.
-
-### Sumário dos principais resultados
-
-Com base nos dados coletados, sugere-se as seguintes correções:
-
-- Verificar os campos necessários e suas informações para fazer uma busca
-- Melhorar a organização dos elementos contidos na página inicial, visando melhor visibilidade para as funcionalidades mais acessadas.
-
-### Entrevista feita com o usuário Igor Penha:
-
-<iframe width="700" height="500" src="https://www.youtube.com/embed/nCuayqIVL5U" title="Protótipo de papel - Miguel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-
-
 ## **Histórico de Versões**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 | 1.0    | Criação do documento e textos introdutórios | Caio Lelis | 21/11/2023 | Guilherme Basilio | 22/11/2023 |
 | 1.1    | Adição da entrevista com Igor Penha | Guilherme Basilio | 22/11/2023 | Joel Soares  | 22/11/2023 |
-| 1.2    | Adição da entrevista com Bruno Ribeiro | Joel Soares | 22/11/2023 | Miguel de Frias  | 22/11/2023 |
-| 1.3    | Adição da entrevista Buscar currículo | Miguel de Frias| 22/11/2023 |  | 22/11/2023 |
+| 1.2    | Adição da entrevista com Bruno Ribeiro | Joel Soares | 22/11/2023 |   | 22/11/2023 |
