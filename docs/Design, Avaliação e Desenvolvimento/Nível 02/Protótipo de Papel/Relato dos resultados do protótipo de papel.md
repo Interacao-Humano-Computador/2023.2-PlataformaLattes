@@ -62,3 +62,53 @@ Considerando que a função foi concebida especificamente para os propósitos da
 ### Entrevista feita com a usuária Amanda Alves Campos:
 
 <iframe width="700" height="500" src="https://www.youtube.com/embed/XpsDLSIXZr8?si=Fg9hbqk4dVJNi7yG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Entrevista Prototipo de papel - Buscar instituição
+
+### Objetivo e escopo da avaliação
+
+A avaliação realizada com o entrevistado Igor Penha Campos teve como propósito avaliar o protótipo em papel relacionado à busca por instituições, visando validar sua adequação para a implementação no projeto da disciplina.
+
+### Método de avaliação
+
+<center>
+Tabela 4 - Cronograma da Avaliação 2.
+
+| Entrevistador(es) | Entrevistado(a) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  Guilherme Basilio  |   <span style = "color: ">Igor Penha</span>     |       16:00       |     16:05    | 22/11/2023 | UAC (UnB) |
+
+**Fonte** - Autor: BASILIO,Guilherme.
+</center>
+
+### Seleção de participante
+
+O participante se encaixa no perfil de usuário, pois é um usuário maior de 18 anos e pesquisador com alguns projetos universitários presentes no currículo Lattes.
+
+### Problemas e dificuldades encontradas
+
+- Quantidade de cliques excessiva para realizar a ação, causando desconforto ao entrevistado.
+
+### Sugestões de melhoria
+
+- A ação de buscar instituição poderia ser finalizada na primeira interação.
+- Melhorar organização dos elementos na página.
+
+### Feedback do usuário
+
+O utilizador demonstrou satisfação em relação ao protótipo em papel, conseguindo compreender de maneira clara tanto a narrativa quanto as interações apresentadas.
+
+## Análise e interpretação dos resultados
+
+Por meio da entrevista, tornou-se evidente que, apesar de ser um percurso relativamente breve para concluir a interação, a disposição dos elementos na página está prejudicando a eficiência. Há espaço para otimizar o caminho, reduzindo a distância de páginas necessárias para atingir o objetivo.
+
+### Sumário dos principais resultados
+
+Com base nos dados coletados, sugere-se as seguintes correções:
+
+- Diminuir o número de interações necessárias para concluir a busca.
+- Aprimorar a organização dos elementos na página.
+
+### Entrevista feita com o usuário Igor Penha:
+
+<iframe width="700" height="500" src="https://youtu.be/SlscTgSuCSI?si=4sdTW9Mj-STxNKY6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
