@@ -302,11 +302,7 @@ A atividade feita teve como objetivo a avaliação do prototipo de papel - busca
 ### Método de avaliação
 
 <center>
-<<<<<<< HEAD
-Tabela 8 - Cronograma da Avaliação 6.
-=======
 Tabela 8 - Cronograma da Avaliação 7.
->>>>>>> refs/remotes/origin/124-relato-dos-resultados-do-protótipo-de-papel
 
 | Entrevistador(es) | Entrevistado(a) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
