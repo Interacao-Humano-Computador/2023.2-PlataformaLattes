@@ -1,12 +1,11 @@
 # Planejamento da Avaliação - Protótipo de Alta Fidelidade
 
 ## **Introdução**
-
-&emsp;&emsp;Conforme destacado por Barbosa e Silva<a id="anchor_1" href="#REF1"><sup>1</sup></a>, a avaliação desempenha um papel fundamental no desenvolvimento de sistemas interativos de alta qualidade. Ela implica julgar a qualidade de uso da solução e identificar problemas na interação e na interface. Métodos de investigação permitem acessar e analisar concepções dos usuários, com o objetivo de obter detalhes mais profundos sobre as tarefas no contexto do aplicação. Optamos pelo método de investigação, especificamente entrevistas com usuários reais da Plataforma Lattes.
+Conforme destacado por Barbosa e Silva<a id="anchor_1" href="#REF1"><sup>1</sup></a>, a avaliação desempenha um papel fundamental no desenvolvimento de sistemas interativos de alta qualidade. Ela implica julgar a qualidade de uso da solução e identificar problemas na interação e na interface. Métodos de investigação permitem acessar e analisar concepções dos usuários, com o objetivo de obter detalhes mais profundos sobre as tarefas no contexto do aplicação. Optamos pelo método de investigação, especificamente entrevistas com usuários reais da Plataforma Lattes.
 
 ## **Planejamento**
 
-&emsp;&emsp;O framework DECIDE, desenvolvido por Sharp, Rogers e Preece <a id="anchor_2" href="#REF2"><sup>2</sup></a>, oferece um guia abrangente para o planejamento, execução e análise de avaliações de Interação Humano-Computador (IHC). Este modelo envolve as seguintes  etapas interconectadas:
+O framework DECIDE, desenvolvido por Sharp, Rogers e Preece <a id="anchor_2" href="#REF2"><sup>2</sup></a>, oferece um guia abrangente para o planejamento, execução e análise de avaliações de Interação Humano-Computador (IHC). Este modelo envolve as seguintes  etapas interconectadas:
 
 **Definir Objetivos da Avaliação:** Estabelecer os objetivos gerais da avaliação e sua relevância.
 
@@ -52,10 +51,10 @@ Nas tabelas a seguir, são listadas as questões a serem abordadas durante as av
 | ID | Enunciado| Resposta| Justificativa |
 | :---: | :----------------------------------------------------------: | :-----------------:|:------------|
 |   1   |   A interface apresentada foi de fácil utilização?        |     Aberta         | Justifique |
-|   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |     Aberta         | Justifique |
-|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |     Aberta         | Justifique |
-|   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Aberta         | Justifique |
-|   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |     Aberta         | Justifique |
+|   2   |  A realização da tarefa solicitada trouxe algum contratempo?   |     Aberta         | Justifique |
+|   3   |  A dispozição dos elementos da tela foi agradável? |     Aberta         | Justifique |
+|   4   |  A realização da tarefa solicitada corresponde a expectativa que foi criada ao ser concedida a ideia  |     Aberta         | Justifique |
+|   5   |  Foi encontrada algum erro ou inconsistência durante o uso da interface?   |     Aberta         | Justifique |
 <div style="text-align: center">
     <p> <b>Tabela 2</b>: tabela de perguntas ao Usuário (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
 </div>
@@ -64,12 +63,11 @@ Nas tabelas a seguir, são listadas as questões a serem abordadas durante as av
 
 | ID | Enunciado| Resposta| 
 | :---: | :----------------------------------------------------------: | :-----------------:|
-|   1   |   O usuário conseguiu operar o sistema      |     Fechada     | 
+|   1   |   Foi possível por parte do usuário operar o sistema  |     Fechada     | 
 |   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     Aberta    | 
-|   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Fechada     | 
-|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Aberta    | 
-|   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |     Aberta     | 
-|   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Aberta     | 
+|   3   |    Ele entendeu a funcionalidade a ser testada     |     Fechada     | 
+|   4   |   Quais foram os principais problemas notados para o usuário atingir seu objetivo     |     Aberta     | 
+|   5  |   O usuário consultou ajuda online ou o manual de usuário   |     Aberta     | 
 <div style="text-align: center">
     <p> <b>Tabela 3</b>: tabela de perguntas de Diretriz. (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
 </div>
@@ -95,11 +93,14 @@ Os prazos da avaliação estão detalhados na Tabela 4, na qual cada sessão de 
 
 |    Ordem   |    Data    | Horário de início e fim | Local            |     Entrevistadores    |   Entrevistado    | 
 | :--------: | :--------: | :---------------------: | ---------------- | ---------------------- | ----------------- |
-|     1°     | 05/11/2023 | 18:00 - 18:15 | Plataforma Microsoft Teams (Online) | Caio Braga e Doan Filho  | --- |
-|     2°     | 05/11/2023 | 18:20 - 18:35 | Plataforma Microsoft Teams (Online) | Miguel de Frias e Caio Braga | --- |
-|     3°     | 05/11/2023 | 18:40 - 18:55 | Plataforma Microsoft Teams (Online) | Doan Filho e Miguel de Frias  | --- |
-|     4°     | 05/11/2023 | 19:00 - 19:15 | Plataforma Microsoft Teams (Online) | Caio Braga e Miguel de Frias | --- |
-|     5°     | 05/11/2023 | 19:20 - 19:35 | Plataforma Microsoft Teams (Online) | Caio Braga e Doan FIlho  | --- |
+|     1°     | 22/11/2023 | 18:00 - 18:15 | Plataforma Microsoft Teams (Online) | Joel Soares  | --- |
+|     2°     | 22/11/2023 | 18:20 - 18:35 | Plataforma Microsoft Teams (Online) | Guilherme Basilio | --- |
+|     3°     | 22/11/2023 | 18:40 - 18:55 | Plataforma Microsoft Teams (Online) |  Caio Lelis | --- |
+|     4°     | 22/11/2023 | 19:00 - 19:15 | Plataforma Microsoft Teams (Online) | Miguel de Frias | --- |
+|     5°     | 22/11/2023 | 19:20 - 19:35 | Plataforma Microsoft Teams (Online) | Caio Braga  | --- |
+|     6°     | 22/11/2023 | 19:35 - 19:40 | Plataforma Microsoft Teams (Online) | Doan FIlho  | --- |
+|     7°     | 22/11/2023 | 19:40 - 19:45 | Plataforma Microsoft Teams (Online) | Gabriel Barbosa  | --- |
+
 
 <div style="text-align: center">
     <p> <b>Tabela 4</b>: tabela de prazos. (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
