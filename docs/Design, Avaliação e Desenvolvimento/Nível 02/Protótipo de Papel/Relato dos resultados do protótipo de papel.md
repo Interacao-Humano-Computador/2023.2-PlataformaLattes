@@ -162,6 +162,74 @@ Com base nos dados coletados, sugere-se as seguintes correções:
 
 <iframe width="700" height="500" src="https://www.youtube.com/watch?v=4AdqwCRGNGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
+
+
+## Entrevista Prototipo de papel - Atualizar curriculo
+
+### Objetivo e escopo da avaliação
+Foi feita uma avaliação com o participante Isaque Santos com o intuito de avaliar a parte de atualzar o curriculo na plataforma lattes. 
+
+### Método de avaliação
+
+<center>
+Tabela 3 - Cronograma da Avaliação 2.
+
+| Entrevistador(es) | Entrevistado(a) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  Doan Filho  |   <span style = "color: ">Isaque Santos</span>     |       18:00      |     18:10      | 22/11/2023 |Ailab|
+
+**Fonte** - Autor: FILHO,Doan.
+</center>
+
+### Seleção de participante
+
+O participante se encaixa no perfil de usuário, pois é maior de 18 anos e usuário da plataforma lattes.
+
+### Problemas e dificuldades encontradas
+
+- Layout mal estruturado
+- Confusão ao acessar as opções da bara de navegação
+- Barra de navegação mal estruturada 
+
+### Sugestões de melhoria
+
+- Trazer um layout mais atualizado e bem estruturado
+- Barra lateral no canto esquerdo da tela para trazer menos confusão ao acessar a parte de atualizar
+- Atualizar a barra de taferas 
+
+
+### Feedback do usuário
+
+O usuário teve muita confusão ao tentar acessas as opções da barra de navegação
+
+## Análise e interpretação dos resultados
+
+Através da entrevista foi possível evidenciar que mesmo sendo uma função cujo o site não apresentasse a mesma, com a interação proposta tornaria o site com uma funcionalidade útil e agradável para os usuários.
+
+Foi constatado que o site com um layout um pouco antigo e ultrapassado comparado aos dias de hoje podendo assim ser melhorado para que se possa ter uma acessibilidade e ser visualmente melhor
+
+### Sumário dos principais resultados
+
+Foi percebido que o temos uma fluidez na hora de fazer a tarefa proposta porém com o interface desatualizada ficou percebido a dificuldade do usuário de recorrer a algumas condições da plataforma. 
+
+### Perguntas Respondidas pela usuária Amanda Alves Campos:
+
+| **Perguntas** | **Tipo de pergunta** | **Resposta do usuário** |
+| -------------- | :---------------------: | :---------------------: |
+| Após simular o uso dessa tarefa (citar a tarefa), você considera a sequência de elementos de interação para executá-la coerente? | Fechada | Sim  |
+| Alguma questão de interface ou terminologia o confundiu ou foi de difícil entendimento? | Aberta | Não teve nenhuma |
+| A disposição dos elementos de interação auxiliaram na rapidez da execução da sua tarefa? | Fechada | Sim|
+| Em termos de layout e design, achou alguma parte estranha ou desconexa com o objetivo do site? | Fechada | Não|
+| Quais foram as partes do protótipo de papel que você achou mais intuitivas e fáceis de usar? | Aberta | A Tela de usuário |
+| Você imagina alguma forma de melhorar esta tarefa? | Aberta | Acho que o layout poderia ser mais objetivo e poderia ter uma barra lateral vertical|
+
+### Entrevista feita com a usuária Amanda Alves Campos:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vjVBqztUH6g?si=lDfaXhpjDpyaWaxH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
 ## **Histórico de Versões**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
