@@ -168,10 +168,71 @@ Com base nos dados coletados, sugere-se as seguintes correções:
 
 <iframe width="700" height="500" src="https://www.youtube.com/watch?v=4AdqwCRGNGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
+## Entrevista Prototipo de papel - Buscar dados de pesquisas acadêmicas
+
+### Objetivo e escopo da avaliação
+
+A atividade feita teve como objetivo a avaliação do prototipo de papel - buscar dados de pesquisas acadêmicas, para que houvesse a validação do mesmo para o projeto da disciplina.
+
+### Método de avaliação
+
+<center>
+Tabela 6 - Cronograma da Avaliação 2.
+
+| Entrevistador(es) | Entrevistado(a) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  Gabriel Barbosa |   <span style = "color: ">Giovana Barbosa</span>     |       15:30       |     15:45      | 22/11/2023 | Residência |
+
+**Fonte** - Autor: BARBOSA, Gabriel
+</center>
+
+
+### Seleção de participante
+
+A participante se encaixa no [perfil de usuário](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/perfil-de-usuario/), pois é uma usuária do site, maior de 18 anos e  inserida no meio acadêmico científico.
+
+### Problemas e dificuldades encontradas
+
+- Problema relacionados a disposição e identificação de elementos para filtragem na busca de dados de pesquisa, pois não consegue entender alguns dos campos, devido a disposição de elementos
+- Elementos de busca redundantes.
+- Diferenciar opções relacionadas a dados. (comunidades dataverses)
+
+### Sugestões de melhoria
+
+- Sugestão de melhoria proposta pela usuária foi que a plataforma incluísse uma maneira mais clara de filtragem para buscar dados de pesquisa, deixando mais simples e explicando as opções.
+- Melhor localização de elementos.
+
+### Feedback do usuário
+
+O usuário ficou satisfeito com o prototipo de papel e conseguiu compreender de forma nítida a narrativa e as interaçoes apresentadas para realizar a tarefa.
+
++ Ponto positivo sobre a plataforma: O usuário considerou a interface do painel de acesso direto muito objetiva e intuitiva, facilitando o caminho que o usuário tem para as opções específicas.
++ Conseguiu realizar a tarefa com rapidez pois já tinha critérios de busca definidos
+
+## Análise e interpretação dos resultados
+
+Através da entrevista foi possível evidenciar que mesmo sendo uma função cujo o site não apresentasse a mesma, com a interação proposta tornaria o site com uma funcionalidade útil e agradável para os usuários.
+
+### Sumário dos principais resultados
+
+Considerando que a função foi concebida especificamente para os propósitos da disciplina, foram realizadas modificações nas questões da entrevista a fim de aprimorar a experiência do usuário ao longo do processo, mantendo-se alinhadas com o padrão do projeto.
+
+
+### Perguntas Respondidas pela entrevistada:
+
+As perguntas feitas para a usuária podem ser encontradas no [roteiro de perguntas](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2002/Prot%C3%B3tipo%20de%20Papel/Planejamento-da-Avalia%C3%A7%C3%A3o-do-Prot%C3%B3tipo-de-Papel/#roteiro-de-perguntas) planejado, e o resultado está no vídeo abaixo.
+
+
+### Entrevista feita com a usuária Giovana Barbosa
+
+<iframe width="700" height="500" src="https://www.youtube.com/watch?v=D48tuJKsEGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## **Histórico de Versões**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 | 1.0    | Criação do documento e textos introdutórios | Caio Lelis | 21/11/2023 | Guilherme Basilio | 22/11/2023 |
 | 1.1    | Adição da entrevista com Igor Penha | Guilherme Basilio | 22/11/2023 | Joel Soares  | 22/11/2023 |
-| 1.2    | Adição da entrevista com Bruno Ribeiro | Joel Soares | 22/11/2023 |   | 22/11/2023 |
+| 1.2    | Adição da entrevista com Bruno Ribeiro | Joel Soares | 22/11/2023 | Gabriel Barbosa  | 22/11/2023 |
+| 1.3  |  Adição de relato dos resultados |  Gabriel Barbosa  | 22/11/2023  |    |  22/11/2023 |
