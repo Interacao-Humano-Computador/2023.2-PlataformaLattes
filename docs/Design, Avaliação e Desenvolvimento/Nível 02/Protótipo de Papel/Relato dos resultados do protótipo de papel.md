@@ -172,7 +172,7 @@ Com base nos dados coletados, sugere-se as seguintes correções:
 
 ### Entrevista feita com o usuário Bruno Ribeiro:
 
-<iframe width="700" height="500" src="https://www.youtube.com/watch?v=4AdqwCRGNGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="700" height="500" src="https://www.youtube.com/embed/4AdqwCRGNGo" title="Protótipo de papel - Joel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Entrevista Protótipo de papel - Buscar Currículo
