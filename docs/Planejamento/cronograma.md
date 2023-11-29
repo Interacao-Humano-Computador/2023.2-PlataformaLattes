@@ -265,24 +265,41 @@ A tabela 12 mostra as tarefas do planejamento feito para a entrega 6.1 do projet
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
 |--------|----------------------------|--------------------|-------------|--------|
-| Verificação e Relato artefatos etapa 1 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 | Caio lelis e Guilherme Basilio  |Doan Filho  |
-| Verificação e Relato artefatos etapa 2 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 | Caio Braga e Joel Soares | Caio Lelis  |
-| Verificação e Relato artefatos etapa 3 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 | Doan Filho e Gabriel Barbosa | Caio Braga |
-| Verificação e Relato artefatos etapa 4 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 |  Miguel de Frias e Caio lelis   | Joel Soares  |
-| Verificação e Relato artefatos etapa 5 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 |Guilherme Basilio e Caio Braga  | Gabriel Barbosa |
-| Ajustes artefatos etapa 1 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 | Doan Filho e Miguel de Frias | Guilherme Basilio |
-| Ajustes artefatos etapa 2 |Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 |Gabriel Barbosa e Guilherme Basilio | Doan Filho |
-| Ajustes artefatos etapa 3 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 |Joel Soares e Caio Braga | Caio Lelis |
-| Ajustes artefatos etapa 4 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 | Caio Braga e Doan Filho | Miguel de Frias |
-| Ajustes artefatos etapa 5 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 |Caio Lelis e Joel Soares | Doan Filho |
-| Atualizar GitPage | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 |Doan Filho e Guilherme Basilio|Miguel de Frias  |
-| Gravação da Apresentação | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 |  Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
-| Postagem da Apresentação | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 | Joel Soares | Miguel de Frias|
+| Verificação e Relato artefatos etapa 1 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 | Miguel de Frias e Guilherme Basilio  | Caio Lelis  |
+| Verificação e Relato artefatos etapa 2 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 | Gabriel Barbosa, Doan Filho e Caio Braga | Miguel de Frias |
+| Verificação e Relato artefatos etapa 3 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 | Gabriel Barbosa, Doan Filho e Caio Braga | Caio Lelis |
+| Verificação e Relato artefatos etapa 4 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 | Guilherme Basilio e Caio lelis | Miguel de Frias  |
+| Verificação e Relato artefatos etapa 5 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 | Joel Soares e Doan Filho | Gabriel Barbosa |
+| Atualizar GitPage | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 | Doan Filho e Guilherme Basilio | Miguel de Frias  |
+| Gravação da Apresentação | Início: 14/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 |  Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
+| Postagem da Apresentação | Início: 14/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 | Joel Soares | Miguel de Frias|
 | Cronograma Executado | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 | Miguel de Frias | Doan FIlho |
 | Correções da Entrega 5 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 |  Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
 
 <div style="text-align: center">
     <p> <b>Tabela 12</b>: Tarefas planejadas na Entrega 6.1. (Fonte: Miguel de Frias, 2023).</p>
+</div>
+
+### **Executado**
+
+A tabela 13 mostra as tarefas realizadas na entrega 6.1 do projeto.
+
+| Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
+|--------|----------------------------|--------------------|-------------|--------|
+| Verificação e Relato artefatos etapa 1 | Início: 09/11 <br> Fim: 15/11 | Início: 15/11 <br> Fim:15/11 | Miguel de Frias e Guilherme Basilio  | Caio Lelis  |
+| Verificação e Relato artefatos etapa 2 | Início: 09/11 <br> Fim: 15/11 | Início: 15/11 <br> Fim:15/11 | Gabriel Barbosa, Doan Filho e Caio Braga | Miguel de Frias |
+| Verificação e Relato artefatos etapa 3 | Início: 09/11 <br> Fim: 15/11 | Início: 15/11 <br> Fim:15/11 | Gabriel Barbosa, Doan Filho e Caio Braga | Caio Lelis |
+| Verificação e Relato artefatos etapa 4 | Início: 09/11 <br> Fim: 15/11 | Início: 15/11 <br> Fim:15/11 | Guilherme Basilio e Caio lelis | Miguel de Frias  |
+| Verificação e Relato artefatos etapa 5 | Início: 09/11 <br> Fim: 15/11 | Início: 15/11 <br> Fim:15/11 | Joel Soares e Doan Filho | Gabriel Barbosa |
+| Atualizar GitPage | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 | Doan Filho e Guilherme Basilio | Miguel de Frias  |
+| Gravação da Apresentação | Início: 15/11 <br> Fim: 15/11 | Início: 15/11 <br> Fim:15/11 |  Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
+| Postagem da Apresentação |Início: 15/11 <br> Fim: 15/11 | Início: 15/11 <br> Fim:15/11 | Joel Soares | Miguel de Frias|
+| Cronograma Executado | Início: 09/11 <br> Fim: 15/11 | Início: 15/11 <br> Fim:15/11 | Miguel de Frias | Doan FIlho |
+| Correções da Entrega 5 | Início: 09/11 <br> Fim: 15/11 | Início: 15/11 <br> Fim:15/11 |  Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
+
+
+<div style="text-align: center">
+    <p> <b>Tabela 11</b>: Tarefas realizadas na Entrega 6.1 . (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 ## **Entrega 7**
