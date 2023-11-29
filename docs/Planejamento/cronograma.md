@@ -310,10 +310,10 @@ A tabela 14 mostra as tarefas do planejamento feito para a entrega 7 do projeto.
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
 |--------|----------------------------|--------------------|-------------|--------|
-| Protótipo de papel | Início: 16/11 <br> Fim: 21/11 | Início: 21/11 <br> Fim: 22/11 | Caio Braga e Gabriel Barbosa | Doan Filho |
-| Relato dos resultados do Protótipo de Papel | Início: 16/11 <br> Fim: 21/11 | Início: 21/11 <br> Fim: 22/11 | Doan Filho e Miguel de Frias  | Caio Braga |
-| Planejamento da avaliação do protótipo de alta fidelidade | Início: 16/11 <br> Fim: 21/11 | Início: 21/11 <br> Fim: 22/11 | Guilherme Basilio | Joel Soares  |
-| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 16/11 <br> Fim: 21/11 | Início: 21/11 <br> Fim: 22/11 | Joel Soares | Caio Braga |
+| Protótipo de papel | Início: 16/11 <br> Fim: 21/11 | Início: 21/11 <br> Fim: 22/11 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias | Caio Lelis |
+| Relato dos resultados do Protótipo de Papel | Início: 16/11 <br> Fim: 21/11 | Início: 21/11 <br> Fim: 22/11 | Caio Lelis e Guilherme Basilio | Miguel de Frias e Doan Filho |
+| Planejamento da avaliação do protótipo de alta fidelidade | Início: 16/11 <br> Fim: 21/11 | Início: 21/11 <br> Fim: 22/11 | Miguel de Frias e Joel Soares | Guilherme Basilio |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 16/11 <br> Fim: 21/11 | Início: 21/11 <br> Fim: 22/11 | Guilherme Basilio e Gabriel Barbosa | Miguel de Frias |
 | Atualizar GitPage | Início: 16/11 <br> Fim: 21/11 | Início: 21/11 <br> Fim: 22/11 | Caio Braga e Caio Lelis | Doan Filho  |
 | Gravação da Apresentação | Início: 21/11 <br> Fim: 21/11 | Início: 21/11 <br> Fim: 21/11 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
 | Postagem da Apresentação | Início: 21/11 <br> Fim: 21/11 | Início: 21/11 <br> Fim: 21/11 | Joel Soares | Miguel de Frias|
@@ -322,6 +322,27 @@ A tabela 14 mostra as tarefas do planejamento feito para a entrega 7 do projeto.
 
 <div style="text-align: center">
     <p> <b>Tabela 14</b>: Tarefas planejadas na Entrega 7. (Fonte: Miguel de Frias, 2023).</p>
+</div>
+
+### **Executado**
+
+A tabela 15 mostra as tarefas realizadas na entrega 7 do projeto.
+
+| Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
+|--------|----------------------------|--------------------|-------------|--------|
+| Protótipo de papel | Início: 16/11 <br> Fim: 22/11 | Início: 22/11 <br> Fim: 22/11 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias | Caio Lelis |
+| Relato dos resultados do Protótipo de Papel | Início: 16/11 <br> Fim: 22/11 | Início: 22/11 <br> Fim: 22/11 | Caio Lelis e Guilherme Basilio | Miguel de Frias e Doan Filho |
+| Planejamento da avaliação do protótipo de alta fidelidade | Início: 16/11 <br> Fim: 22/11 | Início: 22/11 <br> Fim: 22/11 | Miguel de Frias e Joel Soares | Guilherme Basilio |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 16/11 <br> Fim: 22/11 | Início: 22/11 <br> Fim: 22/11 | Guilherme Basilio e Gabriel Barbosa | Miguel de Frias |
+| Atualizar GitPage |Início: 16/11 <br> Fim: 22/11 | Início: 22/11 <br> Fim: 22/11 | Caio Braga e Caio Lelis | Doan Filho  |
+| Gravação da Apresentação | Início: 22/11 <br> Fim: 22/11 | Início: 22/11 <br> Fim: 22/11 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
+| Postagem da Apresentação | Início: 22/11 <br> Fim: 22/11 | Início: 22/11 <br> Fim: 22/11 | Joel Soares | Miguel de Frias|
+| Cronograma Executado | Início: 16/11 <br> Fim: 22/11 | Início: 22/11 <br> Fim: 22/11 | Miguel de Frias | Gabriel Barbosa |
+| Correções da Entrega 6.1 | Início: 16/11 <br> Fim: 20/11 | Início: 20/11 <br> Fim: 22/11 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
+
+
+<div style="text-align: center">
+    <p> <b>Tabela 155</b>: Tarefas realizadas na Entrega 7 . (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 ## **Entrega 8**
