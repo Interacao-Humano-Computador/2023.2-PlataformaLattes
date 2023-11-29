@@ -426,3 +426,5 @@ A tabela 11 mostra as tarefas do planejamento feito para a entrega 9 do projeto.
 | 3.1    | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |
 |  4.0   | Adição do executado entrega 4  |  Miguel de Frias |   30/10/2023   | Doan Filho |  30/10/2023   |
 |  5.0   | Adição do executado entrega 5  |  Miguel de Frias |   08/11/2023   | Gabriel Barbosa |  08/11/2023   |
+|  6.0   | Adição do executado entrega 6.1  |  Miguel de Frias |  15/11/2023   | Doan Filho |  15/11/2023   |
+|  7.0   | Adição do executado entrega 7  |  Miguel de Frias |   22/11/2023   | Doan Filho |  22/11/2023   |
