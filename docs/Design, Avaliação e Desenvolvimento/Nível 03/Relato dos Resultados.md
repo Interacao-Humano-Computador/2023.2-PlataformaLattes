@@ -436,6 +436,103 @@ Para o reprojeto, é sugerido que seja reavaliado os campos da pesquisa, para qu
 
 <iframe width="560" height="315" src="https://youtu.be/g0ELaXdbvTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## **Buscar Dados de Pesquisas Acadêmicas**
+
+
+## **Objetivos da Avaliação**
+
+A avaliação tem como objetivo principal que o usuário entrevistado valide as ideias e alternativas de design propostas para a tarefa "Buscar Dados de pesquisas Acadêmicas".
+
+## **Procedimentos da Avaliação**
+
+O método selecionado envolve a combinação de observação e entrevistas com os usuários, seguindo um modelo de questões a serem respondidas pelo usuário de maneira pré-definida. 
+
+
+A entrevistada Giovana Barbosa Alencar que contempla os requisitos do nosso perfil de usuário, foi orientada a realizar a tarefa de "Buscar dados de pesquisas acadêmicas" no protótipo de alta fidelidade, enquanto o entrevistador observava e anotava os problemas encontrados. Após a realização da tarefa, o entrevistador realizou uma entrevista com a entrevistada, com base no roteiro de entrevista, para que a entrevistada pudesse relatar os problemas encontrados e dar sugestões de melhorias para o protótipo.
+
+
+## **Seleção dos Participantes**
+
+O participante se encaixa no perfil de usuário, pois é um usuário maior de 18 anos e pesquisadora com alguns projetos universitários presentes no currículo Lattes.
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| Gabriel Barbosa | Giovana Alencar |   18:00    |  18:15  | 28/11/2023 | Residência |
+
+
+<div style="text-align: center">
+    <p> <b>Tabela 11</b>: tabela de seleção dos participantes (Fonte: BARBOSA, Gabriel. 2023).</p>
+</div>
+
+
+|    Participante(s)   |   Função     |
+| :-------------: | :---------------: |
+|   Gabriel Barbosa    | Entrevistador |
+|   Giovana Alencar   | Entrevistado |
+
+<div style="text-align: center">
+    <p> <b>Tabela 12</b>: Funções dos participantes (Fonte: BARBOSA, Gabriel. 2023).</p>
+</div>
+
+## **Questões Éticas** 
+
+Para que a entrevista seja realizada, o entrevistado esteve previamente de acordo com nossos [termos de consentimento](https://unbbr-my.sharepoint.com/:w:/g/personal/211061645_aluno_unb_br/EUZaSOp-u5VBs1zdaqRbHbgBzHhy-r2WnmNvWRohQTtfBg?e=gRm35H), disponível no documento de [aspectos éticos](https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/blob/main/docs/analise-de-requisitos/aspectos-eticos.md).
+
+
+## **Perguntas ao usuário**
+
+| ID | Enunciado| Resposta| Justificativa |
+| :---: | :----------------------------------------------------------: | :-----------------:|:------------|
+|   1   |   A interface apresentada foi de fácil utilização?        |    Sim    | |
+|   2   |  A realização da tarefa solicitada trouxe algum contratempo?   |     Não    | |
+|   3   |  A dispozição dos elementos da tela foi agradável? |     Sim      |  |
+|   4   |  A realização da tarefa solicitada corresponde a expectativa que foi criada ao ser concedida a ideia?  |      Sim      | Porém se explicasse as categorias de filtragem seria melhor |
+|   5   |  Foi encontrada algum erro ou inconsistência durante o uso da interface?   |     Não     | |
+<div style="text-align: center">
+    <p> <b>Tabela 13</b>: tabela de perguntas ao Usuário (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
+</div>
+
+## **Perguntas de Diretriz**
+
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |   Foi possível por parte do usuário operar o sistema?  |  Sim  | 
+|   2   |   O usuário atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Ele cometeu erros? Quantos?       |   Sim. 3 minutos. Sim. 1 erro     | 
+|   3   |    Ele entendeu a funcionalidade a ser testada?     |  Ssmi  | 
+|   4   |   Quais foram os principais problemas notados para o usuário atingir seu objetivo?     |    Categorias de filtragem sem explicação    | 
+|   5  |   O usuário consultou ajuda online ou o manual de usuário?   |     Não    | 
+<div style="text-align: center">
+    <p> <b>Tabela 14</b>: tabela de perguntas de Diretriz. (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
+</div>
+
+
+## **Problemas Identificados**
+
++ O usuário teve um erro de caminho na interface principal
+
+
+## **Opiniões dos usuários**
+
++ Giovana: "Tive facilidade em buscar dados de pesquisa pois a parte de filtragem de busca está livre de poluição visual, informações confusas e botões desnecessários"
+
+
+## **Análise e interpretação das respostas dos resultados**
+
+Após a coleta das respostas do usuário, pode-se inferir que a plataforma deve ser melhorada para ajudar na experiência do usuário.
+
+## **Resumo dos principais resultados**
+
++ O usuário concluiu a tarefa com sucesso;
+
+## **Sugestão de reprojeto para o sistema**
+
+Para o reprojeto, é sugerido que seja adicionada um botão com informações sobre as três principais categorias de filtragem de busca.
+
+## **Entrevista com o Usuário**
+
+<iframe width="700" height="500" src="https://www.youtube.com/embed/rzynIwH2K7Y" title="O bait" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## **Histórico de Versões**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
