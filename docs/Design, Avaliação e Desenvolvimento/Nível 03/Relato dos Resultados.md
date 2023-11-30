@@ -77,11 +77,11 @@ O participante se encaixa no perfil de usuário, pois é um usuário maior de 18
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| Caio Lelis | Amanda Alves Campos |   22:50    |  15:40   | 29/11/2023 | Remoto |
+| Doan Filho | Daniel Nunes |   22:50    |  22:57   | 29/11/2023 | Remoto |
 
 
 <div style="text-align: center">
-    <p> <b>Tabela 1</b>: tabela de seleção dos participantes (Fonte: LELIS,Caio, 2023).</p>
+    <p> <b>Tabela 1</b>: tabela de seleção dos participantes (Fonte: FILHO,Doan, 2023).</p>
 </div>
 
 
@@ -91,7 +91,7 @@ O participante se encaixa no perfil de usuário, pois é um usuário maior de 18
 |   Daniel Nunes   | Entrevistado |
 
 <div style="text-align: center">
-    <p> <b>Tabela 2</b>: Funções dos participantes (Fonte: LELIS,Caio, 2023).</p>
+    <p> <b>Tabela 2</b>: Funções dos participantes (Fonte: Filho,Doan, 2023).</p>
 </div>
 
 ## **Questões Éticas** 
@@ -103,11 +103,11 @@ Para que a entrevista seja realizada, o entrevistado esteve previamente de acord
 
 | ID | Enunciado| Resposta| Justificativa |
 | :---: | :----------------------------------------------------------: | :-----------------:|:------------|
-|   1   |   A interface apresentada foi de fácil utilização?        |        | |
-|   2   |  A realização da tarefa solicitada trouxe algum contratempo?   |           | |
-|   3   |  A dispozição dos elementos da tela foi agradável? |           | or |
-|   4   |  A realização da tarefa solicitada corresponde a expectativa que foi criada ao ser concedida a ideia?  |            |  |
-|   5   |  Foi encontrada algum erro ou inconsistência durante o uso da interface?   |             | |
+|   1   |   A interface apresentada foi de fácil utilização?        |   Sim     | pois era intuitivo e fácil de visualizar |
+|   2   |  A realização da tarefa solicitada trouxe algum contratempo?   |   Não        | |
+|   3   |  A dispozição dos elementos da tela foi agradável? |   Sim         | Estava bonito a interface   |
+|   4   |  A realização da tarefa solicitada corresponde a expectativa que foi criada ao ser concedida a ideia?  |   Sim         | Atendeu minhas expectativas  |
+|   5   |  Foi encontrada algum erro ou inconsistência durante o uso da interface?   |  Sim           |Quandp fpo clicar em voltar |
 <div style="text-align: center">
     <p> <b>Tabela 3</b>: tabela de perguntas ao Usuário (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
 </div>
@@ -116,33 +116,44 @@ Para que a entrevista seja realizada, o entrevistado esteve previamente de acord
 
 | ID | Enunciado| Resposta| 
 | :---: | :----------------------------------------------------------: | :-----------------:|
-|   1   |   Foi possível por parte do usuário operar o sistema?  |    | 
-|   2   |   O usuário atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Ele cometeu erros? Quantos?       |        | 
-|   3   |    Ele entendeu a funcionalidade a ser testada?     |    | 
-|   4   |   Quais foram os principais problemas notados para o usuário atingir seu objetivo?     |        | 
-|   5  |   O usuário consultou ajuda online ou o manual de usuário?   |         | 
+|   1   |   Foi possível por parte do usuário operar o sistema?  |  Sim  | 
+|   2   |   O usuário atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Ele cometeu erros? Quantos?       |  Sim      | 
+|   3   |    Ele entendeu a funcionalidade a ser testada?     |  Sim  | 
+|   4   |   Quais foram os principais problemas notados para o usuário atingir seu objetivo?     |      Não  | 
+|   5  |   O usuário consultou ajuda online ou o manual de usuário?   |  Não       | 
 <div style="text-align: center">
     <p> <b>Tabela 4</b>: tabela de perguntas de Diretriz. (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
 </div>
 
 ## **Problemas Identificados**
+- Muito zoom
+- Não tinha muitos botões clicavéis 
+- Funções dos componentes erradas 
 
 ## **Recomendações de melhoria**
-
+- Ter menos zoom
+- Ter botões clicaveis 
+- E funções executadas de maneria correta 
 
 ## **Opiniões dos usuários**
-
+O site é de fácil ultilização e atendeu as minhas expectativas 
 
 ## **Análise e interpretação das respostas dos resultados**
-
+O protótipo era intuitivo por´em falhou em ter algumas das funionalidades propostas pelo site avilado 
 
 ## **Resumo dos principais resultados**
+- Fácil entendimento e intuitivo 
+- Fluxo correto e correspondente ao site
+- Muito zoom no prototipo
+- Funções não implementadas
 
 ## **Sugestão de reprojeto para o sistema**
 
-Para o reprojeto, é sugerido que seja adicionado um botão de voltar na tela de selecionar imagens e que seja adicionado um nome para cada imagem as quais podem ser adicionadas no projeto.
+É sugerido que retire o zoom demasiado e que tenha mais funções no sitema 
 
 ## **Entrevista com o Usuário**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s2kJh0yN_jQ?si=DEswn1_rvGkd6PZf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 
