@@ -155,10 +155,10 @@ A avaliação tem como objetivo principal que o usuário entrevistado valide as 
 
 ## **Procedimentos da Avaliação**
 
-O método selecionado envolve a combinação de observação e entrevistas com os usuários, seguindo um modelo de questões a serem respondidas pelo usuário de maneira pré-definida. 
+O método selecionado envolve a combinação de observação e entrevistas com os usuários, seguindo um modelo de questões a serem respondidas pelo usuário de maneira pré-definida.
 
 
-O entrevistado Daniel Nunes que contempla os requisitos do nosso perfil de usuário, foi orientado a realizar a tarefa de "Acessar painel lattes" no protótipo de alta fidelidade, enquanto o entrevistador observava e anotava os problemas encontrados. Após a realização da tarefa, o entrevistador realizou uma entrevista com a entrevistada, com base no roteiro de entrevista, para que a entrevistada pudesse relatar os problemas encontrados e dar sugestões de melhorias para o protótipo.
+A entrevistado Wendy Cristhiny que contempla os requisitos do nosso perfil de usuário, foi orientado a realizar a tarefa de "Acessar painel lattes" no protótipo de alta fidelidade, enquanto o entrevistador observava e anotava os problemas encontrados. Após a realização da tarefa, o entrevistador realizou uma entrevista com a entrevistada, com base no roteiro de entrevista, para que a entrevistada pudesse relatar os problemas encontrados e dar sugestões de melhorias para o protótipo.
 
 
 ## **Seleção dos Participantes**
@@ -167,7 +167,7 @@ O participante se encaixa no perfil de usuário, pois é um usuário maior de 18
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| Caio Braga | Wendy  |   22:50    |  15:40   | 29/11/2023 | Remoto |
+| Caio Braga | Wendy  |   22:50    |  23:00   | 29/11/2023 | Remoto |
 
 
 <div style="text-align: center">
@@ -186,53 +186,63 @@ O participante se encaixa no perfil de usuário, pois é um usuário maior de 18
 
 ## **Questões Éticas** 
 
-Para que a entrevista seja realizada, o entrevistado esteve previamente de acordo com nossos [termos de consentimento](https://unbbr-my.sharepoint.com/:w:/g/personal/211061645_aluno_unb_br/EUZaSOp-u5VBs1zdaqRbHbgBzHhy-r2WnmNvWRohQTtfBg?e=gRm35H), disponível no documento de [aspectos éticos](https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/blob/main/docs/analise-de-requisitos/aspectos-eticos.md).
+Para que a entrevista seja realizada, o entrevistado esteve previamente de acordo com nossos [Termos de consentimento](https://unbbr-my.sharepoint.com/:w:/g/personal/211061645_aluno_unb_br/EUZaSOp-u5VBs1zdaqRbHbgBzHhy-r2WnmNvWRohQTtfBg?e=gRm35H), disponível no documento de [aspectos éticos](https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/blob/main/docs/analise-de-requisitos/aspectos-eticos.md).
 
 
 ## **Perguntas ao usuário**
 
 | ID | Enunciado| Resposta| Justificativa |
 | :---: | :----------------------------------------------------------: | :-----------------:|:------------|
-|   1   |   A interface apresentada foi de fácil utilização?        |        | |
-|   2   |  A realização da tarefa solicitada trouxe algum contratempo?   |           | |
-|   3   |  A dispozição dos elementos da tela foi agradável? |           | or |
-|   4   |  A realização da tarefa solicitada corresponde a expectativa que foi criada ao ser concedida a ideia?  |            |  |
-|   5   |  Foi encontrada algum erro ou inconsistência durante o uso da interface?   |             | |
+|   1   |   A interface apresentada foi de fácil utilização?        |    Sim    | A usuária achou  a interface intuitiva e agradável |
+|   2   |  A realização da tarefa solicitada trouxe algum contratempo?   |      Não     | |
+|   3   |  A disposição dos elementos da tela foi agradável? |      Sim     | A usuária deu esse retorno ao protótipo |
+|   4   |  A realização da tarefa solicitada corresponde a expectativa que foi criada ao ser concedida a ideia?  |      Sim      |  |
+|   5   |  Foi encontrada algum erro ou inconsistência durante o uso da interface?   |        Sim     |  Cerca de 2 erros ao clicar nos botões do Painel Lattes |
 <div style="text-align: center">
-    <p> <b>Tabela 3</b>: tabela de perguntas ao Usuário (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
+    <p> <b>Tabela 3</b>: tabela de perguntas ao Usuário (Fonte: Caio Braga, 2023).</p>
 </div>
 
 ### **Perguntas de Diretriz**
 
 | ID | Enunciado| Resposta| 
 | :---: | :----------------------------------------------------------: | :-----------------:|
-|   1   |   Foi possível por parte do usuário operar o sistema?  |    | 
-|   2   |   O usuário atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Ele cometeu erros? Quantos?       |        | 
-|   3   |    Ele entendeu a funcionalidade a ser testada?     |    | 
-|   4   |   Quais foram os principais problemas notados para o usuário atingir seu objetivo?     |        | 
-|   5  |   O usuário consultou ajuda online ou o manual de usuário?   |         | 
+|   1   |   Foi possível por parte do usuário operar o sistema?  | Sim   | 
+|   2   |   O usuário atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Ele cometeu erros? Quantos?       |   Sim, de maneira um pouco mais lenta que o esperado. Poucos erros, sendo 2 contabilizados.     | 
+|   3   |    Ele entendeu a funcionalidade a ser testada?     |   Sim  | 
+|   4   |   Quais foram os principais problemas notados para o usuário atingir seu objetivo?     |  Formato dos botões       | 
+|   5  |   O usuário consultou ajuda online ou o manual de usuário?   |     Não    | 
 <div style="text-align: center">
     <p> <b>Tabela 4</b>: tabela de perguntas de Diretriz. (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
 </div>
 
 ## **Problemas Identificados**
 
+A usuária nos ajudou a encontrar bugs em botões do Painel Lattes, dando uma perspectiva nova sobre como esses elementos estão sujeitos a falha nos protótipos
+
 ## **Recomendações de melhoria**
+
+A usuária recomendou que além do tamanho do celular, que a interface se adaptasse também ao tablet, que foi o dispositivo que ela utilizou no momento da avaliação.
 
 
 ## **Opiniões dos usuários**
 
+A usuária achou a interface agradável e de fácil aprendizado, uma vez que as fontes estão com boa visibilidade e os ícones trazem uma boa noção das funcionalidades para o usuário.
+
 
 ## **Análise e interpretação das respostas dos resultados**
 
+Conclui-se então, que:
 
-## **Resumo dos principais resultados**
+- A usuária entendeu facilmente como utilizar de maneira eficaz a interface, obtendo alguns erros apenas.
+- Os bugs dos botões da aba do Painel Lattes e a falta de responsividade para um dispositivo mobile específico devem ser corrigidos
 
 ## **Sugestão de reprojeto para o sistema**
 
 Para o reprojeto, é sugerido que seja adicionado um botão de voltar na tela de selecionar imagens e que seja adicionado um nome para cada imagem as quais podem ser adicionadas no projeto.
 
 ## **Entrevista com o Usuário**
+
+<iframe width="700" height="315" src="https://www.youtube.com/embed/hsU-epk7t3E?si=OyMws8QbwNdMZX2F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
