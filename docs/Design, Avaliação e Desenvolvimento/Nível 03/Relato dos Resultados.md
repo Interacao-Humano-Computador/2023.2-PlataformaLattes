@@ -545,6 +545,99 @@ Para o reprojeto, é sugerido que seja adicionada um botão com informações so
 
 <iframe width="700" height="500" src="https://www.youtube.com/embed/rzynIwH2K7Y" title="O bait" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## **Buscar Instituição**
+
+
+## **Objetivos da Avaliação**
+
+A avaliação tem como objetivo principal que o usuário entrevistado valide as ideias e alternativas de design propostas para a tarefa "Buscar Instituição".
+
+## **Procedimentos da Avaliação**
+
+O método selecionado envolve a combinação de observação e entrevistas com os usuários, seguindo um modelo de questões a serem respondidas pelo usuário de maneira pré-definida. 
+
+
+O entrevistado Felipe Bacelar, que atende aos critérios do nosso perfil de usuário, recebeu a orientação de executar a ação de "Buscar Instituição" no protótipo de alta fidelidade, enquanto o entrevistador observava atentamente e registrava as questões identificadas. Após a conclusão da tarefa, foi conduzida uma entrevista com o entrevistado, seguindo um roteiro predefinido, para que ele pudesse compartilhar suas experiências, apontar os problemas encontrados e oferecer sugestões de aprimoramento para o protótipo.
+
+
+## **Seleção dos Participantes**
+
+O participante se encaixa no perfil de usuário, pois é um usuário maior de 18 anos e conta com alguns projetos universitários presentes no currículo Lattes.
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| Guilherme Basilio | Felipe Bacelar |   19:30    |  19:45   | 29/11/2023 | Casa do entrevistado - Parkway |
+
+<div style="text-align: center">
+    <p> <b>Tabela 1</b>: tabela de seleção dos participantes (Fonte: BASILIO,Guilherme, 2023).</p>
+</div>
+
+## **Questões Éticas** 
+
+Para que a entrevista seja realizada, o entrevistado esteve previamente de acordo com nossos [termos de consentimento](https://unbbr-my.sharepoint.com/:w:/g/personal/211061645_aluno_unb_br/EUZaSOp-u5VBs1zdaqRbHbgBzHhy-r2WnmNvWRohQTtfBg?e=gRm35H), disponível no documento de [aspectos éticos](https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/blob/main/docs/analise-de-requisitos/aspectos-eticos.md).
+
+
+## **Perguntas ao usuário**
+
+| ID | Enunciado| Resposta| Justificativa |
+| :---: | :----------------------------------------------------------: | :-----------------:|:------------|
+|   1   |   A interface apresentada foi de fácil utilização?        |     Sim        | As telas com as informações mais reduzidas fez com que a interface fique mais agradável e de fácil entendimento |
+|   2   |  A realização da tarefa solicitada trouxe algum contratempo?   |     Não         | 
+|   3   |  A dispozição dos elementos da tela foi agradável? |     Sim         | A interação em relação ao padrão antigo está muito mais agradável  |
+|   4   |  A realização da tarefa solicitada corresponde a expectativa que foi criada ao ser concedida a ideia?  |     Sim         | O número de cliques até o objetivo gerou um certo desconforto |
+|   5   |  Foi encontrada algum erro ou inconsistência durante o uso da interface?   |     Não         | Todo o caminho foi percorrido sem erros ou inconsistências |
+
+<div style="text-align: center">
+    <p> <b>Tabela 3</b>: tabela de perguntas ao Usuário (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
+</div>
+
+### **Perguntas de Diretriz**
+
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |   Foi possível por parte do usuário operar o sistema?  |     Sim     | 
+|   2   |   O usuário atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Ele cometeu erros? Quantos?       |     O usuário conseguiu se sair bem na realização da tarefa, porém , o número de cliques até o objetivo gerou um certo desconforto   | 
+|   3   |   Ele entendeu a funcionalidade a ser testada?     |     Sim     | 
+|   4   |   Quais foram os principais problemas notados para o usuário atingir seu objetivo?     |     O número de cliques necessários e adicionar um botão de retornar na página de buscar instituição    | 
+|   5   |   O usuário consultou ajuda online ou o manual de usuário?   |     Apenas o Script mostrado    | 
+
+<div style="text-align: center">
+    <p> <b>Tabela 4</b>: tabela de perguntas de Diretriz. (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
+</div>
+
+## **Problemas Identificados**
+
+Após a avaliação, segue as perguntas e respostas onde consequentemente foram identificados os problemas:
+
+- Número de cliques excessivos para realizar a busca.
+- Mudança de interface durante o processo não agradou.
+- Falta de um botão para voltar para página intituições.
+
+## **Recomendações de melhoria**
+
+O usuário recomendou como melhoria os seguintes itens:
+
+- Diminuir o número de cliques necessários para realizar a busca.
+- Adicionar um botão de retornar na página de buscar instituição.
+
+## **Opiniões dos usuários**
+
+O usuário se contentou bastante com as funções e a interface do sistema, e gostou da menor quantidade de informações na tela, o que tornou a interface mais limpa e intuitiva.
+
+## **Análise e interpretação das respostas dos resultados**
+
+
+## **Resumo dos principais resultados**
+
+- O usuário concluiu a tarefa com sucesso;
+- Desconforto com o número de cliques para buscar
+- Falta de botão de voltar na tela de buscar instituição
+
+## **Sugestão de reprojeto para o sistema**
+
+Para o reprojeto, é sugerido que seja adicionado um botão de voltar para a página instituições na tela de buscar instituição e que o número de cliques para buscar seja reduzido.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KP2jTfIwHkpBxF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **Histórico de Versões**
 
