@@ -60,13 +60,13 @@ A Tabela 2 fornece uma visão geral dos participantes e funções.
 Tabela 02 - Participantes e funções. (Fonte: autores, 2023)
 </p>
 
+## **Questões éticas**
+
+O relato dos resultados deve abordar como as questões éticas foram consideradas durante a Avaliação do Protótipo de Alta Fidelidade, e o termo de consentimento utilizado no processo.
 ## **Problemas identificados**
 
 Este tópico deverá apresentar uma análise e interpretação dos resultados obtidos a partir da avaliação. Essa análise deve ser realizada com os dados coletados e extraindo conclusões relevantes para a melhora do artefato. É recomendação, que o avaliador contextualize os resultados com os objetivos da avaliação. Além disso, deverão ser apresentados todos os problemas identificados, detalhando como eles ocorrem, onde eles ocorrem e o impacto na usabilidade e experiência do usuário na utilização do sistema.
 
-## **Questões éticas**
-
-O relato dos resultados deve abordar como as questões éticas foram consideradas durante a Avaliação do Protótipo de Alta Fidelidade, e o termo de consentimento utilizado no processo.
 
 ## **Recomendações de melhoria**
 
