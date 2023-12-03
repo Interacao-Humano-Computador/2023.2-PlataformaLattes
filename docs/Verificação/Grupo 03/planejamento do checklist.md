@@ -14,7 +14,7 @@ O artefato em questão, tem como principal objetivo a separação dos autores de
 A separação tem como base a divisão de cada checklist em 2 critérios, sendo eles:
 
 - **Critério 1:** O checklist não deve ser feito pelo autor do artefato.
-- **Critério 2:** O checklist deve ser feito por um membro autor principal e um membro autor secundário, estes irão realizar a verificação dos artefatos correspondentes. Após isso, uma nova inspeção deverá ser feita pelo membro autor principal para a consolidação de problemas e após a verificação, o checklist deve ser enviado para o autor do artefato para que este possa realizar a verificação final.
+- **Critério 2:** O checklist deve ser avliado por um membro verificador principal e um membro verificador secundário, estes irão realizar a verificação dos artefatos correspondentes. Após isso, uma nova inspeção deverá ser feita pelo membro autor principal para a consolidação de problemas e após a verificação, o checklist deve ser relatado para que o autor do artefato possa realizar a verificação  e correções finais.
 
 ## Separando os autores
 
