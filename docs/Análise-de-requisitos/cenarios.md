@@ -84,7 +84,7 @@ Para criar os cenários do projeto, foi usado como base o [perfil de usuário](h
 
 
 
-### **Acessar uma Bases de Dados específica**
+### **Acessar uma Base de Dados específica**
 
 
 |    Elemento  |  Descrição   |

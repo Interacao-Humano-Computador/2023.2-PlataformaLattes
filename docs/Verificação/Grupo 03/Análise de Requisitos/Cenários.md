@@ -33,13 +33,13 @@ Para efetuar a verificação do artefato, adotaremos a abordagem de inspeção, 
 
 Os problemas encontrados serão analisador e posteriormente arrumados pelo autor do artefato. Aqui estão:
 
--  Problema 01 : Sugestão de melhoria;
--  Problema 02 : Sugestão de melhoria;
--  Problema 03 : Sugestão de melhoria.
+-  O cenário "Atualizar currículo" não possui os tópicos de restrição e execção, é imprescindível que esses tópicos estejam presentes para que o cenário possa estar padronizado com os outros e melhor compreendido;
+-  Os cenários estão destinados a um só tipo de fluxo, é interessante que eles mostrem os outros pontos de vista de um cenário;
+
 
 ## Gravação com Avaliador Secundário:
 
-(Link para a gravação)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uTI_RkE6VHM?si=pYd3Qk1f5HpzTM24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Gravação do Avaliador Principal
 

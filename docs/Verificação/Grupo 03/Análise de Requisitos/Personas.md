@@ -35,17 +35,18 @@ Para efetuar a verificação do artefato, adotaremos a abordagem de inspeção, 
 
 Os problemas encontrados serão analisador e posteriormente arrumados pelo autor do artefato. Aqui estão:
 
--  Problema 01 : Sugestão de melhoria;
--  Problema 02 : Sugestão de melhoria;
--  Problema 03 : Sugestão de melhoria.
+- As personas presentes no artefato, não possuem os seguintes tópicos: objetivos , tarefas, requisitos, relacionamentos, é imprescindível que esses tópicos estejam presentes para que as personas possam ser melhor compreendidas;
+-  Imagens das Personas estão quebrdas , é de suma importância que as imagens estejam funcionando para que o leitor possa ter uma melhor experiência do artefato;
+-  Fontes e legendas de tabelas estão muito a esquerda das tabelas, é de suma importância que as fontes e legendas estejam centralizadas para que o leitor possa ter uma melhor experiência do artefato;
+-  O texto de introdução tem mais significado para um texto de objetivos , para aprimorar o artefato, é legal que se faça uma correção do tópico de introdução.
 
 ## Gravação com Avaliador Secundário:
 
-(Link para a gravação)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WecWAfxXsXo?si=us8E_L1ykUCki5FF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Gravação do Avaliador Principal
 
-(Link para a gravação)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ezA0G-bwQPM?si=KkRlFUHyVf6nXNU9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Bibliografia
