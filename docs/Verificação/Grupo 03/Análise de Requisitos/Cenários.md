@@ -43,7 +43,7 @@ Os problemas encontrados serão analisador e posteriormente arrumados pelo autor
 
 ## Gravação do Avaliador Principal
 
-(Link para a gravação)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XfnCzAP2MFM?si=4VjJoGhpLemF6XSO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Bibliografia
