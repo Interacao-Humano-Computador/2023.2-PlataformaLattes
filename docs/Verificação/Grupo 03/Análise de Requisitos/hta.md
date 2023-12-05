@@ -35,6 +35,10 @@ Os problemas encontrados serão analisador e posteriormente arrumados pelo autor
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ee9lpa7K4A8?si=Rrcaxwn4oIDB6zM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Gravação com Avaliador primário:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TrqRTFhndck?si=fscpJNtgTwfYaPRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## Bibliografia
 
 

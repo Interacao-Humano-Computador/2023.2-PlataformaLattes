@@ -29,7 +29,9 @@ Para efetuar a verificação do artefato, adotaremos a abordagem de inspeção, 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MD6At70EYFM?si=K_ZBc8C4ijLU2XNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Gravação do Avaliador Principal
----
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fWWTQaecfhE?si=aGu6vGDKMPDJ6B1O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 ## Bibliografia
 
