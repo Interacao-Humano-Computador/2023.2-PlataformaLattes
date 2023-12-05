@@ -86,6 +86,24 @@ Os problemas encontrados serão analisador e posteriormente arrumados pelo autor
 - É necessário apresentar a gravação da validação com o usuário
 
 
+## **Resultados Obtidos**
+
+
+A figura abaixo mostra a relação entre os itens avaliados e a quantidade de avaliadores que marcaram como **Conforme**, **Não Conforme** ou **Incompleto**.
+
+<center>
+
+**Gráfico 1**: Gráfico de setores dos dados coletados na Verificação do artefato Observação
+</center>
+
+<script src="//my.visme.co/visme-embed.js"></script><div class="visme_d" data-title="Gráfico-Observação (IHC)" data-url="90pe0exp-grafico-observacao-ihc" data-w="1700" data-full-h="false" data-h="1080" data-domain="my"></div>
+
+<center>
+
+**Fonte**: BRAGA, Caio.
+</center>
+
+
 ## **Bibliografia**
 
 > Capítulo 7, VAZQUEZ, Carlos; SIMÕES, Guilherme. Engenharia 

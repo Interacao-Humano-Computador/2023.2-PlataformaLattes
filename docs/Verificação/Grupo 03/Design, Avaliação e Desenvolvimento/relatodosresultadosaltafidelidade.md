@@ -9,6 +9,8 @@ Esse documento se trata da etapa de verificação do artefato Relato dos resulta
 
 Para efetuar a verificação do artefato, adotaremos a abordagem de inspeção, buscando identificar possíveis problemas a fim de garantir a qualidade. Para isso, será desenvolvido um checklist de verificação, levando em consideração as orientações e materiais fornecidos pelo professor durante as aulas. O checklist abrangerá perguntas levando em conta a requisitos contidos no plano de ensino apresentado na [disciplina](https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf) relacionadas e à formatação, padronização e versionamento dos artefatos, seguidas de questionamentos referentes ao conteúdo a ser verificado .
 
+A lista de verificação com todas as referências bibliográficas pode ser acessada no seguinte <a href = "https://docs.google.com/document/d/e/2PACX-1vQUOn-oEY0DjSJD33mpaOLZaZs0Lm1HdMwpOdHN6b_HQxRCr5TPxJispfK29IiM7w6hOZhFnVFXS-_P/pub">link</a>.
+
 
 ## Participantes relacionados a verificação do Artefato
 

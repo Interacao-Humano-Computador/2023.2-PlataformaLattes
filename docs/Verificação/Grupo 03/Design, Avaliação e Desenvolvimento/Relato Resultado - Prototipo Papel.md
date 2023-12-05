@@ -86,6 +86,23 @@ Os problemas encontrados serão analisador e posteriormente arrumados pelo autor
 - Faltam algumas tabelas no artefato 
 
 
+## **Resultados Obtidos**
+
+
+A figura abaixo mostra a relação entre os itens avaliados e a quantidade de avaliadores que marcaram como **Conforme**, **Não Conforme** ou **Incompleto**.
+
+<center>
+
+**Gráfico 1**: Gráfico de setores dos dados coletados na Verificação do artefato Protótipo de Papel
+</center>
+
+<script src="//my.visme.co/visme-embed.js"></script><div class="visme_d" data-title="Gráfico-PrototipoPapel (IHC)" data-url="4djgdqny-grafico-prototipopapel-ihc" data-w="1700" data-full-h="false" data-h="1080" data-domain="my"></div>
+
+<center>
+
+**Fonte**: BRAGA, Caio.
+</center>
+
 ## **Bibliografia**
 
 > Capítulo 8, JENNIFER PREECE & YVONNE ROGERS & HELEN SHARP. Design de Interação: Além da interação homem-computador. John Wiley e Sons. São Paulo - SP. 1ª Edição. Editora Erica, 2005.
