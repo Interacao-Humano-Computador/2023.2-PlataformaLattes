@@ -37,6 +37,18 @@ Os problemas encontrados serão analisador e posteriormente arrumados pelo autor
 -  Os cenários estão destinados a um só tipo de fluxo, é interessante que eles mostrem os outros pontos de vista de um cenário;
 
 
+## **Resultados Obtidos**
+
+
+A figura abaixo mostra a relação entre os itens avaliados e a quantidade de avaliadores que marcaram como **Conforme**, **Não Conforme** ou **Incompleto**.
+
+<center>
+
+**Gráfico 1**: Relação entre os itens avaliados e a quantidade de avaliadores que marcaram como **Conforme**, **Não Conforme** ou **Incompleto**.
+</center>
+
+<script src="//my.visme.co/visme-embed.js"></script><div class="visme_d" data-title="Copy of Market Share Pie Chart Square" data-url="31o41m6r-copy-of-market-share-pie-chart-square" data-w="1200" data-full-h="false" data-h="1500" data-domain="my"></div><p style="width:142px !important;border-radius:3px !important;padding:3px !important;font-size:12px !important;font-family:Arial, sans-serif !important;color:#314152 !important;white-space:nowrap !important">Feito com <a href="https://www.visme.co/?vc=Made-With-Visme&amp;utm_medium=Embed" target="_blank" rel="noreferrer" style="font-weight:600 !important;text-decoration:none !important;font-size:12px !important;font-family:Arial, sans-serif !important;color:#314152 !important;white-space:nowrap !important">Visme</a></p>
+
 ## Gravação com Avaliador Secundário:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uTI_RkE6VHM?si=pYd3Qk1f5HpzTM24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
