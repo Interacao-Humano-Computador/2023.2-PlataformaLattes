@@ -40,6 +40,18 @@ Os problemas encontrados serão analisador e posteriormente arrumados pelo autor
 -  Fontes e legendas de tabelas estão muito a esquerda das tabelas, é de suma importância que as fontes e legendas estejam centralizadas para que o leitor possa ter uma melhor experiência do artefato;
 -  O texto de introdução tem mais significado para um texto de objetivos , para aprimorar o artefato, é legal que se faça uma correção do tópico de introdução.
 
+## **Resultados Obtidos**
+
+
+A figura abaixo mostra a relação entre os itens avaliados e a quantidade de avaliadores que marcaram como **Conforme**, **Não Conforme** ou **Incompleto**.
+
+<center>
+
+**Gráfico 1**: Relação entre os itens avaliados e a quantidade de avaliadores que marcaram como **Conforme**, **Não Conforme** ou **Incompleto**.
+</center>
+
+<script src="//my.visme.co/visme-embed.js"></script><div class="visme_d" data-title="Copy of Copy of Market Share Pie Chart Square" data-url="1jkgj86w-copy-of-copy-of-market-share-pie-chart-square" data-w="1200" data-full-h="false" data-h="1500" data-domain="my"></div><p style="width:142px !important;border-radius:3px !important;padding:3px !important;font-size:12px !important;font-family:Arial, sans-serif !important;color:#314152 !important;white-space:nowrap !important">Feito com <a href="https://www.visme.co/?vc=Made-With-Visme&amp;utm_medium=Embed" target="_blank" rel="noreferrer" style="font-weight:600 !important;text-decoration:none !important;font-size:12px !important;font-family:Arial, sans-serif !important;color:#314152 !important;white-space:nowrap !important">Visme</a></p>
+
 ## Gravação com Avaliador Secundário:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WecWAfxXsXo?si=us8E_L1ykUCki5FF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

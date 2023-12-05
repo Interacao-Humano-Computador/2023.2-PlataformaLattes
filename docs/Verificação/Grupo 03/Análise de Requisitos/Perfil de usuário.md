@@ -26,6 +26,8 @@ Para realizar a análise do artefato, optaremos por uma abordagem de revisão mi
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTjurOltQ8buLmH9JwC1dvm3DaijTZcAxl4NPrMj5TWQ7QSZPtleytC5Bz52ZHk8UchQ1J7pKPVKUmq/pubhtml?gid=86061468&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
+Para acessar as fontes do checklist, clique [aqui](https://docs.google.com/document/d/e/2PACX-1vQiYTb1kbkOCVaz8YJ2ATAFGSFRqxsvD19nF9ljIP2Yu7Bl9MN1EhJxZfgOJ0rgbp82Xg0ifzkuqWqm/pub)
+
 ## Problemas Encontrados e Sugestões de melhorias 
 
 Os problemas encontrados serão analisador e posteriormente arrumados pelo autor do artefato. Aqui estão:

@@ -42,6 +42,8 @@ As tabelas 1 e 2 apresentam, respectivamente, os itens gerais e específicos a s
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTjurOltQ8buLmH9JwC1dvm3DaijTZcAxl4NPrMj5TWQ7QSZPtleytC5Bz52ZHk8UchQ1J7pKPVKUmq/pubhtml?gid=1593298658&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
 
+Para acessar as fontes do checklist, clique [aqui](https://docs.google.com/document/d/e/2PACX-1vSRoMlKEyuKCcHyauw_vZfQOpG98yWYl0Kjn0nS8oJuk8Go_9geY6wDv5TR-x0BI2ll7A2ZmrE9OyQq/pub)
+
 <center>
 
 **Fonte**: BRAGA, Caio. FILHO, Doan
