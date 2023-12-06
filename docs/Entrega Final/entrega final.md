@@ -468,12 +468,12 @@ Esse ciclo de vida foi interessante para o nosso projeto devido a sua iterativid
 
 **Figura 1:** Ciclo de vida de Mayhew
 
-<img src="../assets/ciclo-de-vida-mayhew.png">
+<img src="../assets/figura4.png">
 
 **Fonte:** MAYHEW, D.
 
 
-
+</center>
 
 
 # **Site Selecionado**
@@ -562,5 +562,63 @@ A separação está presente na seguinte tabela:
 </center>
 
 
+</center>
 
+
+
+
+# **Apresentações**
+
+## **Apresentação 01** 
+
+## Introdução 
+Neste documento apresentamos a primeira entrega da disciplina Interação Humano-Computador que ocorreu ao longo do semestre de 2023.2, que vai de 25/08/23 a 23/12/23
+
+
+## **Apresentação 01**
+<iframe width="630" height="315" src="https://www.youtube.com/embed/bwlY-2RxFxU?si=EV0e5TgiylBSF_HV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+## **Apresentação 02** 
+
+## Introdução 
+Neste documento apresentamos a primeira entrega da disciplina Interação Humano-Computador que ocorreu ao longo do semestre de 2023.2, que vai de 25/08/23 a 23/12/23
+
+
+
+## **Apresentação 02**
+<iframe width="630" height="315" src="https://www.youtube.com/embed/e6u5WfRGBVM?si=GgwjmSfQJ0lL1nHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+# **Apresentação 03** 
+
+## Introdução 
+Neste documento apresentamos a quarta entrega da disciplina Interação Humano-Computador que ocorreu ao longo do semestre de 2023.2, que vai de 25/08/23 a 23/12/23
+
+## **Apresentação 03**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OxsfxQjtAvc?si=q1jvchdBetbSIKiq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+# **Apresentação 04** 
+
+## Introdução 
+Neste documento apresentamos a quarta entrega da disciplina Interação Humano-Computador que ocorreu ao longo do semestre de 2023.2, que vai de 25/08/23 a 23/12/23
+
+## **Apresentação 04**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-p1UQlNPotI?si=G2YRbrSwKA38sPBt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+# **Apresentação de Verificação** 
+
+## Introdução 
+Neste documento apresentamos a quarta entrega da disciplina Interação Humano-Computador que ocorreu ao longo do semestre de 2023.2, que vai de 25/08/23 a 23/12/23
+
+## **Apresentação 05**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-p1UQlNPotI?si=G2YRbrSwKA38sPBt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+# Resultados Alcançados
 
