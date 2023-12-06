@@ -13,6 +13,9 @@
 |<img src = "../assets/thispersona.png" width = 150px>|This person does not exist | Ferramenta para gerar pessoas ficticias|
 |<img src = "../assets/youtube.png" width = 150px>|YouTube|Aplicativo para postar os vídeos|
 |<img src = "../assets/github.png" width = 150px>|GitHub|Ferramenta para fazer o versionamento dos códigos|
+|<img src = "../assets/discord.png" width = 150px>|Discord|Aplicativo utilizado para fazer reuniões|
+|<img src = "../assets/obs.png" width = 150px>|OBS Studio| Aplicativo utilizado para gravações |
+|<img src = "../assets/figma.png" width = 150px>|Figma| Ferramenta utilizada para a realização de protótipos |
 
 
 ## **Bibliografia**
@@ -29,9 +32,16 @@
 
 > [6] Github, Disponível em : <https://github.com> ,  Acesso 28 de Setembro de 2023
 
+> [7] Discord, Disponível em : <https://discord.com/> ,  Acesso 06 de dezembro de 2023
+
+> [8] OBS Studio, Disponível em : <https://obsproject.com/pt-br> ,  Acesso 06 de dezembro de 2023
+
+> [9] Figma, Disponível em : <https://www.figma.com/design/> ,  Acesso 06 de dezembro de 2023
+
 ## **Histórico de Versões**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   |Versão Inicial |   Doan Filho  |   29/09/2023   | Miguel Matos  |       02/10/2023      |
 | 1.1    | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |
+| 1.2    | Adição de Ferramentas  | Miguel de Frias | 06/12/2023 | Guilherme Basilio  | 06/12/2023 |
