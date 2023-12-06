@@ -39,11 +39,15 @@ Para conseguir as imagens, foi utilizado o site [This person does not exist](htt
 | :----: | :---------------------: |
 |  Nome  |   Maria Dale   |
 |  Foto  |   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/img/Persona1.png" width = 100px><p>Imagem:  persona 1 |
-| Descrição | Maria Dale, 25 anos, Estudante de pós-graduação e assistente de pesquisa, reside em São Paulo |
+| Descrição | Maria Dale, 25 anos, Estudante de pós-graduação e assistente de pesquisa, reside em São | 
+| Relacionamentos |  Familiares, amigas, e Henrique o principal professor de sua graduação   |
 | Tipo| Persona primária |
 | Informações | Maria concluiu seu Ensino Médio com distinção e prosseguiu sua educação, obtendo um diploma de Graduação em Ciências Sociais. Atualmente, ela está no segundo ano de seu Mestrado em Antropologia, pesquisando sobre as mudanças culturais nas comunidades indígenas do Brasil. Como estudante de pós-graduação, Maria é uma discente apaixonada e comprometida. Ela também trabalha como assistente de pesquisa em seu departamento universitário e dá aulas de apoio a alunos de graduação, demonstrando sua versatilidade no mundo acadêmico. |
+| Objetivos |  Maria planeja manter um perfil acadêmico bem organizado, atualizado com suas publicações, projetos e atividades de ensino, facilitando sua visibilidade na comunidade acadêmica e colaborações com outros pesquisadores.  |
 | Habilidades | Ela sabe como integrar e manter seus dados de pesquisador do CNPq atualizados em seu perfil Lattes, garantindo consistência entre as plataformas |
-| Expectativas | Maria planeja manter um perfil acadêmico bem organizado, atualizado com suas publicações, projetos e atividades de ensino, facilitando sua visibilidade na comunidade acadêmica e colaborações com outros pesquisadores. |
+|  Tarefas |  Acorda cedo, vai para o local de sua pós graduação, vai ao trabalho, e passa o restante do dia lendo, estudando e incrementando sua pesquisa sobre antropologia  |
+| Expectativas | Um sistema que cumpra com seus principais objetivos |
+| Requisitos |  Manter seu perfil atualizado, à medida que suas possíveis pesquisas são lançadas   |
 
 Tabela 1: Primeira persona. (SOARES, Joel 2023)
 
@@ -54,10 +58,14 @@ Tabela 1: Primeira persona. (SOARES, Joel 2023)
 |  Nome  | Leonardo Moura  |
 |  Foto  |   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/img/Persona2.png" width = 100px><p>Imagem:  persona 2 |
 | Descrição | Leonardo moura, 18 anos, Estudante de ensino médio,  reside na cidade de Belo Horizonte, Minas Gerais, Brasil. |
+| Relacionamentos |  Familiares, amigos e namorada |
 | Tipo | Persona primária |
 | Informações | Leonardo é um jovem digitalmente nativo, com grandes interessem em ciências e pesquisa. Ele é membro ativo do clube de ciências da escola e participa de competições de ciências regionais. Além disso, ele já participou de projetos de pesquisa escolares e demonstrou paixão por investigar tópicos científicos|
+| Objetivos |  Leonardo está ansioso para continuar sua jornada acadêmica após a conclusão do ensino médio e tem interesse em ingressar em um curso de graduação relacionado às ciências.  |
 | Habilidades | Leonardo tem conhecimento básico sobre a plataforma Lattes, especialmente devido à sua participação em projetos de pesquisa na escola e seu envolvimento com o clube de ciências. |
-| Expectativas |Leonardo está ansioso para continuar sua jornada acadêmica após a conclusão do ensino médio e tem interesse em ingressar em um curso de graduação relacionado às ciências. |
+|  Tarefas |  Acorda cedo, vai à escola, e passa o resto do dia estudando para o vestibular  |
+| Expectativas | Espera que o sistema seja fácil de usar, contribuindo para seus objetivos |
+| Requisitos |  Que o site tenha pesquisas e artigos relevantes para a comunidade  |
 
 Tabela 2: Segunda persona. (SOARES, Joel 2023)
 
@@ -69,10 +77,15 @@ Tabela 2: Segunda persona. (SOARES, Joel 2023)
 |  Nome  | Renato Abreu  |
 |  Foto  |   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/img/Persona3.png" width = 100px><p>Imagem:  persona3 |
 | Descrição | Renato Abreu, 65 anos, Aposentado, reside em Florianópolis-SC|
+| Relacionamentos |  A esposa Cátia, seus filhos e netos, grandes amigos de infância e carreira, e um cachorro  |
 | Tipo | Persona primária |
 | Informações |  Ao longo de sua carreira como engenheiro civil, Renato trabalhou em uma variedade de projetos de construção e desenvolvimento de infraestrutura em toda a região. Ele ocupou cargos de alta responsabilidade e acumulou vasta experiência em gestão de projetos. |
+| Objetivos |  Renato está interessado em usar a plataforma Lattes para manter-se atualizado sobre os avanços e as pesquisas em sua área de engenharia civil, mesmo após sua aposentadoria.  |
 | Habilidades | Renato tem um conhecimento básico sobre a plataforma Lattes, principalmente devido à sua exposição ao mundo acadêmico durante sua carreira profissional e ao interesse em pesquisa e desenvolvimento na engenharia civil. Ele entende que o Lattes é uma plataforma usada por acadêmicos e pesquisadores para apresentar suas realizações e projetos de pesquisa. |
-| Expectativas | Renato está interessado em usar a plataforma Lattes para manter-se atualizado sobre os avanços e as pesquisas em sua área de engenharia civil, mesmo após sua aposentadoria. |
+|  Tarefas |  Acorda muito cedo e aproveita a vida de aposentado, além de não deixar a engenharia/construção civil de lado no seu cotidiano.  |
+| Expectativas | Espera que o sistema simples de usar, contendo informações que não o façam perder tempo. |
+| Requisitos |   Deseja pesquisar e se manter atualizado acerca das pesquisas científicas de sua área de formação   |
+
 
 Tabela 3: Terceira persona. (SOARES, Joel 2023)
 
@@ -83,10 +96,14 @@ Tabela 3: Terceira persona. (SOARES, Joel 2023)
 |  Nome  | Eduardo Aragão |
 |  Foto  |   <img src="../assets/Persona4.png" width = 100px><p>Imagem:  persona 4 |
 | Descrição | Eduardo Aragão, 12 anos, estudante em unidade pública, reside em Guará-DF|
+| Relacionamentos |  Familiares e amigos da escola   |
 | Tipo | Anti-Persona |
 | Informações | Eduardo Aragão é um menino de 12 anos que mora na região de Guará, no Distrito Federal. Ele está no início da adolescência e atualmente cursa o ensino fundamental. Eduardo é uma anti persona no contexto da plataforma Lattes, pois, devido à sua idade e estágio de educação, não tem motivo nem necessidade de usar a plataforma. |
+| Objetivos |  Jogar bola, video-game, estudar e beijar a clarinha |
 | Habilidades | Eduardo está em fase de aprendizado acadêmico básico, e suas habilidades estão principalmente focadas em matérias como matemática, língua portuguesa, ciências e outras disciplinas do ensino fundamental. |
+|  Tarefas |  Acorda cedo, vai pra escola e tem momentos de lazer  |
 | Expectativas | Eduardo não tem expectativas relacionadas à plataforma Lattes, pois seu foco principal está em seu desenvolvimento acadêmico de nível fundamental. |
+| Requisitos | Não possui |
 
 Tabela 4: Quarta persona. (SOARES, Joel 2023)
 
@@ -111,3 +128,4 @@ Tabela 4: Quarta persona. (SOARES, Joel 2023)
 |  1.1   | Mudanças e ajustes no Documento |  Joel Soares e Guilherme Basilio   |   16/10/2023   | Doan Filho  |       16/10/2023      |
 |  1.2   | Justificativa da quantidade de personas + anti-persona |  Joel Soares  |   22/10/2023   | Doan Filho  |       23/10/2023      |
 | 1.3    | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |
+| 1.4  |   Refatoração elementos de personas | Gabriel Barbosa | 06/12/2023  |  Joel Soares  |  06/12/2023   |

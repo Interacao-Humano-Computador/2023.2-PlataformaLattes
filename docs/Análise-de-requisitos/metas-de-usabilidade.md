@@ -1,6 +1,6 @@
 # **Metas de Usabilidade**
 
-## **introdução**
+## **Introdução**
 
 Este documento tem como propósito estabelecer os critérios de usabilidade, que desempenham um papel fundamental na determinação dos aspectos que devem ser priorizados no processo de design. Além disso, ele descreve o processo de avaliação que ocorrerá durante o desenvolvimento do projeto e define quais padrões são considerados aceitáveis ou inaceitáveis.
 
@@ -32,11 +32,12 @@ Aqui estão listadas as metas de usabilidade e como o site [Lattes CNPQ](https:/
 
 ### **1. Eficácia**
 
-Definida o quão bom o sistema faz o que se espera que ele faça.
+Define o quão bom o sistema faz o que se espera que ele faça, cumprindo o propósito para o qual foi projetado.
 
 #### *No sistema*
 
-No geral, o sistema apresenta uma eficácia parcial. Ele permite que o usuário realize com sucesso as principais atividades relacionadas ao registro de informações acadêmicas e profissionais em seu currículo Lattes.
+No geral, o sistema apresenta uma eficácia média. Ele permite que o usuário realize com sucesso as principais atividades relacionadas ao registro de informações acadêmicas e profissionais em seu currículo Lattes. Porém o sistema não oferece uma estrutura de navegação eficaz.
+
 
 ### **2. Eficiência**
 
@@ -88,7 +89,13 @@ Definida como a capacidade do sistema de permitir que os usuários se lembrem de
 
 ### *No sistema*
 
-A utilização do sistema de fácil memorização, ou seja, após aprender a utilizar o sistema e se realizar as tarefas que se deseja, fica fácil mesmo após um período de inatividade recuperar os conhecimentos que se tinha antes sobre o site e lembrar o caminho para realizar as tarefas.
+A utilização do sistema de fácil memorização, ou seja, após aprender a utilizar o sistema e se realizar as tarefas que se deseja, fica fácil mesmo após um período de inatividade recuperar os conhecimentos que se tinha antes sobre o site e lembrar o caminho para realizar as tarefas. Como mostrado nas imagens anteriores, há uma certa padronização no uso de cores, tipografia e ferramentas que deixem o caminho do usuário intuitivo, um exemplo disto é o histórico de navegação, que pode ser visto na imagem abaixo:
+
+<div align="center">
+    <img src="../assets/Recordacao.png" style="width:60vw"/>
+</div>
+
+<font size="2"><p style="text-align: center">Figura 3: Meta de usabilidade Facilidade de recordação (fonte: [Lattes CNPQ](https://lattes.cnpq.br))</p></font>
 
 ### **Conclusão**
 
@@ -118,3 +125,4 @@ Portanto, após uma avaliação minuciosa por meio de simulações do comportame
 |  1.3   | Adicionando utilidade, aprendizado e memorização |  Guilherme Basilio   |    23/10/202   |Joel Soares  |      23/10/2023      |
 |  1.4   | Corrigindo erros e melhorando conclusão |  Guilherme Basilio   |    23/10/202   |Joel Soares  |      23/10/2023      |
 | 1.5    | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |
+| 1.6    | Refatoração de alguns textos e adição de figura |  Gabriel Barbosa Alencar  | 06/12/2023  |  Joel Soares  | 06/12/2023  |
