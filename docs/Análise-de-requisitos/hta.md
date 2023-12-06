@@ -1,46 +1,37 @@
 # Análise Hierárquica de Tarefas
 
-<p align="justify">
-&emsp;&emsp;A Análise de Tarefas é utilizada para ser um entendimento sobre qual o trabalho dos usuários, como eles realizam e por quê. Nessa análise o trabalho é definido em termos de objetivos que os usuários precisam antingir.
-</p>
+## **Introdução**
 
-<p align="justify">
-&emsp;&emsp;Diaper (2003) define a análise de tarefas como uma abordagem na ergonomia e Interação Humano-Computador (IHC) que envolve coletar, classificar e interpretar dados sobre o desempenho de sistemas que incluem pelo menos uma pessoa como componente.
-</p>
+&emsp;&emsp;A avaliação desempenha um papel fundamental no desenvolvimento de sistemas interativos de alta qualidade. Ela implica julgar a qualidade de uso da solução e identificar problemas na interação e na interface. Métodos de investigação permitem acessar e analisar concepções dos usuários, com o objetivo de obter detalhes mais profundos sobre as tarefas no contexto do aplicação. Optamos pelo método de investigação, especificamente entrevistas com usuários reais da [Plataforma Lattes](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/), utilizando um [termo de consentimento](https://unbbr-my.sharepoint.com/:w:/g/personal/211061645_aluno_unb_br/EUZaSOp-u5VBs1zdaqRbHbgBzHhy-r2WnmNvWRohQTtfBg?rtime=tPNEvJj220g) para garantir a ética e a participação voluntária dos envolvidos no processo de avaliação.
 
-Essa análise pode ser usada em três atividades principais: 
+## **objetivo**
 
-- Analisar a situação atual, 
-- Redesenhar sistemas computacionais 
-- Avaliar intervenções que envolvem sistemas computacionais. 
+&emsp;&emsp;A proposta do HTA é desmembrar tarefas complexas em partes mais simples, proporcionando uma compreensão organizada e detalhada das atividades.  Seu principal propósito é simplificar a análise de eficiência, usabilidade e descobrir formas de aprimorar o design, evidenciando as interações entre o usuário e o sistema. Ao fragmentar as tarefas em elementos menores, o HTA facilita a identificação de áreas passíveis de otimização, contribuindo para aprimorar globalmente a execução das tarefas e o desempenho do sistema.
 
-<p align="justify">
-&emsp;&emsp;O processo de análise de tarefas começa com a identificação de um conjunto de objetivos dos usuários, estes, definidos em termos psicológicos . Para cada objetivo, são listadas as ações realizadas pelos agentes, incluindo interações físicas e com sistemas computacionais. Se houver vários agentes, suas ações são representadas em colunas separadas.
-</p>
+## **Metodologia**
 
-<p align="justify">
-&emsp;&emsp;É importante observar que, independentemente da forma como os dados são coletados, a análise de tarefas oferece apenas uma simulação das tarefas reais. Existem inúmeras tarefas realizadas por diferentes pessoas, mas apenas algumas são selecionadas para análise. Além disso, apenas uma pequena parte do trabalho pode ser observada, tornando os dados sempre incompletos.
-</p>
+&emsp;&emsp;A proposta de análise de tarefas para a Plataforma Lattes consiste em dois métodos:
 
-O grupo decidiu fazer o uso de dois métodos para a análise de tarefas, sendo eles:
+- *HTA*: A HTA será utilizada para obter uma visão geral das tarefas realizadas na Plataforma Lattes. A análise será realizada a partir de entrevistas com usuários reais da plataforma.
+- *CTT*: O CTT será utilizado para obter uma visão mais detalhada das interações entre o usuário e o sistema. A análise será realizada a partir de observações do uso da plataforma.
 
-- Análise Hierárquica de Tarefas (HTA);
-- ConcurTask Tree (CTT).
+### **Planejamento**
 
-## **HTA - Análise Hierárquica de Tarefa**
-&emsp;&emsp;A metodologia consiste em quebrar as tarefas em sub-tarefas, e estas por sua vez em sub-sub-tarefas e assim por diante.
+&emsp;&emsp;O planejamento da análise de tarefas foi realizado seguindo o framework DECIDE, desenvolvido por Sharp, Rogers e Preece. Este framework envolve as seguintes etapas interconectadas:
 
-A análise hierárquica de tarefas possui os seguintes elementos:
+- Definir objetivos da avaliação: Estabelecer os objetivos gerais da avaliação e sua relevância.
+- Explorar questões a serem respondidas: Formule perguntas específicas para direcionar a investigação.
+- Escolher métodos de avaliação: Selecione métodos adequados considerando recursos e experiência.
+- bordar Questões Práticas: Considere questões práticas, como seleção de usuários e gerenciamento de recursos.
+- Deliberar Questões Éticas: Garanta respeito e bem-estar dos envolvidos.
 
-- **Tarefa:** Uma parte específica de um trabalho a ser realizada.
+### **Relevância dos dados**
 
-- **Objetivo:** Um estado final desejado, que pode ser definido por eventos ou valores fisicamente observáveis.
+É importante observar que, independentemente da forma como os dados são coletados, a análise de tarefas oferece apenas uma simulação das tarefas reais. Existem inúmeras tarefas realizadas por diferentes pessoas, mas apenas algumas são selecionadas para análise. Além disso, apenas uma pequena parte do trabalho pode ser observada, tornando os dados sempre incompletos.
 
-- **Sub-objetivo:** Um objetivo de alto nível que é dividido em subobjetivos menores. Por exemplo, o objetivo "iniciar uma partida de xadrez" pode ser dividido em subobjetivos, como "definir o tipo de oponente", "escolher a modalidade de jogo" e "configurar o incremento".
+### **Representação dos resultados**
 
-- **Plano:** Um conjunto organizado de subobjetivos que precisam ser alcançados para atingir um objetivo maior. Um plano é composto por subobjetivos e suas relações.
-
-- **Operação:** As operações envolvem as circunstâncias de ativação do objetivo (entrada), as atividades ou ações necessárias para alcançá-lo e as condições que indicam que o objetivo foi alcançado (feedback).
+A análise de tarefas pode ser representada em formato de tabela ou por um diagrama. No caso da HTA, a representação mais comum é o diagrama. O diagrama de HTA é uma representação gráfica da hierarquia de tarefas, onde cada tarefa é representada por um círculo. As relações entre as tarefas são representadas por linhas.
 
 Esta análise pode ser implementada em formato de tabela, ou por um diagrama conforme a notação a seguir:
 
@@ -49,6 +40,7 @@ Esta análise pode ser implementada em formato de tabela, ou por um diagrama con
     <p> Figura 1 - Elementos HTA - Faixa etária. Fonte: Autores </p> 
 </div>
 
+## **HTA's realizadas pelo grupo**
 
 ### **Buscar currículo**
 
@@ -185,7 +177,7 @@ Nessa tarefa o usuário tem o objetivo de atualizar um curriculo conforme os dad
 | 3.0 Inserir dados a serem atualizados | **Plano:** atualizar dados |
 | 3.1 Demonstração dos resultados   |**Input:**botão para confirmar a atualização <br> **Plano:** Atualizar informações de usuário de acordo com sua expectativa |
 
-Tabela 5: Tabela da análise hierárquica de tarefas para o objetivo "Atualizar curriculo" (Fonte: Doan Filho)
+Tabela 6: Tabela da análise hierárquica de tarefas para o objetivo "Atualizar curriculo" (Fonte: Doan Filho)
 
 
 ## **Bibliografia**
@@ -206,3 +198,4 @@ Tabela 5: Tabela da análise hierárquica de tarefas para o objetivo "Atualizar 
 |  1.7   | Adicionando HTA de "Acessar Painel Lattes" |   Caio Braga |   29/10/2023   |  Caio Lelis  |  23/10/2023      |
 | 1.8    | Refatoração da interface  | Caio Braga | 28/10/2023 | Doan Filho  | 29/10/2023 |
 |  1.9  | Adicionando HTA de "Atualizar curriculo" | Doan Filho  |   30/10/2023   |  Caio Braga |  30/10/2023      |
+|  2.0  | Padronizando documento | Guilherme Basilio  |   06/12/2023   |  Miguel de Frias |  06/12/2023      |
