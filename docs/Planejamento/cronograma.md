@@ -443,7 +443,7 @@ A tabela 20 mostra as tarefas do planejamento feito para a entrega 9 do projeto.
 
 ### **Executado**
 
-A tabela 19 mostra as tarefas realizadas na entrega 6.2 do projeto.
+A tabela 21 mostra as tarefas realizadas na entrega 9 do projeto.
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
 |--------|----------------------------|--------------------|-------------|--------|
@@ -455,7 +455,7 @@ A tabela 19 mostra as tarefas realizadas na entrega 6.2 do projeto.
 | Cronograma Executado | Início: 05/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12| Miguel de Frias | Guilherme Basilio |
 
 <div style="text-align: center">
-    <p> <b>Tabela 19</b>: Tarefas realizadas na Entrega 6.2 . (Fonte: Miguel de Frias, 2023).</p>
+    <p> <b>Tabela 21</b>: Tarefas realizadas na Entrega 9 . (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 ## **Bibliografia**
