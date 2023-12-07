@@ -1,12 +1,12 @@
 # Entrega Final
 
 
-## Introdução
+## **Introdução**
 
 O relatório a seguir apresenta os resultados do nosso projeto (Grupo 03) na discilplina de Interação Humano computador, aonde definimos que iríamos  desenvolver e aprimorar o Site do Currículo Lattes.
 
 
-## Planejamento dos recursos e de entregas 
+## **Planejamento dos recursos e de entregas** 
 
 
 Primeiramente, temos nossa tabela de planejamento geral, onde foi dividido todas as entregas do projeto:
@@ -39,7 +39,7 @@ A Tabela 1 mostra todas as Entregas com suas respectivas datas previstas.
 
 Agora, nossas tabelas de planejamento de entregas mostra a relação das nossas tarefas, atividades , sua descrição , data de entrega e apresentação por entrega:
 
-## **Entrega 1**
+### **Entrega 1**
 
 
 
@@ -65,7 +65,7 @@ A tabela 2 mostra as tarefas do planejamento feito para a entrega 1 do projeto.
 
 
 
-## **Entrega 2**
+### **Entrega 2**
 
 
 A tabela 4 mostra as tarefas do planejamento feito para a entrega 2 do projeto.
@@ -90,7 +90,7 @@ A tabela 4 mostra as tarefas do planejamento feito para a entrega 2 do projeto.
 </div>
 
 
-## **Entrega 3**
+### **Entrega 3**
 
 
 
@@ -113,7 +113,7 @@ A tabela 6 mostra as tarefas do planejamento feito para a entrega 2 do projeto.
 </div>
 
 
-## **Entrega 4**
+### **Entrega 4**
 
 
 
@@ -135,7 +135,7 @@ A tabela 8 mostra as tarefas do planejamento feito para a entrega 4 do projeto.
     <p> <b>Tabela 8</b>: Tarefas planejadas na Entrega 4. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
-## **Entrega 5**
+### **Entrega 5**
 
 
 
@@ -159,7 +159,7 @@ A tabela 10 mostra as tarefas do planejamento feito para a entrega 5 do projeto.
 
 
 
-## **Entrega 6.1**
+### **Entrega 6.1**
 
 
 
@@ -183,7 +183,7 @@ A tabela 12 mostra as tarefas do planejamento feito para a entrega 6.1 do projet
 </div>
 
 
-## **Entrega 7**
+### **Entrega 7**
 
 
 
@@ -206,7 +206,7 @@ A tabela 14 mostra as tarefas do planejamento feito para a entrega 7 do projeto.
 </div>
 
 
-## **Entrega 8**
+### **Entrega 8**
 
 
 
@@ -228,7 +228,7 @@ A tabela 16 mostra as tarefas do planejamento feito para a entrega 8 do projeto.
 </div>
 
 
-## **Entrega 6.2**
+### **Entrega 6.2**
 
 
 
@@ -280,7 +280,7 @@ A tabela 3 mostra as atividades realizadas para a entrega 1 do projeto.
 </div>
 
 
-## **Executado entrega 02**
+### **Executado entrega 02**
 
 A tabela 5 mostra as atividades realizadas para a entrega 2 do projeto.
 
@@ -302,7 +302,7 @@ A tabela 5 mostra as atividades realizadas para a entrega 2 do projeto.
     <p> <b>Tabela 5</b>: Tarefas realizadas na Entrega 2. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
-## **Executado entrega 03**
+### **Executado entrega 03**
 
 A tabela 7 mostra as atividades realizadas para a entrega 3 do projeto.
 
@@ -323,7 +323,7 @@ A tabela 7 mostra as atividades realizadas para a entrega 3 do projeto.
 </div>
 
 
-## **Executado entrega 04**
+### **Executado entrega 04**
 
 A tabela 9 mostra as tarefas realizadas na entrega 4 do projeto.
 
@@ -345,7 +345,7 @@ A tabela 9 mostra as tarefas realizadas na entrega 4 do projeto.
 
 
 
-## **Executado entrega 05**
+### **Executado entrega 05**
 
 A tabela 11 mostra as tarefas realizadas na entrega 5 do projeto.
 
@@ -367,7 +367,7 @@ A tabela 11 mostra as tarefas realizadas na entrega 5 do projeto.
 </div>
 
 
-## **Executado entrega 6.1**
+### **Executado entrega 6.1**
 
 A tabela 13 mostra as tarefas realizadas na entrega 6.1 do projeto.
 
@@ -390,7 +390,7 @@ A tabela 13 mostra as tarefas realizadas na entrega 6.1 do projeto.
 </div>
 
 
-## **Executado entrega 07**
+### **Executado entrega 07**
 
 A tabela 15 mostra as tarefas realizadas na entrega 7 do projeto.
 
@@ -412,7 +412,7 @@ A tabela 15 mostra as tarefas realizadas na entrega 7 do projeto.
 </div>
 
 
-## **Executado entrega 08**
+### **Executado entrega 08**
 
 A tabela 15 mostra as tarefas realizadas na entrega 8 do projeto.
 
@@ -434,13 +434,13 @@ A tabela 15 mostra as tarefas realizadas na entrega 8 do projeto.
 </div>
 
 
-# Ferramentas Utilizadas
+## **Ferramentas Utilizadas**
 
 
-## **Introdução**
+### **Introdução**
 &emsp;&emsp;Para o andamento do projeto foram escolhidas ferramentas que darão auxilio na produção dos artefatos e que usamos no dia a dia como engenheiros de software para documentar, gravar, codificar e etc.  
 
-## **Ferramentas** 
+### **Ferramentas** 
 |Logo| Ferramenta | Objetivo| 
 |:---:|:---:|---|
 |<img src = "../assets/mkdocs.png" width = 170px>|Mkdocs|Ferramenta usada para a criação do documento|
@@ -454,7 +454,7 @@ A tabela 15 mostra as tarefas realizadas na entrega 8 do projeto.
 
 
 
-# **Ciclo de Vida**
+## **Ciclo de Vida**
 
 O Ciclo de Vida em Interação Humano-Computador (IHC) é uma abordagem sistemática para o desenvolvimento de interfaces de usuário, abrangendo fases desde a concepção até a implementação e avaliação. A finalidade dessas etapas garantem que a interface e a interação atendam aos requisitos especificados pelo usuário. 
 
@@ -476,13 +476,13 @@ Esse ciclo de vida foi interessante para o nosso projeto devido a sua iterativid
 </center>
 
 
-# **Site Selecionado**
+## **Site Selecionado**
 
 
-## **Introdução**
+### **Introdução**
 Após alguns debates ao longo do inicio do projeto, tivemos uma escolha em consenso com o grupo fazendo uma análise de alguns pontos a serem destacados.  
 
-## **CNPq - Plataforma Lattes**
+### **CNPq - Plataforma Lattes**
 
 <div align="center">
     <img src="../assets/lattes-logo.png" width = 300px/>
@@ -490,7 +490,7 @@ Após alguns debates ao longo do inicio do projeto, tivemos uma escolha em conse
 </div>
 
 
-## **Critérios para a selecão**
+### **Critérios para a selecão**
 
 + Sites não repetidos na disciplina Interação Humano-Computador 
 + Aspectos e princípios que fogem à disciplina
@@ -505,7 +505,7 @@ Além disso, foi possível encontrar pontos que deveriam ser melhorados pois pos
 * A **usabilidade** é afetada, pois o site não facilita o reconhecimento do usuário nas suas interações.
 
 
-## **Motivos de escolha** 
+### **Motivos de escolha** 
 A Plataforma Lattes é amplamente utilizada por docentes, discentes e pesquisadores de intutuições privadas e públicas, incluindo o uso para consulta de currículos, grupos de pesquisa e sistema de informações.
 
 Com base nos critérios listados para a seleção do site em questão, analisamos e debatemos e chegamos a conclusão que a escolha da **Plataforma Lattes** seria a mais apropriada, sendo as motivações: 
@@ -518,21 +518,21 @@ Inicialmente, debatemos sobre a escolha e a principal opção era o site da **Ca
 
 
 
-# Verificação dos Artefatos
+## **Verificação dos Artefatos**
 
 
-## Metodologia de Verificação dos Artefatos
+### **Metodologia de Verificação dos Artefatos**
 
 Para efetuar a verificação dos artefatos,nosso grupo adotoou a abordagem de inspeção, buscando identificar possíveis problemas a fim de garantir a qualidade. Para isso, foram desenvolvidos checklists de verificação, levando em consideração as orientações e materiais fornecidos pelo professor durante as aulas.
 
 Para a verificação dos artefatos do nosso grupo, os integrantes Caio Lelis, Doan Filho e Caio Braga dividiram as tarefas em 3 partes conforme a tabela e os critérios a seguir:
 
-## Critérios
+### **Critérios**
 
 - **Critério 1:** O checklist não deve ser feito pelo autor do artefato.
 - **Critério 2:** O checklist deve ser avliado por um membro verificador principal e um membro verificador secundário, estes irão realizar a verificação dos artefatos correspondentes. Após isso, uma nova inspeção deverá ser feita pelo membro autor principal para a consolidação de problemas e após a verificação, o checklist deve ser relatado para que o autor do artefato possa realizar a verificação  e correções finais.
 
-## Tabela de separação
+## **Tabela de separação**
 
 A separação está presente na seguinte tabela:
 
@@ -544,7 +544,7 @@ A separação está presente na seguinte tabela:
 </div>
  
 
-# Avaliações realizadas
+## **Avaliações realizadas**
 
 &emsp;&emsp; A seguinte tabela apresenta as avaliações que foram realizadas, a metodologia, avaliadores, número e nome dos participantes e o relato dos resultados de cada avaliação.
 
@@ -571,7 +571,7 @@ A separação está presente na seguinte tabela:
 
 
 
-# **Apresentações**
+## **Apresentações**
 
 ## **Apresentação 01** 
 
@@ -624,16 +624,16 @@ Neste documento apresentamos a quarta entrega da disciplina Interação Humano-C
 
 
 
-# Execução do projeto  de cada etapa do ciclo de vida
+## **Execução do projeto  de cada etapa do ciclo de vida**
 
 
 
-## Introdução
+### **Introdução**
 
 No desenvolvimento deste projeto, seguimos o Ciclo de Vida proposto por Deborah Mayhew (1999), composto por análise de requisitos e design/avaliação/desenvolvimento, excluindo a fase de instalação da disciplina de IHC. Na análise de requisitos, estabelecemos metas de usabilidade com base no perfil dos usuários e análise de tarefas. A fase seguinte envolveu três níveis de detalhamento, incluindo reengenharia do trabalho, criação de protótipos e design detalhado da interface. 
 
 
-### Análise de Requisitos
+### **Análise de Requisitos**
 Nesta fase, as metas de usabilidade são estabelecidas, considerando o perfil dos usuários, análise de tarefas, plataforma e princípios de design de Interação Humano-Computador (IHC). As metas são formalizadas em guias de estilo, contendo diretrizes para elementos da interface do usuário.
 
 Artefatos:
@@ -652,7 +652,7 @@ Artefatos:
 - [Cenários](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/cenarios/)
 
 
-### Nível 1
+### **Design, Avaliação e Desenvolvimento Nível 1**
 Aqui, com base nos requisitos identificados, o designer cria um conceito inicial e uma proposta para a interface do usuário. Esses conceitos podem ser representados por rascunhos, esboços ou diagramas, permitindo avaliação preliminar e feedback de usuários e partes interessadas.
 
 Artefatos:
@@ -665,7 +665,7 @@ Artefatos:
 - [Relato do Resultado - Storyboard](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/Storyboard/Relato%20dos%20resultados%20dos%20Storyboards/)
 - [Storyboards](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/Storyboard/Storyboards/)
 
-### Nível 2
+### **Design, Avaliação e Desenvolvimento Nível 2**
 Nesta fase, os conceitos iniciais são refinados e detalhados. O designer define as interações, fluxos de trabalho e estrutura da interface. Protótipos de baixa fidelidade são criados, testados e iterados para garantir usabilidade e atender às necessidades dos usuários.
 
 Artefatos:
@@ -675,7 +675,7 @@ Artefatos:
 - [Relato dos Resultados do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2002/Prot%C3%B3tipo%20de%20Papel/Relato%20dos%20resultados%20do%20prot%C3%B3tipo%20de%20papel/)
 
 
-### Nível 3
+### **Design, Avaliação e Desenvolvimento Nível 3**
 
 Aqui, o designer realiza o projeto completo da interface em alta fidelidade, considerando aspectos visuais como cores, fontes, ícones e layout. Esses projetos são geralmente criados utilizando softwares de design gráfico ou de interface do usuário, proporcionando uma representação precisa e finalizada da interface, servindo como base para a implementação.
 
