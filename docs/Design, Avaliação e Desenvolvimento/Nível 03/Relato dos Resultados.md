@@ -120,11 +120,11 @@ Para o reprojeto, é sugerido que seja adicionado um botão de voltar na tela de
 ## **Atualizar currículo**
 
 
-## **Objetivos da Avaliação**
+### **Objetivos da Avaliação**
 
 A avaliação tem como objetivo principal que o usuário entrevistado valide as ideias e alternativas de design propostas para a tarefa "Atualizar currículo".
 
-## **Procedimentos da Avaliação**
+### **Procedimentos da Avaliação**
 
 O método selecionado envolve a combinação de observação e entrevistas com os usuários, seguindo um modelo de questões a serem respondidas pelo usuário de maneira pré-definida. 
 
@@ -132,7 +132,7 @@ O método selecionado envolve a combinação de observação e entrevistas com o
 O entrevistado Daniel Nunes que contempla os requisitos do nosso perfil de usuário, foi orientado a realizar a tarefa de "Atualizar currículo" no protótipo de alta fidelidade, enquanto o entrevistador observava e anotava os problemas encontrados. Após a realização da tarefa, o entrevistador realizou uma entrevista com a entrevistada, com base no roteiro de entrevista, para que a entrevistada pudesse relatar os problemas encontrados e dar sugestões de melhorias para o protótipo.
 
 
-## **Seleção dos Participantes**
+### **Seleção dos Participantes**
 
 O participante se encaixa no perfil de usuário, pois é um usuário maior de 18 anos e usa frequentimente a plataforma lattes
 
@@ -142,7 +142,7 @@ O participante se encaixa no perfil de usuário, pois é um usuário maior de 18
 
 
 <div style="text-align: center">
-    <p> <b>Tabela 1</b>: tabela de seleção dos participantes (Fonte: FILHO,Doan, 2023).</p>
+    <p> <b>Tabela 5</b>: tabela de seleção dos participantes (Fonte: FILHO,Doan, 2023).</p>
 </div>
 
 
@@ -152,15 +152,15 @@ O participante se encaixa no perfil de usuário, pois é um usuário maior de 18
 |   Daniel Nunes   | Entrevistado |
 
 <div style="text-align: center">
-    <p> <b>Tabela 2</b>: Funções dos participantes (Fonte: Filho,Doan, 2023).</p>
+    <p> <b>Tabela 6</b>: Funções dos participantes (Fonte: Filho,Doan, 2023).</p>
 </div>
 
-## **Questões Éticas** 
+### **Questões Éticas** 
 
 Para que a entrevista seja realizada, o entrevistado esteve previamente de acordo com nossos [termos de consentimento](https://unbbr-my.sharepoint.com/:w:/g/personal/211061645_aluno_unb_br/EUZaSOp-u5VBs1zdaqRbHbgBzHhy-r2WnmNvWRohQTtfBg?e=gRm35H), disponível no documento de [aspectos éticos](https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/blob/main/docs/analise-de-requisitos/aspectos-eticos.md).
 
 
-## **Perguntas ao usuário**
+### **Perguntas ao usuário**
 
 | ID | Enunciado| Resposta| Justificativa |
 | :---: | :----------------------------------------------------------: | :-----------------:|:------------|
@@ -170,7 +170,7 @@ Para que a entrevista seja realizada, o entrevistado esteve previamente de acord
 |   4   |  A realização da tarefa solicitada corresponde a expectativa que foi criada ao ser concedida a ideia?  |   Sim         | Atendeu minhas expectativas  |
 |   5   |  Foi encontrada algum erro ou inconsistência durante o uso da interface?   |  Sim           |Quandp fpo clicar em voltar |
 <div style="text-align: center">
-    <p> <b>Tabela 3</b>: tabela de perguntas ao Usuário (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
+    <p> <b>Tabela 7</b>: tabela de perguntas ao Usuário (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
 </div>
 
 ### **Perguntas de Diretriz**
@@ -183,36 +183,36 @@ Para que a entrevista seja realizada, o entrevistado esteve previamente de acord
 |   4   |   Quais foram os principais problemas notados para o usuário atingir seu objetivo?     |      Não  | 
 |   5  |   O usuário consultou ajuda online ou o manual de usuário?   |  Não       | 
 <div style="text-align: center">
-    <p> <b>Tabela 4</b>: tabela de perguntas de Diretriz. (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
+    <p> <b>Tabela 8</b>: tabela de perguntas de Diretriz. (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
 </div>
 
-## **Problemas Identificados**
+### **Problemas Identificados**
 - Muito zoom
 - Não tinha muitos botões clicavéis 
 - Funções dos componentes erradas 
 
-## **Recomendações de melhoria**
+### **Recomendações de melhoria**
 - Ter menos zoom
 - Ter botões clicaveis 
 - E funções executadas de maneria correta 
 
-## **Opiniões dos usuários**
+### **Opiniões dos usuários**
 O site é de fácil ultilização e atendeu as minhas expectativas 
 
-## **Análise e interpretação das respostas dos resultados**
+### **Análise e interpretação das respostas dos resultados**
 O protótipo era intuitivo por´em falhou em ter algumas das funionalidades propostas pelo site avilado 
 
-## **Resumo dos principais resultados**
+### **Resumo dos principais resultados**
 - Fácil entendimento e intuitivo 
 - Fluxo correto e correspondente ao site
 - Muito zoom no prototipo
 - Funções não implementadas
 
-## **Sugestão de reprojeto para o sistema**
+### **Sugestão de reprojeto para o sistema**
 
 É sugerido que retire o zoom demasiado e que tenha mais funções no sitema 
 
-## **Entrevista com o Usuário**
+### **Entrevista com o Usuário**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s2kJh0yN_jQ?si=DEswn1_rvGkd6PZf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
@@ -221,11 +221,11 @@ O protótipo era intuitivo por´em falhou em ter algumas das funionalidades prop
 ## **Acessar painel lattes**
 
 
-## **Objetivos da Avaliação**
+### **Objetivos da Avaliação**
 
 A avaliação tem como objetivo principal que o usuário entrevistado valide as ideias e alternativas de design propostas para a tarefa "Acessar painel lattes".
 
-## **Procedimentos da Avaliação**
+### **Procedimentos da Avaliação**
 
 O método selecionado envolve a combinação de observação e entrevistas com os usuários, seguindo um modelo de questões a serem respondidas pelo usuário de maneira pré-definida.
 
@@ -233,7 +233,7 @@ O método selecionado envolve a combinação de observação e entrevistas com o
 A entrevistado Wendy Cristhiny que contempla os requisitos do nosso perfil de usuário, foi orientado a realizar a tarefa de "Acessar painel lattes" no protótipo de alta fidelidade, enquanto o entrevistador observava e anotava os problemas encontrados. Após a realização da tarefa, o entrevistador realizou uma entrevista com a entrevistada, com base no roteiro de entrevista, para que a entrevistada pudesse relatar os problemas encontrados e dar sugestões de melhorias para o protótipo.
 
 
-## **Seleção dos Participantes**
+### **Seleção dos Participantes**
 
 O participante se encaixa no perfil de usuário, pois é um usuário maior de 18 anos e usa frequentimente a plataforma lattes
 
@@ -243,7 +243,7 @@ O participante se encaixa no perfil de usuário, pois é um usuário maior de 18
 
 
 <div style="text-align: center">
-    <p> <b>Tabela 1</b>: tabela de seleção dos participantes (Fonte: LELIS,Caio, 2023).</p>
+    <p> <b>Tabela 9</b>: tabela de seleção dos participantes (Fonte: LELIS,Caio, 2023).</p>
 </div>
 
 
@@ -253,15 +253,15 @@ O participante se encaixa no perfil de usuário, pois é um usuário maior de 18
 |   Wendy   | Entrevistado |
 
 <div style="text-align: center">
-    <p> <b>Tabela 2</b>: Funções dos participantes (Fonte: LELIS,Caio, 2023).</p>
+    <p> <b>Tabela 10</b>: Funções dos participantes (Fonte: LELIS,Caio, 2023).</p>
 </div>
 
-## **Questões Éticas** 
+### **Questões Éticas** 
 
 Para que a entrevista seja realizada, o entrevistado esteve previamente de acordo com nossos [Termos de consentimento](https://unbbr-my.sharepoint.com/:w:/g/personal/211061645_aluno_unb_br/EUZaSOp-u5VBs1zdaqRbHbgBzHhy-r2WnmNvWRohQTtfBg?e=gRm35H), disponível no documento de [aspectos éticos](https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/blob/main/docs/analise-de-requisitos/aspectos-eticos.md).
 
 
-## **Perguntas ao usuário**
+### **Perguntas ao usuário**
 
 | ID | Enunciado| Resposta| Justificativa |
 | :---: | :----------------------------------------------------------: | :-----------------:|:------------|
@@ -271,7 +271,7 @@ Para que a entrevista seja realizada, o entrevistado esteve previamente de acord
 |   4   |  A realização da tarefa solicitada corresponde a expectativa que foi criada ao ser concedida a ideia?  |      Sim      |  |
 |   5   |  Foi encontrada algum erro ou inconsistência durante o uso da interface?   |        Sim     |  Cerca de 2 erros ao clicar nos botões do Painel Lattes |
 <div style="text-align: center">
-    <p> <b>Tabela 3</b>: tabela de perguntas ao Usuário (Fonte: Caio Braga, 2023).</p>
+    <p> <b>Tabela 11</b>: tabela de perguntas ao Usuário (Fonte: Caio Braga, 2023).</p>
 </div>
 
 ### **Perguntas de Diretriz**
@@ -284,49 +284,53 @@ Para que a entrevista seja realizada, o entrevistado esteve previamente de acord
 |   4   |   Quais foram os principais problemas notados para o usuário atingir seu objetivo?     |  Formato dos botões       | 
 |   5  |   O usuário consultou ajuda online ou o manual de usuário?   |     Não    | 
 <div style="text-align: center">
-    <p> <b>Tabela 4</b>: tabela de perguntas de Diretriz. (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
+    <p> <b>Tabela 12</b>: tabela de perguntas de Diretriz. (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
 </div>
 
-## **Problemas Identificados**
+### **Problemas Identificados**
 
 A usuária nos ajudou a encontrar bugs em botões do Painel Lattes, dando uma perspectiva nova sobre como esses elementos estão sujeitos a falha nos protótipos
 
-## **Recomendações de melhoria**
+### **Recomendações de melhoria**
 
 A usuária recomendou que além do tamanho do celular, que a interface se adaptasse também ao tablet, que foi o dispositivo que ela utilizou no momento da avaliação.
 
 
-## **Opiniões dos usuários**
+### **Opiniões dos usuários**
 
 A usuária achou a interface agradável e de fácil aprendizado, uma vez que as fontes estão com boa visibilidade e os ícones trazem uma boa noção das funcionalidades para o usuário.
 
 
-## **Análise e interpretação das respostas dos resultados**
+### **Análise e interpretação das respostas dos resultados**
 
 Conclui-se então, que:
 
 - A usuária entendeu facilmente como utilizar de maneira eficaz a interface, obtendo alguns erros apenas.
 - Os bugs dos botões da aba do Painel Lattes e a falta de responsividade para um dispositivo mobile específico devem ser corrigidos
 
-## **Sugestão de reprojeto para o sistema**
+### **Sugestão de reprojeto para o sistema**
 
 Para o reprojeto, é sugerido que seja adicionado um botão de voltar na tela de selecionar imagens e que seja adicionado um nome para cada imagem as quais podem ser adicionadas no projeto.
 
-## **Entrevista com o Usuário**
+### **Entrevista com o Usuário**
 
 <iframe width="700" height="315" src="https://www.youtube.com/embed/hsU-epk7t3E?si=OyMws8QbwNdMZX2F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 
 
+
+
+
+
 ## **Busca por grupos de pesquisa**
 
 
-## **Objetivos da Avaliação**
+### **Objetivos da Avaliação**
 
 A avaliação tem como objetivo principal que o usuário entrevistado valide as ideias e alternativas de design propostas para a tarefa "busca por grupos de pesquisa".
 
-## **Procedimentos da Avaliação**
+### **Procedimentos da Avaliação**
 
 O método selecionado envolve a combinação de observação e entrevistas com os usuários, seguindo um modelo de questões a serem respondidas pelo usuário de maneira pré-definida. 
 
@@ -334,7 +338,7 @@ O método selecionado envolve a combinação de observação e entrevistas com o
 O entrevistado Jonas Soares Rangel que contempla os requisitos do nosso perfil de usuário, foi orientada a realizar a tarefa de "busca por grupos de pesquisa" no protótipo de alta fidelidade.
 
 
-## **Seleção dos Participantes**
+### **Seleção dos Participantes**
 
 O participante se encaixa no perfil de usuário, pois é um usuário maior de 18 anos e pesquisadora com alguns projetos universitários presentes no currículo Lattes.
 
@@ -344,7 +348,7 @@ O participante se encaixa no perfil de usuário, pois é um usuário maior de 18
 
 
 <div style="text-align: center">
-    <p> <b>Tabela 1</b>: tabela de seleção dos participantes (Fonte: LELIS,Caio, 2023).</p>
+    <p> <b>Tabela 13</b>: tabela de seleção dos participantes (Fonte: LELIS,Caio, 2023).</p>
 </div>
 
 
@@ -354,15 +358,15 @@ O participante se encaixa no perfil de usuário, pois é um usuário maior de 18
 |   Jonas Soares Rangel   | Entrevistado |
 
 <div style="text-align: center">
-    <p> <b>Tabela 2</b>: Funções dos participantes (Fonte: LELIS,Caio, 2023).</p>
+    <p> <b>Tabela 14</b>: Funções dos participantes (Fonte: LELIS,Caio, 2023).</p>
 </div>
 
-## **Questões Éticas** 
+### **Questões Éticas** 
 
 Para que a entrevista seja realizada, o entrevistado esteve previamente de acordo com nossos [termos de consentimento](https://unbbr-my.sharepoint.com/:w:/g/personal/211061645_aluno_unb_br/EUZaSOp-u5VBs1zdaqRbHbgBzHhy-r2WnmNvWRohQTtfBg?e=gRm35H), disponível no documento de [aspectos éticos](https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/blob/main/docs/analise-de-requisitos/aspectos-eticos.md).
 
 
-## **Perguntas ao usuário**
+### **Perguntas ao usuário**
 
 | ID | Enunciado| Resposta| Justificativa |
 | :---: | :----------------------------------------------------------: | :-----------------:|:------------|
@@ -372,10 +376,10 @@ Para que a entrevista seja realizada, o entrevistado esteve previamente de acord
 |   4   |  A realização da tarefa solicitada corresponde a expectativa que foi criada ao ser concedida a ideia?  |     Sim         | Sem Justificativa |
 |   5   |  Foi encontrada algum erro ou inconsistência durante o uso da interface?   |     Não         | Sem justificativa|
 <div style="text-align: center">
-    <p> <b>Tabela 7</b>: tabela de perguntas ao Usuário (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
+    <p> <b>Tabela 15</b>: tabela de perguntas ao Usuário (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
 </div>
 
-## **Perguntas de Diretriz**
+### **Perguntas de Diretriz**
 
 | ID | Enunciado| Resposta| 
 | :---: | :----------------------------------------------------------: | :-----------------:|
@@ -385,40 +389,48 @@ Para que a entrevista seja realizada, o entrevistado esteve previamente de acord
 |   4   |   Quais foram os principais problemas notados para o usuário atingir seu objetivo?     |     Não houve contratempos pois ele conheceu a atividade na plataforma Lattes original    | 
 |   5  |   O usuário consultou ajuda online ou o manual de usuário?   |     Não houve consultas    | 
 <div style="text-align: center">
-    <p> <b>Tabela 8</b>: tabela de perguntas de Diretriz. (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
+    <p> <b>Tabela 16</b>: tabela de perguntas de Diretriz. (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
 </div>
 
-## **Problemas Identificados**
+### **Problemas Identificados**
 
 Após a avaliação, o usuário não identificou problemas, porém alguns pontos de melhorias para tornar a experiência mais agradável.
 
 
-## **Recomendações de melhoria**
+### **Recomendações de melhoria**
 
 O usuário recomendou como melhoria os seguintes itens:
 
 - No menu principal, onde aparecem as opções de navegação, otimizar o espaço utilizado pois sente-se um grande vazio.
 - Procurar aprimorar a interface no geral para tornar mais agradável à primeira vista
 
-## **Opiniões dos usuários**
+### **Opiniões dos usuários**
 
 O usuário se contentou bastante com as funções e a interface do sistema, e gostou da menor quantidade de informações na tela, o que tornou a interface mais limpa e intuitiva.
 
-## **Análise e interpretação das respostas dos resultados**
+### **Análise e interpretação das respostas dos resultados**
 
 
-## **Resumo dos principais resultados**
+### **Resumo dos principais resultados**
 
 - O usuário concluiu a tarefa com sucesso;
 
 
-## **Sugestão de reprojeto para o sistema**
+### **Sugestão de reprojeto para o sistema**
 
 Para o reprojeto, é pensado em procurar otimizar os espaços do protótipo de alta fidelidade.
 
-## **Entrevista com o Usuário**
+### **Entrevista com o Usuário**
 
 <iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
 
 ## **Buscar Currículo**
 
@@ -445,7 +457,7 @@ O participante se encaixa no perfil de usuário, pois é um usuário maior de 18
 
 
 <div style="text-align: center">
-    <p> <b>Tabela 9</b>: tabela dos participantes buscar currículo(Fonte: DE FRIAS, Miguel .2023).</p>
+    <p> <b>Tabela 17</b>: tabela dos participantes buscar currículo(Fonte: DE FRIAS, Miguel .2023).</p>
 </div>
 
 
@@ -464,7 +476,7 @@ Para que a entrevista seja realizada, o entrevistado esteve previamente de acord
 |   4   |  A realização da tarefa solicitada corresponde a expectativa que foi criada ao ser concedida a ideia?  |     Sim         | Porém, formulário para fazer uma pesquisa é um pouco cansativo de preencher |
 |   5   |  Foi encontrado algum erro ou inconsistência durante o uso da interface?   |     Não         | Não foi encontrado nenhum erro/inconsistência por parte do usuário |
 <div style="text-align: center">
-    <p> <b>Tabela 10</b>: tabela de perguntas ao Usuário (Fonte:  Miguel de Frias e Joel Soares, 2023).</p>
+    <p> <b>Tabela 18</b>: tabela de perguntas ao Usuário (Fonte:  Miguel de Frias e Joel Soares, 2023).</p>
 </div>
 
 ### **Perguntas de Diretriz**
@@ -477,10 +489,10 @@ Para que a entrevista seja realizada, o entrevistado esteve previamente de acord
 |   4   |   Quais foram os principais problemas notados para o usuário atingir seu objetivo?     | Houve um problema de não entender alguns campos de pesquisa   | 
 |   5  |   O usuário consultou ajuda online ou o manual de usuário?   |     Apenas o Script mostrado    | 
 <div style="text-align: center">
-    <p> <b>Tabela 11</b>: tabela de perguntas de Diretriz. (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
+    <p> <b>Tabela 19</b>: tabela de perguntas de Diretriz. (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
 </div>
 
-## **Problemas Identificados**
+### **Problemas Identificados**
 
 Foi identificado que o usuário teve problemas ao entender os campos do formulário de pesquisa, visto que além de serem utilizados termos não usuais, alguns campos ainda estão mal escritos.
 
@@ -510,14 +522,22 @@ Para o reprojeto, é sugerido que seja reavaliado os campos da pesquisa, para qu
 
 <iframe width="560" height="315" src="https://youtu.be/g0ELaXdbvTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
+
+
+
+
+
+
+
 ## **Buscar Dados de Pesquisas Acadêmicas**
 
 
-## **Objetivos da Avaliação**
+### **Objetivos da Avaliação**
 
 A avaliação tem como objetivo principal que o usuário entrevistado valide as ideias e alternativas de design propostas para a tarefa "Buscar Dados de pesquisas Acadêmicas".
 
-## **Procedimentos da Avaliação**
+### **Procedimentos da Avaliação**
 
 O método selecionado envolve a combinação de observação e entrevistas com os usuários, seguindo um modelo de questões a serem respondidas pelo usuário de maneira pré-definida. 
 
@@ -525,7 +545,7 @@ O método selecionado envolve a combinação de observação e entrevistas com o
 A entrevistada Giovana Barbosa Alencar que contempla os requisitos do nosso perfil de usuário, foi orientada a realizar a tarefa de "Buscar dados de pesquisas acadêmicas" no protótipo de alta fidelidade, enquanto o entrevistador observava e anotava os problemas encontrados. Após a realização da tarefa, o entrevistador realizou uma entrevista com a entrevistada, com base no roteiro de entrevista, para que a entrevistada pudesse relatar os problemas encontrados e dar sugestões de melhorias para o protótipo.
 
 
-## **Seleção dos Participantes**
+### **Seleção dos Participantes**
 
 O participante se encaixa no perfil de usuário, pois é um usuário maior de 18 anos e pesquisadora com alguns projetos universitários presentes no currículo Lattes.
 
@@ -548,12 +568,12 @@ O participante se encaixa no perfil de usuário, pois é um usuário maior de 18
     <p> <b>Tabela 12</b>: Funções dos participantes (Fonte: BARBOSA, Gabriel. 2023).</p>
 </div>
 
-## **Questões Éticas** 
+### **Questões Éticas** 
 
 Para que a entrevista seja realizada, o entrevistado esteve previamente de acordo com nossos [termos de consentimento](https://unbbr-my.sharepoint.com/:w:/g/personal/211061645_aluno_unb_br/EUZaSOp-u5VBs1zdaqRbHbgBzHhy-r2WnmNvWRohQTtfBg?e=gRm35H), disponível no documento de [aspectos éticos](https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/blob/main/docs/analise-de-requisitos/aspectos-eticos.md).
 
 
-## **Perguntas ao usuário**
+### **Perguntas ao usuário**
 
 | ID | Enunciado| Resposta| Justificativa |
 | :---: | :----------------------------------------------------------: | :-----------------:|:------------|
@@ -566,7 +586,7 @@ Para que a entrevista seja realizada, o entrevistado esteve previamente de acord
     <p> <b>Tabela 13</b>: tabela de perguntas ao Usuário (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
 </div>
 
-## **Perguntas de Diretriz**
+### **Perguntas de Diretriz**
 
 | ID | Enunciado| Resposta| 
 | :---: | :----------------------------------------------------------: | :-----------------:|
@@ -580,40 +600,47 @@ Para que a entrevista seja realizada, o entrevistado esteve previamente de acord
 </div>
 
 
-## **Problemas Identificados**
+### **Problemas Identificados**
 
 + O usuário teve um erro de caminho na interface principal
 
 
-## **Opiniões dos usuários**
+### **Opiniões dos usuários**
 
 + Giovana: "Tive facilidade em buscar dados de pesquisa pois a parte de filtragem de busca está livre de poluição visual, informações confusas e botões desnecessários"
 
 
-## **Análise e interpretação das respostas dos resultados**
+### **Análise e interpretação das respostas dos resultados**
 
 Após a coleta das respostas do usuário, pode-se inferir que a plataforma deve ser melhorada para ajudar na experiência do usuário.
 
-## **Resumo dos principais resultados**
+### **Resumo dos principais resultados**
 
 + O usuário concluiu a tarefa com sucesso;
 
-## **Sugestão de reprojeto para o sistema**
+### **Sugestão de reprojeto para o sistema**
 
 Para o reprojeto, é sugerido que seja adicionada um botão com informações sobre as três principais categorias de filtragem de busca.
 
-## **Entrevista com o Usuário**
+### **Entrevista com o Usuário**
 
 <iframe width="700" height="500" src="https://www.youtube.com/embed/rzynIwH2K7Y" title="O bait" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+
+
+
 
 ## **Buscar Instituição**
 
 
-## **Objetivos da Avaliação**
+### **Objetivos da Avaliação**
 
 A avaliação tem como objetivo principal que o usuário entrevistado valide as ideias e alternativas de design propostas para a tarefa "Buscar Instituição".
 
-## **Procedimentos da Avaliação**
+### **Procedimentos da Avaliação**
 
 O método selecionado envolve a combinação de observação e entrevistas com os usuários, seguindo um modelo de questões a serem respondidas pelo usuário de maneira pré-definida. 
 
@@ -621,7 +648,7 @@ O método selecionado envolve a combinação de observação e entrevistas com o
 O entrevistado Felipe Bacelar, que atende aos critérios do nosso perfil de usuário, recebeu a orientação de executar a ação de "Buscar Instituição" no protótipo de alta fidelidade, enquanto o entrevistador observava atentamente e registrava as questões identificadas. Após a conclusão da tarefa, foi conduzida uma entrevista com o entrevistado, seguindo um roteiro predefinido, para que ele pudesse compartilhar suas experiências, apontar os problemas encontrados e oferecer sugestões de aprimoramento para o protótipo.
 
 
-## **Seleção dos Participantes**
+### **Seleção dos Participantes**
 
 O participante se encaixa no perfil de usuário, pois é um usuário maior de 18 anos e conta com alguns projetos universitários presentes no currículo Lattes.
 
@@ -633,12 +660,12 @@ O participante se encaixa no perfil de usuário, pois é um usuário maior de 18
     <p> <b>Tabela 1</b>: tabela de seleção dos participantes (Fonte: BASILIO,Guilherme, 2023).</p>
 </div>
 
-## **Questões Éticas** 
+### **Questões Éticas** 
 
 Para que a entrevista seja realizada, o entrevistado esteve previamente de acordo com nossos [termos de consentimento](https://unbbr-my.sharepoint.com/:w:/g/personal/211061645_aluno_unb_br/EUZaSOp-u5VBs1zdaqRbHbgBzHhy-r2WnmNvWRohQTtfBg?e=gRm35H), disponível no documento de [aspectos éticos](https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/blob/main/docs/analise-de-requisitos/aspectos-eticos.md).
 
 
-## **Perguntas ao usuário**
+### **Perguntas ao usuário**
 
 | ID | Enunciado| Resposta| Justificativa |
 | :---: | :----------------------------------------------------------: | :-----------------:|:------------|
@@ -666,7 +693,7 @@ Para que a entrevista seja realizada, o entrevistado esteve previamente de acord
     <p> <b>Tabela 4</b>: tabela de perguntas de Diretriz. (Fonte: Miguel de Frias e Joel Soares, 2023).</p>
 </div>
 
-## **Problemas Identificados**
+### **Problemas Identificados**
 
 Após a avaliação, segue as perguntas e respostas onde consequentemente foram identificados os problemas:
 
@@ -674,31 +701,37 @@ Após a avaliação, segue as perguntas e respostas onde consequentemente foram 
 - Mudança de interface durante o processo não agradou.
 - Falta de um botão para voltar para página intituições.
 
-## **Recomendações de melhoria**
+### **Recomendações de melhoria**
 
 O usuário recomendou como melhoria os seguintes itens:
 
 - Diminuir o número de cliques necessários para realizar a busca.
 - Adicionar um botão de retornar na página de buscar instituição.
 
-## **Opiniões dos usuários**
+### **Opiniões dos usuários**
 
 O usuário se contentou bastante com as funções e a interface do sistema, e gostou da menor quantidade de informações na tela, o que tornou a interface mais limpa e intuitiva.
 
-## **Análise e interpretação das respostas dos resultados**
+### **Análise e interpretação das respostas dos resultados**
 
 
-## **Resumo dos principais resultados**
+### **Resumo dos principais resultados**
 
 - O usuário concluiu a tarefa com sucesso;
 - Desconforto com o número de cliques para buscar
 - Falta de botão de voltar na tela de buscar instituição
 
-## **Sugestão de reprojeto para o sistema**
+### **Sugestão de reprojeto para o sistema**
 
 Para o reprojeto, é sugerido que seja adicionado um botão de voltar para a página instituições na tela de buscar instituição e que o número de cliques para buscar seja reduzido.
 
+
+### **Entrevista com o Usuário**
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KP2jTfIwHkpBxF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
 
 ## **Histórico de Versões**
 
