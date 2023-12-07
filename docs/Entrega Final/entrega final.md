@@ -86,7 +86,7 @@ A tabela 4 mostra as tarefas do planejamento feito para a entrega 2 do projeto.
 
 
 <div style="text-align: center">
-    <p> <b>Tabela 4</b>: Tarefas planejadas na Entrega 2. (Fonte: Miguel de Frias, 2023).</p>
+    <p> <b>Tabela 3</b>: Tarefas planejadas na Entrega 2. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 
@@ -109,7 +109,7 @@ A tabela 6 mostra as tarefas do planejamento feito para a entrega 2 do projeto.
 | Correções da Entrega 2 | Início: 18/10 <br> Fim: 20/10 | Início: 20/10 <br> Fim: 23/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias|
 
 <div style="text-align: center">
-    <p> <b>Tabela 6</b>: Tarefas planejadas na Entrega 3. (Fonte: Miguel de Frias, 2023).</p>
+    <p> <b>Tabela 4</b>: Tarefas planejadas na Entrega 3. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 
@@ -132,7 +132,7 @@ A tabela 8 mostra as tarefas do planejamento feito para a entrega 4 do projeto.
 | Correções da Entrega 3 | Início: 25/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 31/10 |  Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
 
 <div style="text-align: center">
-    <p> <b>Tabela 8</b>: Tarefas planejadas na Entrega 4. (Fonte: Miguel de Frias, 2023).</p>
+    <p> <b>Tabela 5</b>: Tarefas planejadas na Entrega 4. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 ### **Entrega 5**
@@ -154,7 +154,7 @@ A tabela 10 mostra as tarefas do planejamento feito para a entrega 5 do projeto.
 | Correções da Entrega 4 | Início: 01/11 <br> Fim: 07//11 | Início: 07/11 <br> Fim: 08/11 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
 
 <div style="text-align: center">
-    <p> <b>Tabela 10</b>: Tarefas planejadas na Entrega 5. (Fonte: Miguel de Frias, 2023).</p>
+    <p> <b>Tabela 6</b>: Tarefas planejadas na Entrega 5. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 
@@ -179,7 +179,7 @@ A tabela 12 mostra as tarefas do planejamento feito para a entrega 6.1 do projet
 | Correções da Entrega 5 | Início: 09/11 <br> Fim: 14/11 | Início: 14/11 <br> Fim:15/11 |  Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
 
 <div style="text-align: center">
-    <p> <b>Tabela 12</b>: Tarefas planejadas na Entrega 6.1. (Fonte: Miguel de Frias, 2023).</p>
+    <p> <b>Tabela 7</b>: Tarefas planejadas na Entrega 6.1. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 
@@ -202,7 +202,7 @@ A tabela 14 mostra as tarefas do planejamento feito para a entrega 7 do projeto.
 | Correções da Entrega 6.1 | Início: 16/11 <br> Fim: 19/11 | Início: 19/11 <br> Fim: 22/11 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
 
 <div style="text-align: center">
-    <p> <b>Tabela 14</b>: Tarefas planejadas na Entrega 7. (Fonte: Miguel de Frias, 2023).</p>
+    <p> <b>Tabela 8</b>: Tarefas planejadas na Entrega 7. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 
@@ -224,7 +224,7 @@ A tabela 16 mostra as tarefas do planejamento feito para a entrega 8 do projeto.
 | Correções da Entrega 7 | Início: 23/11 <br> Fim: 25/11 | Início: 25/11 <br> Fim: 26/11 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
 
 <div style="text-align: center">
-    <p> <b>Tabela 16</b>: Tarefas planejadas na Entrega 8. (Fonte: Miguel de Frias, 2023).</p>
+    <p> <b>Tabela 9</b>: Tarefas planejadas na Entrega 8. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 
@@ -249,7 +249,7 @@ A tabela 18 mostra as tarefas do planejamento feito para a entrega 6.2 do projet
 | Correções da Entrega 8 | Início: 28/11 <br> Fim: 29/11 | Início: 29/11 <br> Fim: 29/11 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
 
 <div style="text-align: center">
-    <p> <b>Tabela 18</b>: Tarefas realizadas na Entrega 6.2. (Fonte: Miguel de Frias, 2023).</p>
+    <p> <b>Tabela 10</b>: Tarefas realizadas na Entrega 6.2. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 
@@ -276,7 +276,7 @@ A tabela 3 mostra as atividades realizadas para a entrega 1 do projeto.
 | Postagem da Apresentação | Início: 02/10 <br> Fim: 02/10 | Início: 02/10 <br> Fim: 02/10 | Joel Soares  | Doan Filho e Joel Soares|
 
 <div style="text-align: center">
-    <p> <b>Tabela 3</b>: Tarefas realizadas na Entrega 1. (Fonte: Miguel de Frias, 2023).</p>
+    <p> <b>Tabela 11</b>: Tarefas realizadas na Entrega 1. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 
@@ -299,7 +299,7 @@ A tabela 5 mostra as atividades realizadas para a entrega 2 do projeto.
 | Correções da Entrega 1 | Início: 03/10 <br> Fim: 15/10 | Início: 15/10 <br> Fim: 16/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias|
 
 <div style="text-align: center">
-    <p> <b>Tabela 5</b>: Tarefas realizadas na Entrega 2. (Fonte: Miguel de Frias, 2023).</p>
+    <p> <b>Tabela 12</b>: Tarefas realizadas na Entrega 2. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 ### **Executado entrega 03**
@@ -319,7 +319,7 @@ A tabela 7 mostra as atividades realizadas para a entrega 3 do projeto.
 | Correções da Entrega 2 | Início: 18/10 <br> Fim: 23/10 | Início: 23/10 <br> Fim: 23/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias|
 
 <div style="text-align: center">
-    <p> <b>Tabela 7</b>: Tarefas realizadas na Entrega 3. (Fonte: Miguel de Frias, 2023).</p>
+    <p> <b>Tabela 13</b>: Tarefas realizadas na Entrega 3. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 
@@ -340,7 +340,7 @@ A tabela 9 mostra as tarefas realizadas na entrega 4 do projeto.
 | Correções da Entrega 3 | Início: 25/10 <br> Fim: 30/10| Início: 30/10 <br> Fim: 31/10 |  Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
 
 <div style="text-align: center">
-    <p> <b>Tabela 9</b>: Tarefas realizadas na Entrega 4. (Fonte: Miguel de Frias, 2023).</p>
+    <p> <b>Tabela 14</b>: Tarefas realizadas na Entrega 4. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 
@@ -363,7 +363,7 @@ A tabela 11 mostra as tarefas realizadas na entrega 5 do projeto.
 
 
 <div style="text-align: center">
-    <p> <b>Tabela 11</b>: Tarefas realizadas na Entrega 5. (Fonte: Miguel de Frias, 2023).</p>
+    <p> <b>Tabela 15</b>: Tarefas realizadas na Entrega 5. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 
@@ -386,7 +386,7 @@ A tabela 13 mostra as tarefas realizadas na entrega 6.1 do projeto.
 
 
 <div style="text-align: center">
-    <p> <b>Tabela 11</b>: Tarefas realizadas na Entrega 6.1 . (Fonte: Miguel de Frias, 2023).</p>
+    <p> <b>Tabela 16</b>: Tarefas realizadas na Entrega 6.1 . (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 
@@ -408,7 +408,7 @@ A tabela 15 mostra as tarefas realizadas na entrega 7 do projeto.
 
 
 <div style="text-align: center">
-    <p> <b>Tabela 155</b>: Tarefas realizadas na Entrega 7 . (Fonte: Miguel de Frias, 2023).</p>
+    <p> <b>Tabela 17</b>: Tarefas realizadas na Entrega 7 . (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 
@@ -430,7 +430,7 @@ A tabela 15 mostra as tarefas realizadas na entrega 8 do projeto.
 
 
 <div style="text-align: center">
-    <p> <b>Tabela 155</b>: Tarefas realizadas na Entrega 7 . (Fonte: Miguel de Frias, 2023).</p>
+    <p> <b>Tabela 18</b>: Tarefas realizadas na Entrega 7 . (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 
@@ -486,7 +486,7 @@ Após alguns debates ao longo do inicio do projeto, tivemos uma escolha em conse
 
 <div align="center">
     <img src="../assets/lattes-logo.png" width = 300px/>
-    <p> Figura 1: Imagem Plataforma Lattes . Fonte: <a href="https://www.lattes.cnpq.br/">Lattes CNPq</a></p> 
+    <p> Figura 2: Imagem Plataforma Lattes . Fonte: <a href="https://www.lattes.cnpq.br/">Lattes CNPq</a></p> 
 </div>
 
 
@@ -551,7 +551,7 @@ A separação está presente na seguinte tabela:
 
 <center>
 
-**Tabela X:** Relação das tabelas realizadas pela equipe
+**Tabela 19:** Relação das tabelas realizadas pela equipe
 
 
 | Avaliação          | Metodologia          | Avaliador(es)          | Número e nome dos participantes | Relato dos resultados  |
@@ -573,56 +573,26 @@ A separação está presente na seguinte tabela:
 
 ## **Apresentações**
 
-## **Apresentação 01** 
 
 ## Introdução 
-Neste documento apresentamos a primeira entrega da disciplina Interação Humano-Computador que ocorreu ao longo do semestre de 2023.2, que vai de 25/08/23 a 23/12/23
+Neste documento apresentamos a primeira entrega da disciplina Interação Humano-Computador que ocorreu ao longo do 3
+
+<center>
+
+**Tabela 20:** Apresentações gravadas pela equipe
+
+| Apresentação | Vídeo | Membros Presentes |
+|--------------|-------|-------------------|
+| **Apresentação 01** | <iframe width="560" height="315" src="https://www.youtube.com/embed/bwlY-2RxFxU?si=EV0e5TgiylBSF_HV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, Guilherme Basílio, Joel Soares  |
+| **Apresentação 02** | <iframe width="560" height="315" src="https://www.youtube.com/embed/e6u5WfRGBVM?si=GYbivIiqDl7CbgEq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, Guilherme Basílio, Joel Soares |
+| **Apresentação 03** | <iframe width="560" height="315" src="https://www.youtube.com/embed/OxsfxQjtAvc?si=q1jvchdBetbSIKiq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, Guilherme Basílio, Joel Soares |
+| **Apresentação 04** | <iframe width="560" height="315" src="https://www.youtube.com/embed/-p1UQlNPotI?si=G2YRbrSwKA38sPBt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, Guilherme Basílio, Joel Soares |
+| **Apresentação 05** | <iframe width="560" height="315" src="https://www.youtube.com/embed/-p1UQlNPotI?si=G2YRbrSwKA38sPBt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, Guilherme Basílio, Joel Soares |
 
 
-## **Apresentação 01**
-<iframe width="630" height="315" src="https://www.youtube.com/embed/bwlY-2RxFxU?si=EV0e5TgiylBSF_HV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-## **Apresentação 02** 
-
-## Introdução 
-Neste documento apresentamos a primeira entrega da disciplina Interação Humano-Computador que ocorreu ao longo do semestre de 2023.2, que vai de 25/08/23 a 23/12/23
-
-
-
-## **Apresentação 02**
-<iframe width="630" height="315" src="https://www.youtube.com/embed/e6u5WfRGBVM?si=GgwjmSfQJ0lL1nHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-# **Apresentação 03** 
-
-## Introdução 
-Neste documento apresentamos a quarta entrega da disciplina Interação Humano-Computador que ocorreu ao longo do semestre de 2023.2, que vai de 25/08/23 a 23/12/23
-
-## **Apresentação 03**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OxsfxQjtAvc?si=q1jvchdBetbSIKiq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-# **Apresentação 04** 
-
-## Introdução 
-Neste documento apresentamos a quarta entrega da disciplina Interação Humano-Computador que ocorreu ao longo do semestre de 2023.2, que vai de 25/08/23 a 23/12/23
-
-## **Apresentação 04**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-p1UQlNPotI?si=G2YRbrSwKA38sPBt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-# **Apresentação de Verificação** 
-
-## Introdução 
-Neste documento apresentamos a quarta entrega da disciplina Interação Humano-Computador que ocorreu ao longo do semestre de 2023.2, que vai de 25/08/23 a 23/12/23
-
-## **Apresentação 05**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-p1UQlNPotI?si=G2YRbrSwKA38sPBt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
+**Fonte:** autores
+</center>
 
 ## **Execução do projeto  de cada etapa do ciclo de vida**
 
@@ -697,7 +667,7 @@ Os artefatos criados foram segmentadas por níveis, sendo eles:
 
 <center>
 
-**Tabela X:** Artefatos confeccionadas na fase Análise de Requisitos.
+**Tabela 21:** Artefatos confeccionadas na fase Análise de Requisitos.
 
 
 |   Artefato      |    Autor(es)     |   Revisor(es)  |
@@ -721,7 +691,7 @@ Os artefatos criados foram segmentadas por níveis, sendo eles:
 
 <center>
 
-**Tabela X:** Artefatos confeccionadas na fase Design, Avaliação e Desenvolvimento - Nível 1
+**Tabela 22:** Artefatos confeccionadas na fase Design, Avaliação e Desenvolvimento - Nível 1
 
 |   Artefato      |    Autor(es)     |   Revisor(es)  |
 | :--------: | :--------------: | :--------------: |
@@ -740,7 +710,7 @@ Os artefatos criados foram segmentadas por níveis, sendo eles:
 
 <center>
 
-**Tabela X:** Artefatos confeccionadas na fase Design, Avaliação e Desenvolvimento - Nível 2
+**Tabela 23:** Artefatos confeccionadas na fase Design, Avaliação e Desenvolvimento - Nível 2
 
 |   Artefato      |    Autor(es)     |   Revisor(es)  |
 | :--------: | :--------------: | :--------------: |
@@ -756,7 +726,7 @@ Os artefatos criados foram segmentadas por níveis, sendo eles:
 
 <center>
 
-**Tabela X:** Artefatos confeccionadas na fase Design, Avaliação e Desenvolvimento - Nível 3
+**Tabela 24:** Artefatos confeccionadas na fase Design, Avaliação e Desenvolvimento - Nível 3
 
 </br>
 
@@ -779,7 +749,7 @@ Os artefatos criados foram segmentadas por níveis, sendo eles:
 
 <center>
 
-**Tabela X:** Relação de técnicas utilizadas pela equipe
+**Tabela 25:** Relação de técnicas utilizadas pela equipe
 
 
 |   Artefato      |   Técnica   |   Autor(es) |
