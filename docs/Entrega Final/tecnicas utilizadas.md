@@ -1,8 +1,10 @@
-# **Tecnicas Utilizadas no Projeto**
+# **Técnicas Utilizadas**
 
-## **Introducao** 
+## **Introdução** 
 
-Este documento contempla uma tabela sintetizando quais técnicas foram utilizadas na execução do projeto. 
+Esse artefato se refere à entrega final da disciplina de Interação Humano-Computador. Portanto, a tabela neste artefato irá organizar todas as técnicas que foram aplicadas ao longo do projeto.
+
+## **Tabela de técnicas no projeto**
 
 | Tecnica Utilizada | Quem as utilizou | Artefatos relacionados |
 | :---: | :---: | :---: |
@@ -15,6 +17,7 @@ Este documento contempla uma tabela sintetizando quais técnicas foram utilizada
 | Avaliação Heurística |  Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias  |  [Site Escolhido](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Planejamento/site-selecionado/) <br> [Site Avaliado](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Planejamento/sites-avaliados/)  |
 
 Tabela 1 : Técnicas Utilizadas
+
 
 ## **Histórico de versão**
 | Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
