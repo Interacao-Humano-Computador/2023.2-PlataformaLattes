@@ -521,6 +521,9 @@ Inicialmente, debatemos sobre a escolha e a principal opção era o site da **Ca
 # Verificação dos Artefatos
 
 
+## Metodologia de Verificação dos Artefatos
+
+Para efetuar a verificação dos artefatos,nosso grupo adotoou a abordagem de inspeção, buscando identificar possíveis problemas a fim de garantir a qualidade. Para isso, foram desenvolvidos checklists de verificação, levando em consideração as orientações e materiais fornecidos pelo professor durante as aulas.
 
 Para a verificação dos artefatos do nosso grupo, os integrantes Caio Lelis, Doan Filho e Caio Braga dividiram as tarefas em 3 partes conforme a tabela e os critérios a seguir:
 
@@ -541,14 +544,15 @@ A separação está presente na seguinte tabela:
 </div>
  
 
- # Avaliações realizadas
+# Avaliações realizadas
 
 &emsp;&emsp; A seguinte tabela apresenta as avaliações que foram realizadas, a metodologia, avaliadores, número e nome dos participantes e o relato dos resultados de cada avaliação.
 
 
 <center>
 
-**Tabela X: Relação das tabelas realizadas pela equipe
+**Tabela X:** Relação das tabelas realizadas pela equipe
+
 
 | Avaliação          | Metodologia          | Avaliador(es)          | Número e nome dos participantes | Relato dos resultados  |
 | ------------------ | -------------------- | ---------------------- | ------------------------------- | ---------------------- |
@@ -620,5 +624,64 @@ Neste documento apresentamos a quarta entrega da disciplina Interação Humano-C
 
 
 
-# Resultados Alcançados
+# Execução do projeto  de cada etapa do ciclo de vida
+
+
+
+## Introdução
+
+No desenvolvimento deste projeto, seguimos o Ciclo de Vida proposto por Deborah Mayhew (1999), composto por análise de requisitos e design/avaliação/desenvolvimento, excluindo a fase de instalação da disciplina de IHC. Na análise de requisitos, estabelecemos metas de usabilidade com base no perfil dos usuários e análise de tarefas. A fase seguinte envolveu três níveis de detalhamento, incluindo reengenharia do trabalho, criação de protótipos e design detalhado da interface. 
+
+
+### Análise de Requisitos
+Nesta fase, as metas de usabilidade são estabelecidas, considerando o perfil dos usuários, análise de tarefas, plataforma e princípios de design de Interação Humano-Computador (IHC). As metas são formalizadas em guias de estilo, contendo diretrizes para elementos da interface do usuário.
+
+Artefatos:
+
+- [Perfil de Usuário](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/perfil-de-usuario/#avaliacao-da-experiencia)
+- [Análise Hierárquica de Tarefas](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/hta/)
+- [Características da plataforma](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/caracteristicas_plataforma/)
+- [Princípios Gerais](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/principios-gerais/)
+- [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/metas-de-usabilidade/)
+- [Guia de Estilo](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/guia-de-estilo/)
+- [Observação](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/observacao/)
+- [Introspecção](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/introspeccao/)
+- [Personas](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/personas/)
+- [Árvore de Tarefas Concorrentes](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/ctt/)
+- [Aspectos Éticos](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/aspectos-eticos/)
+- [Cenários](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/cenarios/)
+
+
+### Nível 1
+Aqui, com base nos requisitos identificados, o designer cria um conceito inicial e uma proposta para a interface do usuário. Esses conceitos podem ser representados por rascunhos, esboços ou diagramas, permitindo avaliação preliminar e feedback de usuários e partes interessadas.
+
+Artefatos:
+
+- [Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/An%C3%A1lise%20de%20tarefas/planej-hta/)
+- [Planejamento do Relato dos Resultados da Avaliação](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/An%C3%A1lise%20de%20tarefas/planej-relato-resultado-avaliacao/)
+- [Relato do Resultado - Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/An%C3%A1lise%20de%20tarefas/relato-resultados/)
+- [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/Storyboard/Planejamento%20da%20avalia%C3%A7%C3%A3o%20do%20Storyboard/)
+- [Planejamento do Relato dos Resultados - Storyboard](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/Storyboard/Planejamento%20do%20relato%20dos%20resultados%20/)
+- [Relato do Resultado - Storyboard](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/Storyboard/Relato%20dos%20resultados%20dos%20Storyboards/)
+- [Storyboards](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/Storyboard/Storyboards/)
+
+### Nível 2
+Nesta fase, os conceitos iniciais são refinados e detalhados. O designer define as interações, fluxos de trabalho e estrutura da interface. Protótipos de baixa fidelidade são criados, testados e iterados para garantir usabilidade e atender às necessidades dos usuários.
+
+Artefatos:
+
+- [Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2002/Prot%C3%B3tipo%20de%20Papel/Planejamento-da-Avalia%C3%A7%C3%A3o-do-Prot%C3%B3tipo-de-Papel/)
+- [Planejamento do Relato dos Resultados - Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2002/Prot%C3%B3tipo%20de%20Papel/Planejamento-do-Relato-dos-Resultados/)
+- [Relato dos Resultados do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2002/Prot%C3%B3tipo%20de%20Papel/Relato%20dos%20resultados%20do%20prot%C3%B3tipo%20de%20papel/)
+
+
+### Nível 3
+
+Aqui, o designer realiza o projeto completo da interface em alta fidelidade, considerando aspectos visuais como cores, fontes, ícones e layout. Esses projetos são geralmente criados utilizando softwares de design gráfico ou de interface do usuário, proporcionando uma representação precisa e finalizada da interface, servindo como base para a implementação.
+
+Artefatos:
+
+- [Planejamento da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2003/Planejamento%20da%20Avalia%C3%A7%C3%A3o%20do%20Prot%C3%B3tipo%20de%20Alta%20Fidelidade/)
+- [Planejamento do Relato dos Resultados - Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2003/Planejamento%20do%20Relato%20dos%20Resultados/)
+- [Relato dos Resultados - Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2003/Relato%20dos%20Resultados/)
 
