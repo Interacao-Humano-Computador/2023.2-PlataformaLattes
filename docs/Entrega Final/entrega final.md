@@ -468,12 +468,12 @@ Esse ciclo de vida foi interessante para o nosso projeto devido a sua iterativid
 
 **Figura 1:** Ciclo de vida de Mayhew
 
-<img src="../assets/ciclo-de-vida-mayhew.png">
+<img src="../assets/figura4.png">
 
 **Fonte:** MAYHEW, D.
 
 
-
+</center>
 
 
 # **Site Selecionado**
@@ -521,6 +521,9 @@ Inicialmente, debatemos sobre a escolha e a principal opção era o site da **Ca
 # Verificação dos Artefatos
 
 
+## Metodologia de Verificação dos Artefatos
+
+Para efetuar a verificação dos artefatos,nosso grupo adotoou a abordagem de inspeção, buscando identificar possíveis problemas a fim de garantir a qualidade. Para isso, foram desenvolvidos checklists de verificação, levando em consideração as orientações e materiais fornecidos pelo professor durante as aulas.
 
 Para a verificação dos artefatos do nosso grupo, os integrantes Caio Lelis, Doan Filho e Caio Braga dividiram as tarefas em 3 partes conforme a tabela e os critérios a seguir:
 
@@ -541,14 +544,15 @@ A separação está presente na seguinte tabela:
 </div>
  
 
- # Avaliações realizadas
+# Avaliações realizadas
 
 &emsp;&emsp; A seguinte tabela apresenta as avaliações que foram realizadas, a metodologia, avaliadores, número e nome dos participantes e o relato dos resultados de cada avaliação.
 
 
 <center>
 
-**Tabela X: Relação das tabelas realizadas pela equipe
+**Tabela X:** Relação das tabelas realizadas pela equipe
+
 
 | Avaliação          | Metodologia          | Avaliador(es)          | Número e nome dos participantes | Relato dos resultados  |
 | ------------------ | -------------------- | ---------------------- | ------------------------------- | ---------------------- |
@@ -562,5 +566,249 @@ A separação está presente na seguinte tabela:
 </center>
 
 
+</center>
 
 
+
+
+# **Apresentações**
+
+## **Apresentação 01** 
+
+## Introdução 
+Neste documento apresentamos a primeira entrega da disciplina Interação Humano-Computador que ocorreu ao longo do semestre de 2023.2, que vai de 25/08/23 a 23/12/23
+
+
+## **Apresentação 01**
+<iframe width="630" height="315" src="https://www.youtube.com/embed/bwlY-2RxFxU?si=EV0e5TgiylBSF_HV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+## **Apresentação 02** 
+
+## Introdução 
+Neste documento apresentamos a primeira entrega da disciplina Interação Humano-Computador que ocorreu ao longo do semestre de 2023.2, que vai de 25/08/23 a 23/12/23
+
+
+
+## **Apresentação 02**
+<iframe width="630" height="315" src="https://www.youtube.com/embed/e6u5WfRGBVM?si=GgwjmSfQJ0lL1nHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+# **Apresentação 03** 
+
+## Introdução 
+Neste documento apresentamos a quarta entrega da disciplina Interação Humano-Computador que ocorreu ao longo do semestre de 2023.2, que vai de 25/08/23 a 23/12/23
+
+## **Apresentação 03**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OxsfxQjtAvc?si=q1jvchdBetbSIKiq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+# **Apresentação 04** 
+
+## Introdução 
+Neste documento apresentamos a quarta entrega da disciplina Interação Humano-Computador que ocorreu ao longo do semestre de 2023.2, que vai de 25/08/23 a 23/12/23
+
+## **Apresentação 04**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-p1UQlNPotI?si=G2YRbrSwKA38sPBt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+# **Apresentação de Verificação** 
+
+## Introdução 
+Neste documento apresentamos a quarta entrega da disciplina Interação Humano-Computador que ocorreu ao longo do semestre de 2023.2, que vai de 25/08/23 a 23/12/23
+
+## **Apresentação 05**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-p1UQlNPotI?si=G2YRbrSwKA38sPBt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+# Execução do projeto  de cada etapa do ciclo de vida
+
+
+
+## Introdução
+
+No desenvolvimento deste projeto, seguimos o Ciclo de Vida proposto por Deborah Mayhew (1999), composto por análise de requisitos e design/avaliação/desenvolvimento, excluindo a fase de instalação da disciplina de IHC. Na análise de requisitos, estabelecemos metas de usabilidade com base no perfil dos usuários e análise de tarefas. A fase seguinte envolveu três níveis de detalhamento, incluindo reengenharia do trabalho, criação de protótipos e design detalhado da interface. 
+
+
+### Análise de Requisitos
+Nesta fase, as metas de usabilidade são estabelecidas, considerando o perfil dos usuários, análise de tarefas, plataforma e princípios de design de Interação Humano-Computador (IHC). As metas são formalizadas em guias de estilo, contendo diretrizes para elementos da interface do usuário.
+
+Artefatos:
+
+- [Perfil de Usuário](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/perfil-de-usuario/#avaliacao-da-experiencia)
+- [Análise Hierárquica de Tarefas](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/hta/)
+- [Características da plataforma](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/caracteristicas_plataforma/)
+- [Princípios Gerais](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/principios-gerais/)
+- [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/metas-de-usabilidade/)
+- [Guia de Estilo](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/guia-de-estilo/)
+- [Observação](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/observacao/)
+- [Introspecção](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/introspeccao/)
+- [Personas](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/personas/)
+- [Árvore de Tarefas Concorrentes](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/ctt/)
+- [Aspectos Éticos](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/aspectos-eticos/)
+- [Cenários](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/cenarios/)
+
+
+### Nível 1
+Aqui, com base nos requisitos identificados, o designer cria um conceito inicial e uma proposta para a interface do usuário. Esses conceitos podem ser representados por rascunhos, esboços ou diagramas, permitindo avaliação preliminar e feedback de usuários e partes interessadas.
+
+Artefatos:
+
+- [Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/An%C3%A1lise%20de%20tarefas/planej-hta/)
+- [Planejamento do Relato dos Resultados da Avaliação](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/An%C3%A1lise%20de%20tarefas/planej-relato-resultado-avaliacao/)
+- [Relato do Resultado - Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/An%C3%A1lise%20de%20tarefas/relato-resultados/)
+- [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/Storyboard/Planejamento%20da%20avalia%C3%A7%C3%A3o%20do%20Storyboard/)
+- [Planejamento do Relato dos Resultados - Storyboard](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/Storyboard/Planejamento%20do%20relato%20dos%20resultados%20/)
+- [Relato do Resultado - Storyboard](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/Storyboard/Relato%20dos%20resultados%20dos%20Storyboards/)
+- [Storyboards](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/Storyboard/Storyboards/)
+
+### Nível 2
+Nesta fase, os conceitos iniciais são refinados e detalhados. O designer define as interações, fluxos de trabalho e estrutura da interface. Protótipos de baixa fidelidade são criados, testados e iterados para garantir usabilidade e atender às necessidades dos usuários.
+
+Artefatos:
+
+- [Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2002/Prot%C3%B3tipo%20de%20Papel/Planejamento-da-Avalia%C3%A7%C3%A3o-do-Prot%C3%B3tipo-de-Papel/)
+- [Planejamento do Relato dos Resultados - Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2002/Prot%C3%B3tipo%20de%20Papel/Planejamento-do-Relato-dos-Resultados/)
+- [Relato dos Resultados do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2002/Prot%C3%B3tipo%20de%20Papel/Relato%20dos%20resultados%20do%20prot%C3%B3tipo%20de%20papel/)
+
+
+### Nível 3
+
+Aqui, o designer realiza o projeto completo da interface em alta fidelidade, considerando aspectos visuais como cores, fontes, ícones e layout. Esses projetos são geralmente criados utilizando softwares de design gráfico ou de interface do usuário, proporcionando uma representação precisa e finalizada da interface, servindo como base para a implementação.
+
+Artefatos:
+
+- [Planejamento da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2003/Planejamento%20da%20Avalia%C3%A7%C3%A3o%20do%20Prot%C3%B3tipo%20de%20Alta%20Fidelidade/)
+- [Planejamento do Relato dos Resultados - Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2003/Planejamento%20do%20Relato%20dos%20Resultados/)
+- [Relato dos Resultados - Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2003/Relato%20dos%20Resultados/)
+
+
+
+# **Artefatos Criados**
+
+Os artefatos criados foram segmentadas por níveis, sendo eles:
+
+- Análise de requisitos
+- Design, Avaliação e Desenvolvimento Nível 1, 2, 3.
+
+
+<center>
+
+**Tabela X:** Artefatos confeccionadas na fase Análise de Requisitos.
+
+
+|   Artefato      |    Autor(es)     |   Revisor(es)  |
+| :--------: | :--------------: | :--------------: |
+|       <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/perfil-de-usuario/">Perfil dos Usuários</a>       |       Caio Braga, Doan FIlho, Guilherme Basílio e Joel Soares       | Doan Filho, Guilherme Basílio, Joel Soares e Miguelde Frias |
+|       <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/hta/">HTA</a> e  <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/ctt/">CTT</a>    |  Todos os integrantes    |   |
+|        <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/aspectos-eticos/#bibliografia">Aspectos Éticos</a>        |        Caio Braga e Guilherme Basílio       |  Doan Filho   |
+|               <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/cenarios/">Cenários</a>               |        Gabriel Barbosa        | Doan Filho |
+|               <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/personas/">Personas</a>                 |      Gabriel Barbosa, Guilherme Basílio e Joel Soares      | Doan Filho e Joel Soares  |
+|         <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/guia-de-estilo/">Guias de Estilos</a>          | Caio Braga e Doan Filho | Caio Braga e Doan Filho |
+|     <a href="">Metas de Usabilidade</a>     |      Caio Braga, Gabriel Barbosa e Guilherme Basílio      | Miguel de Frias, Joel Soares |
+| <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/principios-gerais/">Princípios Gerais</a> |          Caio Braga, Caio Lelis e Guilherme Basílio          | Mizael Santos  |
+| <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/caracteristica">Características da plataforma</a> |  Gabriel Barbosa | Miguel de frias e Doan Filho |
+| <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/observacao/">Observação</a> | Guilherme Basílio e Miguel de Frias|  Doan Filho |
+| <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/introspeccao/">Introspecção</a> | Guilherme Basílio e Miguel de Frias | Doan Filho |
+
+**Fonte:** BRAGA, Caio.
+</center>
+
+<br>
+
+<center>
+
+**Tabela X:** Artefatos confeccionadas na fase Design, Avaliação e Desenvolvimento - Nível 1
+
+|   Artefato      |    Autor(es)     |   Revisor(es)  |
+| :--------: | :--------------: | :--------------: |
+|                           <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/An%C3%A1lise%20de%20tarefas/planej-hta/">Planejamento da avaliação da análise de tarefas</a>                            |     Caio Braga, Doan Filho e Miguel de Frias    |  Caio Braga, Doan Filho e Miguel de Frias  |
+|                <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/An%C3%A1lise%20de%20tarefas/planej-relato-resultado-avaliacao/#historico-de-versoes">Planejamento do relato da análise de tarefas</a>                 |  Doan Filho   |  Caio Braga   |
+|                  <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/An%C3%A1lise%20de%20tarefas/relato-resultados/">Relato dos resultados da análise de tarefas</a>                          |  Caio Braga e Doan Filho  | Caio Braga e Doan Filho |
+|                           <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/Storyboard/Planejamento%20da%20avalia%C3%A7%C3%A3o%20do%20Storyboard/#introducao">Planejamento da avaliação do storyboard</a>                            |     Caio Lelis, Gabriel Barbosa, Guilherme Basílio e Joel Soares     |  Caio Lelis, Gabriel Barbosa, Guilherme Basílio e Joel Soares    |
+|                <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/Storyboard/Planejamento%20do%20relato%20dos%20resultados%20/">Planejamento do relato dos resultados do storyboard</a>                 |  Gabriel Barbosa e Guilherme Basílio     |  Caio Braga |
+|                  <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/storyboard/relato_resultados">Relato dos resultados do storyboard</a>                          |  Todos os integrantes    | Doan Filho e Joel Soares |
+
+**Fonte:** BRAGA, Caio.
+
+</center>
+
+<br>
+
+<center>
+
+**Tabela X:** Artefatos confeccionadas na fase Design, Avaliação e Desenvolvimento - Nível 2
+
+|   Artefato      |    Autor(es)     |   Revisor(es)  |
+| :--------: | :--------------: | :--------------: |
+|   <a href="">Planejamento da avaliação do protótipo de papel</a>  |    Gabriel Barbosa   |  Guilherme Basílio   |
+|  <a href="">Planejamento do relato do protótipo de papel</a>                 |  Guilherme Basílio e Miguel de Frias   |  Gabriel Barbosa   |
+|                  <a href="">Relato dos resultados do protótipo de papel</a>                          |  Todos os integrantes   | Caio Braga, Doan FIlho, Guilherme Basílio, Joel Soares e Miguel de Frias |
+
+**Fonte:** BRAGA, Caio
+
+</center>
+
+<br>
+
+<center>
+
+**Tabela X:** Artefatos confeccionadas na fase Design, Avaliação e Desenvolvimento - Nível 3
+
+</br>
+
+|   Artefato      |    Autor(es)     |   Revisor(es)  |
+| :--------: | :--------------: | :--------------: |
+|     <a href="">Planejamento da avaliação do protótipo de alta fidelidade</a>                            |     Miguel de Frias e Joel Soares   |  Miguel de Frias e Joel Soares    |
+|                <a href="">Planejamento do relato do protótipo de alta fidelidade</a>                 |  Gabriel Barbosa e Guilherme Basílio    |  Guilherme Basílio   |
+|                  <a href="">Relato dos resultados do protótipo de alta fidelidade</a>                          |  Todos os integrantes | Caio Braga |
+
+
+**Fonte:** BRAGA, Caio.
+
+<center>
+
+## Técnicas Utilizadas
+
+
+&emsp;&emsp; A tabela a seguir mostra os artefatos, técnicas utilizadas e seus autores.
+
+
+<center>
+
+**Tabela X:** Relação de técnicas utilizadas pela equipe
+
+
+|   Artefato      |   Técnica   |   Autor(es) |
+| :--------: | :--------------: | :--------------: |
+|   Análise de Requisitos     |    Aspectos Éticos, Características da Plataforma, Cenários, Introspecção, Metas de Usabilidade, Perfil do Usuário,  Personas, Princípios Gerais | Todos os integrantes | 
+|   Perfil do Usuário     |  Questionário     |  Caio Braga, Doan Filho, Guilherme Basílio, Joel Soares   |
+|   Análise de Tarefas   |  Análise Hierárquica de Tarefas(HTA) e  Árvores de Tarefas Concorrentes(ConcurTaskTrees – CTT) | Todos os integrantes |
+| Avaliação da Análise de Tarefas     |    Entrevista        |  Caio Braga, Caio Lelis e Doan Filho  | 
+|   Avaliação do StoryBoard     |     Entrevista       | Todos os integrantes | 
+|   Avaliação do Protótipo de Papel     |   Entrevista         | Todos os integrantes |
+|   Avaliação do Protótipo de Alta Fidelidade  |  Teste de Usabilidade          | Todos os integrantes | 
+|   Verificações    |    Inspeção, Modelo de Fagan, Checklist        |  Todos os integrantes |
+|   Apresentações    |      Gravações          | Doan Filho e Joel Soares |
+ 
+
+**Fonte:** BRAGA, Caio.
+
+</center>
+
+
+
+## **Bibliografia**
+
+[1] Mayhew, D. J. (1999). The Usability Engineering Lifecycle: A Practitioner's Handbook for User Interface Design. Morgan Kaufmann.
+
+[2] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
+
+## **Histórico de Versões**
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Versão Inicial |   Caio Lelis e Caio Braga  |   06/12/2023   | Doan Filho  |  06/12/2023  |
