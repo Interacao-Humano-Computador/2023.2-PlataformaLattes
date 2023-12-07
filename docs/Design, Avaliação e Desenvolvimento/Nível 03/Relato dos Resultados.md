@@ -737,4 +737,4 @@ Para o reprojeto, é sugerido que seja adicionado um botão de voltar para a pá
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do artefato Relato dos resultados | Caio Lelis | 29/11/2023 | | |
+|  1.0   | Criação do artefato Relato dos resultados | Caio Lelis | 29/11/2023 | Miguel de Frias e Guilherme Basilio | 06/12/2023 |
