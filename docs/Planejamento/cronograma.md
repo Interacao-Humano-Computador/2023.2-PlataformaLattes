@@ -361,15 +361,17 @@ A tabela 16 mostra as tarefas do planejamento feito para a entrega 8 do projeto.
 
 A tabela 17 mostra as tarefas realizadas na entrega 8 do projeto.
 
+- Observação: As datas de entrega foram adiadas.
+
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
 |--------|----------------------------|--------------------|-------------|--------|
-| Planejamento de verificação dos artefatos da entrega 7 | Início: 23/11 <br> Fim: 26/11 | Início: 26/11 <br> Fim: 27/11| Caio Lelis, Caio Braga e Miguel de Frias | Caio Lelis |
-| Relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 23/11 <br> Fim: 26/11| Início: 26/11 <br> Fim: 27/11| Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias  |
-| Atualizar GitPage | Início: 23/11 <br> Fim: 26/11 | Início: 26/11 <br> Fim: 27/11| Caio Braga e Caio Lelis | Doan Filho  |
-| Gravação da Apresentação | Início: 26/11 <br> Fim: 26/11 | Início: 26/11 <br> Fim: 26/11| Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
-| Postagem da Apresentação | Início: 26/11 <br> Fim: 26/11 | Início: 26/11 <br> Fim: 26/11 | Joel Soares | Miguel de Frias|
-| Cronograma Executado | Início: 23/11 <br> Fim: 26/11 | Início: 26/11 <br> Fim: 27/11 | Miguel de Frias | Guilherme Basilio |
-| Correções da Entrega 7 | Início: 23/11 <br> Fim: 25/11 | Início: 25/11 <br> Fim: 26/11 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
+| Planejamento de verificação dos artefatos da entrega 7 | Início: 23/11 <br> Fim: 29/11| Início: 29/11 <br> Fim: 29/11| Caio Lelis, Caio Braga e Miguel de Frias | Caio Lelis |
+| Relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 23/11 <br> Fim: 29/11| Início: 29/11 <br> Fim: 29/11| Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias  |
+| Atualizar GitPage | Início: 23/11 <br> Fim: 29/11| Início: 29/11 <br> Fim: 29/11| Caio Braga e Caio Lelis | Doan Filho  |
+| Gravação da Apresentação | Início: 29/11 <br> Fim: 29/11| Início: 29/11 <br> Fim: 29/11| Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
+| Postagem da Apresentação | Início: 29/11 <br> Fim: 29/11| Início: 29/11 <br> Fim: 29/11 | Joel Soares | Miguel de Frias|
+| Cronograma Executado | Início: 23/11 <br> Fim: 29/11| Início: 29/11 <br> Fim: 29/11 | Miguel de Frias | Guilherme Basilio |
+| Correções da Entrega 7 | Início: 23/11 <br> Fim: 28/11| Início: 28/11 <br> Fim: 29/11 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
 
 
 <div style="text-align: center">
@@ -403,16 +405,16 @@ A tabela 18 mostra as tarefas do planejamento feito para a entrega 6.2 do projet
 
 A tabela 19 mostra as tarefas realizadas na entrega 6.2 do projeto.
 
-- Observação: As datas de entrega foram adiadas para dia 04/12.
+- Observação: As datas de entrega foram adiadas.
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
 |--------|----------------------------|--------------------|-------------|--------|
-| Verificação e Relato de artefatos 2 | Início: 28/11 <br> Fim: 04/12 | Início: 04/12 <br> Fim: 04/12 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |
-| Atualizar GitPage | Início: 28/11 <br> Fim: 04/12 | Início: 04/12 <br> Fim: 04/12  | Joel Soares e Miguel de Frias | Doan Filho |
+| Verificação e Relato de artefatos 2 | Início: 30/11 <br> Fim: 04/12 | Início: 04/12 <br> Fim: 04/12 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |
+| Atualizar GitPage | Início: 30/11 <br> Fim: 04/12 | Início: 04/12 <br> Fim: 04/12  | Joel Soares e Miguel de Frias | Doan Filho |
 | Gravação da Apresentação | Início: 04/12 <br> Fim: 04/12 | Início: 04/12 <br> Fim: 04/12   | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
 | Postagem da Apresentação | Início: 04/12 <br> Fim: 04/12 | Início: 04/12 <br> Fim: 04/12  | Joel Soares | Miguel de de Frias|
-| Cronograma Executado | Início: 28/11 <br> Fim: 04/12 | Início: 04/12 <br> Fim: 04/12  | Miguel de Frias | Guilherme Basilio |
-| Correções da Entrega 8 | Início: 28/11 <br> Fim: 04/12 | Início: 04/12 <br> Fim: 04/12  | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
+| Cronograma Executado | Início: 30/11 <br> Fim: 04/12 | Início: 04/12 <br> Fim: 04/12  | Miguel de Frias | Guilherme Basilio |
+| Correções da Entrega 8 | Início: 30/11 <br> Fim: 04/12 | Início: 04/12 <br> Fim: 04/12  | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
 
 
 <div style="text-align: center">
@@ -428,17 +430,33 @@ A tabela 20 mostra as tarefas do planejamento feito para a entrega 9 do projeto.
 
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
 |--------|----------------------------|--------------------|-------------|--------|
-| Correções para entrega final | Início: 04/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |
-| Projeto final da disciplina | Início: 04/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12 | | |
-| Atualizar GitPage | Início: 04/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12 | Caio Braga e Caio Lelis | Doan Filho  |
+| Correções para entrega final | Início: 05/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |
+| Projeto final da disciplina | Início: 05/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12 | Joel Soares, Doan Filho e Miguel de Frias | Caio Lelis |
+| Atualizar GitPage | Início: 05/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12 | Caio Braga e Caio Lelis | Doan Filho  |
 | Gravação da Apresentação | Início: 06/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
 | Postagem da Apresentação | Início: 06/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12| Joel Soares | Miguel de Frias|
-| Cronograma Executado | Início: 04/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12| Miguel de Frias | Guilherme Basilio |
+| Cronograma Executado | Início: 05/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12| Miguel de Frias | Guilherme Basilio |
 
 <div style="text-align: center">
     <p> <b>Tabela 20</b>: Tarefas realizadas na Entrega 9/Final. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
+### **Executado**
+
+A tabela 19 mostra as tarefas realizadas na entrega 6.2 do projeto.
+
+| Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
+|--------|----------------------------|--------------------|-------------|--------|
+| Correções para entrega final | Início: 05/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |
+| Projeto final da disciplina | Início: 05/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12 | | |
+| Atualizar GitPage | Início: 05/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12 | Caio Braga e Caio Lelis | Doan Filho  |
+| Gravação da Apresentação | Início: 06/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
+| Postagem da Apresentação | Início: 06/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12| Joel Soares | Miguel de Frias|
+| Cronograma Executado | Início: 05/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12| Miguel de Frias | Guilherme Basilio |
+
+<div style="text-align: center">
+    <p> <b>Tabela 19</b>: Tarefas realizadas na Entrega 6.2 . (Fonte: Miguel de Frias, 2023).</p>
+</div>
 
 ## **Bibliografia**
 
