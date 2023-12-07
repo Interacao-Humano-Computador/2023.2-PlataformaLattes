@@ -218,68 +218,75 @@ O protótipo era intuitivo por´em falhou em ter algumas das funionalidades prop
 
 
 
-## **Acessar painel lattes**
+## **Acessar dados de pesquisa (Antigo acessar Painel Lattes)**
 
 
 ### **Objetivos da Avaliação**
 
-A avaliação tem como objetivo principal que o usuário entrevistado valide as ideias e alternativas de design propostas para a tarefa "Acessar painel lattes".
+A avaliação tem como objetivo principal que o usuário entrevistado valide as ideias e alternativas de design propostas para a tarefa "Acessar dados de pesquisa".
 
 ### **Procedimentos da Avaliação**
 
 O método selecionado envolve a combinação de observação e entrevistas com os usuários, seguindo um modelo de questões a serem respondidas pelo usuário de maneira pré-definida.
 
 
-A entrevistado Wendy Cristhiny que contempla os requisitos do nosso perfil de usuário, foi orientado a realizar a tarefa de "Acessar painel lattes" no protótipo de alta fidelidade, enquanto o entrevistador observava e anotava os problemas encontrados. Após a realização da tarefa, o entrevistador realizou uma entrevista com a entrevistada, com base no roteiro de entrevista, para que a entrevistada pudesse relatar os problemas encontrados e dar sugestões de melhorias para o protótipo.
+O entrevistado Pedro Vitor que contempla os requisitos do nosso perfil de usuário, foi orientado a realizar a tarefa de "Acessar dados de pesquisa" no protótipo de alta fidelidade, enquanto o entrevistador observava e anotava os problemas encontrados. Após a realização da tarefa, o entrevistador realizou uma entrevista com o entrevistado, com base no roteiro de entrevista, para que o entrevistado pudesse relatar os problemas encontrados e dar sugestões de melhorias para o protótipo.
 
 
 ### **Seleção dos Participantes**
 
-O participante se encaixa no perfil de usuário, pois é um usuário maior de 18 anos e usa frequentimente a plataforma lattes
+O participante se encaixa no perfil de usuário, pois é um usuário maior de 18 anos e utiliza frequentemente a Plataforma Lattes, uma vez que é um aluno-pesquisador na universidade.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| Caio Braga | Wendy  |   22:50    |  23:00   | 29/11/2023 | Remoto |
+| Caio Braga | Pedro Vitor |   18:20    |  18:30   | 06/12/2023 | Remoto |
 
 
 <div style="text-align: center">
-    <p> <b>Tabela 9</b>: tabela de seleção dos participantes (Fonte: LELIS,Caio, 2023).</p>
+    <p> <b>Tabela 9</b>: tabela de seleção dos participantes (Fonte: BRAGA,Caio, 2023).</p>
 </div>
-
+<br>
+<center>
 
 |    Participante(s)   |   Função     |
 | :-------------: | :---------------: |
 |  Caio Braga | Entrevistador |
-|   Wendy   | Entrevistado |
+|   Pedro Vitor  | Entrevistado |
+
+</center>
+
 
 <div style="text-align: center">
-    <p> <b>Tabela 10</b>: Funções dos participantes (Fonte: LELIS,Caio, 2023).</p>
+    <p> <b>Tabela 10</b>: Funções dos participantes (Fonte: BRAGA,Caio, 2023).</p>
 </div>
+
+<br>
 
 ### **Questões Éticas** 
 
 Para que a entrevista seja realizada, o entrevistado esteve previamente de acordo com nossos [Termos de consentimento](https://unbbr-my.sharepoint.com/:w:/g/personal/211061645_aluno_unb_br/EUZaSOp-u5VBs1zdaqRbHbgBzHhy-r2WnmNvWRohQTtfBg?e=gRm35H), disponível no documento de [aspectos éticos](https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/blob/main/docs/analise-de-requisitos/aspectos-eticos.md).
 
 
-### **Perguntas ao usuário**
+### Perguntas Respondidas pela usuário Pedro Vitor:
 
-| ID | Enunciado| Resposta| Justificativa |
-| :---: | :----------------------------------------------------------: | :-----------------:|:------------|
-|   1   |   A interface apresentada foi de fácil utilização?        |    Sim    | A usuária achou  a interface intuitiva e agradável |
-|   2   |  A realização da tarefa solicitada trouxe algum contratempo?   |      Não     | |
-|   3   |  A disposição dos elementos da tela foi agradável? |      Sim     | A usuária deu esse retorno ao protótipo |
-|   4   |  A realização da tarefa solicitada corresponde a expectativa que foi criada ao ser concedida a ideia?  |      Sim      |  |
-|   5   |  Foi encontrada algum erro ou inconsistência durante o uso da interface?   |        Sim     |  Cerca de 2 erros ao clicar nos botões do Painel Lattes |
-<div style="text-align: center">
-    <p> <b>Tabela 11</b>: tabela de perguntas ao Usuário (Fonte: Caio Braga, 2023).</p>
-</div>
+ **Perguntas** | **Tipo de pergunta** | **Respostas possíveis** |
+| -------------- | :---------------------: | :---------------------: |
+| Após simular o uso dessa tarefa (citar a tarefa), você considera a sequência de elementos de interação para executá-la coerente? | Fechada | Sim |
+| Alguma questão de interface ou terminologia o confundiu ou foi de difícil entendimento? | Aberta | Não. O novo nome da funcionalidade na verdade aprimorou ainda mais a facilidade do aprendizado do usuário |
+| A disposição dos elementos de interação auxiliaram na rapidez da execução da sua tarefa? | Fechada | Sim  |
+| Em termos de layout e design, achou alguma parte estranha ou desconexa com o objetivo do site? | Fechada | Não |
+| Quais foram as partes do protótipo de papel que você achou mais intuitivas e fáceis de usar? | Aberta | A seção do Painel Lattes ficou mais compreensível, uma vez que os botões induzem o usuário ao clique |
+| Você imagina alguma forma de melhorar esta tarefa? | Aberta | Sendo gosto pessoal do usuário, ele gostaria que os botões fossem levemente arredondados |
+
+*<p align="center">Tabela 11 - Roteiro de perguntas</p>*
+
 
 ### **Perguntas de Diretriz**
 
 | ID | Enunciado| Resposta| 
 | :---: | :----------------------------------------------------------: | :-----------------:|
 |   1   |   Foi possível por parte do usuário operar o sistema?  | Sim   | 
-|   2   |   O usuário atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Ele cometeu erros? Quantos?       |   Sim, de maneira um pouco mais lenta que o esperado. Poucos erros, sendo 2 contabilizados.     | 
+|   2   |   O usuário atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Ele cometeu erros? Quantos?       |   Sim, de maneira bem eficiente e sem cometer erros     | 
 |   3   |    Ele entendeu a funcionalidade a ser testada?     |   Sim  | 
 |   4   |   Quais foram os principais problemas notados para o usuário atingir seu objetivo?     |  Formato dos botões       | 
 |   5  |   O usuário consultou ajuda online ou o manual de usuário?   |     Não    | 
@@ -289,11 +296,11 @@ Para que a entrevista seja realizada, o entrevistado esteve previamente de acord
 
 ### **Problemas Identificados**
 
-A usuária nos ajudou a encontrar bugs em botões do Painel Lattes, dando uma perspectiva nova sobre como esses elementos estão sujeitos a falha nos protótipos
+O usuário não reportou problemas com o protótipo. Segundo ele, a usabilidade estava adequada e não houve nenhuma parte do layout que o deixou com estranhamento.
 
 ### **Recomendações de melhoria**
 
-A usuária recomendou que além do tamanho do celular, que a interface se adaptasse também ao tablet, que foi o dispositivo que ela utilizou no momento da avaliação.
+O usuário recomendou que os botões sejam um pouco mais arredondados na seção do Painel Lattes.
 
 
 ### **Opiniões dos usuários**
@@ -305,23 +312,21 @@ A usuária achou a interface agradável e de fácil aprendizado, uma vez que as 
 
 Conclui-se então, que:
 
-- A usuária entendeu facilmente como utilizar de maneira eficaz a interface, obtendo alguns erros apenas.
-- Os bugs dos botões da aba do Painel Lattes e a falta de responsividade para um dispositivo mobile específico devem ser corrigidos
+- O usuário entendeu facilmente como utilizar de maneira eficaz a interface, terminando em questão de segundos a tarefa proposta a ele. Isso mostra que a mudança do nome da tarefa facilitou a sua compreensão, possibilitando assim que houvesse uma melhora no tempo de conclusão da tarefa com relação ao protótipo de papel.
 
 ### **Sugestão de reprojeto para o sistema**
 
-Para o reprojeto, é sugerido que seja adicionado um botão de voltar na tela de selecionar imagens e que seja adicionado um nome para cada imagem as quais podem ser adicionadas no projeto.
+Para o reprojeto, é sugerido que seja deixar os botões da seção do Painel Lattes ligeiramente mais arredondados, mas esse ponto ainda será estudado para analisar se essa mudança de interface não seja apenas um relicário.
 
 ### **Entrevista com o Usuário**
 
-<iframe width="700" height="315" src="https://www.youtube.com/embed/hsU-epk7t3E?si=OyMws8QbwNdMZX2F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t68cBVv9DTc?si=5yzf3lyVhY7mKQDr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
 
 <br>
-
-
-
-
-
 
 ## **Busca por grupos de pesquisa**
 

@@ -566,11 +566,6 @@ A separação está presente na seguinte tabela:
 </center>
 
 
-</center>
-
-
-
-
 ## **Apresentações**
 
 
@@ -583,12 +578,11 @@ Neste documento apresentamos a primeira entrega da disciplina Interação Humano
 
 | Apresentação | Vídeo | Membros Presentes |
 |--------------|-------|-------------------|
-| **Apresentação 01** | <iframe width="560" height="315" src="https://www.youtube.com/embed/bwlY-2RxFxU?si=EV0e5TgiylBSF_HV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, Guilherme Basílio, Joel Soares  |
-| **Apresentação 02** | <iframe width="560" height="315" src="https://www.youtube.com/embed/e6u5WfRGBVM?si=GYbivIiqDl7CbgEq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, Guilherme Basílio, Joel Soares |
-| **Apresentação 03** | <iframe width="560" height="315" src="https://www.youtube.com/embed/OxsfxQjtAvc?si=q1jvchdBetbSIKiq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, Guilherme Basílio, Joel Soares |
-| **Apresentação 04** | <iframe width="560" height="315" src="https://www.youtube.com/embed/-p1UQlNPotI?si=G2YRbrSwKA38sPBt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, Guilherme Basílio, Joel Soares |
-| **Apresentação 05** | <iframe width="560" height="315" src="https://www.youtube.com/embed/-p1UQlNPotI?si=G2YRbrSwKA38sPBt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, Guilherme Basílio, Joel Soares |
-
+| **Apresentação 01** | <iframe width="560" height="315" src="https://www.youtube.com/embed/bwlY-2RxFxU?si=EV0e5TgiylBSF_HV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | Caio Braga<br>Caio Lelis<br> Doan Filho<br> Gabriel Barbosa<br> Guilherme Basílio<br> Joel Soares  |
+| **Apresentação 02** | <iframe width="560" height="315" src="https://www.youtube.com/embed/e6u5WfRGBVM?si=GYbivIiqDl7CbgEq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | Caio Braga<br>Caio Lelis<br> Doan Filho<br> Gabriel Barbosa<br> Guilherme Basílio<br> Joel Soares |
+| **Apresentação 03** | <iframe width="560" height="315" src="https://www.youtube.com/embed/OxsfxQjtAvc?si=q1jvchdBetbSIKiq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | Caio Braga<br>Caio Lelis<br> Doan Filho<br> Gabriel Barbosa<br> Guilherme Basílio<br> Joel Soares |
+| **Apresentação 04** | <iframe width="560" height="315" src="https://www.youtube.com/embed/-p1UQlNPotI?si=G2YRbrSwKA38sPBt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | Caio Braga<br>Caio Lelis<br> Doan Filho<br> Gabriel Barbosa<br> Guilherme Basílio<br> Joel Soares |
+| **Apresentação 05** | <iframe width="560" height="315" src="https://www.youtube.com/embed/-p1UQlNPotI?si=G2YRbrSwKA38sPBt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | Caio Braga<br>Caio Lelis<br> Doan Filho<br> Gabriel Barbosa<br> Guilherme Basílio<br> Joel Soares |
 
 
 **Fonte:** autores
@@ -657,7 +651,7 @@ Artefatos:
 
 
 
-# **Artefatos Criados**
+## **Artefatos Criados**
 
 Os artefatos criados foram segmentadas por níveis, sendo eles:
 
@@ -673,13 +667,13 @@ Os artefatos criados foram segmentadas por níveis, sendo eles:
 |   Artefato      |    Autor(es)     |   Revisor(es)  |
 | :--------: | :--------------: | :--------------: |
 |       <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/perfil-de-usuario/">Perfil dos Usuários</a>       |       Caio Braga, Doan FIlho, Guilherme Basílio e Joel Soares       | Doan Filho, Guilherme Basílio, Joel Soares e Miguelde Frias |
-|       <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/hta/">HTA</a> e  <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/ctt/">CTT</a>    |  Todos os integrantes    |   |
+|       <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/hta/">HTA</a> e  <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/ctt/">CTT</a>    |  Todos os integrantes    | Caio Braga, Caio Lelis, Doan Filho, Guilherme Basílio e Miguel de Frias  |
 |        <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/aspectos-eticos/#bibliografia">Aspectos Éticos</a>        |        Caio Braga e Guilherme Basílio       |  Doan Filho   |
 |               <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/cenarios/">Cenários</a>               |        Gabriel Barbosa        | Doan Filho |
 |               <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/personas/">Personas</a>                 |      Gabriel Barbosa, Guilherme Basílio e Joel Soares      | Doan Filho e Joel Soares  |
 |         <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/guia-de-estilo/">Guias de Estilos</a>          | Caio Braga e Doan Filho | Caio Braga e Doan Filho |
-|     <a href="">Metas de Usabilidade</a>     |      Caio Braga, Gabriel Barbosa e Guilherme Basílio      | Miguel de Frias, Joel Soares |
-| <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/principios-gerais/">Princípios Gerais</a> |          Caio Braga, Caio Lelis e Guilherme Basílio          | Mizael Santos  |
+|     <a href="">Metas de Usabilidade</a>     |      Caio Braga, Gabriel Barbosa e Guilherme Basílio      | Joel Soares e Miguel de Frias |
+| <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/principios-gerais/">Princípios Gerais</a> |          Caio Braga, Caio Lelis e Guilherme Basílio          | Doan Filho e Miguel de Frias  |
 | <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/caracteristica">Características da plataforma</a> |  Gabriel Barbosa | Miguel de frias e Doan Filho |
 | <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/observacao/">Observação</a> | Guilherme Basílio e Miguel de Frias|  Doan Filho |
 | <a href="https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/introspeccao/">Introspecção</a> | Guilherme Basílio e Miguel de Frias | Doan Filho |
@@ -728,7 +722,6 @@ Os artefatos criados foram segmentadas por níveis, sendo eles:
 
 **Tabela 24:** Artefatos confeccionadas na fase Design, Avaliação e Desenvolvimento - Nível 3
 
-</br>
 
 |   Artefato      |    Autor(es)     |   Revisor(es)  |
 | :--------: | :--------------: | :--------------: |
@@ -739,9 +732,9 @@ Os artefatos criados foram segmentadas por níveis, sendo eles:
 
 **Fonte:** BRAGA, Caio.
 
-<center>
+</center>
 
-## Técnicas Utilizadas
+## **Técnicas Utilizadas**
 
 
 &emsp;&emsp; A tabela a seguir mostra os artefatos, técnicas utilizadas e seus autores.
