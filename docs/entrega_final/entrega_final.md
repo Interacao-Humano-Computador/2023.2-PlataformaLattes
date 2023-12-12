@@ -458,7 +458,7 @@ A tabela 19 mostra as tarefas realizadas na entrega 9 do projeto.
 | Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
 |--------|----------------------------|--------------------|-------------|--------|
 | Correções para entrega final | Início: 05/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |
-| Projeto final da disciplina | Início: 05/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12 | | |
+| Projeto final da disciplina | Início: 05/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12 | Caio Braga, Caio Lelis, Doan Filho | Joel Soares |
 | Atualizar GitPage | Início: 05/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12 | Caio Braga e Caio Lelis | Doan Filho  |
 | Gravação da Apresentação | Início: 06/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
 | Postagem da Apresentação | Início: 06/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12| Joel Soares | Miguel de Frias|
