@@ -252,6 +252,23 @@ A tabela 18 mostra as tarefas do planejamento feito para a entrega 6.2 do projet
     <p> <b>Tabela 10</b>: Tarefas realizadas na Entrega 6.2. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
+### **Entrega 9/Final**
+
+A tabela 11 mostra as tarefas do planejamento feito para a entrega 9 do projeto.
+
+| Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
+|--------|----------------------------|--------------------|-------------|--------|
+| Correções para entrega final | Início: 05/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |
+| Projeto final da disciplina | Início: 05/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12 | Joel Soares, Doan Filho e Miguel de Frias | Caio Lelis |
+| Atualizar GitPage | Início: 05/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12 | Caio Braga e Caio Lelis | Doan Filho  |
+| Gravação da Apresentação | Início: 06/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
+| Postagem da Apresentação | Início: 06/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12| Joel Soares | Miguel de Frias|
+| Cronograma Executado | Início: 05/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12| Miguel de Frias | Guilherme Basilio |
+
+<div style="text-align: center">
+    <p> <b>Tabela 11</b>: Tarefas realizadas na Entrega 9/Final. (Fonte: Miguel de Frias, 2023).</p>
+</div>
+
 
 
 Este foi o nosso cronograma planejado, mas é importante que estejamos cientes do que foi planejado. Para isso, a seguir as tabelas mostram o nosso cronograma executado:
@@ -431,6 +448,24 @@ A tabela 15 mostra as tarefas realizadas na entrega 8 do projeto.
 
 <div style="text-align: center">
     <p> <b>Tabela 18</b>: Tarefas realizadas na Entrega 7 . (Fonte: Miguel de Frias, 2023).</p>
+</div>
+
+
+### **Executado entrega 09**
+
+A tabela 19 mostra as tarefas realizadas na entrega 9 do projeto.
+
+| Tarefa | Período de Desenvolvimento | Período de Revisão | Atribuição  | Revisor|
+|--------|----------------------------|--------------------|-------------|--------|
+| Correções para entrega final | Início: 05/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |
+| Projeto final da disciplina | Início: 05/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12 | | |
+| Atualizar GitPage | Início: 05/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12 | Caio Braga e Caio Lelis | Doan Filho  |
+| Gravação da Apresentação | Início: 06/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12 | Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias |Caio Braga, Caio Lelis, <br> Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares <br> e Miguel de Frias|
+| Postagem da Apresentação | Início: 06/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12| Joel Soares | Miguel de Frias|
+| Cronograma Executado | Início: 05/12 <br> Fim: 06/12 | Início: 06/12 <br> Fim: 06/12| Miguel de Frias | Guilherme Basilio |
+
+<div style="text-align: center">
+    <p> <b>Tabela 19</b>: Tarefas realizadas na Entrega 9 . (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 
@@ -742,7 +777,7 @@ Os artefatos criados foram segmentadas por níveis, sendo eles:
 
 <center>
 
-## Técnicas Utilizadas
+## **Técnicas Utilizadas**
 
 
 &emsp;&emsp; A tabela a seguir mostra os artefatos, técnicas utilizadas e seus autores.
