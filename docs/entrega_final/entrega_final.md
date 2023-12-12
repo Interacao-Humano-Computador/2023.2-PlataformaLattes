@@ -557,10 +557,10 @@ A separação está presente na seguinte tabela:
 
 | Avaliação          | Metodologia          | Avaliador(es)          | Número e nome dos participantes | Relato dos resultados  |
 | ------------------ | -------------------- | ---------------------- | ------------------------------- | ---------------------- |
-| Avaliação da Análise de Tarefas   | Método de investigação - Entrevista   | Caio Braga, Caio Lelis e Doan Filho | Foram 3 participantes: </br> 1 - Isaque Santos  </br> 2 - Amanda Alves Campos </br> 3 - Wendy Cristhiny| [Relato dos Resultados da Avaliação da Análise de Tarefas](http://127.0.0.1:8000/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/An%C3%A1lise%20de%20tarefas/relato-resultados/#objetivo-e-abrangencia-da-avaliacao) |
-| Avaliação do Storyboard   | Método de investigação - Entrevista | Caio Braga, Caio Lelis, Doan Filho e Joel Soares | Foram 4 participantes </br> 1 - Ana Luíza Ribeiro Macedo </br> 2 - Amanda Alves Campos </br> 3 - Isaque Santos </br> 4 - Wendy Cristhiny | [Relato dos Resultados da Avaliação do Storyboard](http://127.0.0.1:8000/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/Storyboard/Relato%20dos%20resultados%20dos%20Storyboards/#sumario-dos-principais-resultados_3)                      |
-| Avaliação do Protótipo de Baixa Fidelidade | Método de observação - Prototipação em papel, por simulação de uso | Todos os integrantes | Foram 7 participantes: </br> 1 - Amanda Alves Campos </br> 2 - Igor Penha </br> 3 - Bruno Ribeiro </br> 4 - Igor Penha </br> 5 - Isaque Santos </br> 6 - Giovanna Barbosa </br> 7 - Pedro Vitor | [Relato dos Resultados da Avaliação do Protótipo de Papel](http://127.0.0.1:8000/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2002/Prot%C3%B3tipo%20de%20Papel/Relato%20dos%20resultados%20do%20prot%C3%B3tipo%20de%20papel/#metodologia)         |
-| Avaliação do Protótipo de Alta Fidelidade | Método de observação - Teste de Usabilidade | Todos os integrantes | 5 </br> 1 - Amanda Alves Campos </br> 2 - Daniel Nunes </br> 3 - Pedro Vitor </br> 4 - Jonas Rangel </br> 5 - Luciano Costa </br> 6 - Giovana Alencar </br> 7 - Felipe Bacelar | [Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](http://127.0.0.1:8000/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2003/Relato%20dos%20Resultados/#procedimentos-da-avaliacao_6)      |
+| Avaliação da Análise de Tarefas   | Método de investigação - Entrevista   | Caio Braga, Caio Lelis e Doan Filho | Foram 3 participantes: </br> 1 - Isaque Santos  </br> 2 - Amanda Alves Campos </br> 3 - Wendy Cristhiny| [Relato dos Resultados da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/design_aval_desenv/nivel_1/analise_tarefas/relato_resultados/) |
+| Avaliação do Storyboard   | Método de investigação - Entrevista | Caio Braga, Caio Lelis, Doan Filho e Joel Soares | Foram 4 participantes </br> 1 - Ana Luíza Ribeiro Macedo </br> 2 - Amanda Alves Campos </br> 3 - Isaque Santos </br> 4 - Wendy Cristhiny | [Relato dos Resultados da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/design_aval_desenv/nivel_1/storyboard/relato_resultados/)                      |
+| Avaliação do Protótipo de Baixa Fidelidade | Método de observação - Prototipação em papel, por simulação de uso | Todos os integrantes | Foram 7 participantes: </br> 1 - Amanda Alves Campos </br> 2 - Igor Penha </br> 3 - Bruno Ribeiro </br> 4 - Igor Penha </br> 5 - Isaque Santos </br> 6 - Giovanna Barbosa </br> 7 - Pedro Vitor | [Relato dos Resultados da Avaliação do Protótipo de Papel](http://127.0.0.1:8000/design_aval_desenv/nivel_2/prototipo_papel/relato_resultados/)         |
+| Avaliação do Protótipo de Alta Fidelidade | Método de observação - Teste de Usabilidade | Todos os integrantes | 5 </br> 1 - Amanda Alves Campos </br> 2 - Daniel Nunes </br> 3 - Pedro Vitor </br> 4 - Jonas Rangel </br> 5 - Luciano Costa </br> 6 - Giovana Alencar </br> 7 - Felipe Bacelar | [Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](http://127.0.0.1:8000/design_aval_desenv/nivel_3/prototipo_alta_fidelidade/relato_resultados/)      |
 
 **Fonte:** BRAGA, Caio.
 
@@ -609,7 +609,7 @@ Nesta fase, as metas de usabilidade são estabelecidas, considerando o perfil do
 
 Artefatos:
 
-- [Perfil de Usuário](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/perfil-de-usuario/#avaliacao-da-experiencia)
+- [Perfil de Usuário](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/analise_requisitos/perfil_usuario/)
 - [Análise Hierárquica de Tarefas](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/hta/)
 - [Características da plataforma](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/caracteristicas_plataforma/)
 - [Princípios Gerais](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/principios-gerais/)
@@ -617,10 +617,10 @@ Artefatos:
 - [Guia de Estilo](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/guia-de-estilo/)
 - [Observação](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/observacao/)
 - [Introspecção](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/introspeccao/)
-- [Personas](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/personas/)
+- [Personas](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/analise_requisitos/personas//)
 - [Árvore de Tarefas Concorrentes](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/ctt/)
-- [Aspectos Éticos](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/aspectos-eticos/)
-- [Cenários](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/An%C3%A1lise-de-requisitos/cenarios/)
+- [Aspectos Éticos](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/analise_requisitos/aspectos_eticos/)
+- [Cenários](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/analise_requisitos/cenarios/)
 
 
 ### **Design, Avaliação e Desenvolvimento Nível 1**

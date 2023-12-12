@@ -72,7 +72,7 @@ nav:
       - Análise Hierárquica de Tarefas: analise_requisitos/hta.md
       - Árvore de Tarefas Concorrentes: analise_requisitos/ctt.md
     - Elicitação de Requisitos:
-      - Introspecção: analise_requisitos/instrospeccao.md
+      - Introspecção: analise_requisitos/introspeccao.md
       - Observação: analise_requisitos/observacao.md
 
   - Análise de Requisitos II:
