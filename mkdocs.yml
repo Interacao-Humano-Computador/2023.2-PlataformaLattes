@@ -33,3 +33,130 @@ theme:
         name: Switch to light mode    
       primary: teal
       accent: blue
+
+
+
+nav:
+  - Página Inicial: index.md
+
+  - Apresentações: 
+    - Apresentação 1: apresentacoes/apresentacao_01.md
+    - Apresentação 2: apresentacoes/apresentacao_02.md
+    - Apresentação 3: apresentacoes/apresentacao_03.md
+    - Apresentação 4: apresentacoes/apresentacao_04.md
+    - Apresentação de Verificação: apresentacoes/apresentacao_verificacao.md
+
+  - Atas:
+    - Ata 1: atas/reuniao_01.md
+    - Ata 2: atas/reuniao_02.md
+    - Ata 3: atas/reuniao_03.md
+    - Ata 4: atas/reuniao_04.md
+    - Ata 5: atas/reuniao_05.md
+
+  - Planejamento:
+    - Sites avaliados: planejamento/sites_avaliados.md
+    - Site escolhido: planejamento/site_selecionado.md
+    - Cronogramas: planejamento/cronograma.md
+    - Ferramentas: planejamento/ferramentas.md
+    - HeatMap: planejamento/heatmap.md
+    - Padronização: planejamento/padronizacao.md
+    - Metodologia: planejamento/metodologia.md
+    - Processo de Design: planejamento/processo_design.md
+
+  - Análise de Requisitos:
+    - Aspectos Éticos: analise_requisitos/aspectos_eticos.md
+    - Perfil de Usuário: analise_requisitos/perfil_usuario.md
+    - Personas: analise_requisitos/personas.md
+    - Cenários: analise_requisitos/cenarios.md
+    - Análise de Tarefas:
+      - Análise Hierárquica de Tarefas: analise_requisitos/hta.md
+      - Árvore de Tarefas Concorrentes: analise_requisitos/ctt.md
+    - Elicitação de Requisitos:
+      - Introspecção: analise_requisitos/instrospeccao.md
+      - Observação: analise_requisitos/observacao.md
+
+  - Análise de Requisitos II:
+    - Princípios Gerais: analise_requisitos_2/principios_gerais.md
+    - Metas de Usabilidade: analise_requisitos_2/metas_usabilidade.md
+    - Características Gerais da Plataforma: analise_requisitos_2/caracteristicas_plataforma.md
+    - Guia de Estilo: analise_requisitos_2/guia_estilo.md
+
+  - Design, Avaliação e Desenvolvimento:
+    - Nível 1:
+      - Análise de Tarefas:
+        - Planjemanto da Avaliação da Análise de Tarefas: design_aval_desenv/nivel_1/analise_tarefas/planejamento_hta.md
+        - Planejamento do Relato dos Resultados: design_aval_desenv/nivel_1/analise_tarefas/planejamento_relato_resultados.md
+        - Relato dos Resultados: design_aval_desenv/nivel_1/analise_tarefas/relato_resultados.md
+      - Storyboard:
+        - Planjemanto da Avaliação do Storyboard: design_aval_desenv/nivel_1/storyboard/planejamento_storyboard.md
+        - Planejamento do Relato dos Resultados: design_aval_desenv/nivel_1/storyboard/planejamento_relato_resultados.md
+        - Storyboards elaborados: design_aval_desenv/nivel_1/storyboard/storyboards.md
+        - Relato dos Resultados: design_aval_desenv/nivel_1/storyboard/relato_resultados.md
+
+    - Nível 2:
+      - Protótipo de Papel: 
+        - Planejamento da Avaliação do Protótipo de Papel: design_aval_desenv/nivel_2/prototipo_papel/planejamento_prototipo_papel.md
+        - Planejamento do Relato dos Resultados:  design_aval_desenv/nivel_2/prototipo_papel/planejamento_relato_resultados.md
+        - Relato dos Resultados: design_aval_desenv/nivel_2/prototipo_papel/relato_resultados.md
+
+    - Nível 3:
+      - Protótipo de Alta Fidelidade:
+        - Planejamento da Avaliação do Protótipo de Alta Fidelidade: design_aval_desenv/nivel_3/prototipo_alta_fidelidade/planejamento_prototipo_alta_fidelidade.md
+        - Planejamento do Relato dos Resultados:  design_aval_desenv/nivel_3/prototipo_alta_fidelidade/planejamento_relato_resultados.md
+        - Relato dos Resultados: design_aval_desenv/nivel_3/prototipo_alta_fidelidade/relato_resultados.md
+
+  - Verificação:
+    - Grupo 4:
+      - Etapa 2:
+        - Planejamento da Verificação Etapa 2: verificacao/grupo_4/etapa_2/planejamento-verificação-etapa02.md
+        - Aspectos Éticos: verificacao/grupo_4/etapa_2/aspectos-eticos.md
+        - Cenários: verificacao/grupo_4/etapa_2/Cenários.md
+        - Perfil de Usuário: verificacao/grupo_4/etapa_2/Perfil-de-usuário.md
+        - Personas: verificacao/grupo_4/etapa_2/Personas.md
+        - Análise de Tarefas:
+          - GOMS: Análise-de-tarefas-GOMS.md
+          - HTA: Análise-de-tarefas-HTA.md
+      - Etapa 3:
+        - Planejamento da Verificação Etapa 3: verificacao/grupo_4/etapa_3/planejamento-verificação-etapa03.md
+        - Características da Plataforma: verificacao/grupo_4/etapa_3/Carateristicas-da-Plataforma.md
+        - Principios Gerais: verificacao/grupo_4/etapa_3/Principios-gerais.md
+        - Metas de Usabilidade: verificacao/grupo_4/etapa_3/Metas-de-Usabilidade.md
+        - Guia de Estilo: verificacao/grupo_4/etapa_3/Guia-de-Estilo.md
+      - Etapa 4:
+        - Planejamento da Verificação Etapa 4: verificacao/grupo_4/etapa_4/planejamento-da-verificação-etapa04.md
+        - Análise de Tarefas:
+          - Planejamento da Avaliação: verificacao/grupo_4/etapa_4/hta/planejamento_avaliacao.md
+          - Planejamento do Relato dos Resultados: verificacao/grupo_4/etapa_4/hta/planejamento_relatos_resultados.md
+          - Relato dos resultados: verificacao/grupo_4/etapa_4/hta/relato_resultados.md
+
+        - Storyboard:
+          - Planejamento da Avaliação: verificacao/grupo_4/etapa_4/storyboard/planejamento_avaliacao.md
+          - Planejamento do Relato dos Resultados: verificacao/grupo_4/etapa_4/storyboard/planejamento_relatos_resultados.md
+          - Relato dos resultados: verificacao/grupo_4/etapa_4/storyboard/relato_resultados.md
+
+    - Grupo 3:
+      - Planejamento do Checklist: verificacao/grupo_3/planejamento_checklist.md
+      - Planejamento da Verificação: verificacao/grupo_3/planejamento_verificacao.md
+      - Análise de Requisitos: 
+        - Cenários: verificacao/grupo_3/analise_requisitos/cenarios.md
+        - HTA: verificacao/grupo_3/analise_requisitos/hta.md
+        - Metas de Usabilidade: verificacao/grupo_3/analise_requisitos/metas_usabilidade.md
+        - Perfil de Usuário: verificacao/grupo_3/analise_requisitos/perfil_usuario.md
+        - Personas: verificacao/grupo_3/analise_requisitos/personas.md
+        - Princípios Gerais: verificacao/grupo_3/analise_requisitos/principios_gerais.md
+        - Elicitação:
+          - Observação: verificacao/grupo_3/analise_requisitos/observacao.md
+      - Design, Avaliação e Desenvolvimento:
+        - Análise de Tarefas: verificacao/grupo_3/design_aval_desenv/hta.md
+        - Storyboard:  verificacao/grupo_3/design_aval_desenv/storyboard.md
+        - Protótipo de Papel:  verificacao/grupo_3/design_aval_desenv/prototipo_papel.md
+        - Protótipo de Alta Fidelidade:  verificacao/grupo_3/design_aval_desenv/prototipo_alta_fidelidade.md
+
+  - Entrega Final:
+    - Resumo: entrega_final/entrega_final.md
+    - Resultados Alcançados: entrega_final/resultados_alcancados.md
+
+  
+
+   
+    
