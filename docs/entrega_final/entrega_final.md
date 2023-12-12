@@ -775,7 +775,7 @@ Os artefatos criados foram segmentadas por níveis, sendo eles:
 
 **Fonte:** BRAGA, Caio.
 
-<center>
+</center>
 
 ## **Técnicas Utilizadas**
 
@@ -809,9 +809,9 @@ Os artefatos criados foram segmentadas por níveis, sendo eles:
 
 ## **Bibliografia**
 
-[1] Mayhew, D. J. (1999). The Usability Engineering Lifecycle: A Practitioner's Handbook for User Interface Design. Morgan Kaufmann.
+>[1] Mayhew, D. J. (1999). The Usability Engineering Lifecycle: A Practitioner's Handbook for User Interface Design. Morgan Kaufmann.
 
-[2] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+>[2] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
 
 ## **Histórico de Versões**
